@@ -1,0 +1,23 @@
+0	0	| certification | the certification | the certification |
+0	0	| the aggrieved party | the losing party |
+0	0	| be | it | It |
+0	0	| the undervotes of 10,000 in Palm Beach and junt votes of 10,000 in Miami - Dade | those | they | Those |
+1	1	| Vice President Al Gore | Al Gore | Gore | Gore |
+0	0	| include | that |
+0	0	| a contest of the certification | the contest |
+0	0	| November 26 | that particular day | November 26 | the 26th |
+0	0	| the summary of enacts | that | The summary of facts . |
+1	1	| Gregg Jarrett | I | Greg | I | Greg | you | you | you | I | I | I | me | me | Gregg Jarrett . | he | himself | Greg | you | I | You | you |
+0	0	| the opinion | it |
+1	0	| two producers , I believe 0 *?* , near the front of the line | they |
+1	0	| we | us | we |
+0	0	| a unanimous court for this decision | this court | the court | they | their | this court |
+0	0	| this decision | It | it |
+1	1	| Brian | Brian | Brian | Brian | Brian | I |
+0	0	| some language here | it | this |
+1	0	| we | We |
+0	0	| The amended certifications | the amended certifications *PRO* to include the hand counts |
+1	0	| the people | their | the people |
+0	0	| the manual recount | the hand counts | the manual recounts | the hand counts |
+0	0	| primarily the circuit court | Circuit Court |
+0	0	| the Gore campaign | they |

@@ -1,0 +1,17 @@
+0	0	| Gaza | Gaza 's | Gaza |
+1	1	| Mohammed 's | him |
+1	1	| the children | two |
+0	0	| one of the few valuables 0 he has left *T*-2 | it |
+0	0	| things | they |
+1	1	| Palestinians | them |
+0	0	| Israel | its | Israel | it | its | Israel | Israel | Israel | Israel | it |
+1	1	| the Palestinians | their |
+0	0	| its borders | its borders |
+1	1	| ABC 's Gillian Findlay | Gillian Findlay |
+1	1	| Bashar Al - masri | he | Mr. Al - masri 's | he | he | his |
+0	0	| the block over the past two months | it |
+0	0	| Ramallah | Ramallah |
+0	0	| Their | the new Palestinian state |
+0	0	| ABC 's | ABC News |
+1	1	| Ahmad Al - dour | he | he | this father of two | I | I |
+1	1	| Mohammed 's parents | they |

@@ -1,0 +1,20 @@
+1	0	| two peasants | them | These two peasants | They | They |
+1	1	| One(the liar) | the wicked peasant | the wicked peasant | I | The wicked man | he | he | he | the wicked man | him | the wicked man | him | I | the wicked man | you | the wicked man | The wicked man | He | He | he | He | he | him | him | him | the wicked one | the wicked one | the wicked one | the wicked one | me | I | me | I | it | the wicked one | me |
+1	0	| all kinds of lies and deceit | all kinds of lies and deceit |
+1	1	| the other-the righteous | the righteous one | the righteous one | the righteous one | the righteous man answered the other | the righteous man | he | his | the righteous man | me | me | I | the righteous man | I | the righteous man | The righteous man | he | the righteous man | him | your | you | the righteous man | the righteous man | my | his | him | him | You | you | he | the righteous man | The man | he | the righteous man | him | I | I | he | him | he himself had been instructed by God | himself | you | You | you | you | you | your | the righteous man | our righteous man | He | He | him | he | him | he | he | him | I | I | your | this man | you | you | our |
+1	0	| God | God | God | God | God | God | God | God | God | God | God |
+1	1	| the evil spirits | they | their | evil spirits |
+1	0	| Our- serfs in general | him | my | I |
+1	0	| the next person whom they should meet | the next person whom they should meet |
+1	0	| the third person | the third person |
+1	0	| Everyone | you |
+1	1	| the Mother of God | the Mother of God | the Mother of God | she | her | her | her | she |
+1	1	| the wealthy merchant | the merchant | The merchant | him | he | his | he | the merchant | I | I | I | me | I | me | I | The merchant | him | him | I | I | he | The merchant | him | he | He | him | him | he | himself | he | He | he | He | I | he | He | him | He | he | his | his | he | he |
+1	0	| God | the Smolensk Mother of God |
+1	0	| One of them | I | I | me | me | you | your | the iniquitous one |
+1	1	| the princess | your princess | the princess | her | her | the princess | I | the princess | the princess |
+1	0	| every possible way | way of life |
+1	1	| the king of that country | the king | the king | the king | the king | the king | the king |
+1	0	| his gate | your gate | the gate | the gate |
+1	0	| the carriage | the carriage | the carriage |
+1	0	| shreds | shreds |

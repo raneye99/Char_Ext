@@ -1,0 +1,9 @@
+0	0	| tonight | tonight | tonight | tonight |
+0	0	| the court where it 's the law enforcement watch *T*-1 | the building | the court | the court | the court , still active court |
+1	0	| us | We | we | us | us |
+1	0	| we | they | Everyone |
+1	1	| Dan Abrams outside the building . | Dan | you | I | I | Dan Abrams , outside the court , still active court tonight . | you |
+0	0	| the opinion | it |
+1	1	| justices Breyer and Souter | they |
+0	0	| told | That |
+0	0	| seen | that | that |

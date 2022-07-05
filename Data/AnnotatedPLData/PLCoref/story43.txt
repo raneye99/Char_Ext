@@ -1,0 +1,62 @@
+1	0	| A certain kingdom in a certain land | his kingdom | his kingdom | his kingdom | her kingdom |
+1	1	| a lioness | her | I | she |
+1	1	| Prince Ivan | He | Prince Ivan | Prince Ivan | Prince Ivan | his | Prince Ivan | Prince Ivan | I | Prince Ivan | his | Prince Ivan | I | my | Ivan | Prince Ivan | he | he | I | my | he | He | Prince Ivan | me | him | Prince Ivan | him | Prince Ivan | Prince Ivan | he | Prince Ivan | Prince Ivan | him | he | himself | he | Prince Ivan | Prince Ivan | Ivan | Prince Ivan | Ivan | he | his | Prince Ivan | his | me | I | he | He | he | you | Prince Ivan with joy | him | his | him | Prince Ivan | his | his | He | he | Prince Ivan | Ivan | him | him | his | him | Prince Ivan | I | I | my | you | your | you | Prince Ivan | his | his | He | he | Prince Ivan with joy | him | him | his | him | Prince Ivan | he | I | my | Prince Ivan | Prince Ivan | Prince Ivan | he | I | me | I | Prince Ivan | Prince Ivan | he | him | his | him | Prince Ivan | Prince Ivan | I | he | he | his | Prince Ivan | he | Prince Ivan | Ivan | he | him | Prince Ivan | Prince Ivan | him | he | his | Prince Ivan | Prince Ivan | Ivan | Prince Ivan | I | You | I | He | He | I | me | you | I | I | him | Prince Ivan | Ivan | him | Prince Ivan | He | He | Prince Ivan | I | him , Prince Ivan | him | Prince Ivan | Prince Ivan | Prince Ivan | Prince Ivan | Prince Ivan | him | him | He | He | Prince Ivan | Prince Ivan | him | He | Prince Ivan | Prince Ivan | Prince Ivan | him | him | Prince Ivan | him | him | Prince Ivan | his | Prince Ivan | him | him | he | he | his | Prince Ivan | his | Prince Ivan | he | Prince Ivan | Prince Ivan | I | him | he | Prince Ivan | him | his | Prince Ivan | his | his | Prince Ivan on his own | Prince Ivan | our beloved brother | our brother | you | your | you | you | He | he | You | you | you | you | your | her beloved | his | you | you | my | I | you | you | me | I | you | you | you | your | you | you | your | you | you | your | you | you | you | you | your | you | your | He | you | your | you | your | I | He | he | he | you | yourself | you | yours | you | you | you | your | you | you |
+1	1	| the bird from beyond the sea | I | He | I | he | him | you | He | He | me | I | I | he | you | the bird from beyond the sea | him | him |
+1	0	| them | we |
+1	0	| three sisters - Princess Maria , Princess Olga , and Princess Anna | Their | his sisters | sisters | sisters | my sisters |
+1	1	| Princess Maria | Princess Maria | Princess Maria | her | her | Princess Maria | her |
+1	1	| Princess Olga | Princess Olga | Princess Olga | her | her | Princess Olga | Princess Olga | Olga | Olga | her | her | her | Olga | Olga | her |
+1	1	| Princess Anna | Princess Anna | her | Princess Anna | Princess Anna | Anna | Princess Anna | her | his youngest sister | my sister | she | her | her |
+1	0	| you | them | they | their | they | their |
+1	0	| your own | his own |
+1	0	| a sister of yours | her | your sister | my sister | her | her |
+1	0	| his parents | us | They |
+1	0	| she | her | she | herself | me | me | me | you |
+1	1	| Baba Yaga | Baba Yaga | Baba Yaga | her | Baba Yaga | Baba Yaga | Baba Yaga | her | Baba Yaga | Baba Yaga | her | Baba Yaga | she | Baba Yaga | Baba Yaga | her | Baba Yaga | Baba Yaga | She | she | her | She | She | she | Baba Yaga | you | me | my | I |
+1	1	| Maria Morevna | Maria Morevna | the beautiful queen | Maria Morevna | Maria Morevna | the beautiful queen | she | Maria Morevna | her | her | Maria Morevna , the beautiful queen | Maria Morevna | the beautiful queen | her | her | Maria Morevna | Maria Morevna | Maria Morevna , the beautiful queen | Maria Morevna | the beautiful queen | her | her | her | Maria Morevna | my wife , Maria Morevna , the beautiful queen | my wife | Maria Morevna , the beautiful queen | Maria Morevna | the beautiful queen | my wife , Maria Morevna , the beautiful queen | my wife | Maria Morevna , the beautiful queen | Maria Morevna | the beautiful queen | her | my wife , Maria Morevna , the beautiful queen | my wife | Maria Morevna , the beautiful queen | Maria Morevna | the beautiful queen | her | Maria Morevna | Maria Morevna | Maria Morevna | Maria Morevna | Maria Morevna | Maria Morevna | Maria Morevna | Maria Morevna | Maria Morevna | Maria Morevna | Maria Morevna | Maria Morevna | Maria Morevna | Maria Morevna | Maria Morevna | She | herself | Maria Morevna | myself | Maria Morevna | Maria Morevna | her | my | her | her |
+1	1	| Prince Ivan 's brothers-in-law | they | them | them | them | the brothers-in-law |
+1	0	| a sister of yours | her | your sister | my sister | her | her |
+1	0	| the castle | the castle | the castle | the castle | the castle |
+1	1	| The eagle who becomes a knight | an eagle | he | the eagle | I | I | he | the eagle | he | his | an eagle | The eagle | The eagle | The eagle | the eagle | you | you |
+1	0	| us | They | us | They | they | their |
+1	0	| the stable | the stable |
+1	0	| you | They |
+1	1	| The raven who becomes a knight | I | I | me | the raven | he | his | The raven | The raven | you | you | the raven | The raven | the raven , then the eagle | the raven | you | you |
+1	0	| his good steed | The steed | his good steed | his good steed | the steed | his steed | you | you | you | you |
+1	0	| us | They |
+1	0	| us | us | us | we | They |
+1	0	| his parents | us | They |
+1	0	| his two sisters | us | They |
+1	0	| they | they | they | we |
+1	0	| his way to seek | his way | his way | his way | his way |
+1	1	| Koshchey the Deathless | Koshchey the Deathless | Koshchey | me | me | I | my | Koshchey | it | Koshchey the Deathless | Koshchey the Deathless | Koshchey | Koshchey | Koshchey the Deathless | the Deathless | Koshchey | Koshchey | Koshchey the Deathless | you sense some | Koshchey | Koshchey the Deathless | Koshchey | Koshchey | me | I | the Deathless | Koshchey | the Deathless | I | Koshchey the Deathless | Koshchey | the Deathless | Koshchey | he | He | he | he | his | him | he | he | his | his | him | he | he |
+1	1	| The falcon who becomes a knight | bright falcon | the falcon | the bright falcon | The falcon | the falcon | the falcon | the falcon | the falcon | the falcon | he | I | I | I | his |
+1	0	| a guest | a guest | a guest |
+1	0	| you | we | We | ourselves | our | we |
+1	0	| Hail , Prince Ivan | Hail , prince |
+1	1	| a suitor | a suitor |
+1	0	| God | God | God |
+1	0	| one day | one day |
+1	0	| three days | three days | three days | three days |
+1	0	| Days | days |
+1	0	| hours | hours |
+1	0	| One | it |
+1	0	| us | us |
+1	0	| us | our |
+1	0	| his house | his house | his house |
+1	0	| the house of Baba Yaga | the house | the house | the house | the house |
+1	0	| an oak | an oak | an oak |
+1	0	| the oak | the oak , struck the ground , turned into a brave knight , and exclaimed | the oak | the oak | the oak | the oak | the oak |
+1	0	| them | them |
+1	0	| you | we | We | we |
+1	0	| you | we |
+1	0	| you | our |
+1	0	| five ovenfuls of bread | them |
+1	0	| tiny pieces | the pieces | the pieces |
+1	0	| little pieces | pieces | pieces | pieces |
+1	0	| Koshchey 's steed | Koshchey 's steed |
+1	0	| many other splendid mares | my mares | the mares | The mares | her mares | the mares | the mares | The mares | her mares | the mares | the mares | her mares | they | their | they | they | their | you | we | they | you | we | they |
+1	1	| The queen bee | the bee | my | I |
+1	0	| her whelp | him | him |
+1	0	| the meadows | the meadows |
+1	0	| The sun | The sun | The sun |

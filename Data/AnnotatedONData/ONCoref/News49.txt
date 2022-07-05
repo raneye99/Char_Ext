@@ -1,0 +1,2 @@
+1	1	| Mr. Clinton | President Clinton | he | He | Mr. Clinton 's | he |
+0	0	| Northern Ireland | Northern Ireland |

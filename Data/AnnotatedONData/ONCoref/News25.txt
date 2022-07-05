@@ -1,0 +1,8 @@
+0	0	| Selling | that |
+0	0	| today | Today |
+0	0	| the country | America | the United States |
+1	1	| ABC 's Brian Rooney | Brian Rooney |
+0	0	| the most wanted toy in America , which *T*-3 went on sale at midnight | The Sony PlayStation | It | This | The game | it | PlayStation 2 | PlayStation 2 | PlayStation 2 | PlayStation 2 |
+1	1	| The Sony Corporation | Sony | Sony | Sony | they | Sony | their | They | Sony |
+0	0	| ABC 's | ABC News |
+0	0	| sell | this | this |

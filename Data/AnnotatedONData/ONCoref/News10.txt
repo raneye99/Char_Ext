@@ -1,0 +1,17 @@
+0	0	| Yemen | Yemen | Yemen | the government | the entire country | Yemen 's | Yemen | Yemen |
+1	1	| investigators | their |
+1	1	| the 17 sailors who *T*-1 lost their lives | their |
+0	0	| Any details or speculation on who specifically | that |
+0	0	| a setback | began | It |
+1	1	| Morton Dean | Morton Dean |
+0	0	| the damage , most obvious , the huge hole , but also the deck is buckled | the damage | considerable damage to the ship |
+1	1	| the sailors remaining on board | the crew on the U.S. carrier |
+0	0	| Today | their day at work | it |
+0	0	| tomorrow | tomorrow |
+0	0	| the bombing of the `` Cole '' | the attack | the bombing | the attack |
+0	0	| the `` Cole '' | the U.S. carrier | The ship | the Cole | the ship | the ship | the `` USS Cole |
+0	0	| Operation Determined Response | that |
+1	1	| Yemen 's President | him | he | his |
+1	1	| Rear Admiral Mark Fitzgerald , who *T*-1 visited the Cole | I |
+0	0	| the U.S. | The U.S. | the United States |
+0	0	| the search for evidence | It |

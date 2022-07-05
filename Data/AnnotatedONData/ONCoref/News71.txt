@@ -1,0 +1,4 @@
+0	0	| That same storm system | it | the storm |
+1	1	| Bill Clinton | the head of the free world | his | Bill Clinton | The President | The President 's | him | He | his | He | he |
+0	0	| yesterday | The day |
+0	0	| debate | it |

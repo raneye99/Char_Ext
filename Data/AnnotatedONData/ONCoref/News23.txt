@@ -1,0 +1,13 @@
+0	0	| Washington , D.C. | Washington |
+0	0	| this week | this week |
+1	1	| Mr. Gore | He | his | its favorite son | he | the Vice President | he | he | the Vice President | He | he | he | him | Gore | his | Gore | he | his | His | him | his | him | my |
+1	1	| the Wrights | Michael and Carolyn |
+0	0	| whittled | that |
+0	0	| his home state of Tennessee | Tennessee | its | Not a bad place 0 *PRO* to be from *T*-1 | not a bad place 0 *PRO* to come back to *T*-2 | Tennessee | Tennessee | Tennessee | This | Tennessee | his own home state | Tennessee 's | home | Tennessee |
+0	0	| today | today |
+1	0	| a prophet without honor in his own land or even here in his own hometown | his | his |
+1	0	| Tennessee 's most illustrious modern political family | they | my family |
+0	0	| ABC 's | ABC News |
+1	1	| ABC 's Jim Wooten | Jim Wooten |
+1	0	| the majority of the membership of Congress are Republicans | They | them |
+1	1	| Governor Bush , who *T*-2 is n't in trouble at home , and who *T*-3 just happened *-4 to be in Tennessee this week , too , *PRO*-5 asking his favorite sarcastic question -- `` where exactly is home for the Vice President *T*-6 | his | I | I | Bush |

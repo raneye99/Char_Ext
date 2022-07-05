@@ -1,0 +1,19 @@
+0	0	| his government | his administration |
+0	0	| the White House | the White House | the White House |
+0	0	| Many of them | them |
+1	0	| supporters | they | You |
+1	1	| George W. Bush | our President of the United States |
+0	0	| the end | the end |
+0	0	| more than 100 pardons | pardons |
+0	0	| Washington | Washington |
+1	0	| the Clintons | them |
+0	0	| convicted felon | that |
+0	0	| this | it |
+1	1	| John Deutch | the former CIA director who *T*-1 pleaded *PRO*-2 guilty *ICH*-3 yesterday to *PRO* mishandling classified materials |
+0	0	| New York | the state 's |
+1	1	| Bill Clinton | Mr. Clinton | he | Bill Clinton | his | his | The President | his | me | my | I | I | he | he | himself | he | his | he | the former President 's | he | Bill Clinton | his | he | I | I |
+1	1	| Susan M Dougal , a friend of the Clintons who *T*-4 served part of her time in the jail for *PRO* refusing *PRO*-5 to testify about them | her |
+1	1	| Henry Cisneros | former Housing Secretary |
+1	1	| Susan M Dougal | a friend of the Clintons who *T*-4 served part of her time in the jail for *PRO* refusing *PRO*-5 to testify about them |
+1	0	| his Washington friends | them |
+1	1	| Roger Clinton | the former President 's half - brother |

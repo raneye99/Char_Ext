@@ -1,0 +1,20 @@
+1	1	| a tsar | his | The tsar | he | he | He | his | his | him | he | He | him |
+1	1	| Ivan | The tsarevich | He | him | he | I | I | myself | I | I | my | he | he | him | him | him | him | he | her own son | The tsarevich | he | he | he | his | you | the tsarevich | he | he | The tsarevich | him in a human voice | his | the tsarevich | his | He | he | he | her brother | her brother | him | his | his | he | He | his | His | him | He | his | her brother with his head | him | him | him | he | him | he | you | he | me | yourself | Your | Your | you | your | your | you | your | you | you | You |
+1	0	| they | They |
+1	0	| The old women answered | we | we | we | the old women | them | They | them | they |
+1	0	| a person | he | he |
+1	0	| the | the | The |
+1	0	| younger in an instant | younger | him | His | him | him |
+1	0	| stories | stories | that |
+1	1	| sister | She | she | she | His sister | she | I | Your sister | her | the sister | her | her | she | His sister | his sister | a hideous witch | The witch | her | the witch | She | she | the witch | She | she | She | she | the witch | the witch | The witch | her | She | me | She | she | The witch | her | her | the witch | me | I | I | me | the witch | She | her |
+1	1	| Your mother | She |
+1	1	| Sun's sister | She | her | Sun 's sister | Sun 's sister | Sun 's sister | Sun 's sister | Sun 's sister | her | Sun 's sister |
+1	0	| the best possible horse | his horse | his horse |
+1	1	| two old seamstresses | they | them |
+1	1	| Oak-turner | them |
+1	0	| the ageold oaks | oaks |
+1	0	| Sun 's | Sun 's | Sun 's | Sun 's | Sun 's | Sun | Sun | Sun 's | Sun 's | Sun 's |
+1	0	| the tallest mountain | that mountain |
+1	0	| Sun 's sister to let him | Sun 's sister to let him |
+1	0	| the chambers of Sun 's sister | the chambers of Sun 's sister |
+1	0	| the scales | the scales |

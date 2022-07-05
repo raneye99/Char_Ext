@@ -1,0 +1,17 @@
+1	1	| Palestinians and Israelis | Israelis and Palestinians | we |
+0	0	| Today | today | today | Today |
+1	0	| us | We |
+0	0	| ABC 's | ABC News |
+0	0	| North Korea | Korea |
+1	1	| Clinton | Clinton |
+0	0	| each other | each other 's |
+0	0	| Palestinian Gaza | Gaza |
+0	0	| the Middle East | the Middle East |
+0	0	| tonight | tonight |
+0	0	| felt | that |
+1	0	| the Clinton administration | the Clinton administration |
+1	0	| we | the crowd |
+0	0	| a beginning of change | that |
+0	0	| change | it |
+1	1	| Israelis | Israelis | Israel 's | we | Israel itself | itself | Israelis |
+1	1	| Prime Minister Barak | he | he | I | I |

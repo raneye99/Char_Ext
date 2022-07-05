@@ -1,0 +1,38 @@
+1	1	| Kozma Quickrich | Kozma Quickrich | Kozma Quickrich | Kozma Quickrich | Kozma Quickrich | Kozma Quickrich | He | his | his | Kozma Quickrich | Kozma | himself | his | Kozma Quickrich | Kozma | Kozma Quickrich | Kozma | Kozma Quickrich | Kozma Quickrich | Kozma Quickrich | Kozma Quickrich | Kozma Quickrich | Kozma Quickrich | Kozma Quickrich | Kozma Quickrich | his | his | Kozma Quickrich | Kozma Quickrich | Kozma Quickrich | Kozma Quickrich |
+1	1	| the tsar | the tsar | the tsar | the tsar | The tsar | the tsar | the tsar | himself | the tsar | the tsar | The tsar | the tsar | the tsar | The tsar | He | the tsar | The tsar | the tsar | the tsar | The tsar | the tsar | the tsar | him | him | him | the tsar | the tsar | the tsar | you | The tsar | the tsar | The tsar | Your | you |
+1	1	| Bear | He | You | Bear | me | The bear | that clumsy Bear | He | he |
+1	1	| the Tsar Zmiulan | Tsar Zmiulan | tsar Zmiulan | tsar Zmiulan | tsar Zmiulan | tsar Zmiulan | tsar Zmiulan | the tsar Zmiulan | tsar Zmiulan | tsar Zmiulan | tsar Zmiulan | Zmiulan | his | Tsar Zmiulan | I | Tsar Zmiulan | tsar Zmiulan | He | the tsar Zmiulan | you | Your | your | your | your | yo |
+1	0	| more sables and martens | the sables and martens |
+1	1	| Fox | his | Fox | Fox | Fox | Fox | Fox | Fox | Fox | Fox | Fox | Fox | Fox | Fox | whereupon Fox | Fox | him | Fox | Fox | Dear Fox | Fox | him | Fox | Fox | him | Fox | Fox | you | the fox | Dear one | Fox | Fox | The next day Fox | me | Fox | Fox | Fox | Fox | Fox | Fox | the fox | Fox | Fox | Fox | Fox | Fox | Fox | Fox | I | Fox | Fox | him | Fox | Fox | Fox | you | you | she | She | she | her | She | she | She | her | she | She | She | she | her | she | She | herself | you | you | yourself | you |
+1	0	| one chicken | it | it |
+1	1	| the tsar's beautiful daughter | the tsar 's daughter |
+1	0	| your sheep to a crisp | it | your sheepu |
+1	0	| Kuzenka 's hut | it | it | his hut | the hut | the hut |
+1	1	| Marten | you cunning fox | I | I | myself | I | I | Marten |
+1	0	| many animals | animals | animals |
+1	0	| it | it |
+1	0	| camels as well | camels |
+1	0	| this | this point |
+1	1	| grey wolves | the grey wolves | the grey wolves | them | they | the grey wolves | the wolves | the wolves | they | they | their | they | us | we | them | They | them | they | they | themselves |
+1	0	| martens | sables |
+1	1	| Wolf | you | I | Wolf | me | Wolf | him | Wolf |
+1	1	| Herdsmen | the herdsmen | they | the herdsmen | the herdsmen | the herdsmen |
+1	1	| herdsmen | Herdsmen | them | Herdsmen | Herdsmen | Herdsmen | Herdsmen , herdsmen | Herdsmen , herdsmen | Herdsmen | you | They | They | They | they | them | them | They | you |
+1	0	| lunch with the tsar | the tsar 's lunch | the lunch | It |
+1	0	| a herd of horses | a herd of horses |
+1	0	| the royal lands | the royal lands | the royal lands |
+1	0	| the grass | the grass |
+1	1	| Wolf | you | I | Wolf | me | Wolf | him | Wolf |
+1	0	| this | they | they |
+1	0	| they | them |
+1	1	| The shepherds | them | them | they | The shepherds | they | they | them | you | your |
+1	0	| martens | sables |
+1	0	| the alabaster chambers | the chambers |
+1	0	| the horses | horses | horses |
+1	0	| this | this advice |
+1	0	| other black bears | black bears | them | them |
+1	0	| the last chicken | the last chicken | it |
+1	1	| Sable with Marten | sable and marten | sable | Sable and Marten | Sable | You | You |
+1	0	| a flock of sheep | a flock of sheep |
+1	0	| swine | your swine | your cows and horses | swine | swine | cows |
+1	0	| She | She |

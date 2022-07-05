@@ -1,0 +1,89 @@
+1	1	| the queen | she | the queen | she | her | She | she | her | her | the queen | the queen | her | the queen | The queen | She | her | she | She | her | she | the queen | She | her | she | the queen | the queen |
+1	0	| you | you |
+1	1	| fishermen | the fishermen | their | their | they | their | They | the fishermen | them | them |
+1	0	| You | you | you | I | I |
+1	0	| these good youths | they | us | our | we | ourselves |
+1	1	| six-headed chuda-yuda | I | I | The dragon | the dragon | He | He | The dragon | you | I | the dragon | the dragon | his | He | He | The dragon | his | him | his | his | The dragon | you | I | The dragon | his | his | The dragon | him | I | me | The dragon | his | his | his | his | his | The dragon | his | he | his | He | his | his | him | the dragon | the dragon | him | his | He | the dragon | he | the dragon | He | His | you | your sleeping | He | He | him | He | him | six-headed chudayuda | His | him | his | his | you , raven-feather | you | You | you |
+1	1	| Ivan-bullson | their | us | our | We | Ivan-bullson | our | that | they | they | I | they | Ivan-bullson | Ivan-bullson | Ivan-bullson | the third night Ivan-bullson prepared for his watch | so Ivan-bullson | Ivan-bullson answered | I | them | they | their | Ivan-bullson | Ivan-bullson | Ivan-bullson | Ivan-bullson crawled from the ground | I | my | You | Ivan-bullson heard all of these things | Ivan-bullson | Ivan-bullson and his brothers | our | Ivan-bullson | they | no Ivan-bullson | they | they | Ivan-bullson | Ivan-bullson | me | I | myself | I | you , Ivan-bullson | you | you | Ivan-bullson | Ivan-bullson | them | Ivan-bullson | They | Ivan-bullson | you | Ivan-bullson | they | Ivan-bullson | I | I | the champion | his | he | He | him | the champion | The champion | his | he | his | the eldest brother | the eldest brother | our eldest brother | Brother | I | him | you | he | you | I | his | He | I | he | I | my | me |
+1	0	| God | God | God |
+1	0	| the report | the report |
+1	0	| the blood | its |
+1	0	| brothers | The brothers | they | their | They | They | they | we | We | 's | They | the brothers | them | them | The brothers |
+1	1	| a child | child | child | He | he | he | I | child | He | He | child | He | he | he |
+1	1	| The other old man | He | he | me |
+1	0	| their | they | they |
+1	0	| Wineberry River | Wineberry River | the river | the Wineberry River | the river | the Wineberry River | The river | the Wineberry River |
+1	0	| the boggy earth | the boggy earth | the boggy earth |
+1	0	| they | they |
+1	0	| you | you |
+1	0	| their | They | their |
+1	0	| you | you | you | you |
+1	1	| One old man | him | I |
+1	0	| Poppycock | that |
+1	0	| the goldenfinned ruffe | the golden-finned ruffe | the golden-finned ruffe | the golden-finned ruffe | Here | the ruffe | it | it |
+1	0	| a ruffe | a ruffe |
+1	0	| the fish | the fish | the fish |
+1	1	| she | my | me | my | the old witch | she | herself | She | She | her | the witch | her | she |
+1	0	| your | your | your |
+1	1	| twelve mighty champions | them | we | The champions |
+1	0	| the bull | the bull |
+1	1	| the dragons ' wives | The dragons ' wives |
+1	0	| you | his | He |
+1	0	| his | He | his |
+1	0	| brothers | our | us | brothers | his brothers | them the | them | his brothers | his brothers | them | them | his brothers | His brothers | his brothers | his brothers | brothers | brothers | they | they |
+1	0	| you | you | you | his | He | He | his | I | my | me | you | you | you | you |
+1	0	| His | your |
+1	1	| old witch | my | me | my | the old witch | she | herself | She | She | her | the witch | her | she |
+1	1	| Baba-Yaga's youngest daughter | the youngest | I | I | I | I | I | an apple tree | an apple tree | the tree | the tree | the tree |
+1	1	| Baba-Yaga's middle daughter | the middle daughter |
+1	1	| Baba-Yaga's oldest daughter | the eldest |
+1	0	| he | his | he | him | him |
+1	0	| His | his |
+1	1	| dragons | They | villains | They | them | They | the dragons | The dragons | the dragons | The dragons | them |
+1	1	| Baba Yaga the Bony Legged | her | my | I | Baba Yaga | I | Baba Yaga | you |
+1	1	| nine-headed dragon | The nine-headed dragon | his | him | his | his |
+1	1	| twelve-headed dragon | The twelve-headed dragon |
+1	1	| Second man | his | me | you | I , good friend | I |
+1	1	| his fishermen | the fishermen | their | their | they | their | They | the fishermen | them | them |
+1	1	| the goodly youth | he | he | him | him | him | the goodly youth | him | He who overcomes | the goodly youth | he | he | him | the goodly youth | he | he | him | his | the goodly youth |
+1	0	| you | you | only sit up there on the stove and nibble on bricks | I | I | my | my | me | me | me | I | I | I | myself | me | I | me |
+1	1	| Third man | me | me | me | I , good friend | I | My | my | He | his |
+1	0	| she | She |
+1	1	| the old woman | She | no old woman | the old woman | She | her |
+1	1	| her favorite cook | The cook | her favorite cook | the cook | the cook | cook |
+1	0	| The three brothers | they | them |
+1	1	| the King | his | our father |
+1	1	| The servant | The servant | him | him | him |
+1	1	| his smiths | the smiths | their |
+1	1	| Ivan  kingson | Ivan-kingson | He | Ivan-kingson | Ivan-kingson | you | me | You | his |
+1	0	| the shoulders | their shoulders | their shoulders | his shoulders |
+1	0	| the little old men | They | their |
+1	0	| a comrade | a comrade | my comrade | He |
+1	1	| Fourth man | me | you | I , good friend | I | a stargazer | I | my | the stargazer |
+1	0	| her chest | her chest |
+1	1	| Fifth man | I |
+1	0	| your | you | you |
+1	0	| you | you |
+1	0	| the oak trees | the oak trees | the oak trees |
+1	1	| First man | him | me | you | I , dear friend |
+1	0	| You | you | We |
+1	0	| you | your | you | you | you |
+1	1	| Queen Goldenlocks | Queen Goldenlocks | Queen Goldenlocks | Queen Goldenlocks | Queen Goldenlocks | Queen Goldenlocks | Queen Goldenlocks | Queen Goldenlocks | Queen Goldenlocks |
+1	1	| the dragons ' father | The dragons ' father | his | his | He | I | you |
+1	0	| his | his |
+1	0	| I | dear friend |
+1	0	| you | you | you | you | you |
+1	0	| ram horns | the horns |
+1	0	| You | your | my | me | You |
+1	0	| a Russian soul | a Russian soul | itself |
+1	0	| my | his mouth | my mouth |
+1	0	| my | my children |
+1	0	| the other | the other |
+1	1	| Ivancookson | Ivan-cookson | their | their | Ivan-cookson | Ivan-cookson | them | them | He | he | himself | He | his |
+1	0	| the feathers | the feathers | the feathers |
+1	1	| Third man | me | me | me | I , good friend | I | My | my | He | his |
+1	0	| a boat | a boat | his boat | the boat | the boat | the boat | the boat |
+1	0	| I | I |
+1	0	| That | a simple art |
+1	0	| three sons | my sons |
+1	0	| These boys | They |

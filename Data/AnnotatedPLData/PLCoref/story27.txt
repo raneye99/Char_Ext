@@ -1,0 +1,44 @@
+1	1	| a certain tsar | the tsar | the tsar | the tsar | The tsar |
+1	1	| a little peasant all made of copper, with iron hands and a steel head - a cunning man, a wizard of a man | the peasant all made of copper , with iron hands and a steel head | the little peasant all made of copper , with iron hands and a steel head | he | his |
+1	0	| a steel head | a steel head | a steel head |
+1	1	| the king | The king | him | him | he | he | The king | his | his | The king | his | he | him | the king | the king | He | his | the king | the king | his | he | The king | he | him | his | he | his | his | he | the king | the king , her father | the king | her father | his father | her father | Father | Father | her father | his service | his service |
+1	1	| Prince Ivan, the tsar's son who was still a little boy | the tsar 's son who was still a little boy | Prince Ivan | Ivan | Prince Ivan | he | he | him | Prince Ivan | Prince Ivan | he | He | he | himself | his | Prince Ivan | Prince Ivan | him | Prince Ivan | his | he | he | Prince Ivan | he | Prince Ivan | his | Prince Ivan | He | I | Prince Ivan | He | himself | me | Prince Ivan | Prince Ivan | Prince Ivan | himself | me | Prince Ivan | Prince Ivan | Ivan | the governor | his | He | his | his | he | him | he | his | He | his | Prince Ivan | governor of a province | Prince Ivan | he | Prince Ivan | himself | Prince Ivan | him | Prince Ivan | him | Prince Ivan | he | Prince Ivan | he | himself | He | he | Prince Ivan | He | Prince Ivan | him | him | he | he | him | him | He | Prince Ivan | Prince Ivan | Prince Ivan | Prince Ivan | himself | him | him | him | his | his | his | He | him | Prince Ivan | Ivan | him | Prince Ivan | Prince Ivan | he | Prince Ivan 's | He | Prince Ivan | Prince Ivan | he | he | Prince Ivan | Ivan | Prince Ivan | him | He | him | he | Prince Ivan | his | him | him | him | Prince Ivan | your house | your house1 |
+1	0	| her provinces | her provinces |
+1	0	| a beard a cubit long | a beard a cubit long |
+1	1	| his second daughter | his second daughter |
+1	1	| his youngest daughter | his youngest daughter |
+1	1	| the old man | him | me | the old man | The old man | me | The old man | him | his | The old man | him | the old man | him | him | The old man | He | I | I | the old man | The old man | his | The old man | the old man | his | the old man | the old man | him | you | me | I |
+1	0	| such strength that no horse will carry you | his horse |
+1	0	| other chairs | his chairs |
+1	0	| more rafters | more rafters |
+1	0	| God | God | He | his | him | his | God |
+1	0	| All the people | other people |
+1	0	| all the soldiers | soldiers | soldiers | the soldiers | they | the soldiers | them |
+1	0	| the hunt | the hunt |
+1	1	| the stable master | him |
+1	1	| the Water King | the Water King | the Water King | the Water King | the Water King | the Water King | the Water King | The Water King | the Water King | the Water King | He | the Water King | himself | The Water King | him | him | him | his | He | he |
+1	1	| the Water King's son | the Water King 's son |
+1	1	| a three-headed dragon | the three-headed dragon | all the three heads of the dragon | all the three heads of the dragon |
+1	0	| senators | they |
+1	0	| councilors | they |
+1	0	| A call | the call | a call |
+1	1	| dragon | the dragon | The dragon | the dragon | the dragon | The dragon | The dragon | the dragon | The dragon | The dragon | the dragon | the dragon | the dragon | the dragon | the dragon , father | the dragon | the dragon | That | the truth , Your Royal Majesty | the truth |
+1	1	| A boastful nobleman | The nobleman | the nobleman | his | The nobleman | his | The nobleman | him | the nobleman | The nobleman | his | The nobleman | he | He | the nobleman | The nobleman | his | his | the nobleman | the nobleman | him | him | The nobleman | his | The nobleman | He | someone | him | a man who could rescue the princess from the nine-headed dragon | a man who could rescue the princess from the nine-headed dragon | his boots | his boots |
+1	0	| a company of soldiers | a company of soldiers |
+1	0	| water | it | the water | the water | the water | the water | the water | the water |
+1	1	| a six-headed dragon | the six-headed dragon | one head of the dragon | one head of the dragon | all his heads | all six heads |
+1	0	| a call | a call |
+1	0	| messengers | messengers |
+1	0	| everywhere | nowhere |
+1	0	| a man | a man |
+1	0	| a company of soldiers | a company | his | his soldiers | them |
+1	0	| made him a stableboy | a stableboy |
+1	0	| The other stableboys | The other stableboys |
+1	0	| six yards of water | six yards of water |
+1	1	| a little man no bigger than a nail | his | the little man no bigger than a nail |
+1	1	| the nine-headed dragon | the nine-headed dragon | The nine-headed dragon |
+1	0	| insults | insults |
+1	0	| a little farther | a little while |
+1	0	| one man on the ship | him | he |
+1	0	| nothing happened to him | nothing |
+1	0	| they-people on the ship | The ship | the ship |

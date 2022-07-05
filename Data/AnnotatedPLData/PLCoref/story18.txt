@@ -1,0 +1,12 @@
+1	1	| An old man | his | The old man | He | him | him | his | His father | him | my father | my father | my father | his father | you | you | you , dear husband | you | dear husband | dear husband |
+1	1	| his mother | She | my | I , your mother | I | your mother | her | his mother | my | your mother | his mother 's | His mother | his mother 's | his mother 's | his mother | my own mother | my own dear mother | my mother | the old woman | she | her | She | me | me |
+1	1	| a runty gosling | He | the gosling | the runty gosling | The runty gosling | his | him | his | the runty gosling | he | his |
+1	1	| Tereshechka | a little son | Tereshechka , a real berry of a boy | Tereshechka | his | him | Tereshechka , my little son | Tereshechka | my little son | Tereshechka | He | he | his | He | his | his | him , `` Little son | him | Tereshechka , my little son | Tereshechka | my little son | Tereshechka | his | my | my | Tereshechka | Tereshechka | her son | Tereshechka , my little son | my little son | Tereshechka | my | my | His | him | him | his | his | Tereshechka | he | his | him | him | him | him | Tereshechka | He | him | Tereshechka | he | him | Tereshechka | he | him | Tereshechka | Tereshechka | Tereshechka | him | him | Tereshechka | Tereshechka | Tereshechka | Tereshechka | Tereshechka | your | you | you | you | me | me | me | my | my | me | me | me | my | my | me | me | me | my | my | Tereshechka 's flesh | Tereshechka 's flesh |
+1	1	| blacksmith | Blacksmith | The blacksmith | him | you | you |
+1	1	| Chuvilikha | her | my | I , your mother | I | Chuvilikha | Chuvilikha | she | she | herself | Chuvilikha | Chuvilikha | She | her | She | her | she | Chuvilikha | She | her | She | I | I | her | She | her | She | she | I | I | The witch , Chuvilikha | The witch | her | She | the witch , Chuvilikha | the witch | She | the witch | The witch | She | her | She | her | the evil witch , Chuvilikha | her frightening voice | her frightening voice |
+1	1	| Chuvilikha's daughter | her daughter | your own daughter | your own daughter | her | She | She | me | She | She | she | her | the flesh of your own daughter | the flesh of your own daughter | the girl | her |
+1	0	| This | this |
+1	0	| This | This |
+1	0	| Closer | Closer |
+1	1	| White geese | the white geese | White geese | the white geese | White geese | the geese | your | They | you | us | we |
+1	0	| Tereshechka begged of him | They |

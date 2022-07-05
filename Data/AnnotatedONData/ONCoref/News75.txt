@@ -1,0 +1,10 @@
+0	0	| the heavy lift ship | Blue Marlin |
+0	0	| the long way home , around the southern tip of Africa | The entire trip |
+0	0	| the USS Cole | a destroyer | its | the crippled Cole | the Cole | the 8,000 - ton warship | The Cole | the Cole |
+0	0	| the Persian Gulf | the region |
+0	0	| blown | the attack on the Cole |
+1	1	| NBC News Pentagon correspondent Jim Miklaszewski | Jim Miklaszewski |
+0	0	| the deck of a larger ship | the deck |
+0	0	| a larger ship | the heavy lift ship , Blue Marlin | the Marlin | the Marlin |
+0	0	| Our | NBC News | NBC News |
+0	0	| Pentagon | the Pentagon |

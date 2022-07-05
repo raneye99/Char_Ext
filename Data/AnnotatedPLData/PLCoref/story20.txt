@@ -1,0 +1,18 @@
+1	1	| A widowed peasant with a daughter | the peasant | He | his | him | his | The peasant | his | The peasant | his | the old man | the old man 's | The old man | his | him | his | the old man | the old man | the old man | his | his | his | the old man at the gate | He | his |
+1	1	| daughter | a daughter | your daughter | his daughter | her | your daughter | she | his daughter | the daughter | my | my daughter | She | My daughter | My daughter | She | his daughter | The girl | her | Maiden | the maiden | her | The maiden | her | I | She | her |
+1	1	| stepdaughter | her | she | her | she | she | the wife 's daughter | That wicked maiden | her | Natasha | herself | you | your |
+1	0	| us | they | us | them |
+1	1	| stepmother | she | the stepmother | his wife | his wife | his wife | the wife | My | his wife | the wife | his wife | she | she | The woman 's | she | my |
+1	1	| blindman | him | him | him | he | he | his | blindman | blindman |
+1	1	| mouse | me | me | my | I | I | The mouse | The mouse | I | the little mouse | The mouse | The mouse | the mouse | you | you | your | his | you | him | you | you |
+1	1	| bear | The bear | the bear | He | I | your |
+1	0	| blindman 's buff | blindman 's buff | blindman 's buff |
+1	0	| Fear not | Fear not |
+1	0	| the little bell | the little bell | the bell |
+1	0	| horses | horses | the horses | horses | horses |
+1	0	| a cartful of goods | a cartful of goods | goods | goods | goods | goods | goods |
+1	0	| dog | You | dog | You | dog | lying | tile dog | her | her | The dog | her | My |
+1	0	| The gate | the gate | the gate |
+1	0	| The woman 's eyes | That |
+1	0	| two droves of horses | two droves of horses |
+1	0	| Bowwowwow | Bow-wow-wow |

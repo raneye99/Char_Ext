@@ -1,0 +1,11 @@
+1	0	| We | us |
+1	1	| the Reverend Jesse Jackson | Reverend Jackson | you | you | I | you | I | Reverend Jackson | I | Reverend Jackson in Florida tonight |
+0	0	| tonight | tonight | tonight |
+1	1	| Jeb Bush 's | Jeb Bush |
+1	0	| we | our |
+1	0	| our children | them |
+0	0	| Michigan | Michigan |
+0	0	| Florida | Florida | Florida |
+1	1	| Bush | he |
+0	0	| wins | it | it |
+0	0	| a tight race here | A tight race |

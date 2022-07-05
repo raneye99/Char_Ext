@@ -1,0 +1,3 @@
+These news texts are extracted from "LDC2013T19 - OntoNotes Release 5.0" corpus, from the 
+subdirectories of "ontonotes-release-5.0\data\files\data\english\annotations\bn\abc\00" 
+and "ontonotes-release-5.0\data\files\data\english\annotations\bn\mnb\00"

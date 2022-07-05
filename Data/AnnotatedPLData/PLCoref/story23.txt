@@ -1,0 +1,23 @@
+1	1	| old man | his | the old man | I | he | The old man | he | his | the old man | he | he | him | The old man | You | the old man | he | his | He |
+1	1	| his old wife | the wife | his wife |
+1	1	| Zamoryshek | Zamoryshek | Zamoryshek | Zamoryshek | me | I | Zamoryshek | Zamoryshek | him | Zamoryshek | his | Zamoryshek | Zamoryshek | Zamoryshek | Zamoryshek | his | Zamoryshek | his | Zamoryshek | his | Zamoryshek | Zamoryshek |
+1	1	| my sons | ye | they | children born of the eggs | the children | these children | they | them | they | them | forty of the children | The forty of them | the forty | forty |
+1	0	| children | the children | these children | they | them | they | them |
+1	0	| no children | no children | children | them | them |
+1	0	| your young wives | them | your wives | brides | their brides | brides |
+1	0	| your | You | you | yourself |
+1	0	| you | We |
+1	1	| Baba Yaga | my | the Baba Yaga | she | Baba Yaga | my | my | the Baba Yaga | her | She | she | her | her | the Baba Yaga | she | her | her | Baba Yaga | The Baba Yaga | she | I | she | her | you | your | your | your | you |
+1	0	| an old gaffer | him |
+1	0	| you | your |
+1	0	| the rider | his | his |
+1	1	| the smith | the smith | I | The smith | the smith | the smith | you | you |
+1	0	| a brood hen | a brood hen |
+1	0	| the eggs | the eggs |
+1	0	| a second iron chain | it | it |
+1	0	| The mare | she | she | she | me | my | she |
+1	0	| fortyone daughters | They | the daughters |
+1	0	| master of my foals | my master |
+1	0	| a human voice | a human voice |
+1	0	| the good horse | him | my |
+1	0	| the daughters ' heads | the heads | the heads |

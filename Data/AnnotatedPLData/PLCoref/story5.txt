@@ -1,0 +1,17 @@
+1	0	| Narrator | me | I |
+1	0	| Reader | you |
+1	1	| Sharbarsha | the laborer Shabarsha , Shabarsha who is a rogue among rogues | Shabarsha | Shabarsha | Shabarsha | I | I | I | I | I | He | his | He | you | I | I | Shabarsha | his | he | I | me | Shabarsha | he | he | his | Shabarsha | Shabarsha | you | you | you | I | my | your | Shabarsha | Shabarsha | Shabarsha | Shabarsha | Shabarsha | I | My | your | Shabarsha | his | Shabarsha | him | Shabarsha | Shabarsha | Shabarsha | his | Shabarsha | I | I | Shabarsha | his | his | he | He | Shabarsha | Shabarsha | Shabarsha | I | Shabarsha | He | his | you | you | I | I | My | Shabarsha | Shabarsha | him | Shabarsha | him | he | He | Shabarsha | the laborer | a laborer | a laborer |
+1	1	| one owner | one owner | he | his | he | he | him |
+1	0	| the millpond | the millpond | the water | here | this pond | the water | the water | the water | the water | the pool |
+1	0	| some fish | some fish | them |
+1	1	| the imp | a boy in a black shirt and red hat | he | I | The imp | I | The imp | He | I | you | milksop | the likes of you | You | I | The imp | his | the imp | his | He | himself | he | his | me | my | I | the boy in the red hat | He | his | the likes of you | you | you | The imp | the imp | me | me | he | I | me | me | You | The imp | You | you | your | your | your | your | your | The imp | his | his | him | my | I | my | You | you | imp | The imp | his | You | The devil | the imp | The devil | his | his grandson | The imp | he | I | the imp | He | he |
+1	0	| red hat | red hat | the red hat |
+1	0	| all you devils | all you devils | you | you , you cursed ones | You | us | them |
+1	1	| Grandfather | grandfather | Grandfather | Grandfather | the old man in the water | grandfather | his grandfather | grandfather | the water spirit | the old man | his | Grandfather | grandfather | grandfather | You | my | grandfather | grandfather | his grandfather | The grandfather | his | his | he | grandfather | your | yours |
+1	1	| Misha | my middle brother , Misha | your Misha | He | him | him | him | he | his | the bear | him | Misha | his | the bear | a younger brother , Misha | he | he |
+1	0	| a bush | a bush |
+1	0	| a foot race with Shabarsha | a foot race with Shabarsha | that |
+1	1	| Bunny | My little brother , Bunny | your little brother Bunny | He | He | him | him | he | Bunny | him | the hare | him | Bunny | you | you | him | He | him | he | his youngest brother |
+1	0	| the leaves | the leaves |
+1	0	| My brother | My brother , the blacksmith | he | his |
+1	0	| some | some |

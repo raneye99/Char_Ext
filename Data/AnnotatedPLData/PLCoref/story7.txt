@@ -1,0 +1,29 @@
+1	1	| Soldier | He | He | he | he | his | His | he | himself | he | He | his | the soldier | his | he | his | the soldier | him | mister soldier | my | the soldier | My | my friend | you | you | your | I | I | I | I | soldier | me | I | The soldier | he | his | He | his | brother | the soldier | your | you | the soldier | I | I | soldier | you | you | you | The soldier | he | He | he | brother soldier | you | The soldier | his | he | He | he | him | soldier | you | The soldier | he | his | He | you | I | the soldier | I | I | The soldier | his | he | him | he | His | he | a runaway in his regiment | his | The soldier | He | His | him | He | I | I | me | me | He | soldier | your | you | you | you | you | you | I | him | a merchant | him | brother | our merchant | his | his | he | him | he | he | he | he | him | him | him | he | My | I | I | The soldier | he | he | He | he | his | he | his | He | he | you | I | a doctor | I | I | he | the soldier | you | you | me | The soldier | himself | he | his | the soldier | brother | you | I | he | you | the soldier | he | the soldier | soldier | you | me | me | I | brother | you | the soldier | he | He | he | the soldier | you | you | you | you | the soldier | he | the new king | his | he | The king | he | you | you | you | brother | you | yourself | you | he | my | me | my |
+1	0	| leave | leave | leave | His leave |
+1	0	| a bit further | a bit further |
+1	1	| Devil | the Unclean One with the appearance of an old man | his | you , my good man | The devil | his | him | My good man | my | I | my | me | old man | your | The Unclean One | He | he | me | your guest | me | I | old man | me | I | I | the Unclean One | me | He | his | I | this unknown old man | him | The devil | I | the Unclean One | the Unclean One | Unclean One | you | the Unclean One | me | I | me | The Unclean One | he | I | I | the Unclean One | me | him | The devil | his | his | me | him | The devil | he | his | the Unclean One | the Unclean One | I | The Unclean One | you | the Unclean One | my | I | your | The devil | the devil | him | your | The devil | the devil | me | I | him | The devil | He | his | he | my | I | he | he | the Unclean One | my |
+1	0	| his majesty | his majesty |
+1	0	| some roast beef | some roast beef |
+1	0	| they | they |
+1	0	| his eyes | his eyes |
+1	0	| His stupidity | His stupidity |
+1	0	| make you a merchant | make you a merchant | that |
+1	1	| King | The king | your king | the king himself | The king | my | I | Your majesty | The king | the king | Your majesty | the king | his | the king |
+1	1	| Princess | her | the daughter of your king | her | my daughter | her | princess | her | the princess | you | the princess | the princess | her | his wife | the princess | the queen | my young wife |
+1	1	| The other merchants | The other merchants | 's | our | they | them | My brothers | you | you | The merchants | their | their | them |
+1	0	| what sort of person he is | what sort of person he is , where he came from , and does he know how to trade here | this | everything |
+1	0	| that very night | that very night |
+1	0	| the sentry | the sentry | your | your | The sentry |
+1	0	| these words | I am a doctor and I 'm coming to your tsardom because the daughter of your king is ill and I want to cure her | this | this |
+1	0	| the courtiers | the courtiers | the courtiers |
+1	0	| evening | evening |
+1	0	| his eyes | his eyes |
+1	0	| the cocks | the cocks |
+1	0	| last night | last night |
+1	0	| The next night | The next night |
+1	0	| the third night | the third night |
+1	0	| them | them |
+1	0	| pincers | some pincers weighing fifty pounds | the pincers | that | these pincers | the pincers |
+1	0	| in the pincers | here | in the pincers |
+1	0	| He beat him | let the devil have it | He beat him | This |
+1	0	| thirty versts from here | thirty versts from here |

@@ -1,0 +1,15 @@
+1	1	| a man who *T*-2 used the name Abdullah | The man in this house | the man who *T*-1 lived behind the blue door |
+0	0	| the `` Cole 's '' arrival | arrived |
+1	1	| the Yemenis | their |
+0	0	| Aden | the port city of Aden | Aden |
+0	0	| a perfect view of the harbor | that view |
+1	1	| the terrorists | the terrorists |
+1	1	| ABC 's John Miller | John Miller |
+0	0	| The government | it |
+0	0	| ABC 's | ABC News |
+0	0	| Yemen | their own country | Yemen 's |
+0	0	| the attack on the `` USS Cole | the bombing of the `` USS Cole | it | the bombing | the attack | the explosion |
+0	0	| any indication that the plot here goes beyond Yemen 's boarders | that question |
+1	1	| Investigators | them | they |
+0	0	| the `` USS Cole | the `` USS Cole | the `` Cole 's '' | the `` Cole '' |
+0	0	| the house with a view | the house with the blue door | the house | this house |

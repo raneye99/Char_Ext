@@ -1,0 +1,50 @@
+1	1	| a merchant | he | he | the merchant | the merchant | the merchant | the merchant |
+1	1	| a horseman | his | he | his | his |
+1	1	| a second horseman | he | he | his |
+1	1	| another horseman | he | himself | he | He | I | my | my |
+1	1	| a horseman on a white horse | himself | he | He |
+1	1	| the tsar | the tsar | The tsar | The tsar | him | he | he | the tsar | I | The tsar | The tsar | the tsar | Your Majesty | Your | the tsar | the tsar | The tsar | his | his | the tsar | the tsar | he | my | he | I | my | He | his | Your Majesty | Your Majesty | you |
+1	1	| older stepsister | the oldest | only one daughter |
+1	1	| Vasilisa | the girl | her | her | her | her | the girl | my | I | my | I | Vasilisa | his Vasilisa | Vasilisa | the most beautiful girl in the village | her | she | Vasilisa | Vasilisa | her | the girl | her | she | herself | she | my | I | my | me | me | I | I | Vasilisa | Vasilisa | Vasilisa | Vasilisa | She | Vasilisa | Vasilisa | Vasilisa | her | her | her | Vasilisa | Vasilisa | She | her | she | her | me | my | me | me | Vasilisa | her | her | She | her | She | her | Vasilisa | she | Vasilisa | Vasilisa | Vasilisa | her | I , grandmother | I | My | me | me | Vasilisa | her | Vasilisa | Vasilisa | She | Vasilisa | her | me | my | me | me | I | me | your | your | Vasilisa | Vasilisa | she | my | Vasilisa to her doll | her | me | Vasilisa | Vasilisa | Vasilisa | her | yourself , grandmother | Vasilisa | Vasilisa | Vasilisa | her | Vasilisa | Vasilisa | Vasilisa | I | Vasilisa | me | I | I | I | I | my | me | Vasilisa | me | Vasilisa | I | my | Vasilisa | Vasilisa | the girl | they | Vasilisa | she | she | she | they | me | me | She | her | she | Her | Vasilisa | Vasilisa | Vasilisa | Vasilisa | Vasilisa | her | Vasilisa | Vasilisa | Vasilisa | I | Vasilisa to her | I | She | herself | her | she | Vasilisa | herself | her | her | Vasilisa | her | Vasilisa | her | her | Vasilisa | her | Vasilisa | her | her | her | her | a maiden to whom I give shelter | he | Your | your | you | you | you | you | you | your | you | you | you | You | you | you | you | you | your | you | you | you | you | you | you | you | you | you | you | you |
+1	1	| Vasilisa's mother | her mother | the mother | her | her mother | she | my mother |
+1	1	| doll | it | this doll | her doll | its | her doll | her doll | her doll | her doll | her doll | her doll | her doll | her doll | her doll | her doll | the doll | The doll | The doll | her | She | her | The doll | me | the doll | the doll | the doll | The doll | she | the doll | The doll | me | I | the doll | her | you |
+1	1	| Baba Yaga | Baba Yaga | Baba Yaga | my | me | I | Baba Yaga | Baba Yaga | Baba Yaga | Baba Yaga | Baba Yaga | her | She | her | I | Baba Yaga | I | I | me | I | she | my | my | Baba Yaga | Baba Yaga | herself | her | me | I | Yaga | Baba Yaga | I | I | Baba Yaga | Baba Yaga | Baba Yaga | Baba Yaga | her | Baba Yaga | her | Baba Yaga | Baba Yaga | Baba Yaga | Yaga | Baba Yaga | she | she | My | my | my | Baba Yaga | her | her | she | Baba Yaga | her | Baba Yaga | she | me | Baba Yaga | my | Baba Yaga | me | my | Baba Yaga | Baba Yaga | my | my | I | my | I | I | I | Baba Yaga | you | I | my | She | her | you | you | You | yourself | you | you |
+1	1	| stepmother | her | her | her | she | the stepmother | her | the stepmother | The stepmother | her | I | she | she | her | The stepmother | She | her | The stepmother | her | The stepmother | her | we | your stepmother | the stepmother | Her stepmother | her | she | the stepmother | the stepmother | her | you | a bride | she | her | she | an experienced housewife | her | she |
+1	1	| old woman | her | she | her | she | the woman | I | me | I | The old woman | She | her | She | you | the old woman | The old woman | my | I | The old woman | her | she | I | I | you | the old woman | the old woman | I | The old woman | her | The old woman | She | She | her | the old woman | her | her | yourself |
+1	1	| the merchant 's wife | his wife | the merchant 's wife | you | you | my wife |
+1	1	| younger stepsister | the second |
+1	0	| your | your |
+1	0	| the skull | The eyes of the skulls | the skulls ' eyes |
+1	0	| you | you |
+1	0	| the black horseman whom I met at your very gate | He |
+1	0	| the stepmother and her daughters | they | the stepmother and her daughters | them | They | they | them | they |
+1	0	| the sun | the sun |
+1	0	| lovelier and more buxom | lovelier and more buxom |
+1	0	| human beings | they |
+1	0	| they | them | they |
+1	0	| your | they | they | themselves |
+1	0	| my dark night | the night |
+1	0	| my father 's | her father 's |
+1	0	| the following evening | the evening | evening | the evening |
+1	0	| knit stockings | stockings |
+1	0	| only one candle | The candle |
+1	0	| the girls | The girls | the girls | our |
+1	0	| My stepsisters | them | them | their | they | They |
+1	0	| its eyes burned like two candles | eyes | its eyes | the eyes |
+1	0	| his horse | his horse | his horse | his horse |
+1	0	| human skulls with staring eyes | the skulls | the skulls | the skulls |
+1	0	| human legs for doorposts | human legs for doorposts |
+1	0	| bolts | bolts |
+1	0	| the trees | the trees |
+1	0	| her traces | her traces |
+1	0	| Fie | Fie , fie |
+1	0	| the wheat | my wheat | the wheat |
+1	0	| these orders | her orders |
+1	0	| God | God |
+1	0	| My faithful servants | My faithful servants | my dear friends | My faithful servants | My faithful servants | My faithful servants | my dear friends | my faithful servants |
+1	1	| a horseman on a white horse | the white horseman |
+1	0	| yourself | yourself |
+1	0	| shirts | shirts of it | the shirts |
+1	0	| a dozen shirts | his shirts |
+1	0	| This | this |
+1	0	| the needlewoman who made his shirts | the needlewoman who made his shirts |

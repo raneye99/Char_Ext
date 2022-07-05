@@ -1,0 +1,32 @@
+0	0	| wants | George Bush 's plan *PRO* to allow them to invest a small portion of their Social Security payroll taxes in the stock market | George Bush 's plan *PRO* to privatize part of it | the Bush plan | his idea |
+1	1	| Al Gore | He | he | Al Gore 's | Gore |
+0	0	| 58 % | they |
+0	0	| our website | abc.com |
+0	0	| both promises | both of these plans |
+1	0	| Neither candidate | he |
+0	0	| turning | that way | That way |
+1	1	| independents like Hank and Loretta Goehring | They |
+0	0	| guarantee | it |
+1	0	| I | I | my |
+0	0	| Some Missouri voters | them | they |
+0	0	| it | it |
+1	1	| Mike Dubis | me | I |
+1	0	| voters | they |
+0	0	| says | Al Gore 's promise *PRO* to protect Social Security the way 0 it is *T*-1 |
+1	0	| I | I | I | me | I | my |
+1	1	| George W. Bush | he | George Bush 's | George Bush 's | Bush | Bush | Bush 's | his |
+1	1	| ABC 's John Martin | John Martin |
+0	0	| ABC 's | ABC News | ABC News | our |
+0	0	| Missouri | Missouri |
+1	1	| workers | their | themselves |
+1	0	| you | I |
+0	0	| St. Louis | St. Louis |
+0	0	| all that money | it | it |
+1	1	| retirees | their |
+1	1	| actor Ed Asner | this |
+1	1	| Uncle Sam | his |
+0	0	| Social Security | it | it | it | Social Security | Social Security | Social Security | Social Security | Social Security | it | it | Social Security | Social Security | the system | Social Security 's | Social Security | Social Security | Social Security |
+1	0	| I | my |
+0	0	| my Social Security | it | It |
+1	1	| the Blumers , father and son | them | their | they |
+1	1	| the Blumers | father and son |

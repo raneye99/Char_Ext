@@ -1,0 +1,15 @@
+0	0	| its first erruption in more than 1,000 years | erupting | its most violent outburst in 1200 years |
+0	0	| more pressure | this pressure |
+1	0	| We | Our |
+1	1	| Mt. Saint Helen | it |
+0	0	| another 20,000 | their | their |
+0	0	| tonight | tonight | tonight | Tonight | Tonight |
+0	0	| this , the volcano in Mexico , 0 they call *T*-1 *PRO*-2 El Popo | its | Mt. Popo | the volcano | The fourth largest mountain in North American , nearly 18,000 feet high | its | it | its | It | its | the volcano 's | it | Popo | It | Popo 's | the mountain | Popo | this mountain | It | its | It | Popo | the volcano | it |
+0	0	| this | the volcano in Mexico , 0 they call *T*-1 *PRO*-2 El Popo |
+1	0	| the people | their | they |
+0	0	| Mexico | The Mexican government | It |
+0	0	| mud slides | they | them |
+0	0	| It |
+0	0	| its path | the path |
+0	0	| the National Natural Disaster Prevention Center | they | they |
+0	0	| 1200 years | 1200 years of peace |

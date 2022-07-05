@@ -1,0 +1,17 @@
+0	0	| we | NBC News | NBC News |
+1	1	| NBC News correspondent Campbell Brown Ho who *T*-2 's traveling with the Bush effort , and NBC News correspondent Chip Reid travel traveling with the Gore campaign in Kansas City Missouri | you |
+0	0	| Bush 's central message on this bu bus trip across central Florida today | it |
+1	1	| Brian | you | Brian |
+1	1	| Bush | Bush | Bush | he | Bush | Bush 's | his | me | Bush | He |
+0	0	| Florida | Florida | Florida | Florida |
+1	1	| Gore | Gore |
+1	1	| NBC News correspondent Campbell Brown Ho who *T*-2 's traveling with the Bush effort | I | you |
+0	0	| the Bush effort | the campaign | the campaign | it | they |
+0	0	| another two crucial states | Wisconsin and Michigan |
+1	1	| a popular Republican governor , Tom Ridge | Ridge |
+0	0	| today | today |
+1	1	| a popular Republican governor | Tom Ridge |
+1	0	| his diehard supporters | them | your |
+0	0	| Pennsylvania , another swing state with 2023 electoral votes , just two less than Florida | Pennsylvania | Pennsylvania |
+0	0	| Pennsylvania | another swing state with 2023 electoral votes , just two less than Florida |
+1	0	| your friends still on the fence | they |

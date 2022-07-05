@@ -1,0 +1,38 @@
+1	0	| voters *ICH*-4 | them |
+0	0	| 52 % of them | them |
+0	0	| the big issue 0 the people thought 0 *T*-1 would be the heart of this race , the notion that Mrs. Clinton was accused *-2 of *PRO*-3 being a carpet bagger , a woman born * in Illinois , made much of her professional life in Arkansas and of of course has been living in Washington until last year | that issue |
+0	0	| the numbers that *T*-1 will send Hillary Rodham Clinton to the Senate | the results tonight that *T*-2 sent Hillary Rodham Clinton to Washington | the numbers |
+0	0	| said | that |
+0	0	| this | This campaign |
+0	0	| this | appear |
+1	0	| men and women | their |
+0	0	| said | that |
+0	0	| pressed | this | It | it |
+0	0	| this vote | it | this vote | it |
+0	0	| the campaign debate where Rick Lazio walked over to Hillary Clinton and said you 're going *-1 to sign this pledge about campaign moneys , you 're going *-2 to sign it *T*-3 | the scene that you mentioned *T*-2 , the debate , where Lazio was -- invaded her space *T*-1 , as they say *?* |
+1	0	| voters | they *ICH*-4 | the voters |
+0	0	| this race | This | this race | it |
+0	0	| slung | that |
+0	0	| the big issue 0 the people thought 0 *T*-1 would be the heart of this race | the notion that Mrs. Clinton was accused *-2 of *PRO*-3 being a carpet bagger , a woman born * in Illinois , made much of her professional life in Arkansas and of of course has been living in Washington until last year |
+0	0	| an important constituency for Mrs. Clinton | the Jewish vote | the Jewish vote | Jewish voters | Jewish voters | the Jewish vote , which *T*-2 is heavily in favor of Hillary Clinton |
+0	0	| 68 % | 68 % |
+1	0	| you | you | you | Brian ? | you | Brian |
+1	0	| voters who *T*-1 said 0 they voted for Mrs. Clinton | they | them |
+0	0	| 2 / 3 | that group |
+0	0	| this pledge about campaign moneys | it |
+1	0	| me | I |
+1	1	| her husband | Bill Clinton | her husband |
+0	0	| 50 % | we | we | we |
+0	0	| the battle ship | Cole |
+0	0	| some of our exit polling data | that | those numbers 0 Kelly was talking about *T*-1 |
+0	0	| Forrest Sawyer | Forrest ? |
+0	0	| the scene that you mentioned *T*-2 | the debate , where Lazio was -- invaded her space *T*-1 , as they say *?* |
+1	1	| Moynihan | he |
+0	0	| New York | New York where it will be a joyous affair *T*-1 | New York | New York |
+1	1	| S | herself | Hillary Clinton | Hillary Clinton | Hillary Rodham Clinton | Hillary Rodham Clinton | Mrs. Clinton | Mrs. Clinton | a woman born * in Illinois | her | Mrs. Clinton | she | Mrs. Clinton | Hillary Rodham Clinton | Hillary Clinton | Hillary Clinton | you | you | she | Clinton | Hillary Clinton | Hillary Clinton | her | Senate Hillary | she | Hillary Clinton | her | Hillary Clinton | Hillary Clinton | Hillary Clinton | Hillary Clinton | her | Mrs. Clinton 's | Hillary 's | Hillary Clinton | her | Hillary | her | Hillary Clinton |
+1	1	| Kelly | me | me | Kelly O'Donnell | you | Kelly | she |
+0	0	| tonight | tonight |
+0	0	| the Middle East | the Middle East |
+1	1	| Rick Lazio , the congressman of eight years from Long Island | Mr. Lazio | Rick Lazio 's | Rick Lazio | Lazio 's | Rick Lazio | his | Rick Lazio | Rick Lazio | Lazio | Lazio | he | Lazio | Lazio | Rick Lazio | Lazio |
+1	1	| Rick Lazio | the congressman of eight years from Long Island |
+0	0	| Washington | Washington |

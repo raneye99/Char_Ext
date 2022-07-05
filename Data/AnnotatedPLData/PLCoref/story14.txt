@@ -1,0 +1,20 @@
+1	1	| wealthy merchant | This merchant | he | him | The merchant | I | that merchant | merchant | merchant | merchant | merchant | The merchant | merchant | merchant | merchant | merchant | merchant | merchant | merchant |
+1	1	| daughter | a marvelously beautiful daughter | a beautiful daughter | she | she | the merchant 's daughter | The merchant 's daughter | her | the merchant 's daughter | the merchant 's daughter | her | my maid servant | that peasant girl | the merchant 's daughter | her | her | She | she | she | She | me | her | She | her | She | the blind maiden | She | me | she | she | the blind maiden | The blind maiden | my | She | she | the merchant 's daughter | She | she | the blind maiden | She | She | she | herself | the merchant 's daughter | She | the maiden | a maiden | who it was | It | the same maiden whose eyes I cut out | the maiden | her | She | I | I | I | my | her | her | her | her | her | this maiden | her | her | the merchant 's daughter | her | she | me | her | her | her | the maiden | her | her | the merchant 's daughter | maiden | she | maiden | maiden | the maiden | She | I | your bride , the merchant 's daughter | my | her | me | the merchant 's daughter | my | me | the young queen | her | her |
+1	1	| king | the king | The king | I | myself | The king | his | he | the king | the king | he | The king | himself | me | the king | the king | The king | The king | the king | the king | his | his | the king | The king | me | he | his | the same king | The king | I | The king | his | him | The king | me | The king | The king | He | him | him | He | him | He | his | his | The king | The king | his | king | The king | he | he | He | I | I | The king | he | he | he | He | his | his | the king | the king | the king | the king | the king | the king | him | your | your | The king | the king | The king |
+1	0	| a bride | a bride |
+1	0	| a letter | a letter | this letter | The letter | the letter |
+1	0	| guards | his guards | them | the guards | Gentlemen of the guard | They | We | we | his guards | the guards | They | the guards | you | They | they | them | They | them | the guards | They | Guards | the guard | the guard |
+1	1	| maidservant | her maidservant | this maid | The maid | the maidservant | her | she | my | you | the maid | she | she | She | her maid | his wife , the queen | her | you | little queen | his wife | her | little mother | you | a great help to me | his queen | little mother | she | The queen | herself | I | the queen | the queen | she | She | me | The queen | her | the queen | the queen | she | his queen | you , little mother | the queen | her | she | little mother | the queen | you | your queen | my maidservant | The queen | me | she | You | you | you | her | her | maidservant | she | her |
+1	1	| old man | an old man tending cattle | him | you , grandfather | I | your | The old man | the old man | Little grandfather | He | the old man | The old man | him | him | He | him | Little grandfather | the old man | you | The old man | him | the old man | he | the old man | him | the old man | his | the old man | him | you | little grandfather | He | I | him | the old man | him | him | he | He | he | the old man | him | you | you | me | The old man | you | me | the old man | the old man | you | He | me | he | He | his | the old man | you | You | you | your | The old man | The old man | He | he | his | He | he | his |
+1	0	| cattle | cattle | the cattle | the cattle |
+1	0	| merchants | the wealthy merchants |
+1	0	| a poor shopkeeper | a poor shopkeeper | the poor shopkeeper |
+1	0	| Next morning | Next morning |
+1	0	| Everyone | Everyone | everyone |
+1	0	| a captive soldier | a captive soldier | a prisoner |
+1	0	| God | God | God |
+1	0	| a guard | a guard |
+1	0	| the morning | the morning |
+1	1	| a boy | a boy | a handsome boy | him | the boy | him | the boy | him | him | he | the boy | he | him | The boy | him | the boy | the boy | the boy |
+1	0	| some lord | some lord |
+1	0	| a horse | a horse | a horse |

@@ -1,0 +1,18 @@
+1	1	| a U.S. Coast Guard team , sent * here at Ecuador 's request | they |
+1	0	| hundreds of people from around the Galapagos | they |
+0	0	| A tanker | the tanker | its | it | the ship |
+0	0	| San Cristobal Island | San Cristobal Island | San Cristobal in the Galapagos Islands |
+1	0	| their | officials |
+1	0	| the people that *T*-1 are here | They | them |
+1	1	| our Ned Potter | Ned Potter |
+0	0	| the oil here | it |
+0	0	| the Galapagos Islands of Ecuador | the Galapagos | the island 's | The Galapagos | This place | its | itself | itself | the Galapagos Islands |
+0	0	| Ecuador | Ecuador 's |
+0	0	| the oil spill that *T*-1 threatens so many species of rare birds and animals | the spill |
+1	1	| so many species of rare birds and animals | the hundreds of endangered species |
+1	0	| our | ABC News |
+0	0	| this | the situation |
+1	1	| Charles Darwin | his | he |
+1	1	| Fishermen in their boats | their |
+0	0	| the environment here | it |
+0	0	| any remaining fuel | it |

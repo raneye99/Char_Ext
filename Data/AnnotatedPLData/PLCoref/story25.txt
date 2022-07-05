@@ -1,0 +1,19 @@
+1	1	| a widowed priest | his | He | he | his | he | his | our priest | he | his | He | his | he | he | he | he | his | he | I | my | He | his | His | him | him | his | he | him | a priest | He | his | His | he | him | his | he himself | himself |
+1	1	| priest's daughter | his daughter | His daughter | she | she | My | me | She | She | I | She | her | she | her | she | your | his daughter |
+1	0	| twelve versts | twelve versts |
+1	0	| someone in his parish | his parish |
+1	1	| Nodey | Nodey | the priest 's grandson | Nodey | his grandson | Nodey | me | Nodey | his grandson | Nodey | Nodey | Nodey | I | my grandson | Nodey | me | Nodey | my grandson | his grandson | Nodey , the priest 's grandson | Nodey | the priest 's grandson | Nodey , a priest 's grandson | a certain Nodey | Nodey | a priest 's grandson | a priest 's grandson | you | Nodey , the priest 's grandson | Nodey | the priest 's grandson | your | Nodey | him | my beloved grandson | He | him | he | him | he | him | him | himself | He | him | he | him | him | he | him | him | him |
+1	0	| other boys | he | him |
+1	1	| his boy | He | The boy | he | he | he | he | he | he | his boy | his | his | the boy | he | his | he |
+1	1	| his child | his child |
+1	0	| The villagers | They | the villagers |
+1	0	| the whole village | the whole village |
+1	1	| a bear | the bear | the bear | it | the bear | The bear | the bear | the bear | a bear | this bear |
+1	0	| a steep mountain | mountains |
+1	0	| you | you | you | you |
+1	0	| immense strength | It |
+1	0	| the thrice ninth land | the thrice ninth land |
+1	0	| the thrice tenth kingdom | the thrice tenth kingdom |
+1	1	| Gorynya, the mighty hero | Gorynya , mighty hero | Gorynya | Gorynya | him | my | I | Gorynya | Gorynya | me | Gorynya | the mighty hero |
+1	0	| many mighty knights | many mighty knights |
+1	0	| their brides | their brides |

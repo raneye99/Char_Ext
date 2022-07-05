@@ -1,0 +1,11 @@
+1	0	| we | we |
+0	0	| the great Wind Cave in South Dakota | Wind Cave | it | The cave | the cave | the cave | the cave | this world of crystals , fossils and calcite formations known * as forecast work and popcorn and rarest of all , fox work | the cave |
+0	0	| an item left * by earlier explorers | A 103 - year - old newspaper . |
+0	0	| South Dakota | South Dakota |
+1	1	| Judy Muller | she | She | Judy Muller |
+1	1	| A cowboy hunting in the area | He | his | his |
+0	0	| a new chamber | it | it |
+0	0	| the sound of rushing wind | it |
+1	1	| a fascinating man | John Sheltons who *T*-1 explore underground caves | He | He | I | I | He | I | He | his | he | him |
+0	0	| The wind | it |
+0	0	| The knowledge that our lights are the first 0 *T*-1 to light it up , our footprints were the first , our eyes were first first 0 *T*-2 to see it . | it |

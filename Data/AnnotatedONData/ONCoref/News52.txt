@@ -1,0 +1,15 @@
+0	0	| Decatur , Illinois | Decatur | Decatur | Decatur 's | Decatur |
+0	0	| Firestone 's finding that the process , not the quality of workmanship that brought about the failures | It | It | The report |
+0	0	| The Bridgestone / Firestone Company | Firestone | The company | Firestone | Firestone 's | Firestone | Firestone | the tiremaker | Firestone | Firestone | Firestone | Firestone | Firestone | its |
+1	1	| consumers who *T*-1 underinflate their tires | their |
+1	0	| I | I | my | I | I |
+0	0	| ABC 's | ABC News |
+1	1	| the workers | they | their |
+1	1	| the Coppenbargers | the family |
+1	1	| Richard and Shirley , together | my parents |
+1	1	| ABC 's Bob Jamieson | Bob Jamieson |
+1	1	| Richard Jr. | he | my | My | me |
+0	0	| the failures | the problems |
+0	0	| today | today |
+0	0	| one plant in Decatur , Illinois | the Decatur plant | the plant |
+0	0	| The job | it |

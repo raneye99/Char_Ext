@@ -1,0 +1,18 @@
+1	1	| Missouri Supreme Court Judge Ronnie White | Judge White | the judge |
+0	0	| the positions 0 he 's taken *T*-1 as a politician | his positions |
+1	1	| Peter | Peter |
+0	0	| chosen | his nomination today | this nomination | this | this | it |
+0	0	| Political defeat | It | it |
+1	1	| George W. Bush | he | the President - elect 's | He | a President - elect who *T*-1 is committed to *PRO* uniting the country and not dividing it | he | I | I | I | my | Mr. Bush 's | he | he |
+0	0	| Missouri Supreme Court | Missouri 's Supreme |
+0	0	| lost | his recent loss in the U.S. Senate race |
+0	0	| the conservative wing of the Republican Party | the conservative wing of Mr. Bush 's party | them |
+0	0	| Texas | Texas |
+0	0	| the Republican Party | Mr. Bush 's party |
+0	0	| Missouri | Missouri | Missouri 's |
+0	0	| the country | it | the United States of America |
+0	0	| today | today |
+1	1	| ABC 's Mike Von Fremd | Mike ? | you | Mike Von Fremd in Texas tonight |
+1	1	| the person 0 he wants *T*-1 to be Attorney General | He | Senator Ashcroft | his | The senator | he | his | Senator John Ashcroft | his | Ashcroft | He | him | He | Mr. Ashcroft | He | Ashcroft | He | his | him | this | he | the outgoing senator | he | I | Ashcroft | his | him | me |
+0	0	| the nomination of Missouri Supreme Court Judge Ronnie White to the federal bench | a single nomination |
+0	0	| his reasons for *PRO* blocking a single nomination | that |

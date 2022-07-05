@@ -1,0 +1,15 @@
+0	0	| the Cole 's home port | Norfolk , Virginia |
+0	0	| Aden | this steamy port city |
+0	0	| the Cole 's | the ship | The damaged ship | its | `` Cole 's '' | the war ship 's | its |
+0	0	| Ramstein in Germany | Ramstein |
+1	0	| our | the United States | the U.S. |
+0	0	| Iraq | Iraq |
+0	0	| today | today | today | today |
+0	0	| the first bodies | seven sailors | their | the bodies |
+0	0	| the bodies recovered * so far | their |
+0	0	| Yemen *ICH*-1 | the Yemen government | Yemen | it | its | The Yemenis | Yemen | Yemen | Yemen | Yemen |
+0	0	| ships suspected * of *PRO*-1 violating the trade embargo against Iraq *T*-2 | the ships |
+0	0	| ABC 's | ABC News |
+0	0	| attacked | it | it | Its | Only such a potent force |
+1	1	| ABC 's Morton Dean | Morton Dean |
+1	1	| the American Navy | The Navy |

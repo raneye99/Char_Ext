@@ -1,0 +1,3 @@
+0	0	| meetings with Palestinian President Yasser Arafat | the meeting |
+1	1	| Israeli Prime Minister Ehud Barak | Barak 's | he |
+0	0	| resigned | Barak 's dramatic move |

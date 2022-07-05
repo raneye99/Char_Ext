@@ -1,0 +1,19 @@
+0	0	| Channel 2 Jerusalem | Channel 2 |
+0	0	| the Israeli political system , always tied * and always tied * up | our own political system |
+0	0	| the anchor of the Israeli network evening newscast on Channel 2 Jerusalem | Jacob Elon |
+1	1	| Israelis | we | We | Israelis | them | us here | we | our |
+0	0	| the electoral system | this | the system |
+0	0	| America 's | This | the States | the United States | the States | the United States |
+0	0	| the Israeli network evening newscast on Channel 2 Jerusalem | Israel 's Channel 2 network news |
+1	0	| we | we |
+0	0	| tonight | Tonight | tonight |
+0	0	| this story | it | it | this story |
+1	1	| Lea Rabin , widow of Yitzhak Rabin | She |
+1	1	| Lea Rabin | widow of Yitzhak Rabin |
+0	0	| things in the United States | they | they |
+0	0	| Israel | Israel 's |
+1	1	| Jacob Eilon | the anchorman Israel 's Channel 2 network news |
+1	1	| the anchor of the Israeli network evening newscast on Channel 2 Jerusalem Jacob Elon | my | I | I | I | I | I | I | Jacob Eilon , the anchorman Israel 's Channel 2 network news | He |
+1	0	| we | we | we | our |
+1	1	| the President of the United States | President Clinton | he |
+0	0	| every day | every day |

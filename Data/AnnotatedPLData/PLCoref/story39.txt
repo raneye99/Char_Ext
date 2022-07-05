@@ -1,0 +1,78 @@
+1	1	| peasant's wife | his wife |
+1	1	| a simple peasant | a simple peasant | the peasant | I | me | I |
+1	1	| this fellow | He | him | his | a fellow |
+1	0	| a man walking towards the forest | his |
+1	0	| he to himself | I | I | he | his | Thinks | he to himself | himself | He |
+1	1	| The Tzar | he | his | him | the Tzar | he | himself | the Tzar | the Tzar | The Tzar | his | him | the Tzar | then the Tzar | his | He | his | He | his | him | the Tzar | the Tzar | his | he | he | his | he | himself | the Tzar | his | him | the Tzar | his | the Tzar | the Tzar | the Tzar | The Tzar | his | the Tzar | the Tzar | his | the Tzar | The Tzar | his | the Tzar | the Tzar | he | I | my | me | The Tzar | the Tzar | he | his | the Tzar | he | himself | his | the Tzar | he | he | his | him | him | the Tzar | The Tzar | him | him |
+1	1	| a man | you , uncle | the man | The man | The man | the man | I | me | The man | his | the man | my | I | the man | The man | the man | the man | he |
+1	1	| his servant | The servant | his | He | he | his servant | The servant | him | he | His | his servant | his servant | he | him | himself |
+1	1	| The Listener | I | he | he | his | The Listener | his | I | The Listener | The Listener | The Listener | his | The Listener | he | I | my | me | you | the Listener |
+1	1	| The Fool of the World | He | he | his | the Fool of the World | he | him | him | his | The Fool of the World | I | he | his | your going | the Fool of the World | I | he | I | I | I | He | his | him | his | him | him | his | him | he | The Fool of the World | his | his | he | he | his | He | his | him | he | He | he | He | he | his | the Fool of the World | the Fool | the Fool of the World | The Fool of the World | his | his | he | He | The Fool of the World | his | the Fool | the Fool | me | The Fool of the World | him | He | he | his | his | his | the Fool | he | his | He | his | His | him | The Fool | He | the Fool | he | his | he | He | him | his | the Fool | you | the Fool | I | me | the Fool | the Fool | the Fool | the Fool | the Fool | the Fool | the Fool | the Fool | the Fool | the Fool | the Fool | the Fool | the Fool | you | the Fool of the World | the Fool | him | the Fool | the Fool | the Fool | the Fool | his | I | the Fool | the Fool | The Fool | the Fool what was coming | The Fool | I | me | I | my | the Fool | the Fool | he | his | the Fool what message was coming | the Fool | I | my | the Fool , who stopped short with his mouth open in the middle of a joke | the Fool | the Fool | the Fool | himself | him | the Fool of the World | himself | the Fool of the World | the Fool of the World | the Fool | the Fool | the Fool of the World | the Fool | The Fool of the World | He | himself | him | he | anyone who could bring him a flying ship | anyone who could bring him a flying ship | you | you | You | you | you | your | you | you | your | your | you | you | you | you | you | you | you | you | you | you | you | you | you | your | I | I | me | you | you | I | my |
+1	1	| the peasant with the fagot of wood | his | you | you | you |
+1	0	| your | they | They |
+1	0	| another | another |
+1	0	| your | they | They |
+1	1	| a man with a gun | he | he |
+1	0	| messengers | us | they | their |
+1	1	| an ancient old man | the ancient old man | the ancient old man | the ancient old man | I | the ancient old man |
+1	1	| the Fool of the World and his companions | they | them | they | they | their | Fool of the World | You , my brothers | we | us | us | them | they | They | they |
+1	0	| your | them | they | their | They | you , uncle |
+1	0	| your | them | they | They | you , uncle |
+1	1	| the man | they | their | They | They | their |
+1	0	| they | They | them | them | them | they | They |
+1	0	| words | words |
+1	0	| the captain of the flying ship | him |
+1	0	| You | They | them | them | they |
+1	0	| you | them | They | you , uncle | they |
+1	0	| the World | the World | the World | the World | the World | that | the World | the World | the World | the World | the World | the world | the World | the World | the World | the world | the World | the World |
+1	0	| a child | a child |
+1	1	| The swift-goer | I | the Swift-goer | the Swift-goer | he | the Swift-goer | The Swift-goer | you | I | I | I |
+1	1	| The far-shooter | the Far-shooter | he | his | his | his | you | you | you |
+1	1	| The Drinker | the Drinker | I | me | the Drinker | he | I | his | you | you | I | I |
+1	0	| the forest like ours | the forest | the forest | the forest | the forest |
+1	0	| a tree | the first big tree he saw , made the sign of the cross three times before it , swung his hatchet round his head , struck a mighty blow on the trunk of the tree , instantly fell backwards flat on the ground , closed his eyes , and went to sleep | the tree |
+1	1	| the servant | the servant | The servant | the servant |
+1	0	| an end | that | the end of them |
+1	0	| then the wolves | them |
+1	0	| him | a sign of him |
+1	1	| a cunning fellow | a cunning fellow |
+1	0	| God | God | God | God |
+1	0	| a lot of the two smart young men | it | it |
+1	1	| the Tzar 's daughter | the Tzar 's daughter | the Tzar 's daughter |
+1	0	| a little ship | a ship with wings | a flying ship | a flying ship |
+1	0	| this | this |
+1	0	| guests | us | them |
+1	0	| soldiers | us | soldiers | soldiers |
+1	0	| That-that little scrap ! | that |
+1	0	| fellows these peasants | them |
+1	0	| soft white rolls | soft white rolls |
+1	0	| meats | meats |
+1	1	| peasant's wife | she | She | She | She | she |
+1	0	| what | you going to do | We | what | what | They | they |
+1	1	| an ancient old man | the ancient | the ancient | the ancient |
+1	0	| you | you | you | you | you | I |
+1	0	| I | your | you | you | your |
+1	0	| the fellow to get ready for the wedding | this fellow |
+1	1	| a bear | that |
+1	0	| Goodday | Good-day | you off to | Good-day , uncle | Good-day |
+1	0	| grandfather | Good-day | you off to | Good-day , uncle | Good-day |
+1	1	| the ship | the ship | the ship | the ship | the ship | the ship | the ship | the ship | its | the ship | the ship | the ship at all | the ship |
+1	0	| the trees | the trees |
+1	0	| there | there |
+1	0	| a little ship | The little ship | the ship |
+1	0	| Sit you | it |
+1	0	| the open country | his Country |
+1	1	| a man carrying a sack full of bread | The Eater | the Eater | the Eater | the Eater | the Eater |
+1	0	| songs | songs | their songs | no songs |
+1	1	| the servants | They | his servants |
+1	0	| my dinner | his dinner | his dinner | his dinner | my dinner |
+1	0	| a fagot of wood on his shoulders | the fagot of wood | the fagot of wood |
+1	0	| the number of soldiers in it-cavalry | the number of soldiers in it-cavalry |
+1	0	| the palace of the Tzar | the palace | the palace |
+1	0	| jokes | his jokes | jokes |
+1	0	| simple peasants | these peasants |
+1	0	| a lot of dirty peasants | the lot |
+1	0	| This | my affair |
+1	1	| the moujik with the straw | the moujik | the moujik | his | the moujik | you | you | your |
+1	0	| the number of soldiers in it-cavalry | the number of soldiers in it-cavalry |
+1	0	| it-cavalry | it-cavalry |

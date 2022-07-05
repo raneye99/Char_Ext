@@ -1,0 +1,16 @@
+0	0	| the port city of Aden | Aden |
+0	0	| the Tarawa | a Navy ship offshore |
+1	1	| The Yemenis | their | the Yemenis | their |
+1	1	| investigators in the field | they |
+0	0	| ABC 's | ABC News | ABC News |
+1	0	| We | our | we |
+0	0	| the United States | its | the U.S. |
+1	0	| most of its investigators | The majority |
+0	0	| Yemen | Yemen | the Yemeni government | a country that *T*-2 has been called *-3 *PRO*-4 a haven for terrorists |
+1	1	| its investigators | Nearly 200 American agents | The FBI agents | their | They | the agents |
+0	0	| suspected safe houses | the houses |
+0	0	| the `` Cole | the `` Cole '' |
+1	1	| the Yemeni investigators | their |
+1	1	| ABC 's John Miller | John Miller |
+0	0	| FBI | the FBI | it | The FBI | FBI |
+0	0	| A very high profile investigation in a very tense part of the world . | this investigation |

@@ -1,0 +1,24 @@
+1	1	| Ivan's father | a king who had three sons | him | Father , our gracious sovereign | your | The father | his |
+1	0	| three sons | three sons | they | our | us | we | them | they |
+1	1	| Ivan | The youngest son | his | he | the prince | his | Prince Ivan | The prince | his | he | you | Prince Ivan | your | you | you | Prince Ivan | a bright falcon | The prince | a goodly youth | me | such a goodly youth | he | Prince Ivan | The prince | he | he | he | he | He | himself | he | me | your | Prince Ivan | his | Prince Ivan | you | A goodly youth like you | the prince | I myself | Prince Ivan | a bright falcon | grandfather | you | Prince Ivan | I | the prince | his | the prince | I myself | I | the prince | a bright falcon | He | him | grandfather | the prince | Prince Ivan | an ant | Prince Ivan | you | Prince Ivan | a herdsman | his | him | Prince Ivan | you | you | a goodly youth like you | the prince | I myself | Prince Ivan | he | He | Prince Ivan | the prince | my son-in-law | my son-in-law |
+1	0	| beasts of many kinds | beasts of many kinds , birds , and reptiles | us | we |
+1	1	| A falcon | A falcon | the falcon | a bright falcon | a bright falcon |
+1	0	| Ivan's good steed | his good steed |
+1	0	| an ant | an ant |
+1	0	| the palace guards | the palace guards | your | they |
+1	1	| king | your king | his | he | that king | his | king | her father | Father , my sovereign | The king | the king | the king | Your Majesty | your | the king | my | the king | Your Majesty | the king | my | father | her father , who was overjoyed | my |
+1	1	| princess | The king 's daughter | her | my | me | her | the princess | the princess | you | me | the princess | me | the princess | her |
+1	0	| a ride | a ride with Prince Ivan to the crystal mountain |
+1	1	| a golden goat | a golden goat | it | the goat |
+1	1	| a very old man | a very old man |
+1	1	| herdsman | your herdsman | my herdsman |
+1	1	| 3-headed dragon | the three-headed dragon | him | the three-headed dragon | me | you | you | The dragon | the dragon | the three-headed dragon | him | him |
+1	1	| 6-headed dragon | the six-headed dragon | him | the six - headed dragon | you gluttonous monster | you | you | The dragon | the dragon | his | the six-headed  dragon | he | he |
+1	1	| 12-headed dragon | the twelve-headed dragon | The twelve-headed dragon | He | his | the dragon | the twelve-headed dragon | me | you | you | the twelve-headed dragon | his | his |
+1	0	| one duck | only one duck | only one duck | only one duck |
+1	0	| Any cows | any | any | any |
+1	0	| all the three heads of the dragon | all the three heads of the dragon |
+1	0	| a hare | a hare | this hare | a hare | the hare |
+1	0	| a duck | a duck | this duck | a duck | the duck |
+1	0	| an egg | an egg | this egg | an egg | the egg |
+1	0	| Narrator | I | I | my | my |

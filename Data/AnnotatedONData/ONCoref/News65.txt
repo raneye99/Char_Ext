@@ -1,0 +1,10 @@
+0	0	| Ecuador | Ecuador 's |
+1	1	| Its giant tortoises and rare species of birds | they |
+1	1	| Ecuadorian crews | They | they |
+0	0	| the Galapagos ' eastern-most islands | San Cristobal |
+0	0	| a serious oil spill in the Galapagos Islands | spilling | leaked | the spill | the leak | it |
+0	0	| the Galapagos Islands | They | the Galapagos Islands | their | Its | the islands | the Galapagos ' | the islands |
+0	0	| it | It | it |
+1	1	| Ecuador 's Environmental Minister Rodolfo Rendon | him |
+1	1	| Ecuador 's Environmental Minister | Rodolfo Rendon |
+0	0	| a tanker that *T*-2 was carrying fuel to the islands | It | the grounded tanker |

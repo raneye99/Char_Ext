@@ -1,0 +1,25 @@
+1	1	| a king | the king | her husband | her husband |
+1	1	| Princess Maria | an only daughter | Princess Maria | Princess Maria | Maria | Princess Maria | Princess Maria | herself | Princess Maria | me | She | my dear | Princess Maria | her | her | herself | Princess Maria | her | my | Princess Maria | she | Princess Maria | me | Princess Maria | my dear | She | Princess Maria | She | her | her | she | her | Princess Maria | her | she | Princess Maria | my | me | her | She | Princess Maria | Maria | her | Princess Maria | Princess Maria | she | she | She | Princess Maria | Princess Maria | She | her | her | Her | Princess Maria | she | Princess Maria | Princess Maria | my mother | the mother | her | I | The mother | her | she | herself | the slut | that slut |
+1	1	| Yagishna 's daughter | Yagishna 's daughter | her |
+1	1	| a queen | the queen |
+1	1	| Yagishna | another wife | Yagishna | Yagishna | Yagishna | she | her | her | Yagishna | her | she | her | Yagishna | her | my wife | Yagishna | her | her | she | Yagishna | her | her | she | Yagishna | Yagishna | the false wife | her | the false wife | The stepmother | her | her | her | her stepmother | Her stepmother | her | her |
+1	1	| two-eyed daughter | her elder daughter | she | her |
+1	1	| three-eyed daughter | the three-eyed one | The three-eyed one |
+1	1	| Burenushka | the little red cow | Burenushka | Burenushka | the little cow | Burenushka | Burenushka | my dear | Burenushka | Burenushka | Burenushka | Slaughter Burenushka | the cow | Burenushka , the little red cow | Burenushka , the little red cow | the little cow 's right leg | her right leg | her right leg | Burenushka 's right leg |
+1	0	| a lady | she | a lady |
+1	0	| us | They |
+1	0	| the dukes and boyars | them | They | I | gentlemen |
+1	1	| The sister | the sister | I | my | me |
+1	1	| Prince Ivan | me | I | my | Prince Ivan | Prince Ivan | Prince Ivan | you | My | Prince Ivan | Prince Ivan | He | Prince Ivan | him | him | him | Prince Ivan | Prince Ivan | his |
+1	1	| The wrecker | which | me |
+1	0	| the lice | the lice |
+1	0	| They | them |
+1	0	| The girls | them | them |
+1	0	| my dear | my dear |
+1	1	| old tutor | him | The old man | The old man | the old man | the old man | the old man | The old tutor of the child | himself | his | My |  | My |
+1	1	| the baby | the baby | the baby | The baby | the baby | him | him | him | the baby | the baby | The baby | the baby | him | the baby | the child | the child | a son | her son | The little fellow | he | himself | My |
+1	0	| a little bush | the bush | the bush |
+1	0	| sweet berries grew up on it | berries for me |
+1	0	| berries | sweet berries |
+1	1	| gray geese | My geese , gray geese | My geese | gray geese | My geese , gray geese | My geese | gray geese | gray geese | My geese , gray geese | My geese | gray geese | My geese , gray geese | My geese | gray geese | Geese | Geese | you |
+1	0	| the mountains | the mountains |

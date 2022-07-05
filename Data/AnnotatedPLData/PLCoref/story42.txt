@@ -1,0 +1,57 @@
+1	1	| Prince Ivan | Prince Ivan | Prince Ivan | He | his | My | I | me | you | Ivan | his | his | He | his | he | his | He | his | he | Prince Ivan | his | his | Prince Ivan | he | himself | his | He | he | Prince Ivan | his | My | I | I | Prince Ivan | he | himself | his | He | he | his | My | I | I | he | his | his | his | he | Prince Ivan | him | he | Prince Ivan | he | Prince Ivan | his | his | Prince Ivan | my brother , Prince Ivan | my brother | Prince Ivan | Prince Ivan | He | my brother , Prince Ivan | my brother | Prince Ivan | he | Prince Ivan | my brother , Prince Ivan | my brother | Prince Ivan | Prince Ivan | he | he | himself | him | he | his | himself | he | I | my | me | I | He | Prince Ivan | him | me | Prince Ivan | Ivan | Prince Ivan | his | him | Prince Ivan | him | his | him | him | him his younger brother | his | I | I | Prince Ivan | He | Ivan | Prince Ivan | him | He | Prince Ivan | his | he | He | Prince Ivan | his | he | he | Prince Ivan | Ivan | him | him | Prince Ivan | his | Prince Ivan | Prince Ivan , what sort of beauty | Prince Ivan | I | Prince Ivan | Prince Ivan | You | You | you | yourself | you | you | you | you | his | you | your | you | My | I | my | me | I | I | you | you | you | your | he |
+1	0	| You | You |
+1	1	| an old man | The old man | him | The old man | My | him | him | the old man | my | an old man | The old man | him | He | My | my | him | him | the old man |
+1	1	| Byely Polyanin | warring | his | Byely Polyanin | warring | his | Byely Polyanin | warring | his | Byely Polyanin | Byely Polyanin | Byely Polyanin | Byely Polyanin | Byely Polyanin | Byely Polyanin | Polyanin | he | Byely Polyanin | Byely Polyanin | Polyanin | Byely | Polyanin | he | Byely Polyanin | he | his | him | him | Byely Polyanin | Byely Polyanin | Byely Polyanin | him | me | me | I | myself | I | Byely Polyanin | me into the chasm but do not pull out the cable until I give it a tug | Byely Polyanin | him | Byely Polyanin | Byely Polyanin | Hail , Byely Polyanin | Byely Polyanin | me | I | He | his | Byely Polyanin | his | him | him | He | he | his | He | he | you | you | you | You | They | their | their | their | he | you | your | you | your |
+1	1	| a maiden | She | she | She | her | her | her | The maiden | the maiden | I | myself | the lovely maiden at an oaken table | her | the lovely maiden | her | her | the lovely maiden |
+1	0	| his town | his town |
+1	0	| done-he came to the dragon 's kingdom | her |
+1	0	| the good youth | his | his | his | his |
+1	1	| his sisters | them | they | his sisters | his sisters | his sisters | our | his sisters | you | his sisters | My dear sisters | My dear sisters | my sisters | My dear sisters | My dear sisters | My sisters |
+1	0	| my faithful servants | them | them | My faithful servants | my faithful servants | them | them | My faithful servants | we | our | our | you | you | you | you |
+1	1	| the mighty champions | they | them | their | they | them | their | they |
+1	0	| I | I |
+1	0	| Whither | God taking you | I | I myself | myself | I | my | Whither | you going | I | I | my |
+1	1	| the one-eyed she-wolf | her | me | I | I | I | The she-wolf | her | you |
+1	0	| their mighty steeds | their steeds |
+1	0	| swans | swans |
+1	0	| your bride | his bride |
+1	0	| God | God | God |
+1	0	| another bird | my | you | you |
+1	1	| a little bird | my | the bird | her | her | you | you | the bird | her | her | the bird | her | the bird |
+1	0	| brothers | you | brothers | brothers | brothers | you | you | They | their |
+1	0	| an innumerable host of troops | an innumerable host of troops |
+1	0	| swans | swans |
+1	0	| Straightway messengers | they | their |
+1	0	| cobblers | We | they | we | the cobblers | you | you |
+1	1	| Baba Yaga | Baba Yaga | Baba Yaga | Baba Yaga | Baba Yaga | She | her | her | Baba Yaga | Baba Yaga | her | her | her | she | Baba Yaga | Baba Yaga | Baba Yaga | Baba Yaga | Baba Yaga | her | her | her |
+1	0	| his horse | his horse | his horse | his horse | his horse |
+1	0	| a horse | a horse |
+1	0	| his good steed | his steed | his good steed | his good steed | his good steed |
+1	0	| a silken | a silken | a silken |
+1	0	| Strike | that |
+1	0	| the other kings | the other kings |
+1	1	| the second princess | the beautiful princess | a beautiful daughter | her daughter | She | she |
+1	0	| the time he had set for himself | time |
+1	0	| the city gates | the city gates |
+1	0	| geese | geese |
+1	0	| geese , swans , and gray ducks | geese , swans , and gray ducks |
+1	0	| a flock of geese , swans , and gray ducks | a flock of geese , swans , and gray ducks |
+1	0	| gray ducks | gray ducks |
+1	0	| a flock of geese , swans , and gray ducks | a flock of geese , swans , and gray ducks |
+1	0	| gray ducks | gray ducks |
+1	0	| tailors | We | we | the tailors | you | They | their |
+1	0	| My faithful servants , birds of passage , have you ever seen | My faithful servants , birds of passage , have you ever seen |
+1	0	| an unknown knight lying beside him | the knight |
+1	0	| a dark forest | the forest |
+1	1	| the second old man | an old man |
+1	0	| our ears | our ears |
+1	0	| a little ball | his ball | it |
+1	0	| beasts | beasts | yourselves | themselves |
+1	0	| a third little bird | my |
+1	1	| the dragon king | the dragon king |
+1	0	| us | They | their |
+1	0	| thousands | thousands |
+1	0	| a Cossack with a lance | I |
+1	0	| Eh , brothers , you are working quite fast , but not solidly | Eh , brothers , you |
+1	0	| his black curls | his black curls |
+1	0	| the dragon 's kingdom | the dragon 's kingdom |

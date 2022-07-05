@@ -1,0 +1,15 @@
+1	1	| ABC 's Jock Cochran | John Cochran |
+0	0	| America | America |
+1	1	| Even the Great Communicator | Ronald Reagan |
+0	0	| the world | the world |
+1	1	| Richard Nixon | he | I |
+0	0	| seven minutes on television tonight | it |
+0	0	| point | that |
+1	0	| you | Peter |
+1	1	| George W. Bush 's | his | Mr. Bush | Mr. Bush 's |
+0	0	| tonight | tonight | tonight 's | tonight | tonight 's |
+1	1	| President Clinton | his | Mr. Clinton | he | He | He | the President | Mr. Clinton | Bill Clinton | his | This | himself | his | Bill Clinton | his | Bill Clinton | Bill Clinton |
+0	0	| a place for himself in the politics of the future | it |
+1	1	| George Bush the Elder | he |
+0	0	| say | tonight 's speech | says | tonight 's speech | this one |
+1	1	| Even the Great Communicator , Ronald Reagan | his |

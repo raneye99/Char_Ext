@@ -1,0 +1,18 @@
+1	1	| witches | these witches | they | the witches | The witches | their | their | the witches | the witches |
+1	0	| the community | our community |
+1	0	| we | you |
+1	0	| We | our | We |
+0	0	| Louisiana | Louisiana | Louisiana |
+1	1	| Peggy Wehmeyer | Peggy Wehmeyer |
+0	0	| a conservative bayou town | a home to more than 100 churches and a coven of witches |
+0	0	| New Orleans | New Orleans | New Orleans |
+0	0	| a conservative bayou town , a home to more than 100 churches and a coven of witches | town |
+1	0	| At least 500,000 Americans | themselves | they |
+1	1	| The ACLU | The group | it | They | they |
+0	0	| arrest | that threat |
+0	0	| photograph | these pictures |
+0	0	| an old law that *T*-2 forbids fortune - telling | the 1928 law 0 it considers *T*-1 unconstitutional | the fortune - telling law |
+1	1	| a detective | He | I | my | I |
+1	1	| my superiors | they |
+0	0	| a coven of witches | the coven |
+0	0	| it | it |

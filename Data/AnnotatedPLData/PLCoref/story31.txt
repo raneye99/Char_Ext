@@ -1,0 +1,29 @@
+1	1	| youngest son | He | the laborer | the laborer | the laborer | the laborer | the laborer | the laborer | the laborer | the laborer | The laborer | he | he | He | he | he | I | The laborer | his | the laborer | He | He | He | the laborer | his | I | you | you | I | the laborer | I | He | him | him | the laborer | the laborer | the laborer | The laborer | He | his | the laborer | The laborer | the laborer | the laborer | the laborer | he | himself | He | he | the laborer | me | He | He | the laborer | him | the laborer | He | The laborer | his | He | his | the laborer | the laborer | the laborer | The laborer | him | the laborer | him | The laborer | his | his | you | you | you | you | you | you | I | you | you | you | you | his cap | my cap | it | That | brother | brother | you | your | my | I | That | I | you | I | You | I | you | my | he | he |
+1	1	| merchant | the merchant | the merchant | The merchant | He | his | I | he | The merchant | him | you | the merchant | he | He | his | I | the merchant | him | The merchant | the merchant | he | him | him | the merchant | the merchant | he | me | my | me | you | He | he | the merchant | The merchant | The merchant | his | the merchant | his | you | the merchant | his | The merchant | he | his | he | You | the merchant | The merchant | his | the merchant | The merchant | the merchant | the merchant | the merchant | you | your | you | your |
+1	1	| a devil | the devil | the devil | a devil | you doing | the devil | The devil | I | I | the devil | The devil | The devil | his | the devil | him | you | yourself | your | You | your | you | you | you | us | our |
+1	1	| The middle son | He |
+1	0	| one man | He | he |
+1	0	| the rooster crows | the rooster crows | the rooster crows |
+1	0	| the rooster | the rooster | the rooster | his rooster | the rooster |
+1	0	| you | yourself | you | you |
+1	0	| Better men than you | they |
+1	0	| you | they |
+1	0	| they | they | They | We |
+1	0	| they | We | They |
+1	0	| this | This | a bad affair | this | this | this |
+1	0	| No big deal ! | that |
+1	0	| my | my |
+1	0	| I | my elder | my | The elder | elder | The elder |
+1	1	| merchant's wife | his wife | his wife | his wife | She | she | his wife | his wife | his wife | your wife | the merchant 's wife | the merchant 's wife | her |
+1	0	| the unclean ones | They |
+1	0	| they | They | We |
+1	0	| us | They | their |
+1	0	| the cows | the cows | the cows |
+1	0	| pies and loaves of bread | them |
+1	0	| the water | the water | the water | the water | the water |
+1	0	| you wretches | We | you |
+1	0	| you | You | You |
+1	0	| we | we |
+1	0	| they | their |
+1	0	| a lake | the lake | the lake |
+1	0	| his own coat and cap | her coat |

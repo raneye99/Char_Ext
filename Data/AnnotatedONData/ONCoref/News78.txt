@@ -1,0 +1,19 @@
+1	1	| the pilot | the pilot | he | him | he |
+0	0	| a wrong turn , simply down the wrong runway | a wrong turn |
+0	0	| Tuesday night | Tuesday night |
+1	1	| pilots behind him | They |
+1	1	| this passenger | she | I | I |
+1	1	| his wife | his |
+0	0	| the wrong runway | a runway closed * for repairs | the closed runway | the wrong runway |
+0	0	| today | Today | today |
+0	0	| tonight | Tonight | tonight |
+0	0	| Singapore Airlines 006 | the same flight 0 he survived *T*-1 Tuesday night |
+1	0	| We | our | NBC News |
+0	0	| a major development 0 *PRO*-2 to report *T*-1 tonight involving the crash of that Singapore Airlines 747 in Taiwan this week | confirm |
+1	1	| Taiwanese officials | They |
+0	0	| His flight number *ICH*-2 | a reminder | Singapore Airlines 006 , the same flight 0 he survived *T*-1 Tuesday night |
+1	1	| survivor John Diaz | I | His | he |
+0	0	| Twisted overturned construct construction equipment . | This | the construction equipment |
+1	1	| Reporter Lee | his |
+0	0	| that Singapore Airlines 747 | Singapore Airlines flight 6 | the 747 | the plane | the plane |
+0	0	| California | California |

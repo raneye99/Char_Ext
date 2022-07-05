@@ -1,0 +1,15 @@
+1	1	| father | his | father | my father | my father | my father | father |
+1	1	| mother | his old wife | the mother | mother | mother |
+1	0	| parents | they | we | we | The parents | they | her father and mother | her mother and father |
+1	0	| the children | a daughter and a little son | their prey |
+1	1	| daughter | a daughter | Daughter | daughter | you | you | your | the daughter | her | she | her | The girl | her | She | She | her | her | her | She | The girl | her | She | me | you | you | my | her | She | me | you | you | my | She | you | you | my | She | she | She | her | she | her | She | His sister | her | her | she | me | she | you | she | her | She | her | her | she | me | she | you | She | her | She | her | her | her | her | her | her | her | me | she | you | The girl | her | the girl | she | she | her |
+1	1	| son | a little son | your little brother | her brother | the little boy | him | her brother | him | him | her little brother | her brother | the little brother | His | him | him | him | him | her brother | her brother | her brother |
+1	1	| Swan Geese | Some magic swan geese | their | the swan geese | The swan geese | they | they | them | the geese | the geese | the geese | the geese | the geese | the robbers | the geese | the geese | the geese | The geese | They | they | their | they | The geese | their |
+1	0	| The family | we | we | we |
+1	0	| cakes of wheat | cakes of wheat |
+1	0	| sweet apples | sweet apples |
+1	0	| shores of pudding | shores of pudding | shores of pudding | shores of pudding | the shore |
+1	0	| pudding | pudding | pudding | my simple pudding with milk | pudding | my pudding | it |
+1	1	| hedgehog | a hedgehog | him | he | Hedgehog | hedgehog | you | he |
+1	0	| golden apples | golden apples |
+1	0	| soon afterward | soon afterward |

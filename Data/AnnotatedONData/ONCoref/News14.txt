@@ -1,0 +1,16 @@
+1	1	| ABC 's Linda Douglas | Linda Douglass |
+1	1	| His supporters | they |
+0	0	| ABC 's | ABC News |
+1	1	| George Bush and Al Gore | Bush and Gore | their | their |
+1	1	| Bush | George Bush | George W. Bush | Bush |
+0	0	| his campaign | his campaign | this year 's campaign |
+1	1	| Ralph Nader , who *T*-1 may make the difference between a Gore or Bush win in several places | his | Ralph Nader | his | you | Nader | his | Nader | His | he | Nader | Ralph Nader | his | Nader | Nader | You | you | you | I | you | He | Nader | he |
+1	0	| President | President |
+0	0	| momentum from last night | it |
+1	1	| some of the Democrats | They | themselves |
+0	0	| this year | a year when most candidates are afraid of *PRO*-2 appearing *-3 negative *T*-1 | this year | this year 's |
+0	0	| the difference between Bush and Gore | It |
+1	1	| Gore | Al Gore | Gore | Al Gore | He | he | he | he | Gore | Gore |
+1	0	| I | my | I |
+1	0	| average Americans | They | their | They | their |
+0	0	| the election | It |

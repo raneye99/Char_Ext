@@ -1,0 +1,34 @@
+1	1	| her husband | her husband | an old man | The old man | the old man | his | He | the old man | he | his | his | The old man | the old man | the old man | the old man | He | The old man | his | He | himself | his | The old man | He | his | his | The old man | his | He | his | The old man | he | his | he | the old man | his | the old man | he | The old man | he | The old man | his | he | He | his | He | the old man | my | my | my | my | I | I | I | the old man | his | his | he | his | He | he | you |
+1	1	| old woman | The old woman | her | She | her | her | her | the old woman | the old woman | she | her | the old woman | The old woman | the old woman | the old woman | the old woman | her | The old woman | her | me | the old woman | my | her | the old woman | her | The old woman , seeing the old man coming from far away | The old woman | The old woman | her | the old woman | you | you | You | you | you | The old woman | the old woman | her | her step-mother | her step-mother | her | her step-mother |
+1	0	| The girls | They | the girls | they | our | us | our | we | The girls | they | our | we | the girls | they | their | their | you slow brat | the girls | the girls | three daughters | eligible maidens | The maidens | you | the maidens | the maidens | maidens | maidens | maidens |
+1	1	| step-mother's daughters | their | their daughters | their | their | his daughters | them | their | them | them | them | my other daughters | them | my daughters | her half-sisters | their | they | They | they | my beautiful little berries |
+1	1	| Marfusha | Marfusha | Marfusha | Marfusha | you | Marfusha | Marfusha | your | your | you | Marfusha | her | Marfusha | her | her | Marfusha | Marfusha | The good Marfusha | She | She | she | herself | her | herself | She | a lovely young woman - fit to be a wonderful bride | her step-daughter | her step-daughter | the oldest , who was her step-daughter | his oldest daughter | her | She | She | she | She | her | the oldest daughter | his daughter | his daughter | his daughter | his daughter | her | She | his daughter | her daughter |
+1	1	| Parakha | Parakha , if only one suitor | Parakha |
+1	0	| an old | an old |
+1	0	| You | they | their |
+1	0	| you | you | our |
+1	0	| her children | them | them | their | them | the children | her children |
+1	0	| they | their | they | they |
+1	0	| you | yourself |
+1	0	| you | You | they | them |
+1	0	| someone | I | I | I |
+1	0	| We | they | they |
+1	0	| you | you | you | We | We | our |
+1	1	| Jack Frost | Jack Frost | He | He | Frost | Jack Frost | himself | Frost | my | Frost | my | Jack | Frost | He | Jack Frost | Jack Frost | he | he | Jack Frost | he | He | my | my | Jack Frost | him | he | Jack Frost | himself | my | Jack Frost | himself | you | Jack Frost | the groom | The groom | he | he | His | he , himself | he | himself | I | the groom | him | the groom too | I | I | my | my |
+1	0	| one suitor | the suitor | he | he |
+1	0	| You | you | he | me |
+1	0	| you | you | he |
+1	0	| he | I |
+1	0	| You | you | you |
+1	0	| my beauties | my beauties |
+1	0	| you | you |
+1	0	| a cottageloaf | them | I | I | you | your |
+1	0	| you | you | you |
+1	0	| you | you | our |
+1	0	| a wonderful bride | the bride |
+1	0	| warm | warm | warm | warm | it | warm | warm |
+1	0	| my beauty | my beauty |
+1	0	| Some ugly devil | he | my | the devil |
+1	0	| the deed to be done | the deed to be done | the deed to be done |
+1	0	| you | You | your | You | They |
+1	0	| this story | It |

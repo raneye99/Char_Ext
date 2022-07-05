@@ -1,0 +1,40 @@
+1	1	| a king | a king who had three daughters of surpassing beauty | The king | his | he | his | the king | him | Sovereign , our father | The king | him | he | him | the king | the king | the king | his | The king | his | his | his | he | he | The king | he | he | The king | I | he | He | king | the king | sovereign | you | your | I | sire | The king | his | his | his | Your father | The king | he | his | his | his |
+1	0	| three daughters | three daughters of surpassing beauty | them | his daughters | them | them | the princesses | them | they | their | our | us | them | They | they | their | the beautiful princesses | They | they | They | themselves | them | them | the princesses | his daughters | them | your daughters | the three princesses | the princesses | their | his daughters |
+1	0	| a marvelous bright world | a marvelous bright world | the bright world | the bright world | the bright world |
+1	0	| the freedom of the bright world | the freedom of the bright world |
+1	0	| twelve-headed dragon | a twelve-headed dragon |
+1	0	| governesses | governesses |
+1	0	| servants | his faithful servants | The servants | they |
+1	0	| him who should find traces of the princesses | him who should find traces of the princesses |
+1	0	| traces of the princesses | traces of the princesses |
+1	0	| anyone among them | anyone among them | one |
+1	0	| any man who might find them | any man who might find them | his |
+1	0	| a sound | a sound |
+1	0	| a call | a call | the king 's call |
+1	0	| someone from among the common people | someone from among the common people |
+1	0	| the common people | the common people |
+1	0	| Mother | a poor widow who had three sons | their mother | our mother | her | her | the old woman | she |
+1	0	| three sons | they | mighty champions | All of them | they | them | they | their | their | They | We | us | good youths | your | We | three brothers - Evening , Midnight , and Dawn | you | your | We | our | The good youths | They | they | They | they | the three | us | our | They | our | They | they | the brothers | Dawn , Evening , and Midnight |
+1	1	| Evening | the eldest | Evening | Evening | Evening , his eldest brother | you | The eldest brother | he | He | Evening | you | yourself | you | Evening | I | Evening | him | he | him | Evening | his | him | you | I | I | I | I | Evening | Evening | Evening | Evening |
+1	0	| the evening | the evening |
+1	1	| Midnight | the second | Midnight | Midnight | Midnight | Midnight | he | him | him | Midnight | his | you | him | I | I | Midnight | Midnight | Midnight |
+1	0	| midnight | midnight |
+1	1	| Dawn | the youngest | Dawn | Dawn | one of the three | Dawn , the youngest brother | his | Dawn | Dawn | Dawn | he | he | he | Dawn | him | Dawn | him | mighty champion | Dawn | he | his | him | Dawn | me | I | Dawn | his | him | him | He | himself | himself | He | He | him | him | you | good youth | your | me | him | him | him | you | Dawn | himself | he | I | Dawn | his | him | Dawn | He | his | he | I | I | I | Dawn | He | Dawn | he | Dawn | Dawn | their brother | Dawn | Dawn | his heir |
+1	0	| the early dawn | the early dawn |
+1	0	| Two brothers | brothers |
+1	0	| a shed full of sheep | a shed full of sheep |
+1	0	| sheep | sheep | his sheep |
+1	1	| little man | a little man as big as a thumb , with a beard a cubit long | He | my | my | you | your | The old man as big as a thumb | I | He | he | the little old man | the old man as big as a thumb , with a beard a cubit long | he | he | the old man as big as a thumb , with a beard a cubit long | his | his | The little old man | his | He | his | the little old man | his | him | The old man as big as a thumb , with a beard a cubit long | me | me | my | him | him | his | them | the old man as big as a thumb | his | his |
+1	0	| a beard a cubit long | a beard a cubit long | a beard a cubit long | a beard a cubit long | his long beard | a beard a cubit long | his beard | his beard |
+1	0	| a cubit | a cubit | a cubit | a cubit | a cubit |
+1	0	| the matter with you | the matter with you |
+1	0	| the matter with you | the matter with you |
+1	0	| the other world | the other world |
+1	1	| 1st princess | youngest princess | the youngest princess , rosier than a pink rose , whiter than white snow | Your | you , princess | She | she | the princess | she | my | she | you | the princess | the princess | her | The princess | princess | your | you |
+1	1	| 3-headed dragon | three-headed dragon | my dragon | A three-headed dragon | a youth | You | you | your | you | The dragon | him | The dragon | his | he | his | dragon | the foul dragon | his |
+1	0	| drowsiness | drowsiness |
+1	1	| 2nd princess | second princess | the second princess |
+1	0	| 6-headed dragon | six-headed dragon | a six-headed dragon |
+1	1	| 3rd princess | eldest princess | the eldest princess | that princess | The princess | she | her | her |
+1	0	| an egg | an egg | the egg | it |
+1	0	| her sisters | her sisters | These princesses | they | their |

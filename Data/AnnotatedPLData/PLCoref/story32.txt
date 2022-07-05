@@ -1,0 +1,37 @@
+1	1	| king | The King | he | he | he | his | I | you | you | The King | the King | the King | him | The King | he | the King | the King | the King | the King | my father | He | him | him | him | the King | he | His | he | the King | he | his father | Their father | his father | His father | thou | my father | my father |
+1	0	| they | They | they | they |
+1	0	| these | them | them |
+1	0	| Our two princes | them | they | their | them | they | them | Their | them both | They | his brothers | they | they | they | his brothers | them | them | His brothers | his brothers | they | they | His brothers | His brothers | the others | brothers | them | brothers |
+1	0	| the princesses | they | they | they | their | they | they | the princesses | they | their | they | they | them | they | they | them | them | them | they | them | they | they | they | they | they | they | Each of them | her |
+1	0	| the maidens | the maidens | they | them | the maidens | the wondrous maidens | our | us | they | they | their | they |
+1	0	| wild animals of different kinds | the animals |
+1	1	| Norka | the beast | It | it | it | the beast | the beast | the Beast | the Beast | the Beast | the Beast | the Beast as before | it | it | it | the Beast | it | the Beast | the Beast | Norka | its | the Norka | Norka | him | the Norka | the Norka | her brother Norka | Norka |
+1	0	| he | he and they | them |
+1	0	| thou | he | my | my | I |
+1	1	| first brother | he | his | he | he | he | he | his | He | himself | his |
+1	1	| second brother | the second son |
+1	1	| the prince | O Prince Ivan | Prince Ivan | the youngest brother | he | he | he | his | the youngest son | him | he | he | he | his | he | his | him | he | he | he | he | he | he | he | he | he | his | he | me | His | him | he | he | his | He | he | him | He | he | him | him | He | his | He | he | he |
+1	0	| desirest | he | me |
+1	1	| a middleaged man | a middle-aged man | my brother | my brother | He | thou | him | her brother | her brother | their brother | he | he | he | His |
+1	1	| tailor | the tailor | the tailor | he | the tailor | his | this master | his master | his | you | your | I | I | his master | his | his master | he | He | he | the master | he | his | at least one good workman | him |
+1	0	| a tree | it | that tree | the tree |
+1	1	| mother bird | she | her | she | my | she | me | I | me | she | me | her | she |
+1	1	| a lady | Thou | thou | thou | thou | my grandmother | she | she | my | her | she | thou |
+1	0	| his weapons | his weapons |
+1	0	| they | they | themselves |
+1	0	| servants with them | servants with them |
+1	0	| Hail | Hail |
+1	0	| Long | thee |
+1	0	| me | thee |
+1	1	| first princess | a lady |
+1	0	| middleaged | my mother |
+1	0	| a girl | thou |
+1	1	| second princess | her | the second sister | her | She | her | her |
+1	0	| leave of her | leave of him | her leave |
+1	1	| third princess | the youngest sister | She | her | she | she | her | the youngest bride | me | my | her | she | she | she | she | her | she |
+1	0	| three palaces | the palaces |
+1	0	| Thanks ! | thou desirest |
+1	0	| brides | those brides |
+1	0	| the fields | the fields |
+1	1	| a bird | It | it | the bird |
+1	0	| the round of all the artificers | the round of all the artificers |

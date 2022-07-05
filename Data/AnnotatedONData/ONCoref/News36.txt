@@ -1,0 +1,3 @@
+0	0	| The U.S. | the U.S. |
+0	0	| Egypt | its |
+1	1	| the Israelis | their |

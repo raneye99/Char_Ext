@@ -1,0 +1,15 @@
+1	0	| We | We |
+0	0	| a conciliatory meeting with Vice President Gore next week | that meeting |
+0	0	| an exhausting presidential campaign and 36 long days spent * fights over the outcome for President - elect Bush | a bitterly fought presidential contest in history |
+0	0	| Washington | Washington |
+0	0	| another interesting meeting tomorrow | Tomorrow 's meeting |
+0	0	| tomorrow | Tomorrow 's |
+1	1	| President - elect Bush | Bush | he | the President - elect | his | him | Mr. Bush | he | Bush | his | President - elect Bush | He | Bush 's | The President - elect | President | Bush | Bush | he | President - elect Bush | Bush 's | He | Bush | he | he | he | He |
+1	1	| the senator | Mrs. Clinton |
+1	1	| John Breaux | A Democrat | him | his | Breaux |
+0	0	| America | the nation | the country |
+1	0	| leaders among them Tony Blair | them |
+1	1	| Clinton | Clinton | the President |
+1	1	| Vice President Gore | Vice President Gore | the Vice President 's |
+0	0	| the new administration | his administration |
+1	1	| Tony Blair | I |

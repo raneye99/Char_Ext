@@ -1,0 +1,17 @@
+1	1	| ABC 's Jim Sciutto | Jim Sciutto |
+0	0	| meet | that |
+0	0	| ABC 's | ABC News |
+1	1	| a Hasidic Jewish family | they |
+0	0	| homecoming night | homecoming night |
+0	0	| one of the town 's two meat - packing plants | The plant |
+0	0	| one little town | Postville | this town of 2,000 | it | This | the town 's | Postville | Postville | a town that *T*-2 had long been stagnant | Postville | the old Postville | Postville 's | Postville Iowa |
+0	0	| the town 's two meat - packing plants | The plant and another next door | The plants |
+0	0	| USA | America | America |
+0	0	| invaded | It |
+1	1	| the starting kicker | his |
+0	0	| Iowa | the state | its | Iowa 's | Iowa |
+1	0	| those who *T*-1 prefer the old Postville | them | you | you |
+0	0	| follow | It |
+0	0	| state lines | its borders |
+1	1	| Mayor John Hyman | I |
+1	1	| the newcomers | They | their | They | They | their | they | them | they | They | They | these people |

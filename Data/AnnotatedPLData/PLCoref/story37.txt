@@ -1,0 +1,43 @@
+1	1	| an old man | the old man | the old man | the old man | The old man | the old man | The old man | The old man | I | the old man | your |
+1	1	| an old  woman | The old woman | The old woman | she | the old woman | her | she | her | her | her | The old woman | the old woman | she | the old woman |
+1	1	| The champions | we | The champions | their | themselves | they | they | you | your | the champions | They | they | their | the champions | them | their | they | the champions | themselves | The champions | them | our | The champions | champions | you | They | their | them | they | they | They | their | them | they | their | them | themselves |
+1	0	| another | it |
+1	0	| three beautiful maidens | They | the beautiful maidens |
+1	1	| some village maidens | I | The maidens | they | themselves | They | themselves | I | them | them | their | you | you | You | we |
+1	0	| brothers | brothers | brothers | brothers | brothers | 's | They | his brothers | brothers | his brothers | brothers | brothers | brothers | brothers | brothers |
+1	0	| one | they |
+1	1	| Usynya | they | their | them | Usynya-Champion , Gorynya-Champion , and Dubynyushka-Champion | them | You |
+1	0	| the other | then the other |
+1	1	| a wife | a wife | my wife | I | I | my | my | me | My |
+1	1	| Onion | Onion | Onion | Onion | Onion | Onion | That | Onion | Onion | Onion | She | she | she | she | my bride | her |
+1	0	| berries | berries |
+1	1	| Dubynyushka-Champion | Dubynyushka-Champion | He | his | his | his | Dear Dubynyushka-Champion | Dubynyushka-Champion | He | his | Dubynyushka-Champion | I | I | Dubynyushka-Champion | Dubynyushka-Champion | Dubynyushka-Champion | he | Dubynyushka-Champion | You | your | my | I |
+1	1	| Usynya | his | he | his | his | his | his | Usynya-Champion | Usynya-Champion | his | his | Usynya-Champion | I | I | I | Usynya-Champion | me | Usynya-Champion | Usynya-Champion | He |
+1	1	| Gorynya-Champion | my | I | Gorynya-Champion | He | his | his | his | Gorynya-Champion | Gorynya-Champion | He | his | Gorynya-Champion | Gorynya-Champion | I | I | Gorynya-Champion | Gorynya-Champion | His | Gorynya-Champion | Gorynya-Champion | you | You | you | me |
+1	1	| Baba Yaga | Baba-Yaga | He | He | Baba-Yaga | Baba-Yaga | He | He | Baba-Yaga | Baba-Yaga | He | He | Baba-Yaga | Baba-Yaga | He | He | Baba-Yaga | Baba-Yaga | I | Baba-Yaga | Baba-Yaga | Baba-Yaga | Baba-Yaga | Baba-Yaga | Baba - Yaga | Baba-Yaga | Baba-Yaga | she | she | she | she | she | she | she | she | she | She | her | her | She | her | me | her | her | She | her | she | She | her | me | her | her | She | her | she |  |
+1	1	| Ivan Bearson | Ivanson | his | he | him | he | he | he | his | he | his | Ivanson-Bearson | Ivanson | Ivanson | his | his | he | him | he | Ivanson-Bearson | Ivanson-Bearson | Ivanson | Ivanson | Ivanson-Bearson | Ivanson-Bearson | his | Ivanson | Ivanson | He | his | his | his | Ivanson-Bearson | Ivanson-Bearson | Ivanson | Ivanson | He | he | Ivanson-Bearson | Ivanson | Ivanson | he | Ivanson-Bearson | I | he | he | he | he | me | I | me | him | Ivanson | he | his | he | he | He | himself | He | he | him | you | you | you | Ivanson | He | my | Ivanson | Ivanson | me | him | He | him | He | he | he | he | he | his | him | This so enraged Ivanson | He | He | his | You | You | you | I | myself | me | the winner | you | you | you | you | you | He | him | He | you | I | I | me | me | I | I | I | me | me | you | I | a fellow | He | me | a boy | him | a boy | a boy |
+1	0	| you | you |
+1	0	| We | our |
+1	0	| rotten children | our children |
+1	0	| the deepest | darkest part of the forest |
+1	1	| a little hut | The little hut | the hut | the hut | The hut | the hut | the hut | your | your | front of a little hut | your front |
+1	1	| a bear | The bear | it | the bear | the bear | the bear | He | He | my | he | him | He | him | him | you |
+1	0	| he | He |
+1	1	| a champion | his | a champion | he | he |
+1	0	| Lullaby | Lullaby | Lullaby | Lullaby , precious friend | Lullaby |
+1	0	| the rock | it |
+1	1	| the beautiful maiden | her |
+1	0	| his brute strength | my strength | my strength |
+1	0	| half man | half man |
+1	0	| the head | his head | his head | his head | his head | her head | her head | her head |
+1	0	| third | the third |
+1	0	| the wind | the wind | the wind | the wind |
+1	0	| the hand | his hand |
+1	0	| a tree | it |
+1	0	| geese | geese , ducks and turkeys |
+1	0	| his locks | his locks | his locks |
+1	0	| The earth | The earth | The earth | The earth |
+1	0	| an iron cattleprod | an iron cattle-prod | an iron cattle-prod | an iron cattle-prod |
+1	0	| a dog | the dog | a dog | the dog | a dog | the dog | a dog | the dog |
+1	0	| their backs | your backs | their backs | their backs |
+1	0	| two golden apples | the apples |

@@ -1,0 +1,14 @@
+1	1	| a woman | their mother | Mother | I | her | she | her | Mother | her | she | she | her | her | she | she | she | his mother |
+1	1	| his sons | his sons | They | her sons | two sons | they | my sons | my sons | them | the brothers | the brothers | them | The brothers | their | they | their | them | their | they | they | The brothers | They | their | They | they | They | you | They | my | you | his brothers | they | you | your | you | they | They | they | They | our | they | They | they | They | our | they | They | they | them | We | you | our | they | them |
+1	1	| the father | his | The father | you | His father | his | a man |
+1	0	| you | you |
+1	1	| the swine breeder | him | He | you | your | you | the swine breeder | the swine breeder | my | my | He | him | He | he | his | him | you | my brother | He | I |
+1	1	| the smith | him | The smith | him | his | He | he | He | him | my | my | He | him | He | he | He | him | He | my | my | He | him | He | he | He | him | you |
+1	1	| A dragon | he | his | the dragon | the dragon | the dragon | my | the dragon | my | his | The dragon | you | your | you | Dragon | The dragon | He | his | I | the dragon | dragon | The dragon | he | The dragon | him | him | I | my | He | The dragon | me | me | you | you | dragon | The dragon | the dragon | his | he | him | the dragon | he | the dragon | his | his | his | His |
+1	1	| The girl | our sister | your sister | our sister | your sister | our sister | your sister | our sister | your sister | my sister | your sister | my sister | your sister | my sister | your sister | The girl | The girl | I | you | You | The girl | her | her | one daughter | my daughter | her | my daughter | She |
+1	1	| the shepherd | him | He | you | your | you | the shepherd | the shepherd |
+1	0	| You | You |
+1	0	| my biggest ox | my biggest ox and then | my biggest ox |
+1	1	| the herdsman | the herdsman | the herdsman | the herdsman |
+1	0	| my biggest hog | my biggest hog | it |
+1	1	| Rolling Pea | Rolling Pea | Rolling Pea | I | my | my | my | my | Rolling Pea | Rolling Pea | Rolling Pea | me | Rolling Pea | Rolling Pea | you | I | I | my | He | He | he |

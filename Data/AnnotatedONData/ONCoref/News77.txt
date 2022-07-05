@@ -1,0 +1,22 @@
+1	1	| Al Gore | Al Gore | Al Gore |
+0	0	| The campaign | the campaign | the campaign |
+1	1	| Both Bush and Al Gore | the candidates | the politicians | The two candidates |
+0	0	| the election | it | it | the election |
+1	1	| George W. Bush | your | I | Bush | Governor Bush | you | Bush | you | you | yourself | you | I | you | I | me | I | I | myself | I | You | you | I | I | I | I | I | I | my | You | You | you | your | I | You | you | you | I | you | you | you | you | I | I | I |
+1	0	| you | I | I |
+0	0	| the Fonz | the Fonz |
+1	0	| Fat girls under the desk . | that |
+0	0	| doing | it |
+0	0	| have | that |
+1	0	| We | our | our |
+0	0	| do | it | It | It |
+1	1	| Karen | you | Karen |
+1	1	| Folks | They | They |
+0	0	| our lifetime | our lifetime |
+0	0	| That | losing |
+0	0	| this country | this country | we | We |
+1	1	| the voters | They | They |
+1	1	| Jay Leno | Jay | you | I | Jay | Jay 's | Jay | Jay | you | Jay Leno | the man | he | Leno | you | Jay Leno | you | I |
+0	0	| been | it |
+1	0	| President | President |
+1	0	| We | our |

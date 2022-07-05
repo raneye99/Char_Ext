@@ -1,0 +1,8 @@
+1	1	| a suspect who *T*-1 has been in custody for several weeks | his | The suspect |
+0	0	| ABC 's | ABC News | ABC News | ABC News |
+1	1	| a destroyer | the `` USS The Sullivans |
+0	0	| the `` USS Cole | the `` USS Cole '' | `` the Cole |
+0	0	| an identical attack that *T*-1 was planned *-2 , but failed , several months earlier | hit | The attack | their attack |
+1	0	| his group | their | their |
+0	0	| a different American warship in the same port | a destroyer , the `` USS The Sullivans , '' which *T*-2 refueled in Yemen 's port of Aden in January |
+1	1	| ABC 's John M Wethy | John M Wethy |

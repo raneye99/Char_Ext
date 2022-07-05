@@ -1,0 +1,2 @@
+1	1	| President Clinton | He | Mr. Clinton |
+0	0	| Vietnam | the country | Vietnam |

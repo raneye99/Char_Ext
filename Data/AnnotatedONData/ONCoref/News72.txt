@@ -1,0 +1,12 @@
+1	1	| a new leader in some of these polls | Texas governor George W. Bush |
+0	0	| report | it |
+1	1	| NBC News correspondent David Gregory | David Gregory |
+1	0	| both candidates | both candidates |
+0	0	| Tennessee *ICH*-1 | the state | Tennessee |
+1	0	| Advisors | they |
+1	1	| George W. Bush | Bush 's | a new leader in some of these polls , Texas governor George W. Bush | him | Bush in Tennessee *ICH*-1 today where the race on the home turf is surprisingly tight *T*-2 , announcing the endorsement of prominent Democrats including Griffen Bell , and taunting Gore who *T*-4 earlier this year was accused *-5 by a tenant of *PRO*-5 failing *-6 to properly maintain rental property 0 he owns *T*-7 in the state . | I | Bush | his | Bush himself giving Gore room 0 *PRO* to attack his readiness *PRO* to be President *T*-1 | himself | his | Bush | his | his | I | him | I | I | I | I | Bush | Bush |
+1	0	| President | President |
+1	1	| Gore 's | Gore who *T*-4 earlier this year was accused *-5 by a tenant of *PRO*-5 failing *-6 to properly maintain rental property 0 he owns *T*-7 in the state | he | Gore | him | Gore |
+1	0	| We | our | We | NBC News | NBC News |
+0	0	| North Carolina | North Carolina |
+1	0	| you | You | your |

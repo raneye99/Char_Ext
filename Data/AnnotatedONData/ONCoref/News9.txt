@@ -1,0 +1,16 @@
+1	1	| President Clinton | he | his |
+1	1	| the Israelis | its | the Israelis |
+0	0	| today | Today | Today |
+1	1	| the Palestinians | Palestinians | the Palestinians | they | The Palestinians | them | the Palestinian population |
+0	0	| Both sides | their |
+0	0	| the Mideast | the Mideast | this region |
+1	0	| We | we |
+0	0	| the violee | the violence | the violence |
+0	0	| six years *ICH*-2 | six years |
+0	0	| only finger pointing | it |
+1	0	| Half of the Palestinian population | this population | it |
+0	0	| Tomorrow 's summit meeting | this summit |
+1	1	| Ehud Barak and Yasser Arafat | both |
+1	1	| Ehud Barak | Mr. Barak | his |
+1	1	| Yasser Arafat | Arafat | his | I | Arafat | He | Arafat | Arafat | Arafat | him |
+0	0	| controlling | it |

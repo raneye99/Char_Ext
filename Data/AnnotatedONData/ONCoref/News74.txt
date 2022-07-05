@@ -1,0 +1,16 @@
+0	0	| today | today |
+0	0	| the investigation | the ongoing investigation |
+0	0	| only hours |
+1	1	| the National Security Agency , a super secret intelligence service | They |
+1	1	| the National Security Agency | a super secret intelligence service |
+1	1	| Yemen authorities | they |
+0	0	| tonight | tonight | tonight |
+0	0	| the attack on the USS Cole | bombed | the explosion | the attack | the Cole bombing | the Cole bombing | the Cole attack | this disaster |
+0	0	| the USS Cole | the damaged Cole | the Cole | Cole | Cole | Cole |
+1	1	| NBC News Pentagon correspondent Jim Miklaszewski | I | Jim Miklaszewski |
+0	0	| NBC News | NBC News |
+0	0	| a possible terrorist attack in Yemen | a potential terrorist attack |
+0	0	| a warning about a potential terrorist attack | the warning | That report |
+0	0	| Pentagon | Pentagon | Pentagon | The Pentagon | the Pentagon |
+0	0	| Yemen | Yemen | Yemen | Yemen |
+1	1	| a Middle East analyst with the Defense Intelligence Agency | He |

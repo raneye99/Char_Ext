@@ -1,0 +1,34 @@
+1	0	| Story listener |  |
+1	0	| good people | good people |
+1	0	| God | God | God |
+1	1	| Wee little Havroshechka | Wee little Havroshechka | her | her | her | her | She | Her | Wee little Havroshechka | She | She | someone to abuse | Wee little Havroshechka | her | she | her | me | me | me | me | me | Beautiful maiden | your | the beautiful maiden | She | her | her | Havroshechka | She | the orphan | the orphan | Havroshechka | Havroshechka | the orphan | Havroshechka | she | the beautiful maiden | Havroshechka | beautiful maiden | Havroshechka | She | She | Havroshechka | her | her |
+1	0	| The whole family | These people | they |
+1	0	| all and everything | all and everything |
+1	1	| stepmother | Her step-mother | her step-mother who | She | The old woman | She | My | my | her mother | the step-mother | she | her mother | The old woman | she | her mother | The old woman | she | her | you | woman | you | your | she |
+1	0	| daughters | three grown daughters | the girls | girls | Maiden-beauties | the three sisters | themselves | each other | their | The sisters | them | They | their | they | their | they |
+1	0	| One-Eye (name) | The oldest 's name | One-Eye |
+1	1	| oldest daughter | oldest | One-Eye | My wonderful daughter , my lovely daughter | One-Eye | She | her | One-Eye | One-Eye | One - Eye |
+1	0	| the middle daughter's name | the middle daughter 's name | Two-Eye |
+1	1	| middle daughter | middle daughter | Two-Eye | Two-Eye | her | her | Two-Eye |
+1	0	| the youngest's name | the youngest 's name | Three-Eye |
+1	1	| youngest | youngest | Three-Eye | her | she | Three-Eye | Three-Eye | her | she |
+1	1	| Hav's spotted cow | her spotted cow | her | Little mother-cow | The cow | my | cow | the cow | who helps the orphan | Who weaves , spins and rolls the linen | the little cow | The cow | that spotted cow | That cow | the cow | Little cow-mother | you | my | my | me | my | the cow |
+1	0	| the sun | the sun | the sun | the sun |
+1	0	| cow's ears | my ears |
+1	0	| cow's ear 2 | the other | the cow 's ear | the other | the other |
+1	0	| the grass | the grass | the grass | the grass |
+1	0	| One-Eye's eye | little eye | little eye | One-Eye 's one little eye |
+1	0	| not anything learned | anything |
+1	0	| middle daughter's first eye | little eye |
+1	0	| middle daughter's second eye | other little eye |
+1	0	| youngest's first eye | little eye |
+1	0	| youngest's second eye | other little eye |
+1	0	| all the prepared linens from third task | all the prepared linens |
+1	0	| step-mother's husband | her husband | The old man | he |
+1	0	| apples | The apples | the apples | the apples | they | they | them | the apples |
+1	0	| The bowing branches | The bowing branches | the branches | The branches |
+1	0	| a nobleman | a nobleman | He | he | he | me | my | The nobleman |
+1	0	| daughters' heads | their heads |
+1	0	| girls' braids | their braids |
+1	0	| any apples | any apples |
+1	0	| certain apples | apples |

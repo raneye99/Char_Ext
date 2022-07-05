@@ -1,0 +1,9 @@
+1	1	| Israeli Prime Minister Barak | he | I | my | Mr. Barak | I | Barak | him | him | Barak | his | Barak |
+0	0	| resign | resign | resign | his resignation |
+0	0	| my decision *PRO* to resign | chosen |
+0	0	| says | This | This | It | announcing |
+0	0	| things | they | them |
+0	0	| the trust of the Israeli people | That trust |
+0	0	| Israel | Israel | Israel 's | Israel |
+1	1	| ABC 's Gillian Findlay | Gillian Findlay |
+1	1	| former Prime Minister Netanyahu | Mr. Netanyahu | Mr. Netanyahu | Mr. Netanyahu | his | he |

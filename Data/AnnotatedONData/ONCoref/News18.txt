@@ -1,0 +1,12 @@
+0	0	| The attack on the `` USS Cole '' in Yemen | the attack | the explosion | the blast | the blast |
+0	0	| this small boat | it | it | This | this | it |
+1	1	| Cheron Gunn from Rex , Georgia | his |
+0	0	| the `` USS Cole '' | the `` USS Cole '' | the ship | It | The ship | It | it | this ship | the `` Cole '' |
+0	0	| ABC 's | ABC |
+1	1	| I | Peter | Peter Jennings | me | Peter |
+0	0	| his ship mate | Richard Costello |
+1	1	| the Navy | the Navy | The Navy | the Navy |
+0	0	| hands on deck who *T*-1 were manning machine guns , as part of an alert | they | they | the hands on deck who *T*-2 were supposed *-3 to be maintaining security | they |
+0	0	| deck | deck |
+0	0	| the mooring operation | the mooring operation | the mooring operation | the mooring operation |
+0	0	| slipped | That |

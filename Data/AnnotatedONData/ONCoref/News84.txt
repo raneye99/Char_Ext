@@ -1,0 +1,14 @@
+0	0	| a map 'am of the vote on Tuesday , the red for Bush , blue for Gore | County by county assessment of how the vote went *T*-1 on Tuesday | it |
+0	0	| The nation | this country , how it *EXP*-1 felt *PRO* to be an American today *T*-2 | the country | the nation | the country | the United States | the United States |
+0	0	| the vote on Tuesday | the vote |
+0	0	| Tuesday | Tuesday | Tuesday | Tuesday |
+1	1	| Mike Barnicle | Mike | You | I | I | me | Mike Barnicle | you |
+0	0	| today | today |
+0	0	| a legitimate recount | it |
+1	0	| more people | they | They | they | they | they | They |
+1	0	| We | us | our | our | we | us |
+0	0	| tonight | tonight |
+1	1	| the judges *ICH*-4 | the ultimate judges , the people | Their |
+1	1	| the ultimate judges | the people |
+0	0	| spoken | Their decision |
+1	0	| more and more people | them | they |

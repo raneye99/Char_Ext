@@ -1,0 +1,10 @@
+1	0	| we | our |
+0	0	| the Gore campaign | Their |
+0	0	| Nashville | Nashville |
+1	1	| Daley | I |
+0	0	| Florida | Florida |
+1	0	| we | us |
+0	0	| the will of the people | the will of the people |
+1	0	| Gore officials | They |
+1	1	| the people | our | the people | the American people |
+1	1	| Gore | A confident and seemingly relaxed Al Gore | Mr. Vice President | you | sir | He | His | Al Gore | Gore | Gore | he |

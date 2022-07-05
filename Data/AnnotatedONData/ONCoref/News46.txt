@@ -1,0 +1,3 @@
+1	1	| South Korean President Kim Dae jung | Kim | The 75 - year - old leader | his | his |
+0	0	| the Nobel Peace Prize | the award |
+0	0	| North and South Korea | his homeland |

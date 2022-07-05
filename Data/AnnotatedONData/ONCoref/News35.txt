@@ -1,0 +1,20 @@
+0	0	| Washington | The government | the federal government |
+0	0	| this key | it |
+1	1	| the Clintons | they |
+1	1	| Stephen Preston , general counsel to the Navy | his | he |
+1	1	| Stephen Preston | general counsel to the Navy |
+0	0	| the White House | the White House | The White House | it |
+1	1	| ABC 's John Martin | John Martin |
+1	0	| the President - elect | The new President | his |
+1	1	| the Bush team | they |
+1	1	| Clinton | Clinton | Clinton | Clinton | Bill Clinton | his |
+0	0	| ABC 's | ABC News |
+1	1	| Al Gore | he |
+0	0	| the clock | it |
+0	0	| The Clinton administration | it | Clinton administration |
+1	1	| Bush | Governor Bush | the executive | he | he |
+0	0	| the presidential transition | the transition |
+0	0	| a small gold chip on it | that | it | it |
+0	0	| the most important 600 | they |
+1	0	| us | us |
+0	0	| the top agency positions | those |

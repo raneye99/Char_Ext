@@ -1,0 +1,18 @@
+0	0	| their national anthem | the national anthem |
+0	0	| the old Soviet anthem | It | it | it | that anthem | it | it | the old anthem | the Soviet anthem | the anthem 's | the old anthem |
+0	0	| most symbols of its authoritarian past | them |
+0	0	| a bold , stirring melody | a feature of the military parades in Red Square |
+0	0	| Russia | they | their | their | a country that *T*-1 shed most symbols of its authoritarian past almost a decade ago | its | we | Our | we | our | the new Russia | a country that *T*-1 often can not escape *RNR*-3 or does not want *PRO*-2 to escape *RNR*-3 its Soviet past | its |
+1	1	| ABC 's Richard Gizbert | Richard Gizbert |
+1	0	| we | our |
+0	0	| ABC 's | ABC News |
+0	0	| some new words | those new words |
+1	1	| Putin | a Soviet - era KGB agent |
+0	0	| Putin 's compromise proposal | bring |
+1	0	| Russian athletes | their |
+1	1	| Boris Yeltsin 's successor , President Vladimir Putin | Putin , a Soviet - era KGB agent | He | Putin | Putin 's |
+0	0	| a century Russian composition -- 7777 -- an instrumental with no lyrics 0 *T*-1 to offend anyone | their new lyric-less anthem | it | the tune |
+1	1	| Boris Yeltsin , who *T*-1 throughout his presidency displayed an interest in *RNR*-2 , if not a sophistication for *RNR*-2 , music | his | He | Boris Yeltsin 's |
+0	0	| a century Russian composition | an instrumental with no lyrics 0 *T*-1 to offend anyone |
+0	0	| no lyrics 0 *T*-1 to offend anyone | that |
+1	1	| Boris Yeltsin 's successor | President Vladimir Putin |

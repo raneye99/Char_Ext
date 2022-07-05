@@ -1,0 +1,44 @@
+1	0	| there , all sorts of fruits , all sorts of birds | there , mother , in your country | there , mother |
+1	1	| a king | he | a king | The king | him | the King | The King | him | the King | the King | the king | the king | me , your Majesty | me | I | me | the king | he | he | his | he | he | his father | His father | him | his | he | his father | his father | Father | his father | him | I | me | I | me | I | his father | him | his | Their father | his | his | he | you | you |
+1	0	| three sons | their | Her three sons |
+1	1	| The second son | he | his | he |
+1	1	| the eldest son | his | he | his | His | the eldest son |
+1	1	| Koshchei the Deathless | Koshchei the Deathless | Koshchei | he | He | his | Koshchei the Deathless | Koshchei | him | him | Koshchei | Koshchei the Deathless | Koshchei | Koshchei | Koshchei | Koshchei | Koshchei | I | your | Koshchei | his | him | him | me , Prince Ivan | me | Koshchei the Deathless | Koshchei the Deathless | you | you | You | your | you | your | My | he | my |
+1	0	| he and she | they | them |
+1	0	| God | God | he | he | his | he | he | he | his | he |
+1	1	| a young wolf | he | the young wolf | a wolf | he |
+1	1	| king 's daughter | The king 's daughter | she | her | you | your | You | you | you | you | the King 's daughter | her | The bride | I | she | you | the bride | her | her | her | the bride | the bride | her | she | his bride | the maiden | him | him | him | the maiden | me | you | your | the maiden | my | I | He | he | his | he | his | he himself | himself | his | your |
+1	0	| you | my | I | he | he | He | he |
+1	1	| Prince Ivan | the youngest son | Prince Ivan | his | me | me | my | his | Your | you | Prince Ivan | he | his | He | him | he | Prince Ivan | Prince Ivan | Prince Ivan | He | Prince Ivan | he | me | me | he | his | he | he | his | Prince Ivan | his | his | I | he | his | He | he | Prince Ivan | he | Prince Ivan | your | Prince Ivan | He | he | his | Prince Ivan | Prince Ivan | he | he | his | he | He | he | his | he | his | her son | your son | Prince Ivan 's | Prince Ivan | his | He | his | he | my | you | Prince Ivan | he | he | I | He | his | me | I | Prince Ivan | he | He | he | I | Prince Ivan | Prince Ivan | he | he | Prince Ivan | himself | Prince Ivan | he | He | he | himself | his | Prince Ivan | Prince Ivan | he | his | he | him | Prince Ivan 's | Prince Ivan | Ivan | his | Prince Ivan | 's | friends | Prince Ivan | He | Ivan and his mother | Ivan | his | Ivan | his | Ivan | him | Prince Ivan | Prince Ivan | Prince Ivan | Prince Ivan | his | he | Prince Ivan | his | he | his | his | Prince Ivan | he | I | Prince Ivan | your | Prince Ivan | Ivan | himself | he | him | Prince Ivan | them | Prince Ivan 's | Prince Ivan | me | Ivan | his | I | he | his | Prince Ivan | Prince Ivan | Ivan | your | he | I | your | he | me | me | he | I | myself | his | him | him |
+1	1	| twelve strong youths | twelve strong youths | me | The youths | him | he | his | you | you | I |
+1	0	| a good turn | a good turn | a good turn |
+1	0	| those two Princes | their | them | they |
+1	0	| our | they | their | they | they | them | They |
+1	0	| they | They | they | they | them | they | they | their | Their |
+1	0	| his brothers | They | they | his brothers | that | them | his brothers | his brothers | his brothers | his brothers |
+1	1	| their mother | his mother | my mother | his mother | your mother | his mother | The mother | her | his mother | the she | my | I | his mother | she | his mother | his mother | his mother | their mother | her | she | she | her | she |
+1	0	| the other one | the other one |
+1	0	| her wedding-dress | the wedding-dress |
+1	0	| the matter | this matter |
+1	0	| the ring | the ring | the ring | the ring | it | The ring | the ring | the ring | it | the ring | it |
+1	1	| The old woman | this old woman | she | the old woman | The old woman | she | the old woman | she | she | me | I | The old woman | she | her | me | The old woman | the old woman | she | the old woman | the old woman | the old woman | her | she | her | she | herself | the old woman | The old woman | The old woman | me | she | she | me | She |
+1	0	| Circassian | her | me |
+1	0	| you | you |
+1	0	| you | you |
+1	0	| an egg | the egg | the egg | the egg | it | the egg | the egg | the egg | the egg |
+1	1	| the hare | the hare | the hare | the hare | the hare |
+1	1	| the ladder | the ladder | it | the ladder |
+1	0	| the ring | the ring | the ring | the ring | it | The ring | the ring | the ring | it | the ring | it |
+1	0	| his sword | it | the sword | it |
+1	0	| a by-street | him |
+1	0	| a heroic steed | his steed |
+1	0	| Phoo | Phoo | Phoo | Phoo |
+1	0	| an oak | the oak | the oak |
+1	1	| a duck | the duck | the duck | the duck |
+1	1	| a crow | the crow | the crow | the crow | it | it |
+1	0	| one | it |
+1	0	| herself | her |
+1	0	| seamless shoes | the seamless shoes | her the seamless shoes |
+1	0	| Such people as you | the people | they |
+1	0	| the wedding ring | it | it | it | it |
+1	0	| you | yourself |

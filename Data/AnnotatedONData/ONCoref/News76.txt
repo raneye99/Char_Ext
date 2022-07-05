@@ -1,0 +1,14 @@
+1	1	| Jim Miklaszewski | Miklaszewski |
+0	0	| Yemen | the Yemen government | Yemen | Yemen |
+0	0	| started | that |
+1	1	| A crewman | Sean Powell |
+0	0	| the terrorist bombing of the USS Cole | the catastrophic blast | the Cole attack | the attack | the blast itself |
+0	0	| the USS Cole | the Cole | the Cole | the ship | the Cole | Cole |
+0	0	| The damage | It | the damage |
+0	0	| the Pentagon | the Pentagon |
+0	0	| new pictures obtained * by NBC News | these photos obtained * by NBC News |
+1	1	| U.S. officials | they | they |
+0	0	| NBC News | NBC News | NBC News | NBC News | NBC News | NBC News |
+0	0	| the FBI 's investigation | the investigation |
+0	0	| A surveillance video at the harbor at the time of the attack | it |
+1	1	| the President 's | the President there | himself |

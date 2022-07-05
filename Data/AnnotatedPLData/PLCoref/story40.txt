@@ -1,0 +1,92 @@
+1	1	| a peasant | him | His | he | he | my | I | our father | your father | your father | him | her father | My dear father | the man who saved us from the cruel dragon and from undeserved death | his |
+1	1	| the first Ivan | I | I | Ivan , the soldier 's son | Ivan | the soldier 's son | Prince Ivan | Prince Ivan | his | his | himself | he | his | He | I | my | he | Ivan , the soldier 's son | Ivan | the soldier 's son | his | Ivan | his | he | his | my | me | Ivan | he | his | him | Ivanushka | Ivan | he | This | Ivan | his | him | him | Ivan | this | Ivan | he | him | Ivan | his | him | Ivan | him | he | his | This | he | his | his | He | I | Ivan | him | me | Ivan | his | he | his | He | me | me | my | you | I | my | he | He | he | Ivan the champion | He | Ivan | his | him | his | him | Ivan , the soldier 's son | Ivan | the soldier 's son | this | what befell the other brother , Prince Ivan | he | He | his | he | Prince Ivan | his | he | Prince Ivan | Ivan | this | Ivan | One day Ivan the champion | his | his | the other Ivan 's | Ivan 's | himself | He | this | he | My | Ivan the champion | he | He | he | Ivan | He | I | Ivan | me | I | I | my | I | him | Ivan the champion | his | Prince Ivan | Prince Ivan | Ivan the champion | his | he | his | he | him | Ivan | he | his | Ivan the champion | Prince Ivan | his | Ivan the champion | his | Ivan | he | him | Prince Ivan | he | his | him | Prince Ivan | Ivan | He | his | he | his | you | you | my | I | You | you | you | you | you | you | you |
+1	0	| the knight | him | he | me |
+1	0	| God | God | him | he | God | God | God | God | God | God | I | I | I | I | God | God | He | him | him |
+1	1	| a king | the king | he | him | his | him | his | him | him | the king | the king | his | him | He | his | he | his | you | him | The king | the king | his | The king | the king | the king | his | the king | he | he | him | the king | The king |
+1	1	| one brother | I | I | my | his brother | his brother | he | his brother | My brother | him | he | his | He | his | his | his brother | his | he | he | his brother | his | He | my brother | him | his brother |
+1	1	| a gray old man | him | him | that old man | him | him | the old man | The old man | him | The old man | the old man | an old man | The old man | him | you | you | me |
+1	1	| the second Ivan | The prince | he | he | He | his | he | his | He | he | he | his | the prince | the prince | I | You | The prince | him |
+1	1	| a soldier | the soldier | the soldier | the soldier | the soldier |
+1	0	| Mind you | Mind you |
+1	1	| the twins' mother | Our mother | their mother | Mother | Their mother | me | their mother | Their mother | my | you | my | The mother | my | she | my | their mother | my | she | their mother | my | you | The mother | She | my | my | their mother | your | my | my | she | His wife | her | his wife | his wife | his wife | his wife | her |
+1	1	| the good youth | He | his | he | his | the good youth | his | his | The good youth | his |
+1	1	| the oldest princess | the oldest |
+1	0	| she | her | her | her |
+1	1	| a poor old woman | her | the old woman | you | you | you | the old woman | the old woman | her | her | The old woman | me | I | you | you | The old woman |
+1	1	| The 2nd princess | her | her | My | she | I | my |
+1	1	| Princess Nastasya | the beautiful princess | She | I | her | her | she | she | The princess | the princess | her | the princess | The princess | me | I | she | The princess | My | my | the princess | her | The princess | The princess | she | her | the beautiful princess | The princess | The princess | she | She | the princess | the princess | the princess | the princess | you | you | your | you | you |
+1	0	| your | you |
+1	0	| you | you |
+1	0	| my brother | my brother |
+1	0	| those who started the fight | they | their | you | you |
+1	1	| The boyars ' and merchants ' sons | us | Our | us | us | we | our | us | we | they | the boyars ' and merchants ' Sons |
+1	1	| the owner | the owner | you | you | The owner | the owner | the owner |
+1	0	| you | she | she |
+1	0	| a match for the boyars ' and merchants ' sons | sons | Sons | my dear sons | the sons | their | themselves | they | I | I | you | we | my sons | their | their | us | our |
+1	1	| lovely maiden | The lovely maiden | he | his | the poor maiden | the lovely maiden | the lovely maiden | a lovely maiden | me | I | I | you | the lovely maiden | an ordinary maiden | she | she | her | she |
+1	1	| water carrier | The water carrier | I | my | the water carrier | you | I | the water carrier | I | the water carrier | you | The water carrier | the water carrier | the water carrier | The water carrier | it | the water carrier | the water carrier | the water carrier | he |
+1	0	| your | you | you | She |
+1	0	| respectable people | people | the people | the people | themselves | people | people |
+1	0	| our | us |
+1	0	| the boyars | The boyars | them | they | the boyars | them | they | they | They | them |
+1	1	| the 12-headed dragon | it | the turn of the king 's family | the dragon | the twelve-headed dragon | the dragon | the dragon | the dragon | The dragon | My turn | The twelve-headed dragon | the dragon |
+1	0	| a fleet-footed stag | the stag | the stag | the fleet-footed stag | it | the stag |
+1	1	| the monster | my | my | You | the monster |
+1	0	| each of us | I | you each |
+1	0	| each of us | I | you each |
+1	1	| a daughter | your daughter | his daughter |
+1	0	| a son | a son |
+1	0	| them | them |
+1	0	| you | your |
+1	1	| the youngest daughter | her |
+1	0	| you | your | your |
+1	0	| about as | He | me | he |
+1	0	| you | We | us | we | we | them |
+1	1	| grandfather | us , grandfather | us | Our | us | we |
+1	0	| you | we | us | we | That | we |
+1	0	| One of the brothers | it |
+1	0	| each | his | himself | his | his | his | his |
+1	0	| champions of such strength | them | them |
+1	1	| The horse dealer | his |
+1	0	| a post | a post |
+1	0	| the horses | the horses |
+1	0	| each a sword | them | them |
+1	0	| merchants | merchants | merchants |
+1	0	| them | them | They | them | them | them | them |
+1	0	| children | my children | them | them | my children | them | them | them | my children | them | them | them | my children | you | your | the two Ivans | the two Ivans | The two Ivans | The two Ivans | the two Ivans |  | They | They | The brothers | us | They | their | their | their | their | them | The brothers | them | their | their | the brothers | We | The brothers | their | their | The brothers | they | twin boys | them | The boys | they | they | their | them | they | their | they | the boys | them | them | They | our | us | us | we | us | Their | them | them | They | their | their | them | We | we | them | We | them | them | them | your | you | They | they | their | Their | them | We | we | them |
+1	0	| many horses | The horses | the horses | the horses |
+1	0	| their heads | the heads | the heads |
+1	0	| two phials | these phials | them | them | they |
+1	0	| a little child | a little child |
+1	0	| caps | their caps |
+1	0	| a lion | a lion |
+1	0	| our comrades | them |
+1	0	| You | they |
+1	0	| my beloved ones | They | us |
+1	0	| guards | them |
+1	0	| each | each |
+1	0	| a little horse | his horse | his horse | his horse | his horse |
+1	0	| the crowd | The crowd |
+1	0	| chains to oaken posts-one | their chains |
+1	0	| the chambers | the chambers |
+1	0	| no one | no one |
+1	0	| you | you |
+1	0	| your | She | she | she | she | her |
+1	0	| a magic horse | my magic horse | your magic horse |
+1	0	| two mighty swords | the swords | the swords |
+1	0	| the guests | themselves | us |
+1	0	| you | yourselves | We |
+1	0	| Fear not | Fear not , lovely maiden | Fear not | Fear not |
+1	0	| a short time-for | He who goes to the right | He who goes to the left |
+1	0	| posts | posts |
+1	0	| magic steed | his magic steed |
+1	0	| the blue sea | the blue sea | the sea | the sea | the sea | the sea | the blue sea | the sea | the blue sea | the blue sea | the sea | the blue sea | the sea | the sea | the blue sea | the blue sea | the sea |
+1	0	| my hair for lice | his hair | my hair | his hair |
+1	1	| the 12-headed dragon | it | the turn of the king 's family | the dragon | the twelve-headed dragon | the dragon | the dragon | the dragon | The dragon | My turn | The twelve-headed dragon | the dragon | You | you |
+1	0	| this | this |
+1	0	| you | you |
+1	0	| your | us |
+1	0	| the other Ivan 's | the other Ivan 's |
+1	0	| lo and behold | lo and behold |
+1	0	| the boy | the boy |
+1	0	| you | they |

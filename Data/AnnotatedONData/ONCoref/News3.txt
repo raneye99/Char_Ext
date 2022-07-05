@@ -1,0 +1,18 @@
+0	0	| is | that information | his loss | their victory | the sudden death of their dictatorship | defeat |
+1	1	| the people of Yugoslavia | their | their | the people |
+0	0	| admitted | It |
+1	1	| President Kostunica | his opponent | their new President , Vojislav Kostunica | he | he |
+1	1	| Russia 's Foreign Minister | Russia 's Foreign Minister , who *T*-1 carried the Russian President 's endorsement |
+0	0	| rest | that |
+1	1	| ABC 's Bob Woodruff | Bob Woodruff |
+0	0	| Belgrade | Belgrade | Belgrade | Belgrade |
+0	0	| the future of the country | the future of the country |
+1	0	| hundreds of thousands of people protesting for days | The crowds | their | The mob | They | the people |
+0	0	| the TV station that *T*-1 carried Milosevic 's words | the station 's |
+0	0	| tonight | tonight | tonight | tonight | tonight |
+1	1	| Slobodan Milosevic | he | he | he | his | Milosevic | Slobodan Milosevic | his | his | I , myself | I | I | my | my | Slobodan Milosevic | him | him | he | Milosevic | Milosevic | Milosevic | him | Milosevic | Milosevic 's | Milosevic 's | Milosevic 's | Slobodan Milosevic |
+0	0	| Yugoslavia | the country | the country | the country | Yugoslavia | Yugoslavia | a country |
+0	0	| Russia 's | the Russians | Russia 's |
+0	0	| the local party headquarters of Milosevic 's wife | the building |
+1	0	| The people here | their |
+1	1	| their new President | Vojislav Kostunica |

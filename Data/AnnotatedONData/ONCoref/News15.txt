@@ -1,0 +1,12 @@
+1	1	| Terry Sawchuck of the Detroit Red Wings | Detroit 's late Terry Sawchuk |
+0	0	| the record for most victories by a goaltender in the National Hockey League | the record for most wins |
+1	1	| ABC 's Brian Rooney | Brian Rooney |
+0	0	| the game | the game |
+1	1	| Roy 's hero | Rogie Vachon | pioneer of an aggressive style |
+0	0	| the National Hockey League | the National Hockey League | that league | it |
+0	0	| Today | today |
+1	0	| the goalie | They | the goaltenders | them | they | the goalie |
+0	0	| the Detroit Red Wings | Detroit 's |
+0	0	| ABC 's | C News |
+0	0	| the puck | the puck | it | it | the puck | the puck |
+1	1	| Patrick Roy of the Colorado Avalanche | Patrick Roy | he | I | He | his | He | his | his | his 6 ' 1 '' body | his | Patrick | his | Roy | his | He | He | his | his | he | I | I | he | Patrick Roy | Roy 's | I | Patrick Roy | He | I | I | I | me | He | him |

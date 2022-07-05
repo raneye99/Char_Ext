@@ -1,0 +1,15 @@
+1	1	| ABC 's Aaron Brown | Aaron Brown |
+0	0	| ABC 's | ABC News |
+1	1	| The cartel | Arch rivals | the two auction houses | they | Sotheby 's and Christie 's | They | Sotheby 's and Christie 's | They | their | the same two companies who for years *T*-2 swindled them |
+0	0	| price - fixing | This | the scandal |
+1	1	| Diana Brooks | President of Sotheby 's | she | herself | she | Ms. Brooks , who *T*-1 could go to prison and will certainly be heavily fined *-2 | her | She |
+0	0	| the art world | it | them |
+0	0	| New York | New York |
+0	0	| today | Today |
+0	0	| the gigantic international auction house Sotheby 's | its | Sotheby 's | Sotheby 's | Sotheby 's | Sotheby 's |
+0	0	| Consignments | they |
+0	0	| the gigantic international auction house | Sotheby 's |
+1	0	| people | they | they |
+0	0	| Christie 's -- its only real competition in an industry that *T*-2 does $ 4 billion *U* in business every year | Christie 's | Christie 's | Christie 's |
+0	0	| art , history and beautiful things | them |
+0	0	| Christie 's | its only real competition in an industry that *T*-2 does $ 4 billion *U* in business every year |

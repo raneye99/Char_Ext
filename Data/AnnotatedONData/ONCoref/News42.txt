@@ -1,0 +1,11 @@
+0	0	| warned | those words |
+1	0	| I | I | I |
+1	1	| a computer consultant 0 *T*-1 to install a program 0 *T*-2 to separate the ballots | His |
+0	0	| Jacksonville | Jacksonville |
+1	1	| Mike Von Fremd | me | Mike Von Fremd |
+0	0	| the Supreme Court | its |
+0	0	| its decision *PRO* to stop | it | it | told |
+1	1	| the Republican chairman of the Canvassing Board | he | his | he | himself |
+0	0	| this | it |
+1	0	| We | we |
+0	0	| both sides | they | the two sides | they |

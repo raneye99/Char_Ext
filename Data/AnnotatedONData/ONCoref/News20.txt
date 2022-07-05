@@ -1,0 +1,23 @@
+0	0	| ABC 's | ABC News |
+1	1	| six or more suspects | the men | they | the men who *T*-1 lived here | their |
+1	1	| the American destroyer | the `` USS Cole '' |
+1	1	| Investigators | they |
+1	1	| neighbors | the neighbors ' |
+0	0	| the port of Aden | the port |
+0	0	| a metal corrugated wall | these walls |
+0	0	| this one | This house on Al Zaharah Street half a mile from the port | the house |
+0	0	| the bomb | it |
+1	1	| American investigators | they | they | they |
+0	0	| Aden | Aden | Aden | Aden |
+1	1	| the bombers | the bombers | them |
+0	0	| four sailors killed * in the `` USS Cole '' bombing | They |
+0	0	| the `` USS Cole '' bombing | the bombing | the bombing | the attack on the `` USS Cole '' which *T*-2 killed 17 sailors and two suicide bombers | the bombing |
+1	1	| the government security agency | that center |
+1	1	| accused terrorist leader Osama Bin Laden | Bin Laden 's |
+0	0	| today | today | Today | Today |
+1	1	| FBI agents and divers | they |
+1	0	| neighbors | they |
+1	1	| Investigators | they | they | They | they |
+0	0	| names of possible suspects found * on papers in the houses and cars 0 they searched *T*-1 | they |
+0	0	| the boat that *T*-2 carried it | the boat | the boat | the boat |
+1	1	| ABC 's John Miller | John Miller |

@@ -1,0 +1,11 @@
+1	1	| ABC 's Jackie Judd | Jackie Judd |
+1	1	| Mr. Bush | he | George W. Bush | Bush | a President |
+0	0	| case number 00949 | it | Bush v. Gore |
+0	0	| the Supreme Court | the court | The Supreme Court | it | the court | this divided court | the Supreme Court |
+0	0	| ABC 's | ABC News |
+0	0	| the justices | their | they | we |
+0	0	| decided | This | their ruling | it | the ruling | it | This historic decision | it |
+0	0	| a very important general principle | it | this |
+0	0	| the principle of `` equal protection under the law '' | it | equal protection |
+0	0	| people 's votes | those votes |
+0	0	| That | it |

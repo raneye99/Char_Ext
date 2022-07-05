@@ -1,0 +1,21 @@
+0	0	| the American embassy in Kenya | the American embassy in Nairobi |
+1	1	| your national correspondent | John M Wethy |
+0	0	| Yemen | Yemen | Yemen | Yemen |
+0	0	| bombing | the bombing of the American embassy in Nairobi | the attack |
+0	0	| bomb | attack | it | it |
+0	0	| the `` USS Cole '' | the `` USS Cole '' |
+1	1	| The FBI | they | them | the FBI | them | the FBI | the FBI | the FBI | FBI | FBI | FBI |
+0	0	| the Pentagon | Pentagon | Pentagon | the Pentagon |
+1	1	| the CIA | CIA | the CIA |
+1	1	| terrorist leader Osama Bin Laden | Bin Laden | Bin Laden 's |
+0	0	| the message | it | a classified message , under Director Louis Freeh 's name , warning of a plot *PRO* to attack a U.S. Navy ship in Yemen | The FBI message | The warning | It | the FBI warning | it | the warning | the message |
+0	0	| another plot *PRO* to bomb an American ship in Yemen , where the `` USS Cole '' was ultimately attacked *-3 *T*-2 | a plan *PRO* to attack an American warship in Yemen | a plot *PRO* to attack a U.S. Navy ship in Yemen |
+1	0	| Pentagon officials | they |
+0	0	| attacked | the attack on the `` USS Cole '' |
+0	0	| the Yemeni port of Aden | Aden |
+1	0	| CIA officials | they |
+1	1	| a man on trial in New York for *PRO* bombing the American embassy in Kenya two years ago | him | he | the man | Mohammed Al - owhali | He | he | he | Al - owhali | the source |
+1	0	| FBI officials | they |
+0	0	| ABC News | ABC News |
+1	1	| General Anthony Zinni | Zinni |
+1	0	| your national correspondent , John M Wethy | John M Wethy |

@@ -1,0 +1,23 @@
+1	0	| The old couple | they | his father and mother | you | you | Ivashko 's parents | my father and my mother | my father and my mother | my father and my mother | my father and my mother | my father and my mother | my father and my mother | our | 's | The old people | their | they |
+1	1	| Ivashko | one son called Ivashko | him | Ivashko | his | I | me | you | you | you | I | I | me | his | him | him | him | he | Ivashko | her son | Ivashechko | Ivashechko , my boy | thee | Ivashko | my | me | her boy | his | him | his | him | his | he | his | Ivashko | his son | Ivashechko | Ivashechko , my boy | thee | Ivashko | my | me | his boy | his | him | his | him | his | Ivashko | him | the boy | Ivashechko | Ivashechko , my boy | thee | Ivashko | his | he | my | me | Ivashko | his | Ivashko | Ivashko | Ivashechko | Ivashechko , my boy | thee | Ivashko | the boy | him | Ivashko | Ivashko | I | Ivashko | I | my | me | me | you | Ivashko | Ivashko | Ivashko | Ivashko | Ivashko | Ivashko | Ivashko | Ivashko | Ivashko | Ivashko | Ivashko | he | He | he | my | me | me | my | my | my | my | you | Ivashko | he | my | me | me | my | my | my | my | you | Ivashko | he | my | me | me | my | my | my | my | him | him | him | his | her boy | my Ivashko | him | his | our Ivashko | me | Ivashko | me | the boy | whatever that is up there | Ivashko | their boy | he |
+1	1	| Father | father | the old man | his | my | I | That | my father | The old man | his | my father | my father | my father | my father | my father | my father | his father | I | old man | you , father | you , father | you , father | old man | The father | he |
+1	1	| Mother | mother | his mother | the old woman | her | my | I | That | my mother | the woman | her | his mother | my mother | his mother | Ivashko 's mother | Ivashko 's mother | my mother | my mother | my mother | my mother | my mother | my mother | his mother | her | my | she | I | she | she | me | me | the old woman | me | the wife |
+1	0	| some fish | some fish | the fish | the fish | the fish |
+1	0	| a boat | a boat | Canoe | canoe | Canoe | canoe | the canoe | Canoe | canoe | The boat | his boat | Canoe | canoe | Canoe | canoe | the canoe | Canoe | canoe | The canoe | Canoe | canoe | Canoe | canoe |
+1	0	| a little farther | a little farther | a little farther | a little farther | a little farther | a little farther | a little farther |
+1	1	| Witch | a certain witch | she | she | my | I | a witch | That | a witch who calls me | The witch | she | she | me | I | her | the witch | my | I | she | her | she | she | her | I | my | the witch | her | her | she | she | she | her | the witch | I | I | the witch | I | I | her | I | the witch | the witch | I | I | the witch | she | she | she | she | she | me | I | her | The witch | She | the witch | she | she | her | She | she | she | me | I | her | She |
+1	0	| Witch's voice | a hoarse voice | the voice | that of a witch |
+1	0	| his mother's voice | his mother 's | Ivashko 's mother 's |
+1	1	| smith | a smith | him | Smith | smith | you | you | the smith | Smith | smith | you | you | the smith | Smith | smith | you | you | The smith |
+1	1	| Alenka | her daughter Alenka | you | Alenka | Alenka | she | her | That cursed Alenka | herself | Alenka | it | Alenka | Alenka |
+1	0	| nobody | nobody |
+1	0	| Alenka's flesh | Alenka 's baked body | Alenka 's flesh | Alenka 's flesh |
+1	0	| the grass | the grass |
+1	0	| Ivashko's flesh | Ivashko 's flesh | Ivashko 's flesh | Ivashko 's flesh |
+1	0	| the point of gnawing it through | the point of gnawing it through |
+1	1	| swans and geese | swans and geese | them | my swans and geese | your | the birds | swans and geese | those in the rear | A third flock | my swans and geese | your | those swans and geese | swans and geese | their | swans and geese | those in the center | a second flock | my swans and geese | your | the birds |
+1	0	| the centre | the center |
+1	0	| the rear | the rear |
+1	0	| Early the next morning | Early the next morning |
+1	0	| all of a sudden | all of a sudden |
+1	0	| he and they | he and they |

@@ -1,0 +1,20 @@
+0	0	| responded | the responses |
+0	0	| Colier County | their |
+0	0	| All three counties | Palm Beach , Miami - Dade and Broward |
+0	0	| criteria appropriate to the exercise of my discretion under Florida law | This criteria | these criteria | the criteria 0 I used *T*-1 in *PRO* making my judgments , and the application of these criteria to the stated circumstances | these criteria |
+1	1	| our general counsel | Debbie Kerny |
+1	1	| two of our outside counsel | Joe Clock and Deborah Blanton |
+0	0	| the presidential election | the presidential election | the presidential election in Florida |
+1	1	| Joe Clock | Mr. Clock ? |
+0	0	| applied | the application of these criteria to the stated circumstances |
+0	0	| State | the Department of State |
+0	0	| the State Elections Canvasing Commission | its | the State Elections Canvasing Commission |
+0	0	| Florida | Florida | Florida | Florida | Florida | Florida |
+0	0	| the certification | the certification |
+1	1	| our general counsel , Debbie Kerny and two of our outside counsel , Joe Clock and Deborah Blanton | them |
+1	1	| the Secretary of State in Florida | I | me | I | I | my | my | I | my | I | I | my | my | I | I | my | my | I | I | I | I | me | I | my | I | I | you |
+0	0	| those counties contemplating manual vote recounts | their | they | their | them | All three counties -- Palm Beach , Miami - Dade and Broward | them | the counties , contemplating manual vote recounts | their | these counties | the counties |
+0	0	| decided | this decision | my decision in this process |
+0	0	| amend | these requested amendments |
+0	0	| deliberating | these deliberations |
+0	0	| letters detailing the criteria 0 I used *T*-1 in *PRO* making my judgments , and the application of these criteria to the stated circumstances | these letters |

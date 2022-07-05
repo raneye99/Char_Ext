@@ -1,0 +1,84 @@
+1	  1	| King | his | the king | the king | he | The king | him | him | he | the king | the king | him | the king | the king | the king | The king | the king | The king | he | he | him | the king | the king | he | him | he | the king | The king | him | My | me | me | I | you | your | The king | me | The king | him | the king | his | his | my | my | the king | he | his | he | The king | his | him | The king | his | My | him | him | the king | The king | their father | his | He | Your | you | you | your |
+1	1	| Indian king | his |
+1	1	| our hero | Our hero | his | He | he | his | him | him |
+1	1	| his queen | her | the queen | the queen | the queen | the queen | she | the queen | the queen | the queen | the queen |
+1	1	| Son of a peasant | the son of the peasant | he | he | he | He | me | He | me | him | He | he | I | I | myself | I | The young peasant | himself | he | He | the young peasant | his | his | he | he |
+1	1	| a little pitcher | a little pitcher | him | He | my | me | his | his | his | him | the pitcher | the pitcher | the little pitcher | him | the little pitcher | him | the little pitcher | a little pitcher | him |
+1	1	| Ivan the cow's son | Buria Bogatyr | his | He | Buria Bogatyr | he | I | you | he | Buria Bogatyr | He | I | Buria Bogatyr | Buria Bogatyr | me | Buria Bogatyr | Buria Bogatyr | his | himself | he | his | Buria Bogatyr | my | I | myself | you | Buria Bogatyr | his | he | He | his | he | himself | Buria Bogatyr | He | Buria Bogatyr | him | his | he | Buria Bogatyr | Buria Bogatyr | Champion of Champions | he | his | me | me | Buria Bogatyr | his | he | He | my | me | his | his | he | him | he | Buria Bogatyr | Buria Bogatyr | Buria Bogatyr | I | my | me | I | Buria Bogatyr | his | he | Buria Bogatyr | his | his | him | He | his | his | Buria Bogatyr | his | Buria Bogatyr | Buria Bogatyr , our eldest brother | Buria Bogatyr | Buria Bogatyr | I | my | I | He | his | him | my | I | thee | he | himself | Buria Bogatyr - Ivan the Cow 's Son - | him | him | Buria Bogatyr - Ivan the Cow 's Son - | him | his | Buria Bogatyr | He | He | my | me | Buria Bogatyr | him | he | his | my | I | Brother Buria Bogatyr | Buria Bogatyr | Buria Bogatyr | his | He | his | you | he | us | Brother Buria Bogatyr | Buria Bogatyr | Buria Bogatyr | you | you | the right and Buria Bogatyr | Buria Bogatyr - Ivan the Cow 's Son | he | him | him | I | Buria Bogatyr | us | our | we | Buria Bogatyr | Buria Bogatyr | I | He | him | Buria Bogatyr | Buria Bogatyr | my | I | He | Buria Bogatyr | his | Buria Bogatyr | his | you | you | you | Buria Bogatyr | Buria Bogatyr , the Cow 's Son | Buria Bogatyr | Buria Bogatyr | he | he | his | he | Buria Bogatyr | Buria Bogatyr | Buria Bogatyr | Buria Bogatyr | Buria Bogatyr | I | I | Buria Bogatyr | you | you | Buria Bogatyr | Buria Bogatyr | his | him | me | Buria Bogatyr | him | him | Buria Bogatyr | He | he | he | he | him | Buria Bogatyr | I | I | me | the cow 's son | the cow 's son | the Scullery Maid 's Son | Scullery Maid 's Son | the Cow 's Son | the Scullery Maid 's Son | You | the cow 's son | you | Ivan the Cow 's | the Cow 's Son | him | me | he | Ivan the Cow 's Son | Ivan the Cow 's | the Scullery Maid 's Son | him | Ivan | I | Ivan the Cow 's | the Cow 's Son | he | his | Ivan the Cow 's Son | Ivan the Cow 's | your | Your | Ivan the Cow 's Son | Ivan the Cow 's | him | My | he | Ivan | Ivan the Cow 's | the Cow 's Son | myself | Ivan the Cow 's Son | Ivan the Cow 's | his | his | his | Ivan the Cow 's Son | Ivan the Cow 's | his | he | his | him | Ivan the Cow 's Son | the Cow 's Son | the Cow 's | our eldest brother | he | I | He | he | Ivan the Cow 's | the Cow 's Son | thy | Ivan the Cow 's Son | Ivan the Cow 's | the Scullery Maid 's Son | The Cow 's Son | The Cow 's | him | the Scullery Maid 's Son | he | the Cow 's | Ivan the Cow 's Son | the Cow 's Son | the Cow 's | the Scullery Maid 's Son | the Scullery Maid 's Son | he | him | me | I | me | Ivan the Cow 's | the Cow 's Son | Ivan the Cow 's Son | Ivan the Cow 's Son | Ivan the Cow 's | his brother | his | himself | he | his | Ivan the Cow 's | his | his | he | him | he | him | him | his | Ivan the Cow 's Son | the Cow 's Son | the Cow 's | Ivan the Cow 's | the Cow 's Son | Ivan , Cow 's Son | Ivan | Cow 's Son | Son | I | Ivan the Cow 's Son | Ivan the Cow 's | his | he | he | He | his | he | himself | Ivan the Cow 's Son | the Cow 's Son | the Cow 's | the Cow 's Son | the Cow 's | Ivan the Cow 's | the Cow 's Son | our eldest brother | Ivan the Cow 's | the Cow 's Son | the Cow 's Son | the Cow 's | your son , my husband | your son | my husband | the Cow 's Son | the Cow 's | your son , my husband | your son | my husband | the Cow 's Son | the Cow 's | your son , my husband | your son | my husband | Ivan the Cow 's | the Cow 's Son | The sow was simple | The | the | the | Cow 's Son | Cow 's | the Cow 's Son | the Cow 's | the Scullery Maid 's Son | an enemy of ours | his | I | an enemy | an enemy | our enemy | his | he | himself | an enemy | you | you | they | their | a man | he | this fool | he | him | this fool | he | him | your companion | he | I | my | him | brother | He | he | you |
+1	1	| Prince Ivan | our | him | Prince Ivan | Prince Ivan | Prince Ivan | Prince Ivan | Prince Ivan | him | me | me | He | me | Ivan the Cow 's Son | Our | him | he | Buria Bogatyr - Ivan | Ivan the Cow 's Son | Buria Bogatyr - Ivan | Ivan the Cow 's Son | They | them | they | Buria Bogatyr - Ivan | Ivan the Cow 's Son | Prince Ivan | me | He | he | His | him | Ivan the Cow 's Son | Prince Ivan | Prince Ivan | Prince Ivan and Ivan the Scullery Maid 's Son | Prince Ivan | Ivan | Ivan the Scullery Maid 's Son | Prince Ivan | Prince Ivan in marriage | Prince Ivan | We | Prince Ivan | his | Prince Ivan | Prince Ivan | Prince Ivan | Prince Ivan | Prince Ivan | Ivan | Prince Ivan | Ivan | Prince Ivan | Prince Ivan | him | Prince Ivan | Ivan | him | Prince Ivan | Prince Ivan | Ivan | Prince Ivan | Ivan | Prince Ivan | his | They | Prince Ivan | Ivan | Prince Ivan | Prince Ivan | Prince Ivan | Prince Ivan | a child | a child | a child | him | you | you | you |
+1	1	| Her grandfather | My | me | I | me | I | The grandfather | Grandfather , grandfather | The grandfather | his | he | He | you | you | Grandfather , grandfather | Her grandfather | My | your | me | Grandfather | silver beard | your head | your head | your head |  |
+1	0	| they | they |
+1	0	| they | they |
+1	0	| They | they |
+1	0	| They | they | they | them | them | them |
+1	0	| another | They | They | they | they | they | they | themselves | they | their | themselves | them | them | them | they |
+1	0	| your | them | us | they |
+1	1	| twelve blacksmiths | Blacksmiths | blacksmiths | The blacksmiths | them | they | blacksmiths | Blacksmiths , blacksmiths | Blacksmiths | blacksmiths | Blacksmiths , blacksmiths | Blacksmiths | blacksmiths | The blacksmiths | the blacksmiths | They | they | you | you | you | you | your | your | them | them |
+1	1	| an old woman | her | she | me | I | I | her | she |
+1	1	| First daughter-in-law | her | my | I | myself | I | myself | I | I | myself | Her | her |
+1	1	| Princess | her | The princess | herself | her | The princess | me | Her | the princess | the princess | her | the princess | The princess | herself | she | me | my | her | she | the princess | The princess | me | Her | the princess | her | her | her | her | The princess | she | the king 's daughter | his daughter | his daughter | she | She | I | his daughter | your daughter | his daughter | The daughter | I | you | you | You | you | She | She | her | I | I | your | you | our |
+1	0	| boyars | wealthy merchants and peasants |
+1	0	| your | them |
+1	0	| cooks | them | them | The cooks | the cooks |
+1	0	| my sons | your brothers | My brothers | They | them | my brothers | my brothers | them |
+1	0	| either of us | him |
+1	1	| Six-headed dragon | the six-headed dragon | the six-headed dragon |
+1	1	| Nine-headed dragon | the nine-headed dragon |
+1	1	| Twelve-headed dragon |  the twelve-headed dragon |
+1	0	| God | God | God | God | God | He | thou |
+1	1	| Chudo Yudo | Chudo Yudo | a sea monster | Chudo Yudo | Chudo Yudo | Chudo Yudo , a sea monster | Chudo Yudo | a sea monster | my | me | Chudo Yudo | Chudo Yudo , sea monster | Chudo Yudo | sea monster | I | my | my | Chudo Yudo | the sea monster | Chudo Yudo | sea monster | Chudo Yudo | Chudo Yudo | Chudo Yudo | you | your | they | them |
+1	0	| you | you | you | you | you |
+1	0	| you | you | you |
+1	0	| you | you | you |
+1	0	| You | you | you | your | you | you | you | you | your | your |
+1	0	| you | you | our |
+1	0	| you | you | you | We | us | us |
+1	0	| your | your |
+1	0	| you | your |
+1	0	| you | your |
+1	0	| your | I | I |
+1	1	| Second daughter-in-law | my | I | myself | I | You |
+1	0	| your | my | I | myself | I | my | I |
+1	0	| two | two | two | two | two | two | it | two | two | two | two | two |
+1	0	| A cow | a cow | the cow | the cow | the cow | It |
+1	1	| a scullery maid | the scullery maid | the scullery maid | the Scullery Maid | the Scullery Maid |
+1	0	| our | They | us |
+1	0	| other boys | boys |
+1	0	| uncouth people | their |
+1	0	| your companion | your companion |
+1	0	| us | our | we |
+1	0	| the Black Sea | the Black Sea | the Black Sea | Black Sea | the Black Sea | Black Sea | the Black Sea | Black Sea |
+1	1	| the sea serpent | this serpent | the serpent | the serpent | the serpent |
+1	1	| Brothers | brothers | They | they | us | They | brothers | brothers | They | their | they | brothers | They | they | brothers , this garden | brothers | them | brothers | us | his brothers | us | our | The brothers | The brothers | our | his brothers | his brothers | They | our | his brothers | his brothers | his brothers | his brothers | their | them | them | They | their | The brothers | their | they | That | his brothers | they | His brothers | they | They | they | us | us | our | we | us | The brothers | their | They | us | They | they | the brothers | we | they | them | them | they | them | brothers | brothers |
+1	0	| your | We |
+1	0	| you | kings or princes | mighty champions | We | very mighty champions |
+1	0	| You | my | my |
+1	0	| Your walls and bars | no bars to me |
+1	0	| a hut | this hut | this hut |
+1	0	| thy back to the wood | thy |
+1	0	| the earth | the earth | the earth | the earth | the earth | the earth | the earth | the earth |
+1	0	| the waves | the waves | the waves |
+1	1	| Magic steed | Magic steed | horse of my need | The steed | the horse | his steed | the horse | the steed | this steed | the steed | horse of my need | The steed | the steed | the steed | horse of my need | The steed | the steed | his steed | horse of my need | The steed | his ears and nostrils | his ears and nostrils | her ears | his mouth | his mouth | you | you | you | you |
+1	0	| The good steed | my good steed | his good steed |
+1	1	| a pike with golden wings | the pike | it | it | the pike | the pike | the pike | the pike | the pike | it | it | it |
+1	0	| a horse | horse |
+1	0	| leaf before grass | leaf before grass | leaf before grass |
+1	0	| the grass | the grass |
+1	0	| this grass | this grass | this grass |
+1	0	| a friend | a friend |
+1	0	| pieces | pieces | pieces |
+1	0	| Next morning | the morning | the morning | Next morning |
+1	1	| only a oneeyed man | The one-eyed man |
+1	0	| their two horses | the horses | their horses | their horses | our horses |
+1	0	| the three horses | three horses |
+1	0	| their knees | their knees |
+1	0	| you | we |
+1	0	| the sacred meadows | his sacred meadows | the sacred meadows | my sacred meadows | the sacred meadows |
+1	1	| Baba Yaga | Her | mother | Mother | she | her | her | her | her | her | her | her | her | my | her | her | her | her |
+1	0	| a green meadow | this green meadow | a green meadow | the meadow |
+1	0	| you | yourselves |
+1	0	| our tents | their tents | the tents | their tents |
+1	0	| the culprit | the culprit | the culprit |
+1	1	| his prime minister | The prime minister |
+1	0	| a ladle | the ladle | a ladle |
+1	0	| a gull | a gull | a gull | a gull |

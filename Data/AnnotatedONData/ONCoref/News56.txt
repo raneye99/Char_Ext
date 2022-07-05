@@ -1,0 +1,14 @@
+0	0	| Delta Airlines | its | Delta | it | its |
+0	0	| the country | the U.S. alone | the country | the country |
+0	0	| New York 's | New York | New York |
+0	0	| things | they |
+0	0	| the Northeast | the Northeast alone |
+1	1	| ABC 's Bob Jamieson | Bob Jamieson |
+0	0	| take | it |
+0	0	| today | today | today | today |
+0	0	| ABC 's | ABC News |
+0	0	| Amtrak | The rail carrier |
+0	0	| this | This |
+1	0	| People | their |
+0	0	| Chicago 's O'Hare Airport , ground zero for air travel troubles all year | the airport |
+0	0	| Chicago 's O'Hare Airport | ground zero for air travel troubles all year |

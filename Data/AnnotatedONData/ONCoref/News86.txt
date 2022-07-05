@@ -1,0 +1,12 @@
+0	0	| humor as perspective | that |
+0	0	| the deadlocked election | this election | this race |
+1	0	| teenage girls | their |
+0	0	| `` Saturday Night Live '' | `` Saturday Night Live '' |
+0	0	| America | America |
+1	1	| I | some people | they | he | Gore | I Al Gore | I | me | Al Gore |
+1	1	| I | I | some people in this race | I | George W. Bush |
+0	0	| going | It |
+1	0	| We | our | We | We | George W. Bush and Al Gore | they | they |
+1	1	| the Governor of Texas | George W. Bush |
+1	0	| I | Al Gore |
+0	0	| that tape | that |

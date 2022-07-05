@@ -1,0 +1,17 @@
+1	0	| people | themselves |
+0	0	| the Coca - Cola company | the company | the company |
+1	1	| the President of Mexico | President of Mexico |
+1	1	| Mexicans | Mexicans | them | their |
+0	0	| Mexico | Mexico which *T*-1 has been ruled *-2 for seven decades by the same party | Mexico | Mexico | Mexico | Mexico | Mexico | Mexico |
+1	1	| the man who *T*-2 will be inaugurated *-3 tomorrow | He | He | He | Vincente Fox . | Mr. Fox | him | The 58 - year - old man who *T*-1 becomes President of Mexico tomorrow , strikingly handsome , wily in the ways of modern politics , enormously appealing as a symbol of change | I | I | I | a man who *T*-2 has charmed and fascinated them , who *T*-3 has become their political Messiah | Fox | His | Fox | I | I | He | he | He | He | you | you | you | I | you | You | You | I | Fox | he | he | Fox | Vincente Fox | Vincente Fox as President | Fox | He | he | I | I | Fox |
+1	1	| ABC 's Sam Donaldson | Sam Donaldson |
+1	1	| a man who , indeed , *T*-2 believes 0 he can defy the odds and make his dreams for Mexico come true | he | his |
+0	0	| campaigning | the campaign |
+0	0	| called | that |
+1	1	| Javier Trevino | you |
+0	0	| ABC 's | ABC News |
+0	0	| the United States | the United States |
+0	0	| tomorrow | tomorrow | tomorrow |
+1	0	| the same party | the opposition , the PRI | them | them | they | them | their | their | they |
+0	0	| the opposition | the PRI |
+0	0	| voting | it | voting |

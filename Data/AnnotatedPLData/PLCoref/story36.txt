@@ -1,0 +1,45 @@
+1	1	| a king | his | the king | him | him | the king | the king | The king | him | my | The king | I | my | the king | him | his | him | he | his | his | he | the king | me | The king | him | his | him | his | the king | The king | him | the king | the king | the king | The king | him | The king | him | the king | the king | The king | his | He | his | him | the king | The king | the king | the king | the king | the king | The king | himself | his | he | his | his | you | your | your | you |
+1	1	| Little man | him | himself | the little man as big | the little man | him | the little man | you | your |
+1	1	| the peasant | the peasant | the peasant | the peasant | the peasant | the peasant | the peasant | the peasant | the peasant | the peasant |
+1	1	| Ivan | Ivan the peasant | he | I | Ivan the peasant | You | he | I | you | Ivan the peasant | Ivan the peasant | Ivan the peasant | Ivan the peasant | peasant | Ivan the peasant | Ivan the peasant | anyone | your | you | you | you | your | you | your | youth | He | I | my | me |
+1	1	| Magic horse | the horse | the horse | the horse for him | that horse | a horse | that horse | that horse | a horse | a horse | the horse | a horse | a horse | the horse | his horse | the horse | his horse | his horse | the horse | the horse | the horse | the horse | his brow | a glistening moon | his brow | a glistening moon | a glistening moon | his wonderful horse | your horse | your horse | your horse | your horse |
+1	0	| a boat on the sand | this boat | the boat | the boat | that | it |
+1	0	| the morning | morning |
+1	1	| The old man | the old man | The old man | you | the old man | him | the old man | The old man | the old man | you |
+1	0	| a mangy colt | this colt | him | he | the mangy colt | The colt |
+1	1	| a footless and handless man | him | he | the man | The footless and handless man | him | you | He | I | I | a greater champion than you | my | my | I |
+1	1	| Princess | her | The princess | I | myself | she | her | his daughter | your daughter | his daughter | her |
+1	0	| multitude of princes | a multitude of princes , boyars , and lords of every description gathered together |
+1	0	| their | them | they | them | They | them | they | they | they |
+1	1	| his companions | they | his companions | they | They | They | his companions | they | They | his companions | his companions | his companions | them | they | they | They | his companions | Ivan 's companions | them | they | they | them |
+1	0	| six men | they | they | they | They | us | half a dozen men | we |
+1	0	| his guests | they | they | themselves |
+1	1	| three old men | they | me | The old men | me | my | These old men | ordinary people | they | you | We | The old men | the old men |
+1	0	| you | them |
+1	0	| us | them |
+1	0	| the river | the river | the river , took the ferry boat | the river | it | the river |
+1	1	| their mother-in-law | I | my |
+1	1	| the Magician | The Magician | me | me | The Magician |
+1	1	| youngest daughter-in-law | I | myself |
+1	1	| second daughter-in-law | I | myself |
+1	1	| oldest daughter-in-law | I | myself |
+1	0	| That | that time |
+1	0	| Sire | Sire |
+1	0	| his feet | my feet |
+1	0	| a mare | That mare | the mare |
+1	0	| many men | men |
+1	0	| my Sons | we |
+1	1	| A three-headed dragon | a three-headed dragon |
+1	1	| the six-headed dragon | the six-headed dragon |
+1	1	| the nine-headed one | the nine-headed one |
+1	1	| the twelve-headed dragon | the dragon | the dragon | the dragon | the twelve-headed dragon | him | my | me | the dragon | the dragon | the dragon | the dragon |
+1	0	| boys | boys |
+1	0	| the earth | the earth | the earth | the earth | the earth |
+1	0	| friends | my friends |
+1	1	| only the dragon 's wife | her |
+1	0	| an apple tree | an apple tree | an apple tree |
+1	0	| big | big |
+1	0	| seven versts | seven versts | seven versts | seven versts | seven versts |
+1	1	| the Freezer | The Freezer | it |
+1	1	| the Glutton | The Glutton |
+1	0	| a bath red hot | the bath | the bath |

@@ -1,0 +1,16 @@
+1	1	| a cat | a | The cat | The cat | the cat | himself | The cat | the cat | the cat | himself | him | him | his | The cat | the cat | The cat | the cat | the cat | the cat | himself | my | him | He | his | him | him | him |
+1	1	| a sparrow | the sparrow | the sparrow | the sparrow | Sparrow | the sparrow | the sparrow | Sparrow | the sparrow | the sparrow | the sparrow | the sparrow | the sparrow | Sparrow |
+1	1	| brave youth | youth | youth | youth | youth | youth | youth | youth | youth | He | He | me | youth | youth | I | You | you | you | you | He | him | his | you | He | he | I | he | me | his |
+1	0	| Mind you | Mind you |
+1	1	| Baba Yaga | Baba Yaga | Baba Yaga | Baba Yaga | she | her | her | Baba Yaga | her | Baba Yaga | Baba Yaga | Baba Yaga | Baba Yaga | her | Baba Yaga | Baba Yaga | Baba Yaga | Baba Yaga | Baba Yaga | Baba Yaga | her | Baba Yaga | her | I | my | Baba Yaga | Baba Yaga | Baba Yaga | She | her | She | her | Her | Baba Yaga | she | She | her | her | Baba Yaga | she | I | She | Baba Yaga | Baba Yaga | her | Baba Yaga | yourself | your |
+1	0	| the spoons | the spoons | the spoons | the spoons |
+1	1	| Baba Yaga 's daughter | she | I | myself | her |
+1	0	| he | I | myself | He |
+1	0	| his brothers | his brothers |
+1	1	| daughter 1 | the daughter |
+1	0	| roast this | roast this |
+1	0	| the other | the other | the other |
+1	0	| your own daughter 's | your own daughter 's |
+1	1	| daughter 2 | her second daughter |
+1	1	| daughter 3 | her youngest daughter |
+1	0	| how | how |

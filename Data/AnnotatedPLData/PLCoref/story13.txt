@@ -1,0 +1,31 @@
+1	0	| Queen | she | their mother | My little dove | my dear friend | you | your | The old woman | her | she | her |
+1	1	| Prince Danila | a son | your son | he | he | he | her son | he | the little son | He | he | he | He | he | his | he | Little brother | you | his | him | He | his | my | the brother | me | my | you | my brother | her brother | he | your brother | he | The brother | his | Prince Danila | Govorila | he | his | Her brother | my brother | Prince Danila | Govorila | he | his | The brother | my brother | The brother | he | He | He | his | He | his master | his | your | The master | his | He | his | he | his | him | master | you | your | you | your | you | you | your | your | his master | The brother | him | My beloved , my dearest | The brother | his | he himself |
+1	1	| Princess Catherine | a daughter | his sister | her | the sister | me | She | her | her | her | my sister | you | you | my | her | her | The sister | her | she | her | her | she | she | your | you | your | you | your | his sister | Sister Catherine | She | I | me | my | his sister | a wife | sister | the sister | Her | Sister Catherine | my | me | my | his sister | a wife | sister | sister | her | Sister Catherine | my | I | my | she | her | her | she | her | his sister | Sister | The sister | she | me | her guest | My little dove | you | you | you | The guest | she | she | her | her guest | the needle | The guest | a lovely maiden | The maiden | her guest | my beauty | The beauty | her | the maiden | You | maiden | The maiden | her | her | she | her | You | young woman | your sister | his sister | she | She | herself | your sister | herself | the sister | she | My | my | his sister | her | her |
+1	1	| Witch | A wicked witch | she | she | she | she | My | my | her | my mother | she | she | a witch | her mother | the witch | My | my | I | the witch | Madam mother | my mother | your | I | She | The witch | she | My | my | I | she | The witch | she | her | the wicked witch | the witch | My | my | I | she | my mother | you | her | the witch | her | her | her | Baba Yaga the Bony-legged , her nose hitting the ceiling | My | my | the witch | The witch | her | my | The witch | the witch | the witch | The witch | she | I | She | herself | her | her | her | her | the wicked witch | she | herself | The witch | she | her | The witch | her | she | her | she | She | The witch | she |
+1	0	| his betrothed | a bride | his betrothed | my wife |
+1	0	| another | another | the other |
+1	0	| all the lovely maidens | all the lovely maidens |
+1	0	| fate | fate |
+1	0	| the wedding | the wedding | your wedding |
+1	1	| Some old women | Some old women | them | them | They | them | the old women | us | The old women |
+1	0	| four little dolls | four little dolls | them | the dolls in the four corners | The dolls | The dolls | the dolls | their | them |
+1	0	| earth | earth | The earth | earth | ground | the earth | Earth |
+1	0	| the sister's head | the sister 's head |
+1	0	| everywhere | everywhere |
+1	0	| chicken legs | chicken legs |
+1	0	| the old way with your back to the woods and your front to me | the old way with your back to the woods and your front to me |
+1	1	| Witch's daughter | a lovely maiden | She | her | My | my | I | my | her hostess | the hostess | her | she | she | her | She | My good daughter , my comely daughter | you | my | you | My good daughter , my comely daughter | I | her daughter | My good daughter , my comely daughter | my | her daughter | My good daughter , my comely daughter | her friend , on whose finger the ring fitted |
+1	0	| these words | But when she comes back there will be trouble for both of us , for she is a witch | these words |
+1	0	| passers-by | passers-by | them | They | they |
+1	0	| all | all |
+1	0	| anyone | anyone |
+1	0	| Some little old men | Some little old men | their | them | they |
+1	0	| her nose | her nose |
+1	0	| the other | the other | the other |
+1	0	| her legs | her legs |
+1	0	| A servant | A servant | his | the servant | his servant | the servant | I | I | the servant | his |
+1	0	| one | one | One of them |
+1	0	| the other | the other |
+1	0	| a good man | a good man |
+1	0	| all of them | all of them |
+1	0	| forever after | forever after |

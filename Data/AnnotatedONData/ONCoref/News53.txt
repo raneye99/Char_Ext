@@ -1,0 +1,10 @@
+1	1	| ABC 's John Martin | John Martin |
+0	0	| the opportunity | the chance |
+1	1	| this member , Eddie Bernice Johnson | She |
+1	1	| Mr. Bush | he | Mr. Bush | Bush | Bush | his | him | George W. Bush | his | I | I | I | him | his | his | Mr. Bush | his | Bush 's |
+0	0	| ABC 's | ABC News |
+1	1	| this member | Eddie Bernice Johnson |
+0	0	| reach | it |
+0	0	| the Black Caucus | us |
+0	0	| today | Today |
+1	0	| Black leaders | them | they |

@@ -1,0 +1,26 @@
+0	0	| exactly the same number difference that it was *T*-1 when the recount began *T*-2 | 1,784 |
+0	0	| the best number going | the best number |
+0	0	| only 53 of the 67 counties | their | 53 counties |
+0	0	| the Associated Press numbers | its numbers |
+0	0	| their recount results | them |
+0	0	| the Florida capital | Tallahassee |
+1	1	| legal correspondent Dan Abrams in Tallahassee | I | I | I | you |
+0	0	| the White House | the White House | the grand house |
+0	0	| the nation | America | the nation 's |
+1	1	| Brian | you | Brian |
+0	0	| the Associated Press | the Associated Press | Associated Press | A.P. | its | they |
+0	0	| A recount | the recount | the recount in Florida | the recount |
+0	0	| it | it | The split |
+1	0	| we | we |
+0	0	| 65 out of 67 counties | 65 of the 67 counties | 65 counties |
+1	1	| Americans | their |
+0	0	| It | it |
+1	1	| Gore | Gore | Gore | Gore |
+0	0	| the numbers | these numbers | these numbers |
+0	0	| the official numbers that *T*-1 have been coming in | the official numbers |
+0	0	| separated | 225 - vote difference after 65 counties |
+0	0	| Florida | Florida | Florida | Florida | the state government here |
+0	0	| all day | Today | this |
+1	1	| Bush | George W. Bush 's | Bush | Bush |
+0	0	| the Gore campaign | the other side | they |
+0	0	| tonight | tonight | tonight | tonight |

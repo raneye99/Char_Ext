@@ -1,0 +1,24 @@
+1	1	| Al Gore | Al Gore 's | his | Gore 's |
+1	1	| ABC 's Jackie Judd | Jackie Judd at the Supreme Court . |
+0	0	| That session of the Supreme Court | the day 's proceeding | that hearing | the hearing |
+0	0	| the campaign of George W. Bush | the campaign 's |
+1	1	| George W. Bush | Governor Bush | George W. Bush | Bush | Bush |
+0	0	| the Florida Supreme Court | its | it | the Florida Supreme Court | the Florida court | the Florida Supreme Court | the state court | It | the state court | its | the state court | its |
+0	0	| Florida | Florida | Florida | Florida | Florida 's | Florida |
+0	0	| ruled | its decision |
+1	1	| Laurence Tribe , Gore 's attorney | Tribe |
+1	1	| The chief justice | Chief Justice Rehnquist | his | he |
+1	1	| Laurence Tribe | Gore 's attorney |
+0	0	| relied | that |
+1	1	| Justice Antonin Scalia | He |
+0	0	| the Supreme Court | the United States Supreme Court | It | the Supreme Court | the U.S. Supreme Court | the U.S. Supreme Court | the court | the Supreme Court | the Supreme Court of the United States | this honorable court | this court | the court | the court | the court | the Supreme Court |
+0	0	| the justices | the justices | they | The chief justice and the associate justices of the Supreme Court of the United States . | all the justices |
+0	0	| the U.S. Constitution | the U.S. Constitution |
+0	0	| today | today | today | the day 's |
+1	1	| Sandra Day O'Connor , often the swing vote on this court | Justice O'Connor |
+0	0	| protesters circling the Supreme Court | the protesters |
+0	0	| its authority | its authority |
+1	1	| Ted Olson lawyer for George W. Bush | Olson | his | Mr. Olson | Olson | he |
+0	0	| a case that *T*-1 could decide a presidential election | this case |
+0	0	| the courtroom | The courtroom |
+1	1	| Ted Olson | lawyer for George W. Bush |

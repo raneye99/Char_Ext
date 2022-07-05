@@ -1,0 +1,6 @@
+0	0	| Today | today | Today 's |
+0	0	| ABC 's | ABC News |
+0	0	| what *T*-2 was once a shining symbol of the future , Russia 's failing space station Mir | the oft - troubled craft | the abandoned Mir Station | This long suffering , long deteriorating orbiting lab | it | itself | Mir 's | the station | it | The Mir | It | Mir | it | the station | Mir |
+1	1	| ABC 's Mike Lee | Mike Lee |
+0	0	| what *T*-2 was once a shining symbol of the future | Russia 's failing space station Mir |
+0	0	| gassed | received | Today 's final fuel delivery |

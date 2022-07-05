@@ -1,0 +1,30 @@
+1	1	| NBC News correspondent | Kerry Sanders |
+1	0	| Elderly voters once again in Florida , the most important voting bloc because they actually vote more than any other group . | they | them |
+1	0	| Elderly voters once again in Florida | the most important voting bloc because they actually vote more than any other group |
+0	0	| A great getaway | a state where a mouse wields more power than the a tropical paradise *T*-1 |
+1	1	| The Republican governor here | Jeb Bush |
+1	0	| The largest Hispanic voting bloc of Florida | Republican voters who *T*-1 is do not seem *-2 to be crossing the party line |
+1	0	| this man | His |
+1	1	| the young Cuban boy | Elian Gonzalez |
+1	1	| Jorge Ramos | the Tom Brokaw of Spanish language news |
+0	0	| this election | the election |
+0	0	| the last - minute battle *PRO* to win a crucial swing state , Florida | fought |
+0	0	| George Bush 's Social Security plan | George Bush 's plan |
+0	0	| a crucial swing state , Florida | It | Florida | A great getaway , a state where a mouse wields more power than the a tropical paradise *T*-1 . | the Sunshine State | Florida 's | Florida | Florida | Florida where there are more than 550 children born * every day *T*-1 | this diverse state with a 15 % Hispanic population | Florida | Florida | Florida | this state |
+0	0	| a crucial swing state | Florida |
+1	0	| almost three million seniors | the largest elderly population in the United States |
+0	0	| 25 electoral votes . | 25 reasons 0 *PRO* to keep *-1 coming back *T*-2 , Florida 's 25 electoral votes |
+0	0	| 25 reasons 0 *PRO* to keep *-1 coming back *T*-2 | Florida 's 25 electoral votes |
+1	0	| Each of them | they |
+0	0	| support 0 he probably would have gotten *T*-1 here anyway | Sizable Jewish and African - American voting blocs . |
+0	0	| It | It |
+1	0	| a 15 % Hispanic population | their |
+1	1	| The Republican governor here , Jeb Bush | his |
+1	0	| we | our | NBC News | NBC News |
+0	0	| The issue most important to them | Social Security | Social Security | Social Security | Social Security | that one issue |
+0	0	| the other one | their |
+1	1	| the candidates | Al Gore and George W. Bush | Both candidates | Both candidates | them | Both candidates | both candidates | Gore and Bush | their |
+0	0	| the United States | the nation 's | the United States | this country |
+1	1	| Al Gore | Al Gore . | Al Gore | His | Gore | Gore | Gore | he |
+1	1	| George W. Bush | George Bush 's | George Bush 's | Bush | his brother |
+1	1	| NBC News correspondent Kerry Sanders | Kerry Sanders |

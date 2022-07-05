@@ -1,0 +1,28 @@
+1	0	| us | 's | we | we | us | us |
+0	0	| concede | that |
+1	1	| one of the leaders , Ben Ginsberg , one of the lawyers who *T*-2 argued the case in Leon County Circuit Court | He | Ben | you | you | your | I | I | your | you | you | you | I | I | I | you | you | I | you | you | your | Ben | you | your | I | I | I | Ben Ginsberg , attorney for the Bush team , victorious today in Tallahassee . | you |
+0	0	| this point *ICH*-1 | that |
+0	0	| election night | election night |
+1	0	| you |
+0	0	| tonight | tonight |
+0	0	| 10,750 -- | the exact number |
+0	0	| the situation as it exists in Florida | it |
+0	0	| all the legal processes | them |
+1	1	| the -- the circuit court judge , Judge Sauls | the judge there | his | he | he | his | he | he |
+0	0	| his ruling | this |
+1	1	| the -- the circuit court judge | Judge Sauls |
+0	0	| today | today | today | a long day |
+1	0	| all the people involved * in this unique -- this unique situation , the first time 0 a presidential election in our history has been contested *-2 *T*-1 | they |
+1	1	| the teams of lawyers on the Bush side | we | you | you | ours | We | the Bush team , victorious today in Tallahassee |
+0	0	| the first time 0 a presidential election in our history has been contested *-2 *T*-1 |
+0	0	| the appeals process | that |
+1	1	| one of the leaders | Ben Ginsberg | one of the lawyers who *T*-2 argued the case in Leon County Circuit Court |
+0	0	| know | that |
+1	1	| Ben Ginsberg | attorney for the Bush team , victorious today in Tallahassee |
+0	0	| Those ballots | they | these ballots | They | they | those ballots |
+0	0	| these proceedings | this |
+0	0	| Florida | Florida | Florida | Florida | Florida |
+1	1	| Gore | the Vice President -- | the Vice President | the Vice President | Gore | Gore | Gore |
+1	1	| I | Brian | I | Brian | Brian |
+1	1	| the Gore team | the Gore team | they | the Gore campaign |
+0	0	| the case | the case |

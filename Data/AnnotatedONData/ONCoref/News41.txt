@@ -1,0 +1,12 @@
+0	0	| the Florida Supreme Court | the court | The court |
+1	0	| we | we | we |
+1	0	| We | We | We |
+0	0	| the country | the country |
+0	0	| the capital | Tallahassee |
+0	0	| the Gore campaign | themselves |
+1	1	| Gore | Mr. Gore |
+1	1	| Americans | their |
+0	0	| them | she | them |
+1	1	| Bush | his | Mr. Bush 's |
+0	0	| 000 votes from Miami - Dade County | Those votes there |
+0	0	| Florida | the state |

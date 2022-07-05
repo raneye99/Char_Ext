@@ -1,0 +1,17 @@
+1	1	| the Food and Drug Administration | that agency | the FDA | it | The FDA | it | the FDA | its | we |
+0	0	| the bigger one | It |
+1	1	| Senior government wildlife experts | their |
+1	1	| Kevin Newman | Kevin Newman |
+0	0	| another delicacy | salmon |
+0	0	| Atlantic salmon | These experimental salmon | these | the supersalmon |
+0	0	| a Canadian province | this Canadian island province |
+1	0	| we | we |
+0	0	| are | that |
+0	0	| salmon | it | they |
+1	0	| they | fishermen on this Canadian island province | their |
+0	0	| nature | nature |
+0	0	| A U.S. company | a company | The company producing the supersalmon | it |
+0	0	| supersalmon 0 *T*-4 to feed human appetites | they |
+0	0	| a tremendous potential *PRO* to upset the balance of nature | that problem |
+0	0	| the balance of nature | the balance of nature |
+0	0	| 2 1 / 2 years | Same age . |

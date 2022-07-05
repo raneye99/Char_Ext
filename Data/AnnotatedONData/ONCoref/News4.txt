@@ -1,0 +1,12 @@
+0	0	| the International War Crimes Tribunal | the war crimes tribunal | it | the war crimes tribunal | the tribunal |
+1	1	| the new Yugoslav President | The new President of Yugoslavia , Vojislav Kostunica | he | He | Vojislav Kostunica | Kostunica | His | he | He | He | Kostunica | He | he | him |
+1	1	| The new President of Yugoslavia | Vojislav Kostunica |
+1	1	| Slobodan Milosevic | Milosevic | Slobodan Milosevic | Milosevic | him | Milosevic | the man | Milosevic | Milosevic | Milosevic | Milosevic |
+0	0	| tonight | Tonight |
+0	0	| trial for war crimes | trial |
+1	1	| our national security correspondent , John M Wethy | John M Wethy |
+1	0	| the U.S. , which *T*-2 has spent enormous amounts of time and energy *PRO*-3 fighting Milosevic | the U.S. | we | we | the U.S. | the U.S. | the U.S. | The U.S. |
+1	1	| our national security correspondent | John M Wethy |
+0	0	| demanded | the actions of the war crimes tribunal |
+0	0	| comes | it | it |
+0	0	| freedom of the press , rule of law and a free market economy | them all | them |

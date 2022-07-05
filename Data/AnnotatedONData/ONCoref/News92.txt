@@ -1,0 +1,20 @@
+0	0	| something tremendously important to this country , literacy | this issue | the issue |
+0	0	| this country | this country |
+1	1	| Hillary Clinton | Hillary Clinton | Mrs. Clinton | Hillary | she herself | herself | Hillary Clinton | She | Mrs. Clinton | She | she | She | he | her | She | She | she | she | she | She | Mrs. Clinton | She | Hillary Clinton with health care |
+0	0	| taking | that |
+0	0	| a large spending program | a $ 5 billion *U* literacy program |
+1	1	| Laura Bush | the new first lady | her | her | she | She | she | her | She | She | She | she | Mrs. Bush | Laura Bush | she | She |
+0	0	| That | that | it | It |
+0	0	| Literacy | it |
+1	0	| we | our | us |
+0	0	| deal | that | it |
+0	0	| our panel | us | you |
+1	1	| David | you | you | I | I | I |
+0	0	| something tremendously important to this country | literacy |
+0	0	| the idea of *PRO* being in the traditional role | it |
+0	0	| having | that |
+0	0	| was | That |
+1	1	| Deborah | I | Deborah | you |
+0	0	| Not every wife | her |
+1	1	| Joyce | you | I | I | I | Joyce |
+1	1	| Barbara Bush | Barbara Bush |

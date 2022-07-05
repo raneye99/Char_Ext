@@ -1,0 +1,16 @@
+0	0	| the port of Aden in Yemen | the port of Aden |
+0	0	| Aden | Aden | Aden | Aden |
+0	0	| Yemen | Yemen | Yemen | the government of Yemen |
+0	0	| today | today | today |
+0	0	| the `` USS Cole '' | the `` USS Cole '' | that ship | the `` Cole '' |
+1	0	| I | I | Senator |
+0	0	| the last four sailors who *T*-1 died in the attack | Their bodies | Their |
+1	1	| ABC 's John M Wethy | John M Wethy |
+0	0	| ABC 's | ABC News |
+0	0	| the far safer approach of *PRO* refueling at sea | that |
+1	1	| Terrorists | they | their | them all |
+0	0	| the purpose of a better relationship with a country | that reason |
+0	0	| us | we | we | we | we |
+0	0	| the U.S. | the U.S. |
+1	1	| the general who *T*-1 sent the `` USS Cole '' into the port of Aden in Yemen | he | The man who *T*-1 opened the door for American warships to use the port of Aden | my | I | I | General Zinni | Zinni | I | you | my | The general |
+0	0	| all her ports , from the Suez Canal to the Persian Gulf | their |

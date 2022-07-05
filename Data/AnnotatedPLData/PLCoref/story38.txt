@@ -1,0 +1,84 @@
+1	1	| White Polyanin | White Polyanin | White Polyanin | White Polyanin | White Polyanin | White Polyanin | White Polyanin | White Polyanin | White Polyanin | it | White Polyanin | White Polyanin | White Polyanin | White Polyanin | his | him |
+1	0	| Three youths | They | themselves |
+1	0	| They | They | They |
+1	0	| the four brothers | their | they | they | they | They | The brothers | I | The brothers | their | the brothers | they | themselves | The brothers | They | they | they | They | they | they | his brothers | they | they | They | they |
+1	1	| Ivan Chefson | next Ivan Chefson | Ivan Chefson | Chefson | Ivan Chefson | He | his | Chefson | him | Chefson | he | Chefson | Chefson | his | Chefson | He | Chefson | him |
+1	1	| Ivan Kingson | Ivan Kingson | we | we | They | themselves | they | they | themselves | their | we | we | We | me | Kingson | they | their | they | first Ivan Kingson | Ivan Kingson | They | Kingson | They | they | Kingson | the youngest brother | the youngest brother | the middle brother | They | their | them | Ivan Kingson | Kingson | Ivan Kingson | Kingson | Kingson | Kingson | Kingson | Kingson | My | my | us | We | our | They | Ivans Kingson | Ivans Kingson | They | him |
+1	0	| We | We | brothers | brothers |
+1	0	| friend or foe | friend or foe |
+1	1	| a king | The king | I | The king | the king | the king | The king | the king |
+1	0	| no children | children |
+1	0	| children | children |
+1	0	| you | I |
+1	1	| the third princess | the other princess |
+1	0	| a son | a son | a son |
+1	0	| you | I | I | me | My | him |
+1	1	| your husband | My husband | my | I | your husband | my husband | My husband | He | I | my | My husband | I | my | He |
+1	1	| the first princess | The princess | the princess | she | she | you sighing | I | I | my | my | me | I | The princess | the princess | the princess | I | I | my | My | The princess | her | the princess | She | you sighing | I | I | my | my | The princess | the princess | The princess | her | She | her | her | The princess | she | I | She | her | you | I | me | my | The princess | I | She | you | I | me | my | the princess | she | she | My | I | I | she | me | my | you | me | me | my | my | you | your |
+1	1	| Ivan Dogson | Ivan Dogson | Ivan Dogson | Dogson | Dogson | Dogson | Dogson | Ivan Dogson | Dogson | He | himself | He | his | his | Dogson | him | his | He | me | me | Ivan Dogson | him | Ivan Dogson | He | his | Dogson | him | Dogson | Ivan Dogson | him | He | Dogson | Dogson | Dogson | I | me | him | He | I | He | he | you | me | my | me | me | him | him | him | him | Ivan Dogson | Dogson | Dogson | He | him | He | his | he | He | Ivan Dogson | Dogson | Dogson | He | him | He | his | he | He | he | Ivan Dogson | Dogson | Ivan Dogson | his | he | he | Ivan Dogson | his | his | him | he | him | I | my | Ivan Dogson | He | his | Ivan Dogson | Ivan Dogson | He | I | you | You | yours | He | Ivan Dogson | Dogson | Dogson | Ivan Dogson | Ivan Dogson | He | me | Dogson | me | Ivan Dogson | I | me | Ivan Dogson | he | his | Ivan Dogson | he | Ivan Dogson | Ivan Dogson | me | I | Dogson | he | Ivan Dogson | Ivan Dogson | Ivan Dogson | me | I | he | he | Ivan Dogson | Dogson | he | he | him | Ivan Dogson | himself | he | his | you | He | himself | his | He | himself | I | he | your assistant | you | me | my | me | me | you | you | I | I | me | My | you | him | him | him | him | you | you | you |
+1	1	| The beggar | him | the beggar |
+1	0	| boys and girls | the boys | the boys |
+1	0	| the girls | they |
+1	0	| the man | the man |
+1	1	| The chef | the chef | the chef |
+1	0	| one insolent fellow | him | his | him | his |
+1	1	| the old man | him | him | He | him | he | his | The old man | the old man | he | his | The old man | he | the old man | him | the old man | the old man | the old man | he | himself | the old man | The old man | him | him | The old man | he | he | the old man | me | you | the man |
+1	0	| God | him | him | God as my helper | my helper | God | my helper | God |
+1	1	| black stallion | him | the black stallion | me | The stallion | him | he | the stallion |
+1	1	| goldsmith | the goldsmith | He | The goldsmith | him | the goldsmith | the goldsmith | He | me | the goldsmith | the goldsmith | He | the goldsmith | the goldsmith | the goldsmith | me |
+1	1	| the queen | She | she | herself | the queen | the queen | The queen |
+1	1	| the first princess | her | She | I |
+1	0	| they | They |
+1	0	| The good youths | they |
+1	1	| the third princess | the youngest princess | me | my | the princess |
+1	0	| the dog | the dog | the swill | the dog | the dog |
+1	0	| the dog | the dog | the swill | the dog | the dog |
+1	0	| He | his |
+1	0	| They | their | their |
+1	1	| a maiden | A maiden | him | me | my | me | me | him | him | him | him | you | A maiden | him | you | you | your | she | your |
+1	0	| a silver spear | a silver spear |
+1	0	| you | them |
+1	0	| you | his | he | You | yours |
+1	0	| He | He |
+1	0	| you | your | He | me |
+1	0	| his eyes backward | my eyes | my eyes | my eyes |
+1	0	| you | you | your | She |
+1	0	| the hunt | the hunt | their hunt | the hunt |
+1	0	| a mortar | the mortar | a mortar | the mortar | a mortar | the mortar | a mortar | the mortar | the mortar |
+1	0	| seven fathoms | seven fathoms | seven fathoms | seven fathoms |
+1	1	| the grandfather | the grandfather |
+1	0	| Licketysplit | the old man ripped off Chefson 's skin up to his shoulders and threw the fleshy husk under the bed |
+1	0	| He | he |
+1	0	| his shoulders | his shoulders | his shoulders |
+1	0	| Darling | Darling |
+1	0	| You | you |
+1	1	| the tweleve-headed serpent | the twelve-headed serpent |
+1	1	| this last princess | she | you | you |
+1	1	| the serpent | The serpent | the serpent | the serpent | the serpent | the serpent | the serpent | The serpent | the serpent | the serpent | the serpent | the serpent | the serpent | the serpent | the serpent |
+1	0	| a hook | a hook |
+1	0	| Licketysplit | the old man ripped off Chefson 's skin up to his shoulders and threw the fleshy husk under the bed |
+1	0	| pieces | pieces |
+1	0	| you | We |
+1	0	| Russia | Russian |
+1	0	| questions | your questions | questions | your questions | your questions |
+1	0	| you | you | we |
+1	1	| the third princess | her | you | you |
+1	0	| the doors | the doors | the doors | the doors |
+1	0	| Phooey | it | Phooey | it | It |
+1	0	| This | This |
+1	0	| my mother | my mother |
+1	0	| his ashes | his ashes |
+1	0	| a glorious ring | this ring | its |
+1	0	| a ring | a ring | a ring | a ring | a ring | a ring | a ring | a ring |
+1	1	| the second princess | her | her | you | you |
+1	0	| you | you | we |
+1	0	| his own club | the club |
+1	0	| them | them |
+1	1	| gray stallion | him | the gray stallion |
+1	0	| Dirt clods | Dirt clods | Dirt clods |
+1	0	| its hooves | the hooves | the hooves | the hooves | the hooves |
+1	0	| its ears | its ears | the ears |
+1	0	| you | us |
+1	1	| auburn stallion | the auburn stallion | the auburn stallion | The auburn stallion | him |
+1	0	| nuts | nuts | the nuts | nuts | the nuts | nuts | the nuts |
+1	0	| a golden ring for my wedding | the ring for you |

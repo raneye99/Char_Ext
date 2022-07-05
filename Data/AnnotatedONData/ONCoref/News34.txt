@@ -1,0 +1,14 @@
+1	1	| ABC 's Gillian Findlay | Jillin Findley |
+0	0	| This road , a lifeline for the several hundred Jewish settlers who *T*-1 live here | the road |
+0	0	| tonight | tonight 's |
+0	0	| today | Today |
+0	0	| violence on violence | It | It | this |
+0	0	| the bombing of a school bus carrying children of Jewish settlers | exploded | the explosion | The incident |
+0	0	| a school bus carrying children of Jewish settlers | a bus filled * with school children | The bus |
+1	1	| children of Jewish settlers | school children |
+1	1	| Yasser Arafat 's | Yasser Arafat |
+0	0	| This road | a lifeline for the several hundred Jewish settlers who *T*-1 live here |
+1	1	| Israeli soldiers | their | their | they | themselves |
+0	0	| one of the most punishing Israeli responses in weeks | fired | this one | tonight 's attack |
+0	0	| Gaza | Gaza | Gaza |
+1	1	| Israel 's Prime Minister | Mr. Barak |

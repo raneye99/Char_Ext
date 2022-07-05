@@ -1,0 +1,11 @@
+1	0	| Former Iranian hostage Terry Anderson and the families of seven other former hostages | their |
+1	1	| Former Iranian hostage Terry Anderson | Terry Anderson |
+0	0	| legislation passed * this month | The bill | it |
+0	0	| compensation for their suffering | this | this | It | It |
+1	0	| terrorists | they |
+1	1	| ABC 's Jim Sciutto | Jim Sciutto |
+0	0	| ABC 's | ABC News |
+1	0	| President | He |
+1	0	| His | Colonel William Higgins ' |
+1	0	| many victims | their |
+0	0	| their money | The money | it |

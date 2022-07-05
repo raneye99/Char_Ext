@@ -1,0 +1,17 @@
+1	1	| ABC 's Bob Woodruff | Bob Woodruff |
+0	0	| Ramallah | Ramallah |
+0	0	| went | that |
+1	1	| Prime Minister Barak | Barak |
+0	0	| today | today | today |
+1	1	| Israelis who *T*-1 had been firing rubber bullets | their |
+1	1	| the wounded | them |
+0	0	| tonight | tonight | Tonight |
+0	0	| the truce *ICH*-1 brokered * by President Clinton between Israelis and Palestinians | the truce |
+0	0	| The question | It |
+0	0	| the stoning and shooting | It |
+1	1	| Israelis and Palestinians | both sides |
+0	0	| ABC | ABC News |
+1	1	| Palestinians | They | their people | they | their | We |
+1	1	| Palestinian leaders | their |
+0	0	| Israel | it | Israel | us | we |
+0	0	| respond | this |

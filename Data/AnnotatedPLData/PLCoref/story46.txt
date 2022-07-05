@@ -1,0 +1,25 @@
+1	1	| peasant | The peasant | his | the peasant | his | The peasant | the peasant |
+1	0	| their | them | their | they |
+1	1	| dumb son | he | his | The simpleton | he | he | He | his | The simpleton | His | him | his dumb son | her son | He | his | her son | their son | him | him | his | him | he | their dumb brother | him | their dumb brother | him |
+1	1	| his older brothers | their | They | their | They | them | them | His brothers | their | they | their | their | they | they |
+1	1	| the prince 's parents | The parents | their | they | They | them | them | their parents | they | their |
+1	0	| the cellar | the cellar | the cellar |
+1	1	| the cook | he | The cook |
+1	1	| the king | The king | He | his | The king | his | the king | The king | him | the king | The king | his | he | the king | him | The king | his | The king | him | his | he | his | he | he | he | The king | his | The king | him | his | He | he | him | The king | his | The king | his | the king | The king | he | his | he | his | his | him | He | the king | him | his | his | he | He | him | him | he | his | the king | The king | he | his | he | he | he | him | he | he | him | him | him | The king | him | him | He | his | The king | him | he | him | his | the king | he |
+1	1	| the little prince | him | the little prince | He | his | he | The little prince | He | he | he to do now | he | He | he | The little prince | him | his | the little prince | a kitchen-boy | a kitchen-boy | the kitchen-boy | The kitchen-boy | he | the kitchen-boy | his | he | he | him | a kitchen-boy | The boy | he | he | The boy | the boy | him | he | the boy | the boy | one man | him | the man | he | him | his | him | he | his | He | his | him | his | me | I | I | me |
+1	1	| Father Brass | he | me , Father Brass | me | Father Brass | the Father Brass | Father Brass | Brass | the Father Brass | him | him | he | The Father Brass | he | him | he | the Father Brass | The Father Brass | He | him | He | the Father Brass | The Father Brass | him | he | him | him | the Father Brass | the Father Brass | the Father Brass | him | him | the Father Brass | The Father Brass | he | I | my | me | I | I | I | me | I |
+1	0	| the wheat | the wheat | the wheat | no wheat | the wheat |
+1	0	| Others | They |
+1	0	| the enemies | the enemies |
+1	1	| the second boy | He | he |
+1	1	| a little bird | the little bird | it |
+1	0	| many guests | they | they | his guests | the guests |
+1	0	| his | his troops |
+1	1	| his wife | The wife | she | She | The wife | she | her | her | She | her | my mother | her | her | The queen | her | she | she | her | her | she |
+1	1	| the princess | her | she | her | The princess | She | the princess and she | the princess | she | her | the princess | she | her | The princess | she | her | her | her | The princess | she | her | her | the princess | she | her | the princess | she | she | her | She | she | the princess | her | The princess | she | her | the princess | she | the princess | her | the princess | I |
+1	0	| a pig skin coat for his only garment | his pig skin coat | his pig skin coat | his pig skin coat | his pig skin coat |
+1	0	| the entire enemy army | the enemy army | his army | the enemy army | his army | the enemy army | the enemy army |
+1	0	| this | the best solution |
+1	0	| a horse | a horse |
+1	0	| an even better horse | his horse | his horse | his horse |
+1	0	| the hand | the hand |

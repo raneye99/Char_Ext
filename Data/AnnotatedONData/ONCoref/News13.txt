@@ -1,0 +1,15 @@
+1	0	| We | ABC News | We |
+0	0	| a house said *PRO* to be close to the port where the ship is anchored *-4 *T*-2 | the house |
+0	0	| today | today |
+1	1	| The two men who *T*-1 briefly lived in the house | the men , not believed *PRO* to be Yemenis |
+0	0	| the `` USS Cole | the ship | the ship | the `` USS Cole | the ship | the ship | the `` USS Cole |
+0	0	| the first break in the case | discovered | their first major break |
+0	0	| the case | The investigation into the attack which *T*-1 crippled the ship | the investigation | this investigation |
+1	1	| Morton Dean | Morton Dean |
+0	0	| Yemen | Yemen |
+0	0	| the attack which *T*-1 crippled the ship | the attack | the attack |
+1	1	| one of the crew , Lieutenant Ann Chamberlain | I | me | I |
+1	1	| investigators | their |
+0	0	| the bomb | the massive bomb |
+1	1	| one of the crew | Lieutenant Ann Chamberlain |
+0	0	| Six more bodies | They |
