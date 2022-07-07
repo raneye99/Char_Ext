@@ -1,0 +1,134 @@
+1.0	widow peasant	be with	daughter
+1.0	they	thus have	stepchild
+1.0	they	have	stepchild
+1.0	stepmother	nag	old man
+1.0	stepmother	nag	man
+1.0	stepmother	nag constantly	man
+1.0	stepmother	nag constantly	old man
+1.0	stepmother	be	envious
+1.0	he wife	give	flint
+1.0	he wife	give	she
+1.0	he wife	take	he daughter
+1.0	he wife	give	bag
+0.9235891054859171	flint	bag of	grits
+1.0	he wife	give	steel
+1.0	he wife	tell	he
+1.0	he wife	give	bag of grits
+1.0	girl	cook	she kasha
+1.0	girl	heat	stove
+1.0	I	will give	you
+1.0	you	eat	you fill of it
+1.0	you	eat	you fill
+1.0	mouse	eat	he fill
+1.0	bear	break into	hut
+1.0	blindman	have	buff
+1.0	bear	break at	night
+1.0	maiden	have	shoulder
+1.0	mouse	whisper into	she ear
+1.0	I	ring	bell
+1.0	I	ring	little bell
+1.0	he	roar	log
+1.0	he	roar	log of wood
+0.04249963984498906	he	begin	roar
+1.0	he	get	tired
+1.0	blindman	of	buff
+1.0	you	be	expert
+0.6935054303616804	I	drive of	horse
+1.0	I	send	drive of horse
+1.0	I	send	drive
+1.0	I	send	you
+1.0	man 's wife	say at_time	next morning
+1.0	old man 's wife	say at_time	morning
+1.0	old man	have	wife
+1.0	man 's wife	say at_time	morning
+1.0	old man 's wife	say at_time	next morning
+1.0	daughter	have	bone
+1.0	he	bring back	he daughter 's bone
+1.0	she father	drive	drive
+1.0	she father	bring	cartful
+1.0	she father	bring	cartful of goods
+1.0	she father	drive	drive of horse
+0.8609663620726754	she father	drive of	horse
+0.7972606605191824	bring	cartful of	goods
+1.0	she bone	be rattle in	my husband 's basket
+1.0	husband	in	basket
+1.0	stepmother	behold	father sit
+1.0	stepmother	behold	father
+1.0	stepmother	behold	daughter
+1.0	stepmother	behold	father sit on cart
+1.0	stepmother	behold	father sit on cart laden
+1.0	stepmother	behold	father sit on cart laden with goods
+1.0	horse	run into	yard
+1.0	woman	have	eye
+1.0	woman 's eye	gleam with	greed
+1.0	she	will come	home
+0.6678943802140724	home	drive	two drove of horse
+1.0	she	bring	two cartful
+0.6678943802140724	home	drive	two drove
+1.0	she	bring	two cartful of goods
+1.0	peasant	provide	she
+1.0	peasant	take	he wife 's daughter
+1.0	peasant	provide	she also with food
+1.0	wife	have	daughter
+1.0	peasant	provide	she with food
+0.8370417531708092	provide	she with	food
+0.8370417531708092	provide	she with	also food
+1.0	she	cook gruel at	nightfall
+1.0	she	cook	gruel
+1.0	mouse	ask	she
+1.0	she	hurl spoon at	he
+1.0	she	hurl	spoon
+1.0	bear	break into	mud hut
+1.0	bear	break at	midnight
+1.0	's	play	blindman 's buff
+1.0	blindman	have	buff
+1.0	she tooth	rattle from	fear
+1.0	Run	catch	you
+1.0	wife	send	man
+1.0	wife	send	old man
+1.0	wife	send man at_time	next morning
+1.0	wife	send man to	wood
+1.0	wife	send man at_time	morning
+1.0	my daughter	will bring back	two cartful of goods
+1.0	my daughter	drive	two drove of horse
+1.0	my daughter	will bring back	two cartful
+1.0	my daughter	drive	two drove
+1.0	he wife	sit at	gate
+1.0	bow-wow-wow	daughter 's	wife
+1.0	man	sit on	empty cart
+1.0	wife	have	daughter
+1.0	man	sit on	cart
+1.0	she bone	rattle in	basket
+1.0	old man	sit on	cart
+1.0	old man	sit on	empty cart
+1.0	my daughter	bring	cart
+1.0	my daughter	bring	full cart
+1.0	my daughter	be drive	herd
+1.0	old man	be at	gate
+1.0	man	be at	gate
+1.0	she	begin to	howl
+1.0	she	grow	angry
+1.0	she	open	basket
+1.0	she	die at_time	day
+1.0	she	see	bone
+1.0	she	die at_time	next day
+1.0	she	grow	so angry
+1.0	she	die from	grief
+1.0	old man	live life with	he daughter
+1.0	old man	take	son-in-law
+1.0	man	live happily	life
+1.0	man	live	he life
+1.0	man	live life with	he daughter
+1.0	man	live happily life with	he daughter
+1.0	man	live	life
+1.0	old man	take	wealthy son-in-law
+1.0	old man	live happily	he life
+1.0	old man	take son-in-law into	he house
+1.0	old man	live	he life
+1.0	man	take son-in-law into	he house
+1.0	old man	live happily	life
+1.0	man	take	wealthy son-in-law
+1.0	man	live happily	he life
+1.0	man	take	son-in-law
+1.0	old man	live happily life with	he daughter
+1.0	old man	live	life

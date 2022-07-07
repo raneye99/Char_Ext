@@ -1,0 +1,225 @@
+1.0	you	know on	earth
+1.0	Wee little havroshechka	be	leave
+1.0	Wee havroshechka	be leave as	small child with latter type
+1.0	Wee havroshechka	be leave as	child
+1.0	Wee little havroshechka	be leave	motherless
+1.0	Wee little havroshechka	be leave as	child with latter type
+1.0	Wee little havroshechka	be leave as	child
+1.0	Wee havroshechka	be leave as	small child
+1.0	Wee little havroshechka	be leave as	child with type
+1.0	Wee havroshechka	be	leave
+1.0	Wee little havroshechka	be leave as	small child
+1.0	Wee havroshechka	be leave as	small child with type
+1.0	Wee havroshechka	be leave as	child with type
+1.0	small child	be with	latter type
+1.0	Wee little havroshechka	be leave as	small child with type
+1.0	Wee havroshechka	be leave as	child with latter type
+1.0	Wee little havroshechka	be leave as	small child with latter type
+1.0	Wee havroshechka	be leave	motherless
+1.0	they	rather put	she
+1.0	they	put	she
+1.0	she	work at_time	day
+1.0	she	answer for	all
+1.0	she step-mother	have	three grow daughter
+1.0	she step-mother	have	three daughter
+1.0	middle daughter 's name	be	Two-Eye
+1.0	youngest	have	name
+1.0	oldest	have	name
+1.0	daughter 's name	be	Two-Eye
+1.0	youngest 's name	be	Three-Eye
+1.0	middle daughter	have	name
+1.0	Wee little havroshechka	meanwhile do	they work
+1.0	Wee havroshechka	meanwhile do	they work
+1.0	Wee little havroshechka	do	they work
+1.0	Wee havroshechka	do	they work
+1.0	she	sew	they clothes
+1.0	she	weave for	they
+1.0	they	want	someone
+1.0	she	be	only notice
+1.0	she	be	notice
+1.0	Wee little Havroshechka	go into	field
+1.0	Wee Havroshechka	go into	field
+1.0	Wee little Havroshechka	once go into	field
+1.0	Wee Havroshechka	once go into	field
+1.0	she	lay against	she neck
+1.0	she	embrace	she spotted cow
+1.0	she	embrace	she cow
+1.0	mother-cow	beat	I
+1.0	they	scold	I
+1.0	they	beat	I
+1.0	little mother-cow	beat	I
+1.0	they	give	I
+1.0	they	give	200 pound of linen
+1.0	they	give	200 pound
+1.0	bleach	be in	sun
+1.0	it	must	must do
+1.0	it	must	must do by tomorrow
+1.0	climb	be in	one of my ear
+1.0	maiden	climb in	one of my ear
+1.0	cow	out of	ear everything
+1.0	she	carry	it
+1.0	she	give	she more work
+1.0	she	give	she work
+1.0	she	give	she even more work
+1.0	Havroshechka	come again to	cow
+1.0	Havroshechka	come to	cow
+1.0	other	carry	complete thing
+1.0	other	carry back	complete thing
+1.0	other	carry	thing
+1.0	other	carry back	thing
+1.0	she	climb in	one ear
+1.0	old woman	be	amaze
+1.0	woman	be	amaze
+1.0	she	call	One-Eye
+1.0	my	daughter	lovely daughter
+1.0	she	call	my daughter
+1.0	One-Eye	daughter	my
+1.0	she	call	my wonderful daughter
+1.0	One-Eye	go through	forest
+1.0	One-Eye	go into	field
+1.0	One-Eye	go with	orphan
+1.0	she	become	fatigue in sun
+1.0	mother	have	instruction
+1.0	she	sprawl out in	grass
+1.0	she	become	fatigue
+1.0	she	forget	she mother 's instruction
+1.0	One-Eye	have	one little eye
+1.0	cow	do	wash
+1.0	cow	do	weave
+1.0	little cow	do	weave
+1.0	little cow	do	wash
+1.0	Two-Eye	fatigue in	sun
+1.0	mother	have	instruction
+1.0	Two-Eye	sprawl out in	grass
+1.0	Two-Eye	also become	fatigue
+1.0	Two-Eye	close	she eye
+1.0	Two-Eye	become	fatigue in sun
+1.0	Two-Eye	forget	she mother 's instruction
+1.0	Two-Eye	also become	fatigue in sun
+1.0	Two-Eye	become	fatigue
+1.0	havroshechka	sing	Sleep
+1.0	havroshechka	sing	eye
+1.0	havroshechka	sing	little eye
+1.0	cow	do	weave
+1.0	cow	do	wash
+1.0	Two-Eye	have	two eye
+1.0	woman	be	angry
+1.0	old woman	be	angry
+1.0	she	send three-eye on	day
+1.0	she	give	orphan
+1.0	she	send	Three-Eye
+0.5856369929026476	orphan	even more work	do
+0.5856369929026476	orphan	more work	do
+0.5856369929026476	orphan	work	do
+1.0	she	send three-eye on	third day
+1.0	she	bound like	just she sister
+1.0	she	bound along like	just she sister
+1.0	she	bound along like	she sister
+1.0	she	bound like	just she older sister
+1.0	she	bound like	she sister
+1.0	she	eventually fall into	grass
+1.0	she	bound along like	just she older sister
+1.0	she	bound along like	she older sister
+1.0	she	fall into	grass
+1.0	she	bound like	she older sister
+1.0	havroshechka	sing	Sleep
+1.0	havroshechka	sing	eye
+1.0	havroshechka	sing	little eye
+1.0	she	forget about	Three-Eye 's third little eye
+1.0	she	forget about	Three-Eye 's third eye
+1.0	she	forget about	Three-Eye 's little eye
+1.0	Three-Eye	about	third little eye
+1.0	she	forget about	Three-Eye 's eye
+1.0	eye	fall from	beautiful maiden
+1.0	eye	fall asleep from	maiden
+1.0	eye	fall asleep from	beautiful maiden climb
+1.0	two eye	fall from	beautiful maiden
+1.0	eye	fall asleep out	other
+1.0	eye	fall asleep	third watch
+1.0	two eye	fall asleep from	maiden
+1.0	two eye	fall out	other
+1.0	two eye	fall asleep out	other
+1.0	eye	fall asleep from	beautiful maiden
+1.0	two eye	fall from	maiden climb
+1.0	eye	fall out	other
+1.0	eye	fall from	maiden
+1.0	two eye	fall	third watch
+1.0	eye	fall from	maiden climb
+1.0	eye	fall asleep from	maiden climb
+1.0	two eye	fall from	maiden
+1.0	third	see	everything
+1.0	two eye	fall from	beautiful maiden climb in one ear
+1.0	two eye	fall asleep from	beautiful maiden
+1.0	two eye	fall asleep from	maiden climb in one ear
+1.0	eye	fall asleep from	maiden climb in one ear
+1.0	two eye	fall asleep from	beautiful maiden climb in one ear
+1.0	two eye	fall asleep from	maiden climb
+1.0	eye	fall	third watch
+1.0	two eye	fall from	beautiful maiden climb
+1.0	eye	fall from	beautiful maiden climb
+1.0	two eye	fall asleep	third watch
+1.0	eye	fall from	beautiful maiden climb in one ear
+1.0	two eye	fall asleep from	beautiful maiden climb
+1.0	eye	fall from	maiden climb in one ear
+1.0	eye	fall asleep from	beautiful maiden climb in one ear
+1.0	two eye	fall from	maiden climb in one ear
+1.0	Three-Eye	tell	she mother
+0.6399519129670479	she	come to	she husband
+0.6399519129670479	she	come on	very day
+0.6399519129670479	she	come on	next day
+0.6399519129670479	she	come on	day
+0.6399519129670479	she	come on	very next day
+1.0	man	be	reluctant
+1.0	old man	be	reluctant
+1.0	you	be out of	you mind
+1.0	cow	be	young
+1.0	she	be	determine
+1.0	she	be	absolutely determine
+1.0	he	so sharpen	knife
+1.0	he	sharpen	knife
+1.0	havroshechka	run to	cow
+1.0	they	slaughter	you
+1.0	Havroshechka	do	everything
+1.0	she	water bone at_time	day
+1.0	apple	be	plump
+1.0	branch	be	silver
+1.0	bow branch	be	silver
+1.0	girl	be stroll in	garden
+1.0	girl	be stroll at_time	one day
+1.0	nobleman	ride through	field
+1.0	he	be	wealthy
+1.0	he	get	girl ' attention
+1.0	he	see	apple
+1.0	sister	get to	apple tree
+1.0	three sister	get to	apple tree
+1.0	they	suddenly be so high	apple hang lower
+1.0	they	be high	apple hang lower
+1.0	they	suddenly be so high to	point
+1.0	they	suddenly be high to	point
+1.0	they	suddenly be high	apple hang lower
+1.0	they	be	so high
+1.0	they	be	high
+1.0	they	be so high	apple hang
+1.0	they	be high	apple hang lower than arm 's height
+1.0	they	suddenly be high	apple hang
+1.0	they	be above	they head
+1.0	they	suddenly be high	apple hang lower than arm 's height
+1.0	they	be so high to	point
+1.0	they	be high to	point
+1.0	they	be so high	apple hang lower
+1.0	they	be	suddenly high
+1.0	they	be so high	apple hang lower than arm 's height
+1.0	arm	than	height
+1.0	they	suddenly be so high	apple hang lower than arm 's height
+1.0	they	be above	far they head
+1.0	they	be high	apple hang
+1.0	they	be	suddenly so high
+1.0	they	suddenly be so high	apple hang
+1.0	sister	knock	they
+1.0	leaf	blind	they
+1.0	they	pick	apple
+1.0	branch	unpick	they braid
+1.0	Havroshechka	come to	tree
+1.0	apple	droop into	she reach
+1.0	nobleman	marry	she
+1.0	they	live without	sorrow

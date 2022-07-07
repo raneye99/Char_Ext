@@ -1,0 +1,843 @@
+1.0	king	issue	call to king
+0.7924158033726199	king	call to	king
+1.0	they	be	drunk
+1.0	he	give drink	drunk
+1.0	king	in	palace
+1.0	he	give meat	drunk
+1.0	he	give	they
+1.0	he	give	meat
+1.0	he	give	drink
+1.0	king	give	he
+1.0	king	tell	he
+1.0	son	cure	queen
+1.0	he	so go outside	town
+1.0	he	begin	ponder
+1.0	he	go outside	town
+1.0	he	begin	ponder deeply
+1.0	he	answer	she
+1.0	I	know	everything
+1.0	she	run after	he
+1.0	I	be	old
+1.0	he	have	three net
+1.0	he	have	three silken net prepare
+1.0	he	have	three silken net
+1.0	he	have	three net prepare
+1.0	pike	be with	golden wing
+1.0	pike	be in	sea beneath king 's window
+1.0	king	beneath	window
+1.0	pike	be in	sea
+1.0	queen	eat of	it
+1.0	king	catch	pike
+1.0	she	will bear	child
+1.0	king	catch	cook
+1.0	himself	go in	sea
+1.0	himself	go to	fish
+1.0	he	cast in	three net
+1.0	pike	tear	three net
+1.0	he	cast in	three silken net
+1.0	he	cast for	second time
+1.0	pike	again tear	they
+1.0	pike	tear	they
+1.0	he	cast in	net
+1.0	he	cast for	time
+1.0	peasant	take kerchief from	he neck
+1.0	peasant	take	he belt
+1.0	peasant	take	silken kerchief
+1.0	peasant	tie up	net
+1.0	young peasant	cast in	they
+1.0	peasant	take	kerchief
+1.0	young peasant	take kerchief from	he neck
+1.0	peasant	cast in	they
+1.0	young peasant	take	he belt
+1.0	young peasant	take	silken kerchief
+1.0	young peasant	tie up	net
+1.0	young peasant	take	kerchief
+1.0	he	bring	it
+1.0	he	be	overjoyed
+1.0	pike	be	wash
+1.0	king	order	pike
+1.0	cook	throw	entrails
+1.0	cook	throw entrails out of	window
+1.0	cook	wash	fish
+1.0	cow	swallow	entrails
+1.0	scullery maid	take	it
+1.0	scullery maid	put	it
+1.0	scullery maid	soon put	it
+1.0	wing	taste	it
+1.0	scullery maid	as soon put	it
+1.0	them-the cow	of three be	scullery maid
+1.0	queen	thus become at	same hour
+1.0	queen	become at	hour
+1.0	queen	thus become	pregnant
+1.0	queen	become at	same hour
+1.0	queen	thus become on	same day
+1.0	queen	become on	day
+1.0	queen	thus become at	hour
+1.0	queen	thus become on	day
+1.0	queen	become	pregnant
+1.0	queen	become on	same day
+1.0	dairymaid	come	shed
+1.0	dairymaid	come after	time
+1.0	dairymaid	come out of	cattle
+1.0	king	be	surprised
+1.0	king	be	very much surprised
+1.0	king	be	much surprised
+1.0	he	hear	news
+1.0	he	be	tell
+1.0	he	hear news	tell
+1.0	it	be report to	he
+1.0	it	be	later report
+1.0	it	later be report to	he
+1.0	it	be	minute later report to he
+1.0	it	be	few minute later report to he
+1.0	it	be	few minute later report
+1.0	it	be	report
+1.0	it	be	minute later report
+1.0	they	be	wonderful boy
+1.0	they	be as	in three hour other
+1.0	other	be in	one hour
+1.0	they	be as	in one hour other
+1.0	they	be as	other
+1.0	they	be as	other
+1.0	they	be as	in one hour other in one year
+1.0	they	be as	other in three year
+1.0	they	be as	in three hour other in three year
+1.0	other	be in	one year
+1.0	other	be in	three hour
+1.0	other boy	grow by	year
+1.0	boy	grow by	year
+1.0	other	be in	three year
+1.0	they	be as	other in one year
+1.0	they	ask	he permission
+1.0	he permission	go to	town
+1.0	they	father	king
+1.0	they	come to	king
+1.0	they	come of	age
+1.0	they	come to	they father
+1.0	they	show	themselves
+1.0	he	tell	they
+1.0	he	give	they
+1.0	Scullery maid	have	Son
+1.0	cow	have	Son
+1.0	one	nickname	Buria Bogatyr
+1.0	one	nickname	also Buria Bogatyr
+1.0	one	be	call
+1.0	one	be call	Ivan Prince
+1.0	one	nickname	Champion
+1.0	one	be call	other Ivan
+1.0	Buria Bogatyr	champion of	Champions
+1.0	one	be call	Ivan
+1.0	one	nickname	Champion of Champions
+1.0	Ivan Prince	say to	he brother
+1.0	Ivan Prince	see	glass ball
+1.0	brother	cast lot	who should throw first
+1.0	brother	cast lot	who should throw
+1.0	brother	cast	lot
+1.0	lot	fall out in	favor
+1.0	lot	fall out in	favor of Ivan
+1.0	it	vanish from	sight
+1.0	Buria Bogatyr	throw so high	ball
+1.0	Buria Bogatyr	throw high	ball
+1.0	Buria Bogatyr	throw	ball
+1.0	Ivan Prince	grow	angry
+1.0	you	want	we eldest
+1.0	cow	have	son
+1.0	Ivan cow 's Son	answer	he
+1.0	they	come to	Black sea
+1.0	sea serpent	be wallow in	it
+1.0	you	will	will we eldest
+1.0	serpent	grow	ferocious
+1.0	serpent	grow	more ferocious
+1.0	serpent	only grow	more ferocious
+1.0	Prince Ivan	begin	shout
+1.0	serpent	only grow	ferocious
+1.0	Ivan Scullery maid 's Son	subdue	he
+1.0	Buria Bogatyr	throw	stick
+1.0	serpent	vanish in	trice
+1.0	Buria Bogatyr	throw stick into	water
+1.0	price Ivan	grow	angry
+1.0	he	return to	he native land
+1.0	he	return to	he land
+1.0	brother	go on	straight ahead
+1.0	two brother	go on	straight ahead
+1.0	two brother	go on	ahead
+1.0	brother	go on	ahead
+1.0	he	be imprison in	fortress
+1.0	he	be	imprison
+1.0	champion	shout in	mighty voice
+1.0	champion	knock on	stone wall
+1.0	mighty champion	shout in	mighty voice
+1.0	champion	shout in	voice
+1.0	mighty champion	knock with	he fist
+1.0	mighty champion	knock on	stone wall
+1.0	champion	knock with	he fist
+1.0	mighty champion	shout in	voice
+1.0	I	can smash all	they
+1.0	I	can smash	they
+1.0	I	want	to
+1.0	straight-way	report to	king
+1.0	king	come to	he
+1.0	Ivan cow 's Son	tell	he
+1.0	lot	fall out	make
+1.0	lot	make	I eldest
+1.0	I	will send for	they
+1.0	king	beg	he
+1.0	he	go after	they
+1.0	Ivan cow 's Son	make	ready
+1.0	Ivan cow 's Son	make	ready for he journey
+1.0	Ivan cow 's Son	take	he battle mace
+1.0	Ivan cow 's Son	take	he steel sword
+1.0	three dragon	always come out of	sea
+1.0	Ivan cow 's Son	walk near	hazelwood bridge
+1.0	three dragon	come out of	sea
+1.0	dragon	always come out of	sea
+1.0	Ivan cow 's Son bridge	stand	post
+1.0	Ivan cow 's Son	overtake	he brother
+1.0	Ivan cow 's Son	finally overtake	he brother
+1.0	Ivan cow 's Son	walk near	white hazelwood bridge
+1.0	dragon	come out of	sea
+1.0	he	say to	he brother
+1.0	they	say at_time	good day
+1.0	they	say at_time	day
+1.0	they	be	overjoy
+1.0	cow	's son be	eldest brother
+1.0	they	see	he
+0.8429751977112765	he	hut on	chicken leg
+0.8429751977112765	he	little hut on	chicken leg
+1.0	he	see	little hut on chicken leg
+1.0	he	see	hut
+1.0	he	see	hut on chicken leg
+1.0	cock	with	head
+1.0	he	see	little hut
+1.0	hut	stand to	wood
+1.0	little hut	stand to	wood
+1.0	little hut	stand with	thy back
+1.0	hut	stand with	thy back
+1.0	they	enter	it
+1.0	bed	lay	featherbed
+0.02038138290973901	bed	lay on	it
+1.0	bed	lay featherbed on	it
+1.0	bed	lay	featherbed of down
+1.0	we	cast	lot
+0.0025671451558210157	we	cast lot	who shall stand
+0.47937962732886696	task	fall to	Ivan
+1.0	they	cast	lot
+1.0	task	fall	Scullery maid 's Son
+1.0	Scullery maid	have	Son
+1.0	cow	have	Son
+1.0	Scullery maid 's Son	come to	sea
+1.0	Scullery maid	have	Son
+1.0	he	tap with	he stick
+1.0	he brother	be	unreliable
+1.0	he	walk	tap with he stick
+1.0	he	walk	tap from time
+1.0	he	tap from	time
+1.0	he	walk	tap from time to time
+1.0	he	walk	tap from time with he stick
+1.0	he	walk	tap
+1.0	he	walk	tap from time to time with he stick
+1.0	he	walk on	bridge
+1.0	he	tap from	time to time
+1.0	cow	have	Son spat upon it
+1.0	pitcher	begin	dance
+1.0	little pitcher	begin	dance
+1.0	sea wave	crawl	Chudo Yudo
+1.0	it	be	dragon
+1.0	it	be	six-headed dragon
+1.0	he	whistle	horse
+1.0	he	whistle steed in	powerful voice
+1.0	he	shout with	mighty hiss
+1.0	he	whistle	magic steed
+0.9779168246771434	steed	horse of	my need
+0.9779168246771434	magic steed	horse of	my need
+1.0	he	whistle steed in	voice
+1.0	he	shout with	hiss
+1.0	he	whistle	steed
+1.0	magic steed	horse of	my need
+1.0	he	whistle steed in	truly powerful voice
+1.0	he	whistle	horse of my need
+1.0	hayrick	fly from	he ear
+1.0	hayrick	fly from	from he hoof
+1.0	whole hayrick	fly from	from he hoof
+1.0	whole hayrick	fly from	he ear
+1.0	Chudo Yudo	mount	horse
+1.0	Chudo Yudo	ride toward	white hazelwood bridge
+1.0	Chudo Yudo	ride toward	hazelwood bridge
+1.0	he steed	suddenly stumble under	he
+1.0	he steed	stumble under	he
+1.0	you	do scent	friend
+1.0	you	do scent	enemy
+1.0	you	carrion	flesh
+1.0	I	walk here	myself
+1.0	I	walk	myself
+1.0	dragon	ask	he
+1.0	Buria Bogatyr	swing	he battle mace
+1.0	Buria Bogatyr	cut off	three of dragon 's head
+1.0	Buria Bogatyr	cut off	other three
+1.0	Buria Bogatyr	cut off	three dragon 's head
+1.0	dragon	of	head
+1.0	he	hide head under	white hazelwood bridge
+1.0	he	hide head under	hazelwood bridge
+1.0	Scullery maid	have	Son
+1.0	he	go back to	hut
+1.0	he	go to	hut
+1.0	he	lay down	sleep
+1.0	he	tie horse to	leg
+1.0	he	tie	horse
+1.0	he	cast	they
+1.0	he	hide	head
+1.0	he	go back to	little hut
+1.0	dragon	have	trunk
+1.0	he	go to	little hut
+1.0	he	tie horse to	leg of Ivan
+1.0	Lord	give	I
+1.0	Lord	give	steed
+1.0	he	ride to	little hut
+1.0	he	sit upon	he
+1.0	Ivan Scullery maid 's Son	see	steed
+1.0	Ivan Scullery maid 's Son	be	overjoy
+1.0	he	cry	I do look
+1.0	he	ride to	hut
+1.0	he	promise	we
+1.0	he	have give	you
+1.0	he	have give	steed
+1.0	he	promise	more
+0.0025671451558210157	it	fall	stand
+1.0	it	fall at_time	night
+1.0	Prince Ivan	to	lot
+1.0	it	fall at_time	next night
+1.0	it	fall to	Prince Ivan 's lot
+1.0	it	stand	guard
+1.0	Buria Bogatyr	tell	thing
+1.0	Buria Bogatyr	tell	he
+1.0	Buria Bogatyr	tell	thing about pitcher
+1.0	Buria Bogatyr	tell	same thing about pitcher
+1.0	Buria Bogatyr	tell	same thing
+1.0	he	fall	sound
+1.0	prince	walk on	bridge
+1.0	little pitcher	dance before	he
+1.0	he	fall	sound asleep
+1.0	pitcher	dance before	he
+1.0	he	stare at	it
+1.0	little pitcher	dance before	he
+1.0	he	tap with	he walk stick
+1.0	he	walk on	bridge
+1.0	he	tap with	he stick
+1.0	pitcher	dance before	he
+1.0	wave	be in	truly powerful voice
+1.0	magic steed	stand before	I
+1.0	steed	stand before	grass
+1.0	magic steed	horse of	my need
+1.0	steed	stand as	leaf
+0.9812549778578091	magic steed	horse of	my need
+1.0	steed	stand before	I
+1.0	sea wave	crawl	Chudo Yudo
+0.9812549778578091	steed	horse of	my need
+1.0	magic steed	stand before	grass
+1.0	magic steed	stand as	leaf
+1.0	he	stand before	dragon
+0.803252151226089	he	root to	spot
+1.0	nine-headed dragon	sit upon	he
+1.0	dragon	ride to	hazelwood bridge
+1.0	nine-headed dragon	ride to	white hazelwood bridge
+1.0	steed	stumble under	he
+1.0	dragon	ride to	white hazelwood bridge
+1.0	dragon	sit upon	he
+1.0	nine-headed dragon	ride to	hazelwood bridge
+1.0	steed	stumble	he ride upon bridge
+1.0	he	ride upon	bridge
+1.0	steed	stumble	he ride
+1.0	Chudo Yudo	smite	he
+1.0	you	stumble	carrion flesh
+1.0	you	do scent	friend
+1.0	you	do scent	enemy
+1.0	we	enemy	Ivan Son
+1.0	enemy	son 's	cow
+1.0	cow	have	Son
+1.0	you	woo	my sister
+1.0	you	woo	my daughter
+1.0	we	join in	combat
+1.0	Ivan cow 's Son	cut off	three dragon 's head
+1.0	Ivan cow 's Son	cut off	three of dragon 's head
+1.0	he	swing	third time
+1.0	he	cut off	three more head
+1.0	he	swing	time
+1.0	he	cut off	three head
+1.0	dragon	of	head
+1.0	he	cut off	rest
+1.0	he	hide head under	white hazelwood bridge
+1.0	he	put	steel sword
+1.0	he	tie steed to	Prince Ivan 's leg
+1.0	he	tie	steed
+1.0	he	hide head under	hazelwood bridge
+1.0	he	go back to	hut
+1.0	he	go to	hut
+1.0	Prince Ivan	to	leg
+1.0	he	lay down	sleep
+1.0	he	cast	they
+1.0	he	hide	head
+1.0	he	put steel sword by	he head
+1.0	he	go back to	little hut
+1.0	he	go to	little hut
+1.0	next morning Prince Ivan	ride on	he
+0.8681628359916705	steed	even better than	first one
+0.8681628359916705	steed	even better than	first one
+0.8681628359916705	steed	better than	first one
+1.0	morning Prince Ivan	ride on	he
+1.0	Eli	son 's	cow
+1.0	God	have give	two steed
+1.0	God	have give	you
+1.0	Buria Bogatyr	champion of	Champions
+1.0	he	give	pack of card
+1.0	he	hang	towel
+1.0	he	give	he brother
+1.0	he	thrust	knife
+1.0	Buria Bogatyr	make	ready
+1.0	he	light	candle
+1.0	he	give	pack
+1.0	he	hang towel on	it
+1.0	he	set up	table
+1.0	he	thrust knife into	wall
+1.0	Buria Bogatyr	tap with	he walk stick
+1.0	little pitcher	dance before	he
+1.0	he	smash	it
+1.0	Buria Bogatyr	tap with	he stick
+1.0	he	spit upon	it
+1.0	pitcher	dance before	he
+1.0	it	be	dragon
+1.0	it	be	twelve-headed dragon
+1.0	he	whistle in	powerful voice
+1.0	he	whistle in	voice
+1.0	magic steed	stand as	leaf before grass
+1.0	steed	stand as	leaf before grass
+1.0	he	shout with	mighty hiss
+0.9812549778578091	magic steed	horse of	my need
+1.0	magic steed	stand as	leaf
+1.0	he	shout with	hiss
+1.0	magic steed	stand before	I
+1.0	magic steed	horse of	my need
+1.0	steed	stand as	leaf
+1.0	steed	stand before	I
+1.0	he	whistle in	truly powerful voice
+0.9812549778578091	steed	horse of	my need
+1.0	he	stand	root to spot
+1.0	he	run to	dragon
+1.0	he	stand	root
+1.0	Chudo Yudo	sit upon	he
+1.0	Chudo Yudo	ride to	bridge
+1.0	you	do scent	enemy
+0.5868619376888624	Buria Bogatyr	enemy of	ours
+1.0	cow	have	Son
+1.0	Buria Bogatyr	son 's	cow
+1.0	you	marry	my daughter
+1.0	you	marry	my sister
+1.0	we	join in	combat
+1.0	you	have	horse
+1.0	I	be on	foot
+1.0	either	fall to	ground
+1.0	dragon	knock down	he
+1.0	Buria Bogatyr	swing	he battle mace
+1.0	Buria Bogatyr	cut off	three of dragon 's head
+1.0	Buria Bogatyr	cut off	three dragon 's head
+1.0	dragon	of	head
+1.0	he three head	fly like	many cabbage head
+1.0	he three head	fly like	cabbage head
+1.0	he three head	fly like	so many cabbage head
+1.0	they	fight for	hour
+1.0	they	fight	both grow
+1.0	hero	have	battle mace
+1.0	they	fight for	several hour
+1.0	both	grow	exhaust
+1.0	Buria Bogatyr	remove	he left boot
+1.0	Buria Bogatyr	remove	he boot
+1.0	Buria Bogatyr	knock down	half of it
+1.0	Buria Bogatyr	fling	it
+1.0	Buria Bogatyr	knock down	half
+1.0	he	fling	it
+1.0	he	fling also	it
+1.0	Buria Bogatyr	break	door
+1.0	horse	gallop onto	bridge
+1.0	Buria Bogatyr	break	stable door
+1.0	Buria Bogatyr	hurl	it
+1.0	we hero	be	overjoyed
+1.0	we hero	cut off	he remain three head
+1.0	we hero	cut off	he three head
+0.967887836512221	run	up to	dragon
+1.0	he	stick head under	hazelwood bridge
+1.0	he	stick	head
+1.0	dragon	have	body
+1.0	he	stick head under	white hazelwood bridge
+1.0	he	chop	dragon 's body
+1.0	he	cast	they
+1.0	he	hide under	bridge
+1.0	he	lead	they
+1.0	he	take	three horse
+1.0	they	find	three horse
+1.0	they	go to	stable
+1.0	dish	be	full
+1.0	hut	crumble to	bit
+1.0	dish	be full of	blood
+1.0	they	make	ready
+1.0	they	have saddle	they horse
+1.0	Buria Bogatyr	come from	from bridge
+1.0	Buria Bogatyr	come out from	from bridge
+1.0	you	companion	brother
+1.0	they	fall on	they knee
+1.0	they	fall before	he
+1.0	he	murmur over	hut
+1.0	he	murmur over	little hut
+1.0	cow	's son be	dine
+1.0	they	set out on	they way
+1.0	they	have go	two verst
+1.0	I	fetch	it
+1.0	he	set in	sacred meadow
+1.0	he	ride to	hut
+1.0	he	ride to	little hut
+1.0	he	set in	meadow
+1.0	he	set	say
+1.0	he	set	he free
+1.0	he	fly into	little hut
+1.0	he	fly into	hut
+1.0	he	change	himself
+1.0	he	sit on	stove
+1.0	Baba Yaga	sit down in	corner
+1.0	Baba Yaga	come in after	while
+1.0	Baba Yaga	sit down in	front corner
+1.0	Baba Yaga	come after	while
+1.0	you	son	husband
+1.0	she young daughter-in-law	see	she
+1.0	she daughter-in-law	see	she
+1.0	I	send at_time	hot day
+1.0	I	turn	myself
+1.0	I	will precede	he
+1.0	I	send at_time	day
+1.0	I	send upon	he
+1.0	I	will turn in	meadow
+1.0	I	will turn into	well
+1.0	I	will turn in	green meadow
+1.0	I	will turn	myself
+1.0	I	will also turn	myself
+1.0	they	will	then will blow to bit
+1.0	they	will	will blow to bit like poppy seed
+1.0	they	will	will blow
+1.0	brother	feed	they horse
+1.0	they	will	will blow to bit
+1.0	they	will	then will blow to bit like poppy seed
+1.0	they	will	then will blow
+1.0	she mother	say to	she
+1.0	you	son	husband
+1.0	I	will precede	he
+1.0	I	turn into	lovely garden
+1.0	I	turn into	garden
+1.0	they	will	then will blow to bit
+1.0	they	will	will blow to bit like poppy seed
+1.0	they	will	will blow
+1.0	they	pick	they
+1.0	they	will	will blow to bit
+1.0	they	will	then will blow to bit like poppy seed
+1.0	they	will	then will blow
+1.0	mother	have kill	you son
+1.0	I	will turn into	little hut
+1.0	I	will turn into	hut
+1.0	I	will turn into	little old hut
+1.0	I	will turn into	old hut
+1.0	they	spend	night
+1.0	they	spend night in	it
+1.0	you	fail	kill
+1.0	my beloved daughters-in-law	turn into	sow
+1.0	you	kill	they yourselve
+1.0	my beloved daughters-in-law	swallow all	they
+1.0	my daughters-in-law	swallow all	they
+1.0	my daughters-in-law	swallow	they
+1.0	my daughters-in-law	turn into	sow
+1.0	my beloved daughters-in-law	swallow	they
+1.0	Buria Bogatyr	hear	word
+1.0	Buria Bogatyr	hear word	sit on stove
+1.0	Buria Bogatyr	hear word	sit
+1.0	Buria Bogatyr	sit on	stove
+1.0	he	strike	earth
+1.0	he	turn into	good youth
+1.0	he	turn into	youth
+0.39279053824658716	steed	stand before	I
+0.39279053824658716	steed	stand as	leaf before grass
+1.0	he	whistle with	mighty whistle
+0.9812549778578091	steed	horse of	my need
+1.0	he	whistle with	cry
+1.0	he	whistle with	whistle
+0.39279053824658716	magic steed	stand before	I
+0.39279053824658716	steed	stand as	leaf
+1.0	he	whistle with	powerful cry
+0.9812549778578091	magic steed	horse of	my need
+1.0	magic steed	horse of	my need
+0.39279053824658716	magic steed	stand as	leaf
+0.39279053824658716	magic steed	stand as	leaf before grass
+1.0	he	tie	wisp of bast
+0.8988296969971058	he	wisp of	bast
+1.0	he	tie wisp to	stick
+1.0	he	overtake	he companion
+1.0	he	tie	wisp
+1.0	it	return for	trash
+1.0	eh brother	be	worthwhile
+1.0	it	return for	such trash
+1.0	it	be	worthwhile
+1.0	we	buy	new one
+1.0	they	ride on through	valley
+1.0	thirst	torment	they
+1.0	they	ride on over	steppe
+1.0	they	come upon	meadow
+1.0	grass	be	lush
+1.0	timber bed	be on	grass
+1.0	grass	be lush in	meadow
+1.0	they	come upon	green meadow
+1.0	we	drink of	water
+1.0	we	drink of	cool water
+1.0	Buria Bogatyr	say to	he brother
+1.0	day	become	misty
+1.0	day	suddenly become	misty
+1.0	they	ride on	farther
+1.0	they	come after	long time
+1.0	they	come after	time
+1.0	they	come to	garden
+1.0	they	come to	beautiful garden
+1.0	Prince Ivan	say to	eldest brother
+1.0	Prince Ivan	say to	brother
+1.0	you	eat	they
+1.0	apple	be	old
+1.0	apple	be	perhaps old
+1.0	disease	strike	you
+1.0	he	cut down down	tree
+1.0	he	begin	smite
+1.0	he	cut down	tree
+1.0	they	soon come to	hut
+1.0	they	be overtake by	night
+1.0	they	be overtake by	dark night
+1.0	they	come to	hut
+1.0	they	be	overtake
+1.0	we	spend	night
+1.0	we	spend night in	hut
+1.0	we	spend night in	open field
+1.0	we	spend night in	field
+1.0	it	may fall	we enter
+1.0	we	spend	night
+1.0	it	be	old
+1.0	it	be	hut
+1.0	it	crush	we
+1.0	we	pitch	we tent
+1.0	it	be	old hut
+1.0	he	enter	hut
+1.0	we	ride on	farther
+1.0	path	branch into	two
+1.0	path	suddenly branch into	two
+1.0	they	turn to	left
+1.0	they	turn to	bogatyr
+1.0	they	turn to	right bogatyr
+1.0	he	cry with	mighty whistle
+1.0	he	cry with	powerful cry
+1.0	he	cry with	cry
+1.0	he	cry with	whistle
+1.0	he	run to	he
+1.0	they	do	it
+1.0	sow	will come to	you
+0.9932005402979313	mother	take fool from	we
+1.0	he	have	have long thorn
+1.0	he	have	have thorn in we flesh
+1.0	he	have	have thorn
+1.0	he	have	have long thorn in we flesh
+0.9932005402979313	mother	take	fool
+1.0	we	will put	he
+1.0	have thorn	be in	we flesh
+1.0	Buria Bogatyr	give	they
+1.0	Buria Bogatyr	give	order than sow
+1.0	blacksmith	surrender	culprit
+1.0	Buria Bogatyr	give	order
+1.0	Buria Bogatyr	give	order than huge sow
+1.0	we	will put	he
+1.0	have thorn	be in	we flesh
+1.0	blacksmith	answer in	one voice
+1.0	sow	be	simple mind
+1.0	whole cubit	in	length
+1.0	sow	be	mind
+1.0	she	thrust	she tongue
+1.0	Buria Bogatyr	cry to	blacksmith
+1.0	Buria Bogatyr	seize	it
+1.0	they	bare	she rib
+1.0	they	thrash	she
+1.0	I	will give	she
+1.0	I	will give	treat
+1.0	he	smite	she
+1.0	he	seize	iron rod
+1.0	Buria Bogatyr	implore	he
+0.6655873558959282	Buria Bogatyr	let	my soul repent
+1.0	sow	begin	Buria Bogatyr
+0.36632681049637295	sow	begin	Buria Bogatyr let
+1.0	two brother	jump out with	they steed
+1.0	brother	jump out with	they steed
+1.0	you	fool	where you have be
+1.0	you	fool	you have be
+0.6258028760873031	beg	forgive	we
+1.0	cow	have	Son
+1.0	they	fall on	they knee
+1.0	they	fall	beg
+1.0	we	set out on	we way
+1.0	nothing	shall stop	we
+1.0	they	pitch	they tent
+1.0	they	come to	kingdom to indian king
+1.0	they	come to	kingdom to king
+1.0	they	come to	kingdom
+1.0	prime minister	go to	brother
+1.0	minister	go to	brother
+1.0	cow	have	Son
+1.0	we	woo	king 's daughter
+1.0	we	be champion	we have come
+1.0	we	be mighty champion	we have come
+1.0	Buria Bogatyr	son 's	cow
+1.0	king	have	daughter
+1.0	we	be very mighty champion	we have come
+1.0	he	send	army
+0.6811232904575539	he	must give	he daughter
+1.0	he	let	he refuse
+1.0	she	marry	Prince Ivan
+1.0	king	ask	he daughter
+1.0	I	marry	he
+1.0	it	be	big
+1.0	Scullery maid	have	Son
+1.0	it	be	such
+1.0	Buria Bogatyr	stir	it
+1.0	Buria Bogatyr	stir	he gruel
+1.0	Buria Bogatyr	knock down	other half
+1.0	Buria Bogatyr	knock down	half
+1.0	he	say to	they
+1.0	slew	be with	ladle
+1.0	king	entreat	he daughter
+1.0	king	entreat	my beloved daughter please
+1.0	king	entreat	my daughter please
+1.0	king	entreat	my beloved daughter
+1.0	king	entreat	my daughter
+1.0	king forthwith	stand	wait
+1.0	king forthwith	send	carriage
+1.0	king forthwith	stand	wait before gate
+1.0	king	receive courteously and kindly	they
+1.0	king	receive courteously	they
+1.0	king	seat	they
+1.0	king	receive	they
+1.0	princess	ask	you
+1.0	Buria Bogatyr	whisper to	Prince Ivan
+1.0	princess	come to	Prince Ivan
+1.0	princess	come after	while
+1.0	she	follow behind	she
+1.0	she	follow behind	she quietly
+1.0	she	go	follow behind she
+1.0	she	go	follow
+1.0	she	go out of	chamber
+1.0	she	go	follow behind she quietly
+1.0	princess	strike	herself
+1.0	princess	turn into	gull
+1.0	princess	fly out to	sea
+1.0	Buria Bogatyr	strike	ground
+1.0	Buria Bogatyr	fly after	she
+1.0	Buria Bogatyr	turn into	falcon
+1.0	princess	come to	seashore
+1.0	princess	strike	ground
+1.0	princess	turn into	lovely maiden
+1.0	princess	turn into	maiden
+1.0	she grandfather	emerge from	sea
+1.0	she grandfather	emerge from	blue sea
+1.0	army	be	slay
+1.0	we army	be	slay
+1.0	I	marry	he
+1.0	I	ask	he
+0.7153319608486638	he	come	grass
+1.0	I	will show	they
+1.0	she	turn into	gull
+1.0	she	fly	home
+1.0	she	strike	ground
+1.0	Buria Bogatyr	turn into	maiden
+1.0	Buria Bogatyr	strike	ground
+1.0	Buria Bogatyr	turn into	same lovely maiden
+1.0	I	want	speak to you
+1.0	Buria Bogatyr	turn into	same maiden
+1.0	I	want	speak
+1.0	I	tell	something
+1.0	Buria Bogatyr	turn into	lovely maiden
+1.0	I	speak to	you
+1.0	I	tell	you
+1.0	he	turn into	eagle
+1.0	he	strike	ground
+1.0	Buria Bogatyr	seize	it
+1.0	you	ask	you
+1.0	he	call	Prince Ivan
+1.0	he	call prince ivan out	out entrance hall
+1.0	princess	will show for	answer
+0.06141471494456796	he	call out	out entrance hall
+1.0	Prince	guess from	root
+1.0	princess	come to	Prince Ivan
+1.0	princess	show	three hair
+1.0	princess	show	he
+1.0	princess	later come to	Prince Ivan
+1.0	Prince Ivan	take head from	from he coat
+1.0	Prince Ivan	strike table with	it
+1.0	Prince Ivan	take	head
+1.0	Prince Ivan	strike	table
+1.0	princess	think to	herself
+1.0	she	go on	porch
+1.0	Prince Ivan	turn into	gull
+1.0	Prince Ivan	fly out to	sea
+1.0	Prince Ivan	again fly out to	sea
+1.0	Buria Bogatyr	take head from	prince
+1.0	Buria Bogatyr	take	head
+1.0	head	come to	place
+1.0	head	grow with	body
+1.0	head	grow together with	body
+1.0	head	come ahead to	place
+1.0	princess	stop at	seashore
+1.0	grandfather	speak to	I
+1.0	princess	strike	ground
+1.0	princess	say	grandfather come
+1.0	princess	say	grandfather come out
+1.0	princess	turn into	lovely maiden
+1.0	princess	turn into	maiden
+0.25331100359622694	she grandfather	come out	say
+1.0	you head	be in	we palace
+1.0	I	have	have sound asleep
+1.0	I	have	have sound
+1.0	you	speak to	I
+0.7470086918089611	it	be	tear
+1.0	you	come here	speak to I
+1.0	you	come here	speak
+0.7470086918089611	it	be	apparently tear
+1.0	you	come	speak
+1.0	you	come	speak to I
+1.0	she	turn into	gull
+1.0	she	fly	home
+1.0	she	strike	ground
+1.0	she	sit beside	Prince Ivan
+1.0	she	change	she dress
+0.967887836512221	come	back to	banquet hall
+1.0	Buria Bogatyr	lead	Prince Ivan
+1.0	he three rod	one of	iron
+1.0	princess	be in	you place
+1.0	Buria Bogatyr	lead prince ivan to	he bed room
+1.0	they	be	lawfully wed
+1.0	they	be	wed
+1.0	Buria Bogatyr	lead prince ivan	they return
+1.0	king	lead	young couple
+1.0	king	lead couple to	they nuptial bed
+1.0	king	lead	couple
+1.0	king	lead couple to	they bed
+1.0	princess	put	another
+1.0	princess	put	then another
+1.0	princess	put	one leg
+0.3458654131127456	Buria Bogatyr	place of	prince
+1.0	Buria Bogatyr	begin	snore
+1.0	Buria Bogatyr	take	iron rod
+1.0	Buria Bogatyr	jump from	from she
+1.0	he	beat	she
+1.0	he	break	it
+1.0	he	take	copper rod
+1.0	he	break too	it
+1.0	he	break	rod
+1.0	he	swear	oath
+1.0	princess	implore	he
+1.0	he	swear	solemn oath
+1.0	next morning Buria Bogatyr	go to	Prince Ivan
+1.0	morning Buria Bogatyr	go to	Prince Ivan

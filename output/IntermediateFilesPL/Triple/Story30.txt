@@ -1,0 +1,174 @@
+1.0	cat	say to	brave youth
+1.0	cat	chop	wood
+1.0	cat	go to	forest
+1.0	you	keep	house
+1.0	cat	say to	youth
+1.0	sparrow	go to	forest
+1.0	youth	sit on	stove behind chimney
+1.0	brave youth	sit on	stove behind chimney
+1.0	brave youth	sit on	stove
+1.0	youth	sit on	stove
+1.0	cat	have	spoon
+1.0	brave youth	have	spoon
+1.0	sparrow	have	spoon
+1.0	Baba Yaga	take	spoon
+1.0	she	spur	it
+1.0	pestle	be with	she broom
+1.0	she	drive	mortar
+1.0	Baba Yaga	sit on	mortar
+1.0	brave youth	shout	cat
+1.0	youth	shout	cat
+1.0	they	rush to	he help
+1.0	they	hear	he
+1.0	they	thus rescue	youth
+1.0	they	rescue	brave youth
+1.0	they	thus rescue	brave youth
+1.0	cat	scratch	sparrow peck
+1.0	cat	scratch	Baba Yaga
+1.0	they	rescue	youth
+1.0	cat	scratch	sparrow peck at she
+1.0	cat	have	spoon
+1.0	Baba Yaga	come	cat 's spoon
+1.0	brave youth	have	spoon
+1.0	Baba Yaga	as soon come again	cat 's spoon
+1.0	sparrow	have	spoon
+1.0	Baba Yaga	soon come	cat 's spoon
+1.0	Baba Yaga	come again	cat 's spoon
+1.0	Baba Yaga	as soon come	cat 's spoon
+1.0	Baba Yaga	soon come again	cat 's spoon
+1.0	Baba Yaga	drag along	he
+1.0	Baba Yaga	seize	brave youth
+1.0	Baba Yaga	seize	youth
+1.0	brave youth	shout	cat
+1.0	youth	shout	cat
+1.0	they	rush to	he help
+1.0	they	hear	he
+1.0	cat	begin	scratch
+1.0	they	rescue	brave youth
+1.0	they	thus rescue	youth
+1.0	they	thus rescue	brave youth
+1.0	they	rescue	youth
+1.0	they	say to	brave youth
+1.0	sparrow	prepared	more go to forest
+1.0	sparrow	prepared	once more go to forest
+1.0	you	be	silent
+1.0	sparrow	prepared	more go
+1.0	cat	prepared	once more go to forest
+1.0	they	say to	youth
+1.0	we	be go	even farther
+1.0	we	be go at_time	today
+1.0	sparrow	prepared	once more go
+1.0	cat	prepared	more go
+1.0	you	be silent	Baba Yaga come
+1.0	we	be go	farther
+1.0	cat	prepared	more go to forest
+1.0	cat	prepared	once more go
+1.0	youth	sit on	stove behind chimney
+1.0	brave youth	sit on	stove behind chimney
+1.0	brave youth	sit on	stove
+1.0	youth	sit on	stove
+1.0	cat	have	spoon
+1.0	brave youth	have	spoon
+1.0	sparrow	have	spoon
+1.0	cat	have	spoon
+1.0	brave youth	have	spoon
+1.0	sparrow	have	spoon
+1.0	cat	have	spoon
+1.0	brave youth	have	spoon
+1.0	sparrow	have	spoon
+1.0	Baba Yaga	count	time
+1.0	Baba Yaga	count	third time
+1.0	Baba Yaga	drag along	he
+1.0	Baba Yaga	seize	brave youth
+1.0	Baba Yaga	seize	youth
+1.0	he	cry	cat
+1.0	Baba Yaga	say to	she daughter
+1.0	Baba Yaga	take	he home
+1.0	Baba Yaga	say to	she eldest daughter
+1.0	Baba Yaga	put	he
+1.0	Baba Yaga	make	fire
+1.0	Baba Yaga	make fire in	stove
+1.0	stove	grow	hot
+1.0	girl	tell	brave youth
+1.0	brave youth	come out of	shed
+1.0	girl	tell	youth
+1.0	youth	come out of	shed
+1.0	it	touch	ceiling
+1.0	he	hold up	one of he foot
+1.0	he	put	other
+1.0	he	hold up	one he foot
+1.0	girl	lay down on	pan
+1.0	girl	lay down on	roast pan
+1.0	brave youth	go back into	shed
+1.0	youth	go into	shed
+1.0	youth	push pan into	oven
+1.0	brave youth	go	wait
+1.0	brave youth	push pan into	oven
+1.0	youth	push	pan
+1.0	brave youth	push pan with	Baba Yaga 's daughter
+1.0	brave youth	push pan on	it
+1.0	brave youth	go into	shed
+1.0	brave youth	go back	wait
+1.0	youth	go	wait
+1.0	brave youth	seize	oven fork
+1.0	youth	go back	wait
+1.0	brave youth	push	pan
+1.0	youth	push pan with	Baba Yaga 's daughter
+1.0	youth	seize	oven fork
+1.0	brave youth	go	wait for Baba Yaga
+1.0	brave youth	go back	wait for Baba Yaga
+1.0	youth	quickly seize	oven fork
+1.0	Baba Yaga	with	daughter
+1.0	youth	go back into	shed
+1.0	brave youth	quickly seize	oven fork
+1.0	youth	go back	wait for Baba Yaga
+1.0	youth	go	wait for Baba Yaga
+1.0	youth	push pan on	it
+1.0	brave youth	on	bone
+1.0	youth	answer	she
+1.0	own daughter	on	bone
+1.0	brave youth	answer	she
+1.0	Baba Yaga	look into	oven
+1.0	Baba Yaga	be	startle
+1.0	she	order	she daughter
+1.0	she	order	she second daughter
+1.0	she second daughter	make fire in	stove
+1.0	she second daughter	tell	youth
+1.0	she daughter	make fire in	stove
+1.0	she second daughter	make	fire
+1.0	she daughter	tell	youth
+1.0	she second daughter	tell	brave youth
+1.0	she daughter	make	fire
+1.0	she daughter	tell	brave youth
+1.0	he	put	one foot
+1.0	he	lay on	pan
+1.0	girl	lay on	pan
+1.0	brave youth	go back to	shed
+1.0	brave youth	shove	she
+1.0	youth	go to	shed
+1.0	youth	go back to	shed
+1.0	brave youth	go to	shed
+1.0	youth	shove	she
+1.0	brave youth	on	bone
+1.0	I	feast	myself
+1.0	he	answer	Feast yourself
+1.0	he	answer	Feast yourself on you own daughter 's bone
+1.0	own daughter	on	bone
+1.0	he	answer	Feast yourself on you daughter 's bone
+1.0	Baba Yaga	fly into	rage
+1.0	she youngest daughter	roast	he
+1.0	she daughter	roast	he
+1.0	she	make	fire
+1.0	she	make fire in	stove
+1.0	he	floor with	other
+1.0	he	touch ceiling with	one foot
+1.0	he	touch	ceiling
+1.0	floor	be with	other
+1.0	brave youth	run	home
+1.0	brave youth	quickly shove	she
+1.0	brave youth	shove	she
+1.0	youth	say to	he brother
+1.0	youth	run	home
+1.0	youth	shove	she
+1.0	youth	quickly shove	she
+1.0	brave youth	say to	he brother

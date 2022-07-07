@@ -1,0 +1,341 @@
+1.0	he	still have	nothing
+1.0	he	have	nothing
+1.0	I	probably die of	starvation
+1.0	I	die of	starvation
+1.0	he life	do	nothing
+1.0	my neighbor	have spend	he entire life
+1.0	my neighbor	have spend	he life
+1.0	he entire life	do	nothing
+1.0	money	float into	he pocket
+1.0	money	just float into	he pocket
+1.0	I	be go	pray from morning till evening
+1.0	I	be go	pray from morning
+1.0	I	pray from	morning till evening
+1.0	I	be go	pray
+1.0	I	pray from	morning
+1.0	Lord	will have mercy on	I
+1.0	Lord	perhaps will have mercy on	I
+1.0	Lord	will have	mercy
+1.0	Lord	perhaps will have	mercy
+1.0	he	pray to	God
+1.0	he	go at_time	day
+1.0	he	go	eat
+1.0	he	go at_time	entire day
+0.18145904255410605	he	eat	pray
+1.0	people	press on	bright Easter holiday
+1.0	people	press for	morning service
+1.0	people	press into	church
+1.0	people	press on	Easter holiday
+1.0	he	grab	he pail
+1.0	he	go to	well
+1.0	he	catch	pike
+1.0	he	soon catch	pike
+1.0	he	as soon catch	huge pike
+1.0	he	soon catch	huge pike
+1.0	he	catch	huge pike
+1.0	he	as soon catch	pike
+1.0	peasant	be	overjoyed
+1.0	I	eat to	my heart 's content
+1.0	heart	to	content
+1.0	I	will make	fish soup
+1.0	I	go	free
+1.0	pike	speak in	human voice
+1.0	I	will make	you happy
+1.0	pike	speak to	he
+1.0	pike	speak in	voice
+1.0	you	only need	say
+1.0	pike	by	command
+1.0	you	need	say
+1.0	impoverished man	throw back	pike
+1.0	impoverished man	throw	pike
+1.0	man	throw	pike
+1.0	man	throw back	pike
+1.0	he	sit down inside	he hut
+1.0	pike	by	command
+1.0	he	sit down at	table
+1.0	he	sit down inside	once he hut
+1.0	he	would	would have proud
+1.0	he	host	tsar
+1.0	impoverished man	cross	himself
+1.0	man	cross	glory
+1.0	impoverished man	cross	glory to Thee
+1.0	impoverished man	cross	glory
+1.0	man	cross	glory to Thee
+1.0	man	cross	himself
+1.0	he	return for	morning
+1.0	he	return to	church
+1.0	he	once break	he fast
+1.0	he	break	he fast
+1.0	he	sit on	bench
+1.0	he	go out of	he gate
+1.0	he	afterward go out of	he gate
+1.0	princess	decide	stroll through street
+1.0	princess	stroll through	street
+1.0	princess	decide at	time
+1.0	princess	decide	stroll
+1.0	she	give alms to	poor for Easter holiday
+1.0	she	give	alms
+1.0	she	walk with	she nanny
+1.0	she	give alms to	poor
+1.0	she	give to	all
+1.0	she	forget	peasant-man
+1.0	he	say to	himself
+1.0	pike	by	command
+1.0	he	so say to	himself
+1.0	month	give birth to	son
+1.0	nine month	give	birth
+1.0	month	give	birth
+1.0	nine month	give birth to	son
+1.0	tsar	question	she
+1.0	princess	cry in	response
+1.0	he	be	week
+1.0	he	be week old by	time
+1.0	he	be week by	time
+1.0	he	be	week old
+1.0	he	be	old
+1.0	tsar	summon	boyar
+1.0	tsar	summon boyar from	all
+1.0	tsar	summon boyar from	all over kingdom
+1.0	tsar	summon councilman from	all over kingdom
+1.0	tsar	summon	councilman
+1.0	tsar	summon councilman from	all
+1.0	he	recognize	any
+1.0	he	ask	boy
+1.0	he	recognize	any of they
+1.0	boy	be	silent
+1.0	tsar	order	nanny
+1.0	tsar	order	nurse
+1.0	they	search	house
+1.0	he	remain	silent
+1.0	they	finally come to	poor peasant 's little hut
+1.0	they	come to	peasant 's hut
+1.0	they	finally come to	peasant 's hut
+1.0	they	finally come to	peasant 's little hut
+1.0	they	come to	poor peasant 's little hut
+1.0	they	come to	peasant 's little hut
+1.0	they	finally come to	poor peasant 's hut
+1.0	they	come to	poor peasant 's hut
+1.0	poor peasant	to	little hut
+1.0	he	stretch out	he hand
+1.0	he	soon stretch out	he hand
+1.0	he	as soon stretch out	he hand
+1.0	they	bring	peasant
+1.0	they	give	information
+1.0	they	give information to	sovereign
+1.0	they	bring peasant to	palace
+1.0	tsar	interrogate	Confess
+1.0	tsar	interrogate	Confess by you clean conscience
+1.0	tsar	interrogate	he
+1.0	tsar	interrogate	Confess by you conscience
+1.0	he	immediately marry	princess
+1.0	he	marry	princess
+1.0	he	immediately marry princess to	peasant
+1.0	he	marry princess to	peasant
+1.0	it	drop into	open sea
+1.0	it	slather with	tar
+1.0	child	be	place in barrel
+1.0	he	order after	wedding
+1.0	child	be	place
+1.0	it	drop into	sea
+1.0	child	be	place in large barrel
+1.0	barrel	float on	sea
+1.0	fierce wind	push	it
+1.0	wind	push	it
+1.0	water	slosh beneath	they
+1.0	pike	by	command
+1.0	they	crawl onto	earth
+1.0	they	crawl out onto	earth
+1.0	they	walk with	nothing eat
+1.0	she	barely move further	she foot
+1.0	she	move further	she foot
+1.0	she	move	she foot
+1.0	princess	be	so emaciated
+1.0	princess	be	emaciated
+1.0	she	barely move	she foot
+1.0	pike	by	command
+1.0	devoted servant	run	princess
+1.0	servant	run princess out of	palace
+1.0	servant	run	princess in they arm
+1.0	devoted servant	run princess out of	palace
+1.0	oak table	be with	weave tablecloth
+1.0	servant	run	princess
+0.005153942488911989	servant	run out of	palace
+0.005153942488911989	devoted servant	run out of	palace
+1.0	they	seat	they
+1.0	servant	run	she son
+1.0	princess	be in	they arm
+1.0	devoted servant	run	she son
+1.0	devoted servant	run	princess in they arm
+1.0	all	be	prepare
+1.0	all	be prepare on	table
+1.0	walk	be in	garden
+1.0	they	go for	walk in garden
+1.0	they	go for	walk
+1.0	we	will also have	waterfowl
+1.0	we	will have	waterfowl
+1.0	pike	by	command
+1.0	drake	should have	jeweled tuft
+1.0	drake	should have	jeweled tuft on crown of he head
+1.0	drake	should have	jeweled tuft on crown
+1.0	drake	should have	tuft
+1.0	drake	should have	tuft on crown of he head
+1.0	drake	should have	tuft on crown
+1.0	each	have	one gold feather
+1.0	each	have	one silver feather
+1.0	drake	have	jeweled tuft
+1.0	drake	have	tuft
+1.0	she husband	so live without	sorrow
+1.0	princess	live	they son grow
+1.0	she husband	live	they son grow
+1.0	princess	so live without	sorrow
+1.0	she husband	so live	they son grow
+1.0	princess	so live	they son grow
+1.0	princess	live without	sorrow
+1.0	she husband	live without	sorrow
+1.0	he	grow	large
+1.0	he	travel	world
+1.0	he	travel	wide world
+1.0	he	ask	he father
+1.0	he	harness	he steed
+1.0	he	ride off down	path
+1.0	he	harness	he noble steed
+1.0	he	meet	old woman
+1.0	he	meet	woman
+1.0	he	meet woman by	chance
+1.0	you	be go	you please
+1.0	I	find	bride
+1.0	I	will tell	my child
+1.0	I	will tell	you
+1.0	good youth	thank	woman
+1.0	youth	thank	woman
+1.0	good youth	thank	old woman
+1.0	youth	thank	old woman
+1.0	he	hire	boat sail
+1.0	he	hire	boat sail to kingdom
+1.0	he	hire	boat sail to far-away kingdom
+0.27551464172745116	he	boat	sail to kingdom
+0.27551464172745116	he	boat	sail to far-away kingdom
+0.27551464172745116	he	boat	sail
+1.0	he	sail for	long time
+1.0	tale	be	tell
+1.0	deed	take	time
+1.0	tale	be	tell quickly
+1.0	actual deed	take	time
+1.0	he	sail for	time
+1.0	he	perhaps sail for	long time
+1.0	he	perhaps sail for	time
+1.0	daughter	for	hand in marriage
+1.0	he	last arrive in	distant kingdom
+1.0	he	ask for	he daughter 's hand
+1.0	he	arrive in	distant kingdom
+1.0	he	appear before	local king
+1.0	he	last arrive in	kingdom
+1.0	he daughter 's hand	be in	marriage
+1.0	he	appear before	king
+1.0	he	ask for	he daughter 's hand in marriage
+1.0	he	arrive in	kingdom
+1.0	I	reject	he
+1.0	he	would destroy	my kingdom
+1.0	he	would destroy	my whole kingdom
+1.0	you	reject	I
+1.0	it	test strength against	he
+1.0	I	will give	my daughter
+1.0	battle	celebrate	wedding
+1.0	honorable battle	celebrate	wedding
+1.0	hour courier	be send in	direction
+1.0	courier	be send in	direction
+1.0	king	gather from	surround land
+1.0	river	change	they course
+1.0	opponent	have	ferocious head
+1.0	king 's boyar	lift	he
+1.0	king 's boyar	run at	point
+1.0	king 's boyar	run to	goodly youth
+1.0	king 's boyar	carry	he
+1.0	king 's boyar	run to	youth
+1.0	king	have	boyar
+1.0	he	marry	king 's daughter
+1.0	king	have	daughter
+1.0	they	feast	marriage
+1.0	youth	king	guest
+1.0	mother	have	palace
+1.0	youth	king	guest at he father
+1.0	she husband	hospitably welcome	guest
+1.0	princess	welcome	guest
+1.0	wedding celebration	continue with	feast
+1.0	princess	hospitably welcome	guest
+1.0	she husband	welcome	guest
+1.0	king	be	awe-struck
+1.0	tsar ' son	be	awe-struck
+1.0	tsar	be	awe-struck
+1.0	king	awe-struck	king ' son
+1.0	king	be awe-struck by	palace
+1.0	tsar ' son	be	awe-struck by palace
+1.0	tsar	be	awe-struck by palace
+1.0	tsar ' son	be awe-struck by	palace
+1.0	tsar	be awe-struck by	palace
+1.0	drake	be grandest of	all
+1.0	duck	be	grandest
+1.0	drake	be	grandest
+1.0	duck	be	grandest of all
+1.0	duck	be grandest of	all
+1.0	duck	be	worth
+1.0	one duck	be	worth
+1.0	celebrate	eventually come to	end
+1.0	celebrate	come to	end
+1.0	they	have almost reach	harbor
+1.0	they	have reach	harbor
+1.0	speed courier	approach	they
+1.0	he	hold	council
+1.0	he	hold	private council
+1.0	he	hold council with	you
+1.0	king	return	they son
+1.0	master	question	they
+1.0	this	be	foul
+1.0	somebody	among	possession
+1.0	you	find	duck
+1.0	you	find	duck among somebody 's possession
+1.0	he	walk along	row
+0.8328943824208973	search	each of	they
+1.0	he	search	each of they
+1.0	he	search	each
+1.0	he	mutter by	pike 's command
+1.0	he	as soon mutter by	pike 's command
+1.0	duck	be find	tie under hem of tsar 's cloak
+1.0	he	quietly mutter by	pike 's command
+1.0	he	as soon quietly mutter by	pike 's command
+1.0	duck	be find	tie under hem
+1.0	he	soon mutter by	pike 's command
+1.0	duck	tie under	hem of tsar 's cloak
+1.0	duck	be find	tie
+1.0	tsar	of	cloak
+1.0	he	soon quietly mutter by	pike 's command
+1.0	pike	by	command
+1.0	duck	be	find
+1.0	duck	tie under	hem
+1.0	he	lift	edge
+1.0	tsar	of	cloak
+1.0	he	be duck with	one gold feather
+1.0	he	be duck under	hem
+1.0	he	lift	edge of tsar 's cloak
+1.0	there duck	be with	one gold feather
+1.0	he	be	duck
+1.0	he	be	under hem duck with one gold feather
+1.0	tsar ' son	laugh loudly	king
+1.0	son	laugh loudly	king
+1.0	tsar ' son	laugh	king
+1.0	son	laugh	king
+1.0	you	will look at	that
+1.0	tsar	have begin	steal
+1.0	princess	have	father
+1.0	he	end up with	duck
+1.0	you	be	guilty
+1.0	princess	throw	herself
+1.0	princess	come out at	point
+1.0	father	into	arm
+1.0	princess	come at	point
+1.0	she	be	he daughter
+1.0	he	place in	barrel
+1.0	he	place in	tar barrel
+1.0	it	be	possible
+1.0	she	tell	he
+1.0	they	avoid	evil

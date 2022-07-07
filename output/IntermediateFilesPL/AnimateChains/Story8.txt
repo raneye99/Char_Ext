@@ -1,0 +1,27 @@
+1	1	| King | king | The king | his | He | his | the king | The king | my | I | king | king | king | The king | his | my | The king |
+1	1	| three daughters | three daughters | they | Their | they | the king 's daughters | they | their | them | his daughters | them | the princesses | my daughters | the princesses |
+1	0	| tongue | tongue |
+1	1	| 12-headed dragon | A dragon | the dragon | his | the twelve-headed dragon | the twelve-headed dragon | He | he | he | the very one we have come to see | him | the dragon | the dragon | the dragon | him | his |
+1	0	| the Black Sea | the Black Sea |
+1	0	| his maidservants | his maidservants | the maidservants |
+1	0	| Whoever finds my daughters | Whoever finds my daughters | him | he |
+1	1	| Three men | Three men | they | They | they | they | they | us | us | us | they | they | they | They | they | Little doves | you | you | You | we who shall devor him | the three brave men | My little doves | you | they | them | them | them | We | them | we | They | they | They | they | they | they | they | they | they | they | they | them | them | we | us each | They | they | they | they | them | them | you | my friends | my friends | you | you | we | you | Frolka with his companions | They | them | them | them | they | they | They | them | they | they | them | Frolka and his companions | them | they | their | they | their | them | my faithful servants | you |
+1	1	| Soldier | a soldier who was a drunkard | the soldier | the soldier | his | the soldier | his |
+1	1	| Frolka | Frolka Stay-at-Home | his | his | Frolka Stay-at-Home | me | He | he | Frolka | He | one enemy | his | me | Frolka | you | I | Frolka | Frolka | he | Frolka | he | Frolka | Frolka | Frolka | his | you , Frolka , who have come here | I | Frolka | He | Frolka | my | me | only Frolka | his | his | Frolka | I | I | me | Frolka | Frolka | Frolka | his | Frolka | his | Frolka , a clever fellow | Frolka | he | his | Frolka | his | he | Frolka | he | Frolka | me | his | Frolka | Frolka | his | he | himself | his |
+1	1	| Erema | Erema | Erema | Erema | Erema | his |
+1	0	| drowsiness | drowsiness |
+1	1	| a five-headed dragon | a five-headed dragon | A very wicked dragon | who | he | him | the dragon | my | I | I | The dragon | the dragon | the body |
+1	0	| no one | no one |
+1	1	| 1st princess | a maiden of great beauty | her | The maiden | My | me | you | She | she | the king 's eldest daughter | her | The princess | her | The princess | her | My | I | she |
+1	0	| a raven | a raven | A raven |
+1	0	| a good horse | a good horse |
+1	0	| all the five heads of the dragon | all the five heads of the dragon | them |
+1	1	| 2nd princess | My next sister | She | the second sister | she | the king 's second daughter | her | she | her |
+1	1	| 7-headed dragon | a seven-headed dragon | him | the seven-headed dragon | I | he | the dragon | his | the body |
+1	1	| 12-headed dragons | a twelve-headed dragon |
+1	0	| that | to rescue her youngest sister from the twelve-headed dragon | that |
+1	1	| 3rd princess | her youngest sister | the princess | she | her | her | The princess | The king 's daughter |
+1	0	| God | God |
+1	1	| old man | an old man , who looked to be about seventy | he | my | my | the old man | the old man | me | I | The old man | the old man |
+1	0	| they all | they all | their |
+1	0	| Narrator | I | my | I |

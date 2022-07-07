@@ -1,0 +1,398 @@
+1.0	they	have	three son
+1.0	he	be	unable
+1.0	he	destroy	it
+1.0	he	call together	he son
+0.06141471494456796	he	call at	last
+1.0	he	so call	he son
+1.0	he	call	he son
+0.06141471494456796	he	so call together at	last
+1.0	he	so call together	he son
+0.06141471494456796	he	so call at	last
+0.06141471494456796	he	call together at	last
+1.0	eldest son	undertake	task
+1.0	son	undertake	task
+1.0	son	well undertake	task
+1.0	eldest son	well undertake	task
+1.0	he	take	he weapon
+1.0	he	as soon take	he weapon
+1.0	he	soon take	he weapon
+1.0	he	go into	tavern
+1.0	he	reach	park
+1.0	he	there spend in	revelry
+1.0	he	spend at_time	whole night
+1.0	he	there spend at_time	night
+1.0	he	spend at_time	night
+1.0	he	there spend at_time	whole night
+1.0	he	spend in	revelry
+1.0	he	come to	he sens
+1.0	himself	disgrace in	eye
+1.0	himself	disgrace in	eye of he father
+1.0	son	go at_time	next day
+1.0	second son	go at_time	next day
+1.0	son	go at_time	day
+1.0	second son	go at_time	day
+1.0	they father	scold soundly	they
+1.0	they father	scold	they
+1.0	son	well undertake task on	day
+1.0	youngest son	undertake	task
+1.0	youngest son	undertake task on	day
+1.0	youngest son	undertake task on	third day
+1.0	son	undertake task on	third day
+1.0	son	undertake	task
+1.0	son	undertake task on	day
+1.0	youngest son	well undertake task on	third day
+1.0	son	well undertake	task
+1.0	youngest son	well undertake task on	day
+1.0	son	well undertake task on	third day
+1.0	youngest son	well undertake	task
+1.0	he	be	stupid
+0.151414218049429	they	laugh	stupid
+1.0	he	be	so stupid
+1.0	they	laugh	he
+0.151414218049429	they	laugh	so stupid
+0.151414218049429	they	laugh	scorn
+1.0	he	sit down in	position
+1.0	he	sit down on	grass
+1.0	he	sit down in	such position
+0.38112695753772474	he weapon	moment	he go
+0.38112695753772474	he weapon	moment	he go asleep
+1.0	he	take	he arm
+1.0	he	go into	park
+1.0	he weapon	prick	he
+1.0	he	go straight into	park
+1.0	huge	be	it
+1.0	earth	begin	shake
+1.0	Prince	pull together	himself
+1.0	Prince	leap to	he foot
+1.0	Prince	pull	himself
+1.0	Prince	go at	beast
+1.0	Prince	cross	himself
+1.0	Prince	go straight at	beast
+1.0	Prince	run after	it
+1.0	he	lay there	he hand
+1.0	he	hasten to	stable
+1.0	he	lay	he hand
+1.0	he	set off in	pursuit
+1.0	they	begin	fight
+1.0	he	come up with	beast
+1.0	he	presently come up with	beast
+1.0	Prince	give	beast
+1.0	Prince	give	three wound
+1.0	they	be	last utterly exhaust
+1.0	they	be	last exhaust
+1.0	they	be	utterly exhaust
+1.0	they	be	exhaust
+1.0	Prince	close	he eye
+1.0	he	jump in	moment
+1.0	Prince	have	horse
+1.0	he	set off again in	pursuit
+1.0	he	begin	fight with it
+1.0	he	again begin	fight with it
+1.0	he	set off in	pursuit
+1.0	he	begin	fight
+1.0	he	again begin	fight
+1.0	he	catch up	beast
+1.0	Prince	again give	beast three wound
+1.0	he	lay down to	rest
+1.0	beast	lay down to	rest
+1.0	he	lay down again to	rest
+1.0	Prince	give	beast three wound
+1.0	beast	lay down again to	rest
+1.0	Prince	give	it
+1.0	Prince	catch up	it
+1.0	Prince	again give	it
+1.0	beast	escape into	world
+1.0	you	will overcome	I
+1.0	you	only will overcome	I
+1.0	beast	escape into	other world
+1.0	Prince	chase	it
+1.0	Prince	tell	he father
+1.0	Prince	ask	he
+1.0	this	be	do
+1.0	he father	order	do
+1.0	they	build palace on	spot
+1.0	they	live in	it
+1.0	they	build	palace
+1.0	they	live for	time
+1.0	everything	be	ready
+1.0	youngest brother	say to	other
+1.0	everything	be	when ready
+1.0	brother	say to	other
+1.0	he	speak	second time
+1.0	he	have fling	stone
+1.0	he	speak time to	he brother
+1.0	he	speak	time
+1.0	he	have fling aside	stone
+1.0	he	laugh	coward
+1.0	he	be	such coward
+1.0	he	laugh at	they
+1.0	he	laugh	such coward
+1.0	he	be	coward
+1.0	he	have reach	other world
+1.0	he	go on	he way
+1.0	he	have reach	world
+1.0	he brother	lower accordingly	he
+1.0	he brother	lower	he
+1.0	he	have reach world underneath	earth
+1.0	he	espy	horse
+1.0	he	espy	horse with rich trappings
+1.0	it	say to	he
+1.0	he	presently espy	horse with rich trappings
+1.0	horse	be with	rich trappings
+1.0	he	espy	horse with trappings
+1.0	he	presently espy	horse
+1.0	he	presently espy	horse with trappings
+1.0	I	have await	thee
+1.0	Long	have await	thee
+0.8846437725806212	palace	make of	copper
+1.0	he	see	palace
+1.0	he	see	standing
+1.0	he	see	palace make
+1.0	he	see	standing before he
+1.0	he	see	palace make of copper
+1.0	he	before standing be	palace make of copper
+1.0	he	enter	courtyard
+1.0	he	go into	bedroom
+1.0	thou	shalt	shalt my father
+1.0	thou	art	old man
+1.0	thou	art	man
+1.0	thou	art	woman
+1.0	thou	shalt	shalt own sister
+1.0	thou	shalt	shalt sister
+1.0	she	be delighted with	he
+1.0	she	see	he
+1.0	she	be	delighted
+1.0	thou	be	my brother
+1.0	he	tell	she
+1.0	thou wishest	be	my brother
+1.0	they	hold together	converse
+1.0	prince	take	leave
+1.0	they	hold	sweet converse
+1.0	they	go on to	sister
+1.0	they	hold	converse
+1.0	prince	take	leave of she
+1.0	they	enjoy	themselves
+1.0	they	hold together	sweet converse
+1.0	they	go on to	second sister
+1.0	she	tell	he
+0.7595778915419853	she	draught of	water of strength
+0.670700773566342	she	sword of	steel
+1.0	brother	have	head
+0.9711191722245303	sword	draught of	water
+1.0	she	tell	he
+1.0	she	give	sword
+0.7595778915419853	she	draught of	water
+1.0	she	give	draught of water of strength
+1.0	she	give	draught of water
+1.0	she	give	sword of steel
+1.0	she	give	draught
+1.0	she	give	he
+0.9711191722245303	sword	draught of	water of strength
+1.0	he	cut off	she brother 's head
+1.0	she	tell	he
+1.0	he	have hear	thing
+1.0	Prince	come to	sea
+1.0	stone	be in	middle of sea
+1.0	water	be agitate for	seven verst around
+1.0	water	be agitate for	seven verst
+1.0	water	be	agitate
+1.0	Prince	come to	blue sea
+1.0	Prince	go up to	it
+1.0	Prince	smite	it
+1.0	Prince	cross	himself
+1.0	Prince	go to	it
+0.25331100359622694	head	jump off	say
+1.0	I	be	do
+1.0	I	be do for	now
+1.0	Prince	pick up	three sister
+1.0	Prince	kill	beast
+1.0	Prince	make	maiden
+1.0	Prince	make fast	maiden
+1.0	they	come	rope be
+1.0	Prince	take	hold
+1.0	they	come	where rope be
+1.0	Prince	take	hold of it
+1.0	he	jerk away at	rope
+1.0	he	jerk at	rope
+1.0	he brother	haul up	it
+1.0	they	have haul up	it
+1.0	they	so lower	rope
+1.0	they	have agree on	this
+1.0	they	lower	rope
+1.0	he brother	hoist	stone
+1.0	he brother	hoist stone to	great height
+1.0	he brother	cut	rope
+1.0	he brother	hoist stone to	height
+1.0	down	break in	piece
+1.0	Prince	pour	tear
+1.0	Prince	pour forth	tear
+1.0	rain	fall in	torrent
+1.0	he	go to	tree
+1.0	he	take	shelter
+1.0	he	take shelter under	it
+1.0	he	go up to	tree
+1.0	he	so take off	he coat
+1.0	he	cover over	they
+1.0	he	take off	he coat
+1.0	he	sit down under	tree
+1.0	it	have	have dark
+1.0	it	have	have dark there
+1.0	Didst thou	do	that
+1.0	I	will do	anything
+1.0	I	will do anything for	thee
+1.0	she	catch	sort of game
+1.0	partition	be in	middle
+1.0	I large bin	be with	partition in middle
+1.0	bird	have take bin with	Prince sit
+1.0	bird	have take bin with	Prince sit in middle of it
+1.0	bird	have take bin with	Prince sit in middle
+1.0	bird	have take bin on	she back
+1.0	bird	have take bin with	Prince
+1.0	bird	have take	bin
+1.0	she	bring	he
+1.0	she	take	leave of he
+1.0	journey	to	end
+1.0	she	take	leave
+1.0	she	fly	distance
+0.00580262789831798	he	engage as	he servant
+1.0	he	go to	house of tailor
+1.0	he	go to	house of certain tailor
+1.0	he	engage	himself
+1.0	he	go to	house
+1.0	nobody	be	prince
+1.0	worse	be	he
+1.0	he	alter in	appearance
+1.0	nobody	suspect	he
+1.0	Prince	enter into	service
+1.0	Prince	begin	ask
+1.0	Prince	enter into	service of master
+1.0	they	have in	other world
+1.0	they	use	have in world
+1.0	they	use	have in other world
+1.0	they	have	wedding-clothes make for they first
+1.0	they	have	they wedding-clothes make for they first
+1.0	they	have in	world
+1.0	they	use	have
+1.0	King	have call together	workman
+1.0	King	have call	workman
+1.0	I	work for	quite common folk
+1.0	I	make	clothes
+1.0	I	make	clothes of sort
+1.0	I	work for	common folk
+1.0	I	work for	folk
+1.0	King	give	he
+1.0	King	be	delighted
+1.0	King	give	as money he want
+1.0	good workman	be	find
+1.0	King	give	as much money ever he want
+1.0	King	give	much money ever he want
+1.0	workman	be	find
+1.0	King	give	money he want
+1.0	King	give	much money he want
+1.0	King	give	money ever he want
+1.0	King	give	as money ever he want
+1.0	King	give	as much money he want
+1.0	tailor	have settle	everything
+1.0	Prince	say to	he
+1.0	tailor	go to	bed
+1.0	tailor	follow	he lad 's advice
+1.0	lad	have	advice
+1.0	maiden	have give	he
+0.6154302648939981	he	turn	they
+1.0	Prince	go out of	city
+1.0	Prince	go into	field
+0.07374194549595435	he	turn into	three palace
+1.0	they	have teach	he
+1.0	Into	turn palace back into	egg
+1.0	Into	turn back	palace
+1.0	Into	turn palace into	egg
+0.11982177299755592	Into	turn back into	egg
+1.0	Into	turn	palace
+0.11982177299755592	Into	turn into	egg
+1.0	Into	take	maiden ' robe
+1.0	he	lay down	sleep
+1.0	he	hang up robe on	wall
+1.0	he	hang up	robe
+1.0	behold	hang	such robe
+1.0	behold	hang	robe
+1.0	he	carry off	they
+1.0	he	be	delighted
+1.0	he	seize	they
+1.0	they	exchange	glance
+1.0	they	hold	they peace
+1.0	Prince Ivan	be in	world
+1.0	he	find	he dear journeyman
+1.0	he	find there	he dear journeyman
+1.0	master	have hand over	clothes
+1.0	he	find	he journeyman
+1.0	he	find there	he journeyman
+1.0	he	too send	work for King
+1.0	he	send	work
+0.6765996341819633	he	round of	artificer
+1.0	he	send	work for King
+1.0	he	too send	work
+1.0	he thanks	inasmuch through	as he
+1.0	Prince	have go to	to shoemaker
+1.0	he	too send	work for King
+1.0	they	be	enrich
+1.0	he	send	work
+1.0	he	too send	work
+1.0	he	work for	King
+1.0	he	send	work for King
+1.0	they	be enrich by	King
+1.0	he	go	round of artificer
+0.470582313678367	princely workman	have go by	time
+0.7715654564035312	princely workman	round of	artificer
+1.0	princely workman	have go	round of artificer
+1.0	workman	have go	round of artificer
+0.470582313678367	workman	have go by	time
+0.7715654564035312	workman	round of	artificer
+1.0	it	be	impossible
+1.0	it	be	necessary
+1.0	they	be	marry
+1.0	youngest bride	allow	my father
+0.05722096559824883	bride	allow	go
+1.0	youngest bride	say to	King
+1.0	they	be ready for	wedding
+0.14059619431790493	bride	say	allow
+0.14059619431790493	youngest bride	say	allow
+0.05722096559824883	youngest bride	allow	go
+0.05722096559824883	youngest bride	allow	go to beggar
+1.0	they	be	ready
+0.05722096559824883	bride	allow	go to beggar
+1.0	bride	say to	King
+1.0	they	be	when ready for wedding
+1.0	they	be	when ready
+1.0	bride	allow	my father
+1.0	bride	allow	I
+1.0	youngest bride	allow	I
+1.0	he	give	she leave
+1.0	she	examine closely	they
+1.0	she	examine	they
+1.0	she	have give in	other world
+1.0	she sister ' ring	be he for	it
+1.0	she	have give in	world
+1.0	she	catch	sight
+1.0	she sister ' ring	be	too really he
+1.0	she sister ' ring	really be he for	it
+1.0	she sister ' ring	be	too he
+1.0	she sister ' ring	too be he for	it
+1.0	she sister ' ring	be	he
+1.0	she	have give to	Prince
+1.0	she sister ' ring	be	really he
+1.0	she sister ' ring	too really be he for	it
+1.0	she	bring	he
+1.0	she	seize	he
+1.0	she	say to	King
+1.0	she	so seize	he
+1.0	he brother	forbid	we
+1.0	King	be wroth with	son
+1.0	wroth	be with	son
+1.0	King	punish	they
+1.0	King	be	then wroth
+1.0	King	be	wroth
+1.0	King	be	then wroth with son
+1.0	three wedding	be	celebrate
+1.0	wedding	be	celebrate
+1.0	wedding	be	afterwards celebrate
+1.0	three wedding	be	afterwards celebrate

@@ -1,0 +1,124 @@
+1.0	brother	go	now mind simpleton
+1.0	brother	tell	simpleton
+1.0	mind simpleton	buy	merchandise
+1.0	mind simpleton	buy merchandise in	town
+1.0	wise brother	tell	simpleton
+1.0	wise brother	go	now mind simpleton
+1.0	wise brother	go	mind simpleton
+1.0	brother	go	mind simpleton
+1.0	you	shirt in	return
+1.0	we	shall buy	you red boot
+1.0	we	shall buy	you boot
+1.0	red shirt	be in	return
+1.0	you	red shirt in	return
+1.0	brother	go to	town
+1.0	brother	thus instruct	simpleton
+1.0	brother	instruct	simpleton
+1.0	he sisters-in-law	say to	he
+1.0	you	respect	we
+1.0	you	be lie on	stove
+1.0	simpleton	take	pail
+1.0	he	draw	water
+1.0	I	now shall cook	pike
+1.0	I	shall cook	pike
+1.0	Simpleton	put back	I
+1.0	Simpleton	put	I
+1.0	pike	say to	he
+1.0	you	will	will happy
+1.0	pike	say with	voice
+1.0	you	give	I
+1.0	pike	by	command
+1.0	pail straightway	stand in	they place
+1.0	he pail	come home by	themselves
+1.0	he pail	stand in	they place
+1.0	he pail	come by	themselves
+1.0	simpleton	lay down on	stove
+1.0	he sisters-in-law	again say to	he
+1.0	he sisters-in-law	say to	he
+1.0	simpleton	sit in	sled
+1.0	pike	by	command
+1.0	someone	be drive	it
+1.0	simpleton	have	drive
+1.0	simpleton	drive through	town
+1.0	simpleton	have	drive through town
+1.0	it	be	disaster
+0.5298742491214914	he	catch	he
+1.0	simpleton	get off	he sled
+1.0	simpleton	enter	wood
+1.0	simpleton	sit down on	tree trunk
+1.0	wood	be	chop
+1.0	wood	load on	sled
+1.0	stick	come on	sled
+1.0	simpleton	sit in	sled
+1.0	people	there have assemble	wait for he
+1.0	people	have assemble	wait for he
+1.0	people	wait for	he
+1.0	people	there have assemble	wait
+1.0	people	have assemble	wait
+1.0	they	catch	he
+1.0	pike	by	command
+1.0	it	have beat up	multitude
+1.0	it	have beat up	great multitude
+1.0	simpleton	get	rid
+1.0	simpleton	stack up	wood
+1.0	simpleton	thus get	rid
+1.0	simpleton	thus get	rid of they
+1.0	simpleton	get	rid of they
+1.0	simpleton	sit on	stove
+1.0	inhabitant	now go to	king
+1.0	inhabitant	go with	petition against he
+1.0	inhabitant	go to	king
+1.0	inhabitant	now go with	petition
+1.0	inhabitant	now go with	petition against he
+1.0	inhabitant	go with	petition
+1.0	best	promise	red caftan
+1.0	best	promise	caftan
+1.0	best	promise	boot
+1.0	best	promise	shirt
+1.0	best	promise	red boot
+1.0	best	promise	red shirt
+1.0	best	promise	he
+1.0	king	have	messenger
+1.0	king 's messenger	come to	simpleton
+1.0	pike	by	command
+1.0	he	sit on	stove
+1.0	simpleton	arrive at	at king
+1.0	king	put	he
+1.0	he daughter	conceive	great liking
+0.7299000726652776	he daughter	liking for	simpleton
+1.0	she	marry	he
+0.7299000726652776	he daughter	great liking for	simpleton
+1.0	he daughter	conceive	great liking for simpleton
+1.0	he daughter	conceive	liking for simpleton
+1.0	he daughter	conceive	liking
+1.0	she father	wed	they
+1.0	they	have put in	barrel
+1.0	she father	grow	angry
+1.0	he	have	barrel cover
+1.0	he	have	barrel
+1.0	he	throw into	sea
+1.0	he	have	barrel cover with pitch
+1.0	we	be throw out on	shore
+1.0	simpleton 's wife	finally ask	he
+1.0	simpleton 's wife	ask	he
+1.0	simpleton	have	wife
+1.0	pike	by	command
+1.0	he	build	kind of hut
+1.0	simpleton 's wife	ask	he
+1.0	simpleton 's wife	now ask	he
+1.0	they	climb out of	barrel
+1.0	simpleton	have	wife
+1.0	he	build	kind
+1.0	pike	by	command
+1.0	king	opposite	palace
+1.0	king	see	new palace
+1.0	king	send	someone
+1.0	king	see	palace
+1.0	king	see palace at_time	next morning
+1.0	king	see palace at_time	morning
+1.0	she husband	appear before	he
+1.0	she	appear before	he
+1.0	king	forgive	they
+1.0	they	begin	live happily together
+1.0	they	begin	live together
+1.0	they	begin	live

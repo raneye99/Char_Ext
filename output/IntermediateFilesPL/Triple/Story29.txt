@@ -1,0 +1,240 @@
+1.0	they	have	Tsarevich Ivan
+1.0	he	be	when about twelve year old
+1.0	he	see	he stable hand
+1.0	he	be old	about twelve year
+1.0	he	go to	stable
+1.0	he	see	he hand
+1.0	he	see	he favorite hand
+1.0	he	see	he favorite stable hand
+1.0	he	be	when old
+1.0	he	be	old
+0.49018789315263117	you mother	will give birth to	daughter
+0.49018789315263117	you mother	will give birth to	sister for you
+1.0	daughter	sister for	you
+0.49018789315263117	you mother	will soon give birth to	sister for you
+0.49018789315263117	you mother	will give	birth
+0.49018789315263117	you mother	will give birth to	sister
+0.49018789315263117	you mother	will soon give birth to	daughter
+0.49018789315263117	you mother	will soon give	birth
+0.49018789315263117	you mother	will soon give birth to	sister
+1.0	she	will	will hideous witch
+1.0	you	be just go for	ride
+1.0	she	will	will witch
+1.0	she	be	hideous
+1.0	you	be go for	ride
+1.0	you	be spare	misfortune
+0.5954260172854704	you eye	ride away from	here
+1.0	first time	be in	he life
+1.0	Tsarevich Ivan	speak for	first time
+1.0	Tsarevich Ivan	speak for	time
+1.0	Tsarevich Ivan	run to	he father
+1.0	Tsarevich Ivan	speak for	first time in he life
+1.0	Tsarevich Ivan	speak to	he
+1.0	Tsarevich Ivan	speak for	time in he life
+1.0	best	be saddle for	tsarevich
+1.0	best	mount	saddle
+1.0	best	mount	saddle for tsarevich
+1.0	best	be	saddle
+1.0	best	mount from	he herd
+1.0	he eye	take	he
+1.0	he	come upon	two old seamstress
+1.0	he	come upon	two seamstress
+1.0	they	take in	he
+1.0	they	live with	they
+1.0	we	take in	you
+1.0	we	be	happy
+1.0	we	break up	chest
+0.7862137897492962	we	chest of	needle
+1.0	we	use up	chest of thread
+1.0	we	break up	chest of needle
+1.0	we	use up	chest
+1.0	Tsarevich Ivan	start	cry
+1.0	I	be	happy
+1.0	I	take in	you
+1.0	it	be	then my death
+1.0	it	be	my death
+1.0	tsarevich	ride	still further
+1.0	tsarevich	ride	further
+1.0	he	come up	up mountain-turner
+1.0	I	take in	you
+1.0	I	twist out	mountain
+1.0	I	have	have put
+1.0	I	have	have put here
+1.0	my death	as soon then here be	I manage with last one
+1.0	my death	here be	I manage with one
+1.0	my death	as soon then here be	I manage
+1.0	my death	soon here be	I manage with last one
+1.0	my death	as soon be	I manage with one
+1.0	my death	be	I manage with one
+1.0	my death	as soon be	I manage with last one
+1.0	my death	then here be	I manage
+1.0	I	manage with	one
+1.0	my death	be	I manage with last one
+1.0	my death	soon then here be	I manage with last one
+1.0	I	manage with	last one
+1.0	my death	as soon here be	I manage with last one
+1.0	my death	be	I manage
+1.0	my death	here be	I manage
+1.0	my death	soon then here be	I manage
+1.0	my death	soon then here be	I manage with one
+1.0	my death	as soon then here be	I manage with one
+1.0	my death	soon be	I manage with last one
+1.0	my death	soon be	I manage with one
+1.0	my death	here be	I manage with last one
+1.0	my death	then here be	I manage with one
+1.0	my death	soon be	I manage
+1.0	my death	as soon be	I manage
+1.0	my death	as soon here be	I manage
+1.0	my death	then here be	I manage with last one
+1.0	my death	soon here be	I manage
+1.0	my death	soon here be	I manage with one
+1.0	my death	as soon here be	I manage with one
+1.0	Tsarevich Ivan	break into	bitter tear
+1.0	Tsarevich Ivan	ride on	further
+1.0	Tsarevich Ivan	ride on	still further
+1.0	Tsarevich Ivan	break into	tear
+1.0	he	finally arrive at	home of Sun 's sister
+1.0	Sun	of	sister
+1.0	he	arrive at	home of Sun 's sister
+1.0	he	arrive at	home
+1.0	he	finally arrive at	home
+1.0	she	take in	he
+1.0	he	would get	depressed
+1.0	he	would get	little depressed
+1.0	he	once would go up on	mountain
+1.0	he	once would go up on	tall mountain
+1.0	he	would go up on	tall mountain
+1.0	he	would go up on	mountain
+1.0	wall	be	leave
+1.0	he	look	little
+1.0	you	cry	Tsarevich Ivan
+1.0	Sun	have	sister
+1.0	he	once look	little
+1.0	Sun 's sister	forbid wind to	blow
+1.0	Sun 's sister	forbid	wind
+1.0	Sun	have	sister
+1.0	Sun 's sister	so forbid wind to	blow
+1.0	Sun 's sister	so forbid	wind
+1.0	Tsarevich Ivan	come	teary-eyed
+1.0	Sun 's sister	let	he
+1.0	Tsarevich Ivan	come	home teary-eyed
+1.0	he	ask	Sun 's sister
+1.0	he	tell	all
+1.0	Sun	have	sister
+0.8361086467974959	he	become	younger
+1.0	she	give	comb
+0.8361086467974959	he	become in	instant
+0.8621650587834452	he	eat	apple
+1.0	she	give	brush
+1.0	she	give brush for	road
+1.0	she	give	he
+1.0	he	visit	he homeland
+1.0	she	give	two apple
+1.0	she	give	two apple of youth
+1.0	mountain	be	leave
+1.0	Tsarevich Ivan	come up to	mountain-turner
+1.0	he	throw	it
+1.0	he	take	he brush
+1.0	peak	press against	sky
+1.0	mountain-turner	be	overjoyed
+1.0	mountain-turner	start	work
+1.0	mountain-turner	merrily start	work
+1.0	Tsarevich Ivan	come up to	Oak
+1.0	he	throw	it
+1.0	he	take	he comb
+1.0	oak-turner	be	overjoyed
+1.0	Tsarevich Ivan	come up to	woman
+1.0	he	give	apple
+1.0	Tsarevich Ivan	come up to	old woman
+1.0	they	give	piece
+1.0	they	give	he
+1.0	you	wave	cloth
+1.0	they	give	piece of cloth
+1.0	tsarevich Ivan	return	home
+1.0	Ivan	return	home
+1.0	he sister	greet	he
+1.0	he sister	take	care
+1.0	he sister	take	care of he
+1.0	I	prepare	dinner
+1.0	tsarevich	badly strum	gush
+1.0	tsarevich	strum	gush
+1.0	mouse	say in	human voice
+1.0	mouse	crawl out of	its hole
+1.0	mouse	say to	he
+1.0	mouse	say in	voice
+1.0	you sister	sharpen	she tooth
+1.0	Tsarevich Ivan	mount	he horse
+1.0	Tsarevich Ivan	go out of	chamber
+1.0	mouse	run along	string
+1.0	gush	sound	bad
+1.0	she	sharpen	she tooth
+1.0	she	rush into	chamber
+1.0	witch	become	angry
+1.0	witch	set out in	pursuit
+1.0	witch	gnash	she tooth
+1.0	Tsarevich Ivan	hear	noise
+1.0	he sister	be upon	almost he
+1.0	he sister	be upon	he
+1.0	he	wave	he cloth
+1.0	he	appear	lake
+1.0	he	appear	deep lake
+1.0	Tsarevich Ivan	ride far away	witch be get
+1.0	witch	be get across	lake
+1.0	Tsarevich Ivan	ride far away	witch be get across lake
+1.0	Tsarevich Ivan	ride away	witch be get across lake
+1.0	Tsarevich Ivan	ride	witch be get
+1.0	Tsarevich Ivan	ride	witch be get across lake
+1.0	Tsarevich Ivan	ride away	witch be get
+1.0	she	be	really close
+1.0	she	be	close
+1.0	oak	pile	they
+1.0	tsarevich	escape from	he sister
+1.0	he	pile up	mountain
+1.0	he	pile up	whole mountain
+1.0	she	clear	way
+1.0	mountain-turner	turn right	it
+1.0	mountain-turner	take	hold of tallest mountain
+1.0	he	place	another
+1.0	mountain-turner	see	witch
+1.0	mountain-turner	take	hold
+1.0	mountain-turner	take	hold of mountain
+1.0	mountain-turner	turn	it
+1.0	Tsarevich Ivan	ride	witch be clamber
+1.0	witch	launch after	she brother
+1.0	witch	again launch after	she brother
+1.0	witch	make	it
+1.0	she	glimpse	he
+1.0	Tsarevich Ivan	gallop at	same time
+1.0	Tsarevich Ivan	gallop up at	time
+1.0	Sun	of	sister
+1.0	Tsarevich Ivan	gallop at	time
+1.0	Tsarevich Ivan	gallop up at	same time
+1.0	window	jump through	it
+1.0	window	jump along with	he horse
+1.0	Tsarevich Ivan	jump through	it
+1.0	Sun	have	sister
+1.0	Tsarevich Ivan	jump along with	he horse
+1.0	witch	start	plead
+0.9553720569471832	she	back	she brother
+1.0	Sun	have	sister
+1.0	I	outweigh	he
+1.0	I	will get	he weigh
+1.0	he	kill	I
+1.0	I	will get	he weigh more
+1.0	I	eat	he
+1.0	First Tsarevich Ivan	sit on	scale
+1.0	he	land right up in	sky
+1.0	Sun	of	sister
+1.0	Tsarevich Ivan	be throw up into	air
+1.0	he	land up in	chamber
+1.0	he	land right up in	chamber
+1.0	he	land up in	chamber of Sun 's sister
+1.0	he	land in	sky
+1.0	she	put up	she foot
+1.0	he	land up in	sky
+1.0	he	land right up in	chamber of Sun 's sister
+1.0	he	land in	chamber of Sun 's sister
+1.0	he	land in	chamber
+1.0	she	put up	she first foot
+1.0	serpent	remain on	ground
+1.0	witch	remain on	ground

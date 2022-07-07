@@ -1,0 +1,324 @@
+1.0	peasant	be with	three son
+1.0	merchant	be	harsh
+1.0	merchant	be	extremely harsh
+1.0	he	say	one thing
+1.0	he	say	one thing
+1.0	he	say	one thing only
+1.0	it	be	so difficult
+1.0	it	be	difficult
+1.0	he	return	home
+1.0	he	last at_time	one week
+1.0	middle son	leave	home
+1.0	son	leave	home
+1.0	he	last at_time	one week
+1.0	he	last with	same merchant
+1.0	he	last with	merchant
+1.0	you	would just stay on	stove
+1.0	you	would stay	you know
+1.0	you	would just stay	you know
+1.0	you	would stay on	stove
+1.0	they	have return with	nothing show
+1.0	they	have return with	nothing show for it
+1.0	he	soon go to	merchant
+1.0	he	go to	merchant
+1.0	he	as soon go to	merchant
+1.0	you	do have	say
+1.0	brother	work through	day
+1.0	brother	here go	work
+1.0	you	here go	work through whole day
+1.0	brother	here go	work through day
+1.0	you	go	work through day
+1.0	brother	go	work
+1.0	brother	go	work through day
+1.0	brother	here go	work through whole day
+1.0	you	go	work through whole day
+1.0	you	here go	work through day
+1.0	you	here go	work
+1.0	brother	work through	whole day
+1.0	brother	go	work through whole day
+1.0	you	go	work
+1.0	you	also receive	payment
+1.0	it	be	well know
+1.0	you	receive	payment
+1.0	you	take	job
+1.0	it	be	know
+0.10199368314675994	you	do expect for	you wages
+1.0	I	will work to	you wife
+1.0	I	will work for	year
+1.0	that	be all	I need
+1.0	he	meanwhile think to	himself
+1.0	he	think to	himself
+1.0	laborer	make	thing easy
+1.0	laborer	decide	make
+1.0	thing	easy as	possible
+1.0	laborer	decide in	evening
+1.0	thing	as easy as	possible
+1.0	laborer	make	thing as easy
+1.0	he	fold	its head
+1.0	he	catch	rooster
+1.0	he	go	sleep
+1.0	morning	approach with	task of day
+1.0	morning	approach with	task
+1.0	sun	rise into	sky
+1.0	's	eat	breakfast
+1.0	it	be time	go to work
+1.0	it	be time	go
+1.0	they	have	breakfast
+1.0	they	work to	evening
+1.0	they	work through	day
+1.0	he	flop	wait
+1.0	he	catch	rooster
+1.0	he	again catch	rooster
+1.0	he	catch rooster at	twilight
+1.0	he	flop	wait until morning
+1.0	he	again catch rooster at	twilight
+1.0	he	flop into	bed
+1.0	he	fold	its head
+1.0	he	do	same
+1.0	merchant	be	surprised
+1.0	merchant	be	very surprised
+1.0	it	completely stop	crow
+1.0	it	stop	crow
+1.0	he	think into	countryside for rooster
+1.0	he	think into	countryside for new rooster
+1.0	he	think into	countryside
+1.0	merchant	go	look for rooster
+1.0	merchant	look for	rooster
+1.0	merchant	go	look
+1.0	merchant	take	laborer
+1.0	merchant	take laborer with	he
+1.0	they	walk along	road
+1.0	they	be	barely able
+1.0	they	hold onto	its rope
+1.0	they	be	able
+0.4875075047368334	we	be take bull to	slaughter house
+0.4875075047368334	we	be take	bull
+1.0	he	walk up to	bull
+1.0	he	kill	it
+1.0	he	pinch	hide
+1.0	he	pull completely off	it
+1.0	he	pull off	it
+1.0	he	pull	it
+1.0	he	soon begin to	despair
+1.0	he	begin to	despair
+1.0	he	as soon begin to	despair
+1.0	he	begin to	deeply despair
+1.0	he	soon begin to	deeply despair
+1.0	he	as soon begin to	deeply despair
+1.0	he	return	home
+1.0	he	return home to	counsel
+0.24511853840911302	he	return with	he wife
+0.24511853840911302	he	return to	counsel
+1.0	he	completely forget about	rooster
+1.0	he	return home with	he wife
+1.0	he	forget about	rooster
+1.0	they	would avoid	future misfortune
+1.0	merchant	have	wife
+1.0	wild animal	devour	he
+1.0	animal	devour	he
+1.0	they	wait after	after dinner
+1.0	they	wait after	after dinner in evening
+1.0	after dinner	be in	evening
+1.0	merchant 's wife	come into	hut
+1.0	merchant 's wife	go into	yard
+1.0	merchant 's wife	stand on	porch
+1.0	merchant 's wife	go out into	yard
+1.0	merchant	have	wife
+1.0	it	seem enough	all
+1.0	they	be	all there
+1.0	it	seem	all there
+1.0	it	seem	all
+1.0	it	seem then enough	all
+1.0	it	seem now then enough	all
+1.0	it	seem then enough	all there
+1.0	it	seem now then enough	all there
+1.0	it	seem enough	all there
+1.0	they	be	all
+1.0	you	find	it
+1.0	laborer	saunter into	thick forest
+1.0	laborer	grab	club
+1.0	laborer	saunter into	forest
+1.0	he	search	he find
+1.0	it	be	bear
+1.0	it	be actually bear in	its den
+1.0	it	be bear in	its den
+1.0	it	be	actually bear
+1.0	bear	be in	its den
+1.0	you	have get	yourself
+1.0	laborer	drive bear with	he club
+1.0	laborer	drive	bear
+1.0	beast	try	run
+1.0	beast	try	run away
+1.0	laborer	grab	it
+1.0	he	open	gate
+1.0	he	force bear into	barn
+1.0	he	force	bear
+0.08417186681517996	he	force into	barn
+1.0	he	lock	it
+1.0	bear	thrash	cow
+1.0	single cow	be	dispatch
+1.0	single cow	be	thus dispatch
+1.0	single cow	be dispatch during	night
+1.0	single cow	be thus dispatch during	night
+1.0	laborer	say in	morning
+1.0	laborer	say to	merchant
+1.0	he	find in	forest
+1.0	they	go to	barn
+1.0	they	open	door
+1.0	I	will take	care
+1.0	I	will take	care of he
+0.634548744820951	I	care of	he
+0.48637972557478043	I	will kill	he
+1.0	he	give	bear
+1.0	he	rush into	barn
+1.0	he	kill	he
+1.0	he	kill instantly	he
+1.0	he	give	flick
+0.8589396831012558	beast	be nothing to	he
+1.0	this	be	bad
+0.8589396831012558	wild beast	be	nothing
+0.8589396831012558	wild beast	be nothing to	he
+0.8589396831012558	beast	be	nothing
+1.0	devil	will serve	we
+1.0	devil	will serve better	we
+1.0	devil	perhaps will serve better	we
+1.0	devil	perhaps will serve	we
+1.0	devil	to	mill
+1.0	devil	to	mill
+1.0	he	harness cart to	horse
+1.0	he	drive to	devil 's mill
+1.0	he	harness	cart
+1.0	he	sit on	bank
+1.0	he	sit	arrive
+1.0	you	do need	rope
+1.0	I	drag	devil
+1.0	I	drag	you
+1.0	I	drag	devil to sun
+1.0	wretch	be soak after	all
+1.0	wretch	be completely soak after	all
+1.0	wretch	be	soak
+1.0	wretch	be	completely soak
+1.0	laborer	dig	deep hole
+1.0	laborer	cover	it
+1.0	laborer	dig	hole
+1.0	laborer	grab	shovel
+1.0	he	cut	hole
+1.0	he	place	it
+1.0	he	cut hole in	he cap
+1.0	elder	see	bottomless
+1.0	you	drag out	we
+1.0	devil	say to	laborer
+1.0	we pool	be	bottomless
+1.0	you	can measure	it
+1.0	laborer	tie	two end of rope
+1.0	laborer	tie together	two end
+1.0	laborer	give	it
+1.0	laborer	tie	two end
+1.0	laborer	tie together	two end of rope
+0.6108163581905318	Uh	do have	amount pay
+0.6108163581905318	Uh	do have	large amount pay
+0.6108163581905318	we	do have	large amount pay
+0.6108163581905318	we	do have	amount pay
+1.0	devil	tell	all of this
+1.0	devil	dive into	water
+1.0	devil	tell	all
+0.9969095430474074	nothing	be	do
+1.0	elder	be sorry to	part
+1.0	elder	be sorry to	part with money
+1.0	elder	be	sorry
+1.0	part	be with	money
+1.0	laborer	collect	cart 's worth
+1.0	laborer	thus collect	cart 's worth
+1.0	laborer	collect	entire cart 's worth of silver
+1.0	laborer	collect	cart 's worth of silver
+1.0	laborer	bring	it
+1.0	laborer	thus collect	entire cart 's worth
+1.0	laborer	collect	entire cart 's worth
+1.0	laborer	thus collect	cart 's worth of silver
+1.0	entire cart	have	worth of silver
+1.0	laborer	thus collect	entire cart 's worth of silver
+1.0	merchant	plan	run
+1.0	he wife	plan	run
+1.0	he wife	run away from	home
+1.0	she	lay down	so rest for escape
+1.0	she	lay down	rest for escape
+1.0	she	lay down	so well rest for escape
+1.0	she	lay down	rest for escape from laborer
+1.0	she	lay down	rest
+1.0	she	lay down	well rest for escape
+1.0	she	lay down	so rest for escape from laborer
+1.0	she	lay down	so rest for nighttime escape from laborer
+1.0	she	lay down	so well rest for nighttime escape from laborer
+1.0	she	lay down	rest for nighttime escape
+1.0	she	lay down	rest for nighttime escape from laborer
+1.0	she	lay down	so well rest for escape from laborer
+1.0	she	lay down	well rest for nighttime escape from laborer
+1.0	she	lay down	well rest for nighttime escape
+1.0	she	lay down	so well rest for nighttime escape
+1.0	she	put	they
+1.0	she	lay down	so rest
+1.0	she	lay down for	nap
+1.0	she	lay down	well rest
+1.0	she	lay down	well rest for escape from laborer
+1.0	she	lay down	so rest for nighttime escape
+1.0	she	lay down	so well rest
+1.0	laborer	dump loaf	she rest
+1.0	laborer	dump	pie
+1.0	laborer	dump pie out of	sack
+1.0	laborer	dump	pie of bread
+1.0	laborer	dump loaf out of	sack
+1.0	laborer	dump	loaf
+1.0	laborer	dump pie	she rest
+1.0	he	put	millstone
+1.0	he	put millstone in	one bag
+1.0	he	climb into	other himself
+1.0	he	climb into	himself
+1.0	they	grab	they bag
+1.0	they	leave	yard
+1.0	he	be chase after	we
+1.0	merchant	say to	he wife
+1.0	they	run more quickly	they life depend
+1.0	they	run even more quickly	they life depend
+1.0	they	run quickly	they life depend
+1.0	they	run even more quickly	they life depend on it
+1.0	they life	depend on	it
+1.0	they	run even quickly	they life depend on it
+1.0	they	run	they life depend
+1.0	they	run quickly	they life depend on it
+1.0	they	run	they life depend on it
+1.0	they	run more quickly	they life depend on it
+1.0	they	run even quickly	they life depend
+1.0	merchant	see	lake
+1.0	he	throw bag at_time	Stopping
+1.0	he	throw bag off	he shoulder
+1.0	he	throw	bag
+1.0	you	be	here
+1.0	they	spend	night
+1.0	he	roll to	side
+1.0	he	roll from	side
+1.0	laborer	immediately take off	he coat
+1.0	laborer	take off	he own coat
+1.0	merchant	on	wife
+1.0	laborer	don	she coat
+1.0	laborer	immediately take off	he own coat
+1.0	laborer	immediately take off	cap
+1.0	laborer	take off	cap
+1.0	laborer	put	they
+1.0	laborer	take off	he coat
+1.0	he	awake	he master
+1.0	merchant	have	sleep wife
+1.0	they	grab	merchant 's wife
+1.0	they	grab	merchant 's sleep wife
+1.0	they	throw	she
+1.0	you	do drown	you wife
+1.0	merchant	return home with	laborer
+1.0	merchant	return	home
+1.0	laborer	work at_time	year
+1.0	laborer	work at_time	whole year
+1.0	laborer	work for	he
+1.0	laborer	flick merchant	previously agree
+1.0	laborer	flick merchant at	end of year
+1.0	laborer	flick	merchant
+1.0	laborer	flick merchant at	end
+1.0	laborer	flick merchant	agree
+1.0	laborer	take	he inheritance

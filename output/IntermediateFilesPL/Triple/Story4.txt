@@ -1,0 +1,167 @@
+1.0	certain kingdom	be in	certain land
+1.0	they	say at_time	one day
+1.0	they	say to	he
+1.0	father	give	he blessing
+1.0	father	give	they
+1.0	they	set out in	different direction
+1.0	they	set out in	direction
+1.0	son	lose	he way
+1.0	youngest son	lose	he way
+1.0	he	come to	clearing
+1.0	falcon	fly to	prince
+1.0	falcon	fly up to	prince
+1.0	falcon	perch on	he shoulder
+1.0	he	give bone to	flesh to bird
+1.0	beast	flesh to	bird
+1.0	he	give	bone
+1.0	he	give bone to	beast
+1.0	prince	divide	carcass
+1.0	he	give bone to	flesh
+1.0	you	shall	for you kindness shall able
+1.0	you	turn into	falcon
+1.0	you	shall	shall able
+1.0	you	turn into	bright falcon
+1.0	Prince Ivan	fly to	thrice tenth kingdom
+1.0	Prince Ivan	strike	earth
+1.0	Prince Ivan	turn into	bright falcon
+1.0	Prince Ivan	turn into	falcon
+1.0	Prince Ivan	strike	damp earth
+1.0	Prince Ivan	soar up into	air
+1.0	prince	ask	palace guard
+1.0	prince	fly into	royal palace
+1.0	prince	turn into	goodly youth
+1.0	prince	fly straight into	royal palace
+1.0	prince	fly straight into	palace
+1.0	prince	turn into	youth
+1.0	prince	fly into	palace
+1.0	he	thus enter	service of king
+1.0	he	enter	service of king
+1.0	he	enter then second	service
+1.0	he	thus enter second	service of king
+1.0	he	thus enter	service
+1.0	he	thus enter second	service
+1.0	he	thus enter then second	service of king
+1.0	he	thus enter then second	service
+1.0	he	enter	service
+1.0	he	enter second	service of king
+1.0	he	live for	one week
+1.0	he	live in	he palace
+1.0	he	enter second	service
+1.0	he	enter then second	service of king
+1.0	ride	be with	Prince Ivan
+1.0	I	take	ride
+1.0	I	take	ride with Prince Ivan
+1.0	I	take ride to	crystal mountain
+1.0	king 's daughter	ask	she father
+1.0	king	have	daughter
+1.0	king	give	she leave
+1.0	they	mount	steed
+1.0	they	mount	good steed
+1.0	they	approach	crystal mountain
+1.0	he	appear before	king
+1.0	he	could dare	appear
+1.0	he	could dare	appear before king
+1.0	he	would	would unrecognizable
+1.0	he	come to	palace
+1.0	he	say to	king
+1.0	he	disguise	himself
+0.4220645975770411	you Majesty	hire i as	you herdsman
+0.4220645975770411	you Majesty	hire	I
+1.0	three-headed dragon	come to	you herd
+1.0	dragon	give	six cow
+1.0	dragon	give	he
+1.0	six-headed dragon	give	he
+1.0	dragon	come to	you herd
+1.0	six-headed dragon	give	six cow
+1.0	Prince Ivan	drive	he herd
+1.0	three-headed dragon	come	fly
+1.0	dragon	fly from	lake
+1.0	three-headed dragon	come	fly from lake
+1.0	dragon	suddenly come	fly from lake
+1.0	Prince Ivan	kind of	work
+1.0	dragon	come	fly from lake
+1.0	three-headed dragon	suddenly come	fly
+1.0	three-headed dragon	fly from	lake
+1.0	dragon	come	fly
+1.0	dragon	suddenly come	fly
+1.0	three-headed dragon	suddenly come	fly from lake
+1.0	I	have	three cow
+1.0	you	want	three cow
+1.0	dragon three cow	seize	six
+1.0	dragon	fly into	rage
+1.0	Prince Ivan straightway	cut off	three head of dragon
+1.0	Prince Ivan straightway	turn into	falcon
+1.0	Prince Ivan straightway	drive	cattle home
+1.0	Prince Ivan straightway	turn into	bright falcon
+1.0	you	do give	three cow
+1.0	you	do give	he
+1.0	prince	drive	he herd
+1.0	six head dragon	come from	lake
+1.0	six head dragon	demand	six cow
+1.0	head dragon	come from	lake
+1.0	head dragon	demand	six cow
+1.0	prince	cut off	he six head
+1.0	dragon	seize	twelve cow
+1.0	prince	fall upon	dragon
+1.0	dragon	fly into	rage
+1.0	prince	turn into	falcon
+1.0	prince	turn into	bright falcon
+1.0	herd home	ask	he
+1.0	king	ask	he
+1.0	my herd	have grow	smaller
+1.0	my herd	have grow	much smaller
+1.0	he	take	nothing
+1.0	Prince Ivan	late turn into	ant
+1.0	Prince Ivan	late turn at	night
+1.0	Prince Ivan	crawl into	crystal mountain
+1.0	Prince Ivan	crawl through	little crack
+1.0	Prince Ivan	turn into	ant
+1.0	Prince Ivan	crawl through	crack
+1.0	Prince Ivan	turn at	night
+1.0	princess	be in	crystal mountain
+1.0	he	have	coffer in he side
+0.7022559623082214	have	coffer in	he side
+1.0	coffer	be in	he side
+1.0	father	in	lake
+1.0	he	have	coffer
+1.0	seed	be in	egg
+0.7233099790179072	duck	be	egg
+1.0	duck	be in	hare
+1.0	duck	be in	duck
+1.0	it	destroy	rescue I
+1.0	you	slay	dragon
+1.0	you	get	seed
+1.0	it	will	will possible
+1.0	it	destroy	crystal mountain
+1.0	Prince Ivan	turn into	herdsman
+1.0	Prince Ivan	turn again into	herdsman
+1.0	Prince Ivan	crawl out of	mountain
+1.0	Prince Ivan	drive	he herd
+1.0	that	will	will too much for you
+1.0	Prince Ivan	defeat	twelve-headed dragon
+1.0	Prince Ivan	defeat	dragon
+1.0	they	begin	fight
+0.769107381565771	he	hare in	duck
+1.0	hare	be in	duck
+1.0	he	find	hare in duck
+1.0	he	find	hare in hare in egg
+1.0	he	find	hare in duck in egg
+1.0	hare	be in	hare
+0.769107381565771	he	hare in	egg
+1.0	he	find	hare in hare
+1.0	he	find	hare in hare in duck in egg
+1.0	he	find	hare in egg
+0.769107381565771	he	hare in	hare
+1.0	he	find	hare in hare in duck
+1.0	he	find	hare
+1.0	he	find hare in	coffer
+1.0	hare	be in	egg
+1.0	he	set alight	it
+1.0	he	bring	it
+1.0	he	set	it
+1.0	he	take	seed
+1.0	Prince Ivan	lead	princess
+1.0	wedding	be	hold
+1.0	wedding	be hold at	once
+1.0	I	be at	wedding
+1.0	I	be at	wedding too

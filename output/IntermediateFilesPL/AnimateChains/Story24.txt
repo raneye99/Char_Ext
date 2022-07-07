@@ -1,0 +1,26 @@
+1	1	| an old man | his | The old man | his | an old man | The old man | him | he |
+1	1	| his old wife | her | his wife | my wife | my wife | my wife |
+1	1	| Ivashko Lie-on-the-Stove | him | my | Ivashko | Ivashko | Ivashko | Ivashko | his | He | he | He | Ivashko | me | me | Ivashko | he | himself | I | he | my | my | you | him | Ivashko | me | me | Ivashko | he | he | his | him | him | Ivashko | He | He | he | him | he | he | he | me | me | you | him | Ivashko | Ivashko | Ivashko | he | Ivashko | himself | his | him | Ivashko | him | he | Ivashko | he | he | He | he | Ivashko | him | him | Ivashko | he | me | me | Ivashko | I | me | Ivashko | him | He | Ivashko | him | he | he | he | Ivashko | him | Ivashko | him | his | Ivashko | his | He | his | The gallant youth | He | He | He | I | you | you | The good youth | He |
+1	1	| Egorushko | him | Egorushko | his | their eldest son | himself | He | he | he | himself | his | he |
+1	1	| Mishka | their middle son | Mishka the Bandy-legged | him | their middle son , Mishka the Bandy-legged | Bandy-legged | the Bandy-legged | Bandy-legged |
+1	1	| elder brothers | them | the brothers | the brothers | the brothers | them | his brothers | they | they | they | his brothers | they | their |
+1	0	| you | you | you | they | They | They |
+1	0	| Egorushko the Nimble , Mishka the Bandy-legged , and Ivashko Lie-on-the-Stove | Egorushko the Nimble , Mishka the Bandy-legged , and Ivashko Lie-on-the-Stove |
+1	0	| you | you | you | you | you | you | you | you |
+1	0	| you | you | they | them |
+1	1	| a bride | a bride | a bride | no bride for you | a bride | a bride | a bride | a bride | a bride |
+1	1	| a sentry | him | his | him | him | he | him | I | my | my |
+1	1	| a three-headed dragon | The dragon | him | my | I | I | The dragon | me | I | The dragon | The dragon | you | the dragon | the three-headed dragon | The dragon | My | my | me | I | the dragon | the dragon | him | The dragon | I | you | you | you |
+1	0	| you | you |
+1	0	| Mighty giant | the giant | the mighty giant |
+1	0	| you | you | you | you | your |
+1	1	| eagle | the eagle | the eagle | the eagle | the eagle | the eagle | The eagle | the eagle | it | the eagle | the eagle | it |
+1	0	| a bride for himself | a bride for himself |
+1	0	| my good fellow | my good fellow |
+1	0	| we | They | they |
+1	0	| some thongs | the thongs | the thongs | the thongs | the thongs | the thongs | the thongs |
+1	1	| golden maiden | her | the maiden | the maiden | her | her | the maiden , as is becoming | the maiden | The maiden | The maiden | the maiden | the maiden | the maiden | the maiden | the maiden | her | the maiden | her |
+1	0	| you | She | her | She | she | her |
+1	0	| questions | questions | questions |
+1	0	| Fie | fie , fie |
+1	1	| Baba Yaga | She | Baba Yaga | Baba Yaga | Baba Yaga |

@@ -1,0 +1,165 @@
+1.0	wife	stumble into	bear 's den
+1.0	wife	go for	mushroom
+1.0	bear	into	den
+1.0	wife	go to	forest
+1.0	wife	go at_time	one day
+1.0	wife	lose	she way
+1.0	she	have son by	he
+1.0	she	have son at_time	long time
+1.0	she	have son after	time
+1.0	she	have son at_time	time
+1.0	she	have	son
+1.0	bear	keep	she
+1.0	he	ivanko	Bearlet
+1.0	they	wait	bear go to beehive
+1.0	he	go away with	he mother
+1.0	they	wait	bear go
+1.0	they	make	ready
+1.0	bear	go to	beehive
+1.0	peasant	be in	village
+1.0	they	finally come to	they village
+1.0	they	come to	they own village
+1.0	they	come to	they village
+1.0	they	finally come to	they own village
+1.0	he	have give up	hope
+1.0	he	behold	she son
+0.3450989924902338	have	son by	he
+1.0	she	have	son by he
+1.0	bear	in	den
+1.0	son	be human to	waist from waist down
+1.0	son	be human to	waist
+1.0	she	have live in	bear 's den
+1.0	he wife	tell	he
+1.0	she	have	son
+1.0	son	be	human
+1.0	son	be human to	waist from waist
+1.0	we	must make dinner for	you
+1.0	we	must make	dinner
+1.0	Whichever one	stare at	you
+1.0	Whichever	stare at	you
+1.0	Ivanko Bearlet	go to	yard
+1.0	Ivanko Bearlet	call	sheep
+1.0	Ivanko Bearlet	go out to	yard
+1.0	he	slaughter	they
+1.0	he	skin	they
+1.0	he	should store	skin
+1.0	he	should store	meat
+1.0	he	slaughter all	they
+1.0	he	forthwith slaughter	they
+1.0	he	forthwith slaughter all	they
+1.0	you	have slaughter	they
+1.0	you	have slaughter all	they
+1.0	you	slaughter	one sheep
+0.294184394506147	one	stare at	I
+1.0	you	tell	I
+1.0	I	come out into	yard
+1.0	you	be	clever fellow
+1.0	you	be	fellow
+1.0	you	be	clever
+1.0	you	be	certainly fellow
+1.0	you	be	certainly clever fellow
+1.0	I	will guard	it
+1.0	I	very well will guard	it
+1.0	I	well will guard	it
+1.0	storm	break on	night
+1.0	rain	fall in	bucket
+1.0	Ivanko Bearlet	spend there	night
+1.0	Ivanko Bearlet	break	door
+1.0	Ivanko Bearlet	break door off	barn
+1.0	Ivanko Bearlet	take	it
+1.0	Ivanko Bearlet	spend	night
+1.0	everything	be in	order
+1.0	peasant	go	see
+1.0	peasant	arise at_time	morning
+1.0	peasant	arise at_time	next morning
+1.0	he	find	he
+1.0	he	look for	guard
+1.0	I	guard	door
+1.0	I	do guard	it
+1.0	yourself	tell	I
+1.0	dog	do eat up	it
+1.0	he	will ruin	I
+1.0	he	will ruin completely	I
+1.0	I	get	rid of he
+1.0	I	get	rid
+1.0	he	send	Ivanko
+1.0	he	wind	rope
+1.0	he	send ivanko at_time	day
+1.0	he	wind	rope of sand
+1.0	he	send ivanko at_time	next day
+1.0	he	tell	he
+1.0	he	send ivanko to	lake
+1.0	Ivanko Bearlet	sit on	shore
+1.0	Ivanko Bearlet	go to	lake
+1.0	devil	jump out of	water
+1.0	you	do	Bearlet
+1.0	little devil	suddenly jump out of	water
+1.0	little devil	jump out of	water
+1.0	devil	suddenly jump out of	water
+1.0	you	do here	Bearlet
+1.0	I	thrash	lake
+1.0	lake	torment	you devil
+1.0	I	will run	my grandfather
+1.0	he	jump into	water
+1.0	he	be	later again
+1.0	he	be	later out again
+1.0	he	be	five minute later again
+1.0	he	be	out again
+1.0	he	be	five minute later out again
+1.0	he	be	again
+1.0	race	be with	he
+1.0	you	do want to	race
+1.0	you	do want to	race with he
+0.6589553360400516	Ivanko	race with	I
+1.0	Ivanko	now say	you wish
+1.0	race	be with	I
+1.0	Ivanko	say	you wish
+1.0	I	will kill	you
+1.0	he	carry	he grandfather 's iron crutch
+1.0	he	jump out after	while
+1.0	grandfather	have	iron crutch
+1.0	it	fall back with	terrible rumble
+1.0	it	fall back with	rumble
+1.0	it	fall with	terrible rumble
+1.0	it	be	visible
+1.0	it	be	hardly visible
+1.0	it	fall with	rumble
+0.49570527284031046	he	wait	while
+1.0	I	shall throw crutch on	it
+1.0	I	shall throw	crutch
+1.0	grandfather	need	he crutch
+1.0	he	rush into	water
+1.0	he	snatch	crutch
+1.0	he	jump out	say
+1.0	he	jump out again after	while
+1.0	he	jump out after	while
+1.0	he	jump out again	say
+1.0	devil	drag	it
+1.0	he	be	exhaust
+1.0	he	carry	it
+1.0	horse	finally collapse under	he
+1.0	he	ride	so long
+1.0	horse	collapse under	he
+1.0	he	begin	ride
+1.0	he	ride	long
+1.0	he	begin	ride around lake
+1.0	he	ask	little devil
+1.0	he	ask	devil
+1.0	we	must pay	much rent
+1.0	we	must pay	how much rent
+1.0	we	must pay	rent
+1.0	devil	fetch	gold
+1.0	Ivanko	cut bottom out of	he hat
+1.0	Ivanko	place	it
+1.0	little devil	fetch	gold
+1.0	Ivanko	cut	bottom
+1.0	gold	pour	it
+1.0	hat	be fill by	only evening
+1.0	hat	be	fill
+1.0	hat	be fill by	evening
+1.0	he	work for	whole day
+1.0	he	work at	this
+1.0	he	work for	day
+1.0	Ivanko Bearlet	get	cart
+1.0	Ivanko Bearlet	have	devil drag
+1.0	Ivanko Bearlet	say to	peasant

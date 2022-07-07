@@ -1,0 +1,246 @@
+1.0	she	expect	present
+1.0	he	always bring	she present
+1.0	we priest	have	daughter
+1.0	he	bring	she present
+1.0	he	go at_time	one day
+1.0	he	go away to	village
+1.0	he	go away at_time	one day
+1.0	he	go to	village of he parish
+1.0	he	give	someone communion
+1.0	he	be	receive very hospitably
+1.0	he	go to	village
+1.0	he	go away to	village of he parish
+1.0	he	be	receive hospitably
+1.0	he	be	receive
+1.0	he	set out for	home
+1.0	he	forget	ask
+1.0	he	ask for	present for he daughter
+1.0	he	forget	ask for present for he daughter
+1.0	he	ask for	present
+1.0	he	forget	ask for present
+1.0	head burning	be	almost all burn
+1.0	he	be ride on	road
+1.0	head burning	be	in fact almost all burn
+1.0	human head burning	be	in fact burn
+1.0	he	behold	he be ride
+1.0	human head burning	be	in fact almost all burn
+1.0	head burning	be	in fact burn
+1.0	head burning	be	burn
+1.0	head burning	be	all burn
+1.0	he	behold	he be ride on road
+1.0	human head burning	be	burn
+1.0	human head burning	be	all burn
+1.0	human head burning	be	almost all burn
+1.0	human head burning	be	in fact all burn
+1.0	head burning	be	in fact all burn
+1.0	he	pass	it
+1.0	I	place	they
+1.0	I	bring	they
+1.0	I	put ash in	my pocket
+1.0	I	bring home	they
+1.0	I	put	ash
+1.0	he	mount	he horse
+1.0	he	mount again	he horse
+1.0	he	ride	home
+1.0	he	pick up	ash
+1.0	she	sleep in	featherb
+1.0	he	have headache from	wind
+1.0	he daughter	meet	he
+1.0	he daughter	help	he
+1.0	he daughter	help down	he
+1.0	he	have headache from	probably wind
+1.0	she	put	he
+1.0	he	have	headache
+1.0	she	take out	box
+1.0	she	touch	it
+1.0	she	become	pregnant
+1.0	she	bear in	hour
+1.0	she	give	birth
+1.0	she	give birth to	boy
+1.0	he	be christen at	once
+1.0	he	name	Nodey
+1.0	priest	have	grandson
+1.0	he	be	christen
+1.0	he	go into	out street
+1.0	he	play ball with	boy
+1.0	he	go into	street
+1.0	he	play	ball
+1.0	he	play ball with	other boy
+1.0	he	go at	six week
+1.0	he	hit	ball
+1.0	it	buzz through	air
+1.0	he	strike someone in	leg
+1.0	he	strike	someone
+1.0	he	strike	someone
+1.0	he	strike	someone
+1.0	poor fellow	have	head
+1.0	someone	be in	arm
+1.0	someone	be in	head
+1.0	father	come to	priest
+1.0	he boy	lose	he head
+1.0	one	would complain	another
+1.0	he child	lose	arm
+1.0	we	shall do	work
+1.0	he	have grow	quite big
+1.0	we	shall do now	work
+1.0	he	have grow by	then
+1.0	he	have grow	big
+1.0	my daughter	give	heir
+1.0	he	be	godsend
+1.0	my	daughter	God
+1.0	my beloved daughter	be	thank
+1.0	my beloved daughter	give	we
+1.0	my daughter	be	thank
+0.8607509188487542	he	be	so strong
+1.0	my beloved daughter	give	heir
+0.8607509188487542	he	be	strong
+1.0	priest	say to	he daughter
+1.0	my daughter	give	we
+1.0	he	say to	he grandson
+1.0	we	go	grandfather
+1.0	they	choose	place
+1.0	they	go to	marsh
+1.0	grandfather	cut	pine tree
+1.0	grandfather	cut	tree
+1.0	he	give	one blow
+1.0	wood	begin	tremble
+1.0	he	have clear	about four acre of marshy ground
+1.0	he	have clear	about four acre of ground
+1.0	he	have clear	about four acre
+1.0	we	burn	it
+1.0	we	chop	wood
+1.0	we	pile up	it
+1.0	we	simply pile up	it
+1.0	former wilderness	have become after	three day
+1.0	former wilderness	have become	farm land
+1.0	bear	haunt	field
+1.0	bear	haunt	field of oats
+1.0	priest	inspect	field
+1.0	much	be	eat
+1.0	priest	inspect	new field
+1.0	he grandson	ask	he
+1.0	he	do	much damage
+1.0	he	do	damage
+1.0	I	catch	he
+1.0	he	eat	he dinner
+1.0	he	weave	hempen bridle
+1.0	he	be	amaze
+1.0	he	be amaze at	sight
+1.0	he	see	field
+1.0	it	be	frightful
+1.0	tree stump	be in	field
+1.0	he	sit down on	tree stump in field
+1.0	he	sit down on	tree stump
+1.0	bear	go straight into	oat field
+1.0	bear	come	he sit
+1.0	bear	go into	oat field
+1.0	bear	come	he sit thus
+1.0	bear	come out of	wood
+1.0	we youth	be	surprise
+1.0	we brave youth	be	surprise
+1.0	he	spoil	oats
+1.0	he	take	he
+1.0	he	be	part
+1.0	he	be part of	it
+1.0	he	come	quite close
+1.0	he	come	close
+1.0	bear	think to	himself
+1.0	he	lead	he
+1.0	he	put hempen bridle on	he
+1.0	he	put	hempen bridle
+1.0	he	lead	home
+1.0	tree	be	whenever uproot
+1.0	he	be lead	he
+1.0	tree	be	uproot
+1.0	Nodey	well bring	he home
+1.0	Nodey	bring	he home
+1.0	Nodey	tie	he
+1.0	Nodey	go into	house
+1.0	pillar	be in	middle of yard
+1.0	priest	look out into	yard
+1.0	you	son	grandson
+1.0	they	gaze in	admiration
+1.0	nodey	harness	he
+1.0	nodey	take	bear
+1.0	he	have cart off	whole village
+1.0	he	have cart off	village
+1.0	he	have cart in	three day
+1.0	they	say to	he
+1.0	they	come to	priest
+1.0	he	have take	whole village
+1.0	he	have take away	whole village
+1.0	he	have take village in	three day
+1.0	he	have take village away in	three day
+1.0	he	have take	village
+1.0	he	have take away	village
+1.0	you	son	grandson
+1.0	I	be sorry for	my grandson
+1.0	I	be	sorry
+1.0	I	be sorry for	you son
+1.0	he	call	he grandson
+0.06141471494456796	he	call to	he
+1.0	my beloved mother	bake loaf of bread for	I
+1.0	my beloved mother	bake loaf for	I
+1.0	my beloved mother	bake	loaf
+1.0	my mother	bake	loaf
+1.0	my mother	bake loaf for	I
+1.0	my beloved mother	bake	loaf of bread
+1.0	my mother	bake loaf of bread for	I
+1.0	my mother	bake	loaf of bread
+1.0	he mother	baked	loaf of bread for he
+1.0	he mother	baked	loaf for he
+1.0	he mother	baked	loaf of bread
+1.0	he mother	put	it
+1.0	he mother	baked	loaf
+1.0	my dear grandfather	give	you blessing
+1.0	my mother	give	you blessing for my journey
+1.0	my grandfather	give	you blessing
+1.0	my dear grandfather	give	you blessing for my journey
+1.0	he	put	he knapsack
+1.0	he	ask for	blessing
+1.0	my mother	give	I
+1.0	my grandfather	give	you blessing for my journey
+1.0	my dear grandfather	give	I
+1.0	my beloved mother	give	you blessing
+1.0	my beloved mother	give	I
+1.0	my beloved mother	give	you blessing for my journey
+1.0	my mother	give	you blessing
+1.0	my grandfather	give	I
+1.0	he	take road with	he mouth
+1.0	he	take	road
+1.0	he	take road with	he mouth open
+1.0	path	walk for	seven day
+1.0	he	take path with	he mouth open
+1.0	path	go through	forest
+1.0	he	take path with	he mouth
+1.0	path	go through	thick forest
+1.0	he	take	path
+1.0	he	come to	thrice land to thrice tenth kingdom
+1.0	he	find	himself
+1.0	he	come to	thrice land
+1.0	he	come to	thrice ninth land to thrice tenth kingdom
+1.0	he	come near	steep mountain
+1.0	he	come to	thrice ninth land
+1.0	he	come near	mountain
+1.0	Nodey	go to	he
+1.0	Nodey	grandson 's	priest
+1.0	priest	have	grandson
+0.6326874192963898	you	mountain about	about ball
+1.0	you	kick	mountain about like ball
+1.0	you	kick	mountain
+1.0	certain Nodey	grandson 's	priest
+1.0	it	be	say
+1.0	priest	have	grandson
+1.0	he	bring	bear
+1.0	he	bring bear on	bear
+1.0	he	bring bear from	wood
+1.0	Nodey	grandson 's	priest
+1.0	priest	have	grandson
+1.0	they	capture	many city
+1.0	they	capture	city
+1.0	they	get	then marry
+1.0	they	travel to	many far land
+1.0	they	get	marry
+1.0	they	conquer	mighty knight
+1.0	they	conquer	many mighty knight
+1.0	they	travel to	far land

@@ -1,0 +1,144 @@
+1.0	pillar	be in	middle of field
+1.0	certain kingdom	be in	certain land there live
+1.0	he	lay on	stove
+1.0	he	lay in	cockroach milk
+1.0	he	lay up	up he elbow
+1.0	fox	come to	he
+0.5070989888203645	you	would like	I
+1.0	tsar	to	daughter
+1.0	I	marry	you
+1.0	you	say	little fox
+1.0	you	say	fox
+1.0	you	do have	money
+0.48525861707490975	I	have	one five kopek piece
+1.0	fox	exchange	it
+1.0	fox	take	coin
+1.0	Bukhtan Bukhtanovich	have	money
+1.0	fox	take home	it
+1.0	fox	take	it
+0.5867464177247199	fox	stick	one kopek
+1.0	Bukhtan Bukhtanovich	have	money
+1.0	fox	bring back	it
+1.0	fox	stick kopek behind	hoop of measure
+1.0	fox	take home	it
+1.0	fox	bring	it
+1.0	fox	take	it
+1.0	fox	stick	kopek
+1.0	fox	stick kopek behind	hoop
+1.0	Fox	bring back	it
+1.0	Fox	bring	it
+1.0	Fox	take home	it
+1.0	Fox	take	it
+1.0	fox	run	home
+1.0	they	have	cross on board
+1.0	they	have	cross over muddy ditch
+1.0	they	have	cross on board over ditch
+1.0	they	have	cross on board over muddy ditch
+1.0	they	walk along	market place
+1.0	they	have	cross over ditch
+1.0	they	have	cross
+1.0	he	fall into	mud
+1.0	fox	give	Bukhtan
+1.0	fox	give	push
+1.0	fox	run to	he
+1.0	matter	be with	you
+1.0	fox	smear	he
+1.0	fox	smear over	he
+1.0	I	shall run to	tsar
+1.0	it	be	board
+1.0	it	be	wretched
+1.0	it	be	little
+1.0	it	be	wretched board
+1.0	it	be	little board
+1.0	we	somehow fall into	mud
+1.0	we	fall into	mud
+1.0	it	be	wretched little board
+1.0	you	lend	he
+1.0	Bukhtan Bukhtanovich	come to	town
+1.0	fox	take	clothes
+1.0	fox	come to	Bukhtan Bukhtanovich
+1.0	you	clothes	Bukhtan
+1.0	table	be	set
+1.0	table	be set at	tsar 's palace
+1.0	they	come to	tsar
+1.0	tsar	at	palace
+1.0	table	be	already set
+1.0	table	be already set at	tsar 's palace
+1.0	Bukhtan Bukhtanovich	do look at	only himself
+1.0	Bukhtan Bukhtanovich	do look at	himself
+1.0	you	wear at_time	Sunday
+1.0	you	wear on	Easter
+1.0	Tsar	give	he
+1.0	yourself	wear at_time	Sunday
+1.0	yourself	wear on	Easter
+1.0	it	be	gilded
+0.057090840461098025	tsar	again whisper to	fox
+1.0	Bukhtan Bukhtanovich	do look only at	chair
+1.0	Bukhtan Bukhtanovich	do look at	chair
+0.057090840461098025	tsar	whisper to	fox
+0.554349861326216	such chair	stand in	only bathhouse
+0.554349861326216	such chair	stand in	bathhouse
+0.554349861326216	chair	stand in	he house
+0.554349861326216	tsar	stand in	bathhouse
+0.554349861326216	chair	stand in	bathhouse
+0.554349861326216	such chair	stand in	he house
+0.554349861326216	chair	stand in	only bathhouse
+0.554349861326216	tsar	stand in	he house
+0.554349861326216	tsar	stand in	only bathhouse
+1.0	tsar	fling chair out of	room
+1.0	tsar	fling	chair
+1.0	they	talk about	purpose of they visit
+1.0	they	begin	talk about purpose of they visit
+1.0	they	begin	talk
+1.0	they	begin	talk about purpose
+1.0	they	talk about	purpose
+1.0	tsar	in	palace
+1.0	wedding	do take long in	tsar 's palace
+1.0	wedding	do take in	tsar 's palace
+1.0	ship	be load for	Bukhtan Bukhtanovich
+1.0	ship	be	load
+1.0	three ship	be	load
+1.0	three ship	be load for	Bukhtan Bukhtanovich
+1.0	Bukhtan	see	he stove
+1.0	stove	be	disgrace
+1.0	fox	run ahead on	shore
+1.0	fox	run on	shore
+1.0	he	climb	it
+1.0	he	come to	hill
+1.0	it	be	enormous
+1.0	it	be	enormous kingdom
+1.0	it	be	kingdom
+1.0	Dragon	son of	Dragon
+1.0	Dragon	lay stretch	himself
+1.0	Dragon	there lay stretch	himself
+1.0	he	run into	chamber
+0.9329992564525078	Dragon	son of	Dragon
+0.9782938898779608	raven	son of	raven
+1.0	raven	be perch on	chimney
+1.0	cat	son of	cat
+1.0	raven	son of	raven
+0.9778923555840052	cat	son of	cat
+1.0	raven	be	perch
+1.0	cat	sit on	throne
+1.0	they	burn	you
+1.0	tsar	come with	fire
+1.0	tsarina	be with	lightning
+1.0	we	shall go at_time	fox
+1.0	whither	shall go at_time	fox
+1.0	we	shall go at_time	little fox
+1.0	whither	shall go at_time	little fox
+1.0	Son	go into	barrel
+1.0	fox	seal up	he
+1.0	Son	go into	mortar
+1.0	Dragon	son of	Dragon
+1.0	he	wrap	Son
+1.0	he	wrap	Son of Dragon
+1.0	he	wrap dragon in	straw
+0.9208662466190616	Dragon	son of	Dragon
+1.0	he	wrap	Dragon
+1.0	he	take out	he
+1.0	beast	be	throw
+1.0	beast	be throw into	water
+1.0	Cossacks	throw in	they
+1.0	he	there end	he life
+1.0	he	end	he life

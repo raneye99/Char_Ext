@@ -1,0 +1,442 @@
+1.0	peasant	make with	iron hand
+1.0	little peasant	make of	copper
+1.0	little peasant	make with	iron hand
+1.0	steel head	wizard of	man
+1.0	peasant	make of	copper
+1.0	Prince Ivan	walk by	prison
+1.0	tsar	have	son
+1.0	Prince Ivan	son 's	tsar
+1.0	Prince Ivan	give	I
+1.0	Prince Ivan	give	drink
+1.0	man	begin	beg
+1.0	old man	begin	beg
+1.0	tsar 's word	be	law
+1.0	tsar	have	word
+1.0	Prince Ivan	be	banish
+1.0	he	walk	last he arrive
+1.0	he	walk for	time
+1.0	he	walk for	long time
+1.0	he	walk	he arrive
+1.0	he	ask	take
+1.0	he	present	himself
+1.0	he	ask	take into he service
+1.0	king	appoint	he stableboy
+1.0	king	accept	he
+1.0	stable master	beat	he
+1.0	master	beat	he
+1.0	master	beat more	he
+0.6000586798112392	he	be	sleep
+1.0	stable master	beat more	he
+1.0	king	of	daughter
+1.0	Princess Martha	rule	kingdom
+1.0	king	depart with	he troops
+1.0	Princess Martha	be	leave
+1.0	she	appoint	he governor of one she province
+1.0	she	now appoint	he governor of one she province
+1.0	she	appoint	he governor
+1.0	she	now appoint	he governor of one of she province
+1.0	he	governor of	one of she province
+1.0	she	appoint	he governor of one of she province
+1.0	he	governor of	one she province
+1.0	she	now appoint	he governor
+1.0	Prince Ivan	leave for	he province
+1.0	Prince Ivan	govern	it
+1.0	he	leave town with	iron hand
+1.0	he	leave	town
+1.0	he	leave town than	peasant make of copper
+1.0	he	leave town than	peasant make
+1.0	he	leave town than	peasant
+1.0	Prince Ivan	return	he greet
+1.0	man	call to	he daughter
+1.0	old man	call to	he little daughter
+1.0	man	call to	he little daughter
+1.0	man	lead	he
+1.0	old man	lead	he
+1.0	old man	call to	he daughter
+1.0	they	begin	eat
+1.0	man	tell	he
+1.0	old man	tell	he
+1.0	young prince	suddenly feel	great strength
+1.0	he	drink	wine
+1.0	young prince	suddenly feel strength in	he
+0.08250788677896104	young prince	feel in	he
+0.08250788677896104	prince	suddenly feel in	he
+1.0	young prince	feel	great strength
+1.0	prince	feel strength in	he
+1.0	prince	suddenly feel	strength
+1.0	young prince	suddenly feel	strength
+1.0	he	drink wine in	one draught
+1.0	prince	suddenly feel strength in	he
+1.0	prince	suddenly feel	great strength
+1.0	young prince	feel	strength
+1.0	prince	feel	strength
+1.0	prince	feel	great strength
+0.08250788677896104	prince	feel in	he
+0.08250788677896104	young prince	suddenly feel in	he
+1.0	young prince	feel strength in	he
+1.0	walk	be with	he
+1.0	he	go for	walk with he
+1.0	he	go for	walk
+1.0	he	pick up	it
+1.0	he	say to	himself
+1.0	he	toss easily	it
+1.0	he	toss	it
+1.0	old man	have give	it
+1.0	man	probably have give	it
+1.0	man	have give	it
+1.0	old man	probably have give	it
+1.0	they	walk	time
+1.0	he daughter	bring	gallon
+1.0	he daughter	bring	gallon of wine
+1.0	old man	tell	he daughter
+1.0	man	tell	he second daughter
+1.0	man	tell	he daughter
+1.0	old man	tell	he second daughter
+1.0	he second daughter	bring	gallon of wine
+1.0	he second daughter	bring	gallon
+1.0	Prince Ivan	drink	it
+1.0	Prince Ivan	take	cup
+1.0	Prince Ivan	boldly take	cup
+1.0	they	go for	walk
+1.0	they	again go for	walk
+1.0	old man	say to	Prince Ivan
+1.0	man	say to	Prince Ivan
+1.0	Prince Ivan	toss	it
+1.0	Prince Ivan	think to	himself
+1.0	Prince Ivan	snatch	it
+1.0	he youngest daughter	bring	gallon
+1.0	old man	tell	he daughter
+1.0	he daughter	bring	half of green wine
+1.0	he youngest daughter	bring	half of wine
+1.0	old man	tell	he youngest daughter
+1.0	he daughter	bring	gallon
+1.0	he daughter	bring	half
+1.0	man	tell	he daughter
+1.0	man	tell	he youngest daughter
+1.0	he daughter	bring	half of wine
+1.0	he youngest daughter	bring	half
+1.0	he youngest daughter	bring	half of green wine
+1.0	man	give	he
+1.0	man	give	tablecloth
+1.0	man	give	self-serving tablecloth
+1.0	old man	give	tablecloth
+1.0	old man	give	he
+1.0	old man	give	self-serving tablecloth
+1.0	you	more rafter under	floor
+1.0	you	rafter under	floor
+1.0	God	speed	you
+1.0	they	lead	he horse
+1.0	they	see	governor
+1.0	they	see	governor return from hunt on foot
+1.0	they	see	governor return from hunt
+1.0	they	see	governor return
+0.7770696161483328	support	put under	floor
+1.0	he chair	live like	hermit
+1.0	he chair	live alone like	hermit
+1.0	he	live without	eating
+0.8865975409883848	he weight	none of	chair in other people 's house
+0.8865975409883848	he weight	none of	chair
+1.0	none	could support	he weight
+1.0	he	visit	anyone
+0.8865975409883848	he weight	none of	chair in people 's house
+1.0	other people	in	house
+1.0	chair	be in	other people 's house
+1.0	king	return from	he campaign
+1.0	he	be	replace
+1.0	he	again make	he stableboy
+1.0	he	make	he stableboy
+1.0	Prince Ivan	be	governor
+1.0	Prince Ivan	be governor of	province
+1.0	he	begin	once more live
+1.0	he	begin	once more live as stableboy
+1.0	he	begin	more live
+1.0	he	begin	more live as stableboy
+1.0	Prince Ivan	could do about	it
+1.0	he	do	something
+1.0	groom	have	head
+1.0	he	knock off	groom 's head
+1.0	groom	strike	he
+1.0	Prince Ivan	be	bring
+1.0	Prince Ivan	be bring before	he
+1.0	you	do kill	groom
+1.0	stableboy	say	same thing
+1.0	stableboy	say	thing
+1.0	other stableboy	say	same thing
+1.0	other stableboy	say	thing
+1.0	letter	be with	three black seal on it
+1.0	little man bigger	be with	beard cubit long
+1.0	Water King	to	son
+1.0	letter	run	follow
+1.0	Princess Martha	burn	kingdom
+1.0	dragon	will come for	Princess Martha
+1.0	three-headed dragon	will come for	Princess Martha
+1.0	Princess Martha	burn	whole kingdom
+1.0	king	write	letter
+1.0	king	write	letter to Water King
+1.0	they	might defend	he daughter
+1.0	he	escort man to	door of palace
+1.0	he	escort	old man
+0.9735649822631847	man	summon	he senator
+1.0	he	escort	man
+1.0	king	write	letter say
+0.9735649822631847	little old man	summon	he senator
+1.0	he	politely escort man to	door
+0.9735649822631847	old man	summon	he senator
+1.0	he	politely escort	little old man
+1.0	he	escort	little man
+1.0	he	politely escort	little man
+1.0	he	escort	little old man
+0.9735649822631847	little man	summon	he senator
+1.0	king	write	letter to Water King say
+1.0	he	politely escort	old man
+1.0	he	politely escort	man
+1.0	he	escort man to	door
+1.0	he	politely escort man to	door of palace
+1.0	Water King	would devastate	kingdom
+1.0	he	send	she
+1.0	Water King	would devastate kingdom	he fail
+1.0	Water King	would devastate	whole kingdom
+1.0	call	be	issue
+1.0	king	would give	she
+1.0	boastful nobleman	take	company of soldier
+1.0	he	wait for	dragon outside
+1.0	boastful nobleman	bring princess martha to	island
+1.0	boastful nobleman	take	company
+1.0	nobleman	take	company
+1.0	nobleman	bring princess martha to	island
+1.0	nobleman	bring	Princess Martha
+1.0	he	leave	she
+1.0	nobleman	take	company of soldier
+1.0	boastful nobleman	bring	Princess Martha
+0.5249172882554555	take	company of	soldier
+1.0	he	armed	himself
+1.0	he	so too armed	himself
+1.0	Princess Martha	be take to	Water King
+1.0	he	too armed	himself
+1.0	Princess Martha	be	take
+1.0	he	so armed	himself
+1.0	he	go to	island
+1.0	he	come into	hut
+1.0	God	be	merciful
+1.0	he	lay on	bench
+1.0	he	put	he head
+1.0	Princess Martha	on	knee
+1.0	water	rush in after	after height of three yard
+1.0	water	rush in after	after height
+1.0	water	begin	rise
+1.0	soldier	hide in	wood
+1.0	dragon	make	straight
+1.0	dragon	make	straight for hut
+1.0	dragon	awaken	Prince Ivan
+1.0	dragon	come for	she
+1.0	he	jump from	bench
+1.0	he	jump in	one stroke
+1.0	he	jump down from	bench
+1.0	he	jump down in	one stroke
+1.0	nobleman	take	Princess Martha home
+1.0	nobleman	take princess martha home to	king
+1.0	nobleman	take	she father
+1.0	he daughter	be take by	six-headed dragon
+1.0	Water King	threaten	king refuse
+1.0	he daughter	be take by	dragon
+1.0	letter	summon	king
+1.0	he daughter	be	take
+1.0	Water King	flood	whole kingdom
+1.0	Water King	flood	kingdom
+1.0	king	surrender	she
+1.0	king	put	he daughter
+1.0	he	surrender	Princess Martha
+1.0	king	write in	answer
+1.0	messenger	be	send everywhere
+1.0	messenger	be	send
+1.0	man	rescue princess from	dragon
+1.0	nobleman	present	himself
+1.0	same nobleman	present	himself
+1.0	nobleman	present again	himself
+1.0	same nobleman	present again	himself
+1.0	it	be dragon with	six head
+1.0	it	be dragon at_time	time
+1.0	it	be	time dragon with six head
+1.0	time dragon	be with	six head
+1.0	it	be	dragon
+1.0	they	take away	Princess Martha
+1.0	they	take	Princess Martha
+1.0	she	do	he
+1.0	princess	be in	danger
+1.0	he	again find princess martha in	hut
+1.0	he	find princess martha in	hut
+1.0	princess	be in	again danger
+1.0	he	again find	Princess Martha
+1.0	Prince Ivan	remember	kindness
+1.0	she	appoint	governor
+1.0	he	find	Princess Martha
+1.0	she	be wait for	he
+1.0	dragon	begin	emerge
+1.0	dragon	suddenly begin	emerge
+1.0	six-headed dragon	begin	emerge
+1.0	six-headed dragon	suddenly begin	emerge
+1.0	nobleman	have post	themselves
+1.0	he soldier	have post	themselves
+1.0	dragon	enter	hut
+1.0	Princess Martha	awaken	Prince Ivan
+1.0	Prince Ivan	cut off	second
+1.0	Prince Ivan	cut off	third
+1.0	Prince Ivan	cast	they
+1.0	dragon	of head be	second
+1.0	Prince Ivan	cut off	one head of dragon
+1.0	dragon	of head be	third
+1.0	Prince Ivan	go away	nothing have happen
+1.0	Prince Ivan	go	nothing have happen
+1.0	Prince Ivan	cut off	one head
+1.0	God	help	they
+1.0	he soldier	come out of	wood
+1.0	they	rescue	Princess Martha
+1.0	home	report to	king
+1.0	he soldier	go	home
+1.0	nobleman	come out of	wood
+1.0	Princess Martha	tell	he
+1.0	nobleman	begin	insist
+1.0	I	recover from	my fear
+1.0	I	be	terribly frightened
+1.0	I	be	frightened
+1.0	more same little old man bigger	be with	beard cubit long
+1.0	king	again write in	answer
+1.0	king	write in	answer
+1.0	nobleman	leave with	company
+1.0	nobleman	present	himself
+1.0	same nobleman	present	himself
+1.0	nobleman	again present	himself
+1.0	nobleman	leave with	company of soldier
+1.0	same nobleman	again present	himself
+1.0	same nobleman	leave with	company
+1.0	same nobleman	leave with	company of soldier
+1.0	Prince Ivan	arm	himself
+1.0	Prince Ivan	go to	island
+1.0	Prince Ivan	hear about	it
+1.0	Prince Ivan	go too to	island
+1.0	Princess Martha	be wait for	he
+1.0	she	be	overjoy
+1.0	father	have	name
+1.0	she	see	he
+1.0	dragon	begin	emerge
+1.0	nine-headed dragon	bring	flood high
+1.0	nine-headed dragon	bring with	he
+1.0	nine-headed dragon	bring	flood of water nine yard high
+1.0	dragon	bring	flood high
+1.0	nine-headed dragon	begin	emerge
+1.0	dragon	bring	flood of water nine yard high
+1.0	dragon	bring with	he
+1.0	soldier	march to	wood
+1.0	nobleman	again order	soldier
+1.0	nobleman	order	soldier
+1.0	Princess Martha	rouse	Prince Ivan
+1.0	dragon	be near	threshold
+1.0	dragon	crawl	ready
+1.0	dragon	begin	crawl close
+1.0	dragon	crawl close	ready
+1.0	dragon	begin	crawl
+1.0	Prince Ivan	have	cheek
+1.0	Princess Martha	have	penknife
+1.0	she	cut	Prince Ivan 's cheek
+1.0	dragon	have	hand
+1.0	dragon	have hand in	fight
+1.0	dragon	have	upper hand
+1.0	peasant	make with	iron hand
+1.0	little peasant	make of	copper
+1.0	little peasant	make with	iron hand
+1.0	two	cast	they
+1.0	peasant	make of	copper
+1.0	two	together cut off	head
+1.0	two	cut off	head
+1.0	two	cut off	he head
+1.0	two	together cut off	he head
+1.0	he	grip	dragon
+0.5624514432690371	nobleman	go to	he kingdom
+1.0	nobleman	go	home
+1.0	nobleman	go home to	he kingdom
+1.0	nobleman	be	happier
+1.0	nobleman	be happier than	ever
+1.0	nobleman	rush out of	wood
+1.0	I	be	terribly frighten
+1.0	I	be	frighten
+1.0	dragon	have	slayer
+1.0	Water King	demand	dragon 's slayer
+1.0	nobleman	go to	Water King
+1.0	he	be order	go there
+1.0	he	be	order
+1.0	he	be order	go
+1.0	Prince Ivan	somehow happen	ship
+1.0	Prince Ivan	happen	ship
+1.0	they	set	sail
+1.0	they	be sail along	briskly
+1.0	ship	come toward	they
+1.0	it	fly from	it
+1.0	it	fly like	bird
+1.0	it	rush by	culprit
+1.0	they	sail culprit on	little
+1.0	they	sail culprit on	little farther
+0.25658031110964696	they	sail on	little
+0.25658031110964696	they	sail on	little farther
+1.0	they	sail	culprit
+1.0	he	be thrash	half dead
+1.0	he	be thrash	dead
+1.0	he	be	half dead
+1.0	he	be	dead
+1.0	he	be	thrash
+1.0	they	come to	Water King
+1.0	they	now come to	Water King
+1.0	bath	be heat	red hot
+1.0	culprit	put in	it
+1.0	bath	be heat	hot
+1.0	bath	be	heat
+1.0	he heart	go into	he boot
+1.0	Prince Ivan	send	he
+1.0	he	wonder	nothing happen to he
+1.0	nothing	happen to	he
+1.0	he	come	unharmed
+1.0	he	wonder	nothing happen
+1.0	he	come	back unharmed
+1.0	culprit	be	again send for
+1.0	culprit	be	send
+1.0	culprit	be	again send
+1.0	culprit	be	send for
+1.0	Water King	abuse	he
+1.0	Water King	thrash	he
+1.0	Water King	abuse roundly	he
+1.0	nobleman	begin	boast even louder
+1.0	nobleman	begin	boast louder
+1.0	nobleman	begin	boast
+1.0	nobleman	begin upon	he return
+1.0	impatient	be he	have
+1.0	day	be set for	nuptials
+1.0	day	be	set
+1.0	I	look at	they
+1.0	I	want	look at they
+1.0	princess	say to	she father
+1.0	I	want	look
+1.0	soldier	be	assemble
+1.0	Princess Martha	review	they
+1.0	Princess Martha	review all	they
+1.0	she	come to	Prince Ivan
+1.0	she	cut	he
+1.0	she	glance at	he cheek
+1.0	she	take	he
+1.0	she	lead	he
+1.0	nobleman	sit in	wood
+1.0	nobleman	just sit in	wood
+1.0	nobleman	just sit with	he soldier
+1.0	nobleman	sit with	he soldier
+1.0	dragon	be	slay
+1.0	soldier	be	ask
+1.0	they	sit	slay
+1.0	they	sit in	wood
+1.0	nobleman	be dead	half
+1.0	nobleman	be	dead
+1.0	nobleman	be	half dead from shame
+1.0	nobleman	be dead from	shame
+1.0	they	live together	bread
+1.0	he	be	disgraced
+0.27792894616668395	they	begin	live together
+0.27792894616668395	they	begin	live
+1.0	Prince Ivan	marry	Princess Martha
+1.0	they	live	bread

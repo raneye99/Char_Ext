@@ -1,0 +1,207 @@
+1.0	there	be village	serpent fly
+1.0	there	be village	serpent frequently fly
+1.0	there	be village	where serpent frequently fly
+1.0	village	be in	old time
+1.0	there	be village	where serpent fly
+1.0	gypsy	come to	village
+1.0	gypsy	come at	time
+1.0	he	come at	night
+1.0	you	be	surely must tire
+1.0	you	be	must tire
+1.0	you	be	must tire of life
+1.0	you	be	surely must tire of life
+1.0	serpent	devour	people
+1.0	he	have eat	everyone
+1.0	he	devour	I
+1.0	he	leave alone	I
+1.0	he	only leave alone	I
+1.0	he	leave	I
+1.0	he	devour too	I
+1.0	he	only leave	I
+1.0	he	will eat	we
+1.0	they	spend at_time	night
+1.0	they	so spend at_time	night
+1.0	I	now have	two
+1.0	I	have	two
+1.0	I	leave	only one man
+1.0	I	will have	something
+1.0	I	now will have	something for lunch
+1.0	I	now will have	something
+1.0	I	will have	something for lunch
+1.0	I	indeed will eat	you
+1.0	I	will eat	you
+0.48525861707490975	you	lie	fiend
+0.48525861707490975	you	lie	devilish fiend
+1.0	serpent	grab	millstone
+1.0	I	will crush stone with	only one hand
+1.0	I	will crush	stone
+1.0	serpent	grab stone with	palm
+1.0	serpent	grab stone with	palm of he hand
+1.0	serpent	grab	stone
+1.0	serpent	squeeze so tightly	it
+1.0	serpent	squeeze	it
+1.0	serpent	squeeze tightly	it
+1.0	gypsy	give	squeeze
+1.0	gypsy	grab	it
+1.0	gypsy	really give	squeeze
+1.0	chunk	be on	table
+1.0	gypsy	really give	it
+1.0	gypsy	give	it
+1.0	Whey	drip out onto	ground
+1.0	you hand	be	true stronger
+1.0	you hand	be	stronger
+1.0	you hand	true be stronger than	my own
+1.0	you hand	be stronger than	my own
+1.0	they	else will pop	right
+1.0	they	will pop	right
+1.0	serpent	cover	he eye
+1.0	serpent	believe	it
+1.0	gypsy	grab	club
+1.0	my eye	have almost come right out in	one go
+1.0	my eye	have come right out in	one go
+1.0	my eye	have almost come in	one go
+1.0	my eye	have almost come out in	one go
+1.0	my eye	have come in	one go
+1.0	my eye	have come out in	one go
+1.0	I	be	however quite prepared
+1.0	Alright	be	however quite prepared
+1.0	I	be	prepared
+1.0	Alright	be	quite prepared
+1.0	I	be	however prepared
+1.0	Alright	be	however prepared
+1.0	Alright	be	prepared
+1.0	I	be	quite prepared
+1.0	you	do	that
+1.0	I	argue anymore with	you
+1.0	you	be	brother
+1.0	you	be	older brother
+1.0	I	will	will younger
+1.0	serpent	grazing in	meadow
+0.9906097722414072	herd	be grazing in	meadow
+0.9906097722414072	herd	be	out there in meadow grazing
+0.9906097722414072	oxen	herd of be	out there grazing
+0.9906097722414072	herd	be grazing out	there
+0.9906097722414072	oxen	herd of be	grazing
+1.0	grazing	be in	meadow
+0.9906097722414072	oxen	herd of be	in meadow grazing
+1.0	serpent	grazing out	there
+0.9906097722414072	oxen	herd of be	out there in meadow grazing
+0.9906097722414072	herd	be	grazing
+0.9906097722414072	herd	be grazing	you please
+1.0	fattest	grab	it
+1.0	fattest	drag	it
+1.0	fattest	drag back	it
+1.0	gypsy	go to	meadow
+0.9969095430474074	nothing	be	do
+1.0	he	see	large herd of oxen grazing
+1.0	he	see	herd of grazing
+1.0	he	see	herd
+1.0	he	see	large herd
+1.0	he	see	large herd of grazing
+1.0	he	see	herd of oxen grazing
+1.0	he	tie together	they
+1.0	he	tie	they
+1.0	he	run out to	meadow
+1.0	he	run out	see
+1.0	I	be tie around	fifty of these
+1.0	I	be tie together around	fifty of these
+1.0	we	will have enough for	month
+1.0	I	can drag	they
+1.0	we	will have for	whole month
+1.0	I	can drag all	they
+1.0	we	will have for	month
+1.0	we	will have enough for	whole month
+1.0	we	spend here	we life
+1.0	we	spend	we life
+1.0	we	spend	we whole life
+1.0	we	spend here	we whole life
+1.0	one	be	enough
+1.0	serpent	grab oxen by	tale
+1.0	serpent	rip off	hide
+1.0	serpent	grab	oxen
+1.0	serpent	grab	biggest oxen
+1.0	serpent	shoulder	meat
+1.0	serpent	drag	it home
+1.0	we	just leave	they
+1.0	they	set up	two cauldron
+1.0	they	return to	hut
+1.0	we	boil	we lunch
+1.0	gypsy	grab	hide
+1.0	gypsy	drag	it
+1.0	he	could barely drag	it
+1.0	he	say	nothing of it
+1.0	he	say	nothing
+1.0	he	could drag	it
+1.0	he	get to	well
+1.0	he	run out	see for himself
+1.0	he	see for	himself
+1.0	he	run out	see
+1.0	I	drag well back	whole
+1.0	I	dig	way around well
+1.0	I	drag well	whole
+1.0	I	drag back	whole
+1.0	I	drag	whole
+1.0	you	go out anymore for	water
+1.0	you	do	too much
+1.0	you	do	much
+1.0	well	take	time
+1.0	well	take	long time
+1.0	serpent	drop	hide
+1.0	serpent	drag out	it
+1.0	serpent	carry	it home
+1.0	Brother	say to	gypsy
+1.0	he	say to	gypsy
+1.0	dry oak	pull	it
+1.0	oak	pull	it
+1.0	gypsy	pull out	bark fiber
+1.0	gypsy	go into	forest
+1.0	gypsy	pull out bark fiber	twist
+1.0	gypsy	pull out bark fiber	twist into rope
+1.0	he	braid	long rope
+1.0	he	braid	rope
+1.0	he	braid	extremely long rope
+1.0	he	see for	himself
+1.0	he	run out	see for himself
+1.0	he	run out	see
+1.0	you	will have	firewood for time
+1.0	you	will have	firewood
+0.6667664506315385	you	firewood for	time
+0.6667664506315385	you	firewood for	long time
+1.0	they	drag	they
+1.0	I	bring in	twenty oak
+1.0	you	will have	firewood for long time
+1.0	he	be	angry
+1.0	gypsy	pretend	extremely angry
+1.0	gypsy	pretend	angry
+1.0	he	be	extremely angry
+1.0	serpent	call gypsy to	lunch
+0.06141471494456796	serpent	call to	lunch
+1.0	serpent	cook	beef
+1.0	serpent	call	gypsy
+1.0	oxen-skin	question	gypsy
+1.0	serpent	scarf	whole ox
+1.0	serpent	scarf	ox
+1.0	whole oxen-skin	question	gypsy
+1.0	's	make	peace
+1.0	you	make	peace
+1.0	you	make peace with	I
+1.0	serpent	right away get	he wagon
+1.0	they	leave for	gypsy camp
+1.0	serpent	away get	he wagon
+1.0	they	leave together for	gypsy camp
+1.0	serpent	get	he wagon
+1.0	little gypsy child	see	they father
+1.0	gypsy child	see	they father
+1.0	they	meet	he
+1.0	he	bring	serpent
+1.0	serpent	ask	gypsy
+1.0	serpent	become	frightened
+1.0	those	be	my child
+1.0	they	greedily come for	you
+1.0	they	come for	you
+1.0	they	how greedily come for	you
+1.0	serpent	jump out of	wagon
+1.0	gypsy	sell	trio of horse
+0.27792894616668395	gypsy	begin	live
+1.0	gypsy	sell trio with	wagon
+1.0	gypsy	sell	trio

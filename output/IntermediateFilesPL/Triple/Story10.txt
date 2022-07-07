@@ -1,0 +1,144 @@
+1.0	they	be	seven lazy good-for-nothing loafer
+1.0	they	be	seven loafer
+1.0	they	be	seven lazy loafer
+1.0	they	be	seven good-for-nothing loafer
+1.0	this	be unbearable for	they father
+1.0	he	bring	seven simeon
+1.0	he	enlist	they
+1.0	it	get to	point
+1.0	it	eventually get to	point
+1.0	he	simply bring	seven simeon
+1.0	czar	bring	able man
+1.0	czar	be grateful to	father
+1.0	czar	be	grateful
+1.0	he	ask	father
+1.0	he	ask father about	they skill
+1.0	czar	summon	Simeon
+1.0	czar	accordingly summon	Simeon
+1.0	czar	ask	he
+1.0	czar	summon	oldest Simeon
+1.0	czar	accordingly summon	oldest Simeon
+1.0	you	will	will probably valuable
+1.0	you	will	will probably valuable to I at point
+1.0	you	will	will probably valuable at point
+1.0	you	will	will valuable to I
+1.0	you	will	will valuable
+1.0	you	will	will probably valuable to I
+1.0	you	will	will valuable at point
+1.0	you	will	will valuable to I at point
+1.0	he	call in	second
+1.0	I	can make	anything valuable
+1.0	you	will	will useful
+1.0	you	will	will also useful
+1.0	he	call	ask
+1.0	he	call in	third Simeon
+1.0	he	call in	Simeon
+1.0	he	ask	fourth
+1.0	he	ask	you
+1.0	marksman	shoot	bird
+1.0	he	ask	fifth
+1.0	he	question	sixth
+1.0	I	build	boat
+1.0	it	be	slam-bam
+1.0	it	be slam-bam for	I
+1.0	I	have build	boat
+1.0	I	be	healer
+1.0	he	dismiss	they
+1.0	he	dismiss all	they
+1.0	czar	decide after	time pass
+1.0	czar	put	one of they skill
+1.0	czar	put	one they skill
+1.0	czar	decide after	time
+1.0	king	ask	Simeon
+1.0	king	ask	fifth Simeon
+1.0	Simeon	climb to	place
+1.0	Simeon	climb to	high place
+1.0	he	be	right
+1.0	he	be	exactly right
+1.0	they	check	he statement
+1.0	czar	marry	princess
+1.0	czar	marry	certain princess
+1.0	he	be abduct	she
+1.0	he	remember	seven simeon
+1.0	he	commission	they
+1.0	he	summon	they
+1.0	they	build	boat
+1.0	they	build boat as	expert craftsman
+1.0	he	brother	thief
+1.0	maker	sell	he wares
+1.0	maker	go with	he brother
+1.0	maker	go with	thief
+1.0	thief	steal	princess
+1.0	they	immediately cut	anchor
+1.0	they	cut	anchor
+1.0	they	set	sail
+1.0	she	fly from	boat
+1.0	she	turn into	white swan
+1.0	they	carry	she
+1.0	they	carry away	she
+1.0	she	turn into	swan
+0.740289189860054	fire	shoot into	she wing
+1.0	marksman	fire	shoot
+1.0	marksman	fire	shoot into she left wing
+1.0	marksman	fire	shoot into she wing
+1.0	marksman	grab	he gun
+0.740289189860054	fire	shoot into	she left wing
+0.8538592088129208	Simeon number	dart into	water
+0.8538592088129208	Simeon number four	dart into	water
+1.0	swan	bring	she back
+1.0	swan	turn back into	princess
+1.0	she left arm	be	still injure
+1.0	she arm	be	injure
+1.0	she arm	be	still injure
+1.0	swan	turn into	princess
+1.0	she left arm	be	injure
+1.0	Healer Simeon	cure	princess
+1.0	Healer Simeon	immediately cure	princess
+1.0	Simeons	fire round with	they healthy return
+1.0	Simeons	fire round with	they return
+1.0	Simeons	fire round with	they return to they kingdom
+1.0	Simeons	fire	round from cannon
+1.0	Simeons	fire round with	they return to they own kingdom
+1.0	Simeons	fire round with	they healthy return to they own kingdom
+1.0	Simeons	fire	round
+1.0	Simeons	fire round with	they healthy return to they kingdom
+1.0	czar	forget about	Simeons
+1.0	czar	hear	it
+1.0	czar	already forget about	Simeons
+1.0	he	think to	himself
+1.0	they	quickly return	somebody run
+1.0	they	quickly return with	news concern seven Simeons
+1.0	they	return	somebody run
+1.0	they	return with	news concern seven Simeons
+1.0	czar	have	future bride
+1.0	they	quickly return with	news
+1.0	they	return with	news
+1.0	they	be	meet
+1.0	they	be meet with	honor
+1.0	czar	rejoice in	Simeons ' success
+1.0	he	be	old
+1.0	he	be	too old
+1.0	he	be	already old
+1.0	he	be	already too old
+1.0	she	want	marry
+1.0	thief	be	dash
+1.0	nobility	appeal to	princess
+1.0	they	be	marry
+1.0	czar	order	they
+0.8328943824208973	make	all	he brother great nobleman
+1.0	he	later want	peace
+1.0	he	make	all he brother great nobleman
+1.0	he	later want peace	he place
+0.8328943824208973	make	all of	brother great nobleman
+1.0	he	place	Simeon thief
+1.0	he	make	all of he brother great nobleman
+1.0	he	place	Simeon thief on throne
+1.0	he	make	all brother great nobleman
+0.8328943824208973	make	all	brother great nobleman
+1.0	Simeon	thief on	throne
+1.0	he	later want	quiet
+1.0	he	make	all of brother great nobleman
+1.0	he	want peace	he place
+0.8328943824208973	make	all of	he brother great nobleman
+1.0	he	want	quiet
+1.0	he	want	peace

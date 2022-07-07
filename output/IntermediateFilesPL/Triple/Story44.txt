@@ -1,0 +1,354 @@
+1.0	Kuzenka	live	all
+0.23894290573990895	Kuzenka	live upon	once time
+1.0	Kuzenka	live	all by himself
+0.23894290573990895	Kuzenka	live in	forest
+0.23894290573990895	Kuzenka	live upon	time
+0.23894290573990895	Kuzenka	live in	dark forest
+1.0	he	have	meager little shack
+1.0	he	have	meager shack
+1.0	he	have	one rooster
+1.0	he	have	little shack
+1.0	he	have	five chicken
+1.0	he	have	shack
+1.0	Fox	begin to	Kuzenka 's place
+1.0	frequent Kuzenka	to	place
+1.0	Fox	begin to	frequent Kuzenka 's place
+1.0	she	fry	it
+1.0	she	run in	slaughter one chicken
+1.0	she	run in	one chicken
+1.0	she	eat	it
+1.0	he	look around on	Kuzenka 's return
+1.0	Kuzenka	on	return
+1.0	he	look on	Kuzenka 's return
+1.0	he	be	short
+1.0	he	think to	himself
+1.0	he	go out again at_time	next day
+1.0	he	go out at_time	day
+1.0	he	go out to	hunt
+1.0	he	go out again to	hunt
+1.0	he	go out at_time	next day
+1.0	he	go out again at_time	day
+1.0	he	meet fox along	way
+1.0	he	meet	Fox
+1.0	Kuzenka	to	hut
+1.0	Fox	slaughter	chicken
+1.0	Fox	eat	it
+1.0	Fox	immediately run to	Kuzenka 's hut
+1.0	Fox	fry	it
+1.0	Fox	run to	Kuzenka 's hut
+1.0	Kuzenka	arrive	home
+0.5086579843042324	Fox	perhaps be eat	my chicken
+1.0	he	suddenly have	hunch
+1.0	he	have	hunch
+0.5086579843042324	Fox	be eat	my chicken
+1.0	he	go	work
+1.0	he	seal up door on	third day
+1.0	he	go out	work
+1.0	he	seal up	window of he hut
+0.44436364192166344	he	window of	he hut
+1.0	he	seal up door on	day
+1.0	he	seal up door on	so day
+1.0	he	seal up	window
+1.0	he	seal up window on	day
+1.0	he	seal up	door
+1.0	he	seal up door on	so third day
+1.0	you	be go from	from nowhere Fox appear
+1.0	you	be go from	from Fox appear
+1.0	Kuzenka	to	house
+1.0	Fox	circle	hut
+1.0	door	be	seal
+1.0	she	could get into	hut
+0.36632681049637295	she	start	let down chimney
+0.36632681049637295	she	start	let
+0.36632681049637295	she	let down	chimney
+1.0	she	let	herself
+1.0	Kuzenka	catch	Fox
+1.0	thief	come	visit
+1.0	I	will make	you
+1.0	you chicken	be in	oil
+1.0	kuzenka	do	Fox suggest
+1.0	kuzenka	agree	do
+1.0	Fox	run	wallow
+1.0	Fox	run to	land
+1.0	Fox	run to	royal land
+1.0	Fox	wallow in	grass
+1.0	Fox	run	wallow in grass
+1.0	I	be at	naturally feast with tsar
+1.0	I	be at	feast with tsar
+1.0	feast	be with	tsar
+1.0	I	be at	naturally feast
+1.0	I	be at	feast
+1.0	they	invite	you
+1.0	Wolf	ask	little fox
+1.0	invitation	be with	tsar
+1.0	Wolf	ask	fox
+1.0	Wolf	gather	grey wolf
+1.0	grey wolf	forty in	number
+1.0	Wolf	gather	forty by forty in number bring with he
+1.0	Wolf	gather	forty by forty in number bring
+1.0	grey wolf	forty by	forty
+1.0	she	tell	Wolf
+1.0	Wolf	gather	wolf
+1.0	she	soon enter	alabaster chamber
+1.0	alabaster chamber	pronounce	wolf forty
+1.0	she	enter	alabaster chamber
+1.0	alabaster chamber	pronounce	grey wolf forty
+1.0	she	as soon enter	alabaster chamber
+1.0	she	bow to	tsar
+1.0	tsar	order	drive in pen
+1.0	tsar	order	drive
+1.0	Fox	ask	he
+1.0	Fox	run off to	Kuzenka
+1.0	Fox	eat	meal
+1.0	Fox	eat	huge meal
+1.0	Fox	return to	land
+1.0	Fox	return	wallow in grass
+1.0	Fox	return	wallow
+1.0	Fox	return to	royal land
+1.0	along	come	Bear
+1.0	he	see	Fox
+1.0	you	be burst at	seam
+1.0	she	answer	I
+0.610135697065779	be	at	tsar as guest
+0.610135697065779	be	at	tsar
+1.0	she	answer	I be
+1.0	they	be gorge	themselves
+1.0	they	be just gorge	themselves
+1.0	Bear	ask	Dear Fox
+1.0	tsar	to	lunch
+1.0	Fox	tell	he
+1.0	bear	gather	black bear forty by forty in number
+1.0	bear	gather	bear
+1.0	bear	gather	bear forty by forty in number
+1.0	bear	gather	black bear
+1.0	Fox	lead	they
+1.0	she	present	black bear
+1.0	they	be	corral
+1.0	they	be	corral tight
+1.0	tsar	be	pleased
+1.0	tsar	order	they
+1.0	they	be	corral up tight
+1.0	Fox	go to	Kuzenka
+1.0	Fox	tell	he
+1.0	Fox	return to	land
+1.0	Fox	return	wallow in green grass
+1.0	Fox	return	wallow in grass
+1.0	Fox	return	wallow
+1.0	Fox	return to	royal land
+0.6399519129670479	along	come with	Marten
+1.0	along	come	Sable
+1.0	along	come sable with	Marten
+1.0	I	be at	at tsar
+1.0	I	be at	at tsar for honor
+1.0	I	be at	at tsar for singular honor
+1.0	he	right now be have	feast for kind of animal
+1.0	he	be have	feast for kind of animal
+1.0	he	now be have	feast for kind of animal
+1.0	I	eat	rich thing
+1.0	I	eat	so many rich thing
+1.0	I	eat	many rich thing
+1.0	lunch	at animal be	multitude
+1.0	you	be	one
+1.0	you	be	only one
+1.0	they	be	rapacious
+1.0	they	be	so rapacious
+0.7035793194923216	they	such richness in	they life
+0.7035793194923216	they	such richness in	they whole life
+0.7035793194923216	they	richness in	they whole life
+1.0	such richness	be in	they whole life
+0.7035793194923216	they	richness in	they life
+1.0	they	now be wolf down food at	at tsar
+1.0	they	be wolf down	food
+1.0	they	now be wolf down	food
+1.0	they	even now be wolf down food at	at tsar
+1.0	they	be wolf down food at	at tsar
+1.0	they	even now be wolf down	food
+1.0	Fox	tell	they
+1.0	sable	forty in	number from Kozma Quickrich
+1.0	Fox	lead	they
+1.0	sable	forty by	forty
+1.0	tsar	accept	gift
+1.0	tsar	joyfully accept	gift
+1.0	he	order	animal
+1.0	animal	be	slaughter
+1.0	Fox	again run to	tsar
+1.0	Fox	again run at_time	next day
+1.0	Fox	run at_time	day
+1.0	Fox	run to	tsar
+1.0	Fox	run at_time	next day
+1.0	Fox	again run at_time	day
+1.0	Kozma Quickrich	ask	I
+1.0	he	measure	he coin
+1.0	he	measure	he silver coin
+1.0	he own bin	currently be full of	gold
+1.0	own bin	be	full
+1.0	he own bin	be full of	gold
+1.0	own bin	currently be full of	gold
+1.0	he own bin	be	full
+1.0	he own bin	be	currently full
+1.0	own bin	be	currently full
+1.0	own bin	be full of	gold
+1.0	tsar	give bin without	objection
+1.0	he	fill bin with	sand
+1.0	he	fill	bin
+1.0	she	run to	Kuzenka
+1.0	she	tell	he
+1.0	she	bring	it
+1.0	she	as soon stuff	coin
+1.0	she	soon stuff	small coin
+1.0	she	stuff	small coin
+1.0	she	soon stuff	coin
+1.0	she	stuff	few coin
+1.0	she	as soon stuff	small coin
+1.0	she	stuff	coin
+1.0	she	as soon stuff	few coin
+1.0	she	bring back	it
+1.0	she	as soon stuff	few small coin
+1.0	she	soon stuff	few coin
+1.0	she	stuff	few small coin
+1.0	she	soon stuff	few small coin
+1.0	tsar	have	beautiful daughter
+1.0	Fox	seek	tsar 's daughter
+1.0	Fox	seek	tsar 's beautiful daughter
+1.0	Kuzenka	ride off	tsar 's Fox run
+1.0	Kuzenka	ride off	tsar 's Fox run ahead
+1.0	Kuzenka	ride off	tsar 's run
+1.0	Kuzenka	ride off	tsar 's meanwhile run
+1.0	worker	weaken	bridge
+1.0	Kuzenka	ride off	meanwhile Fox run ahead
+1.0	worker	weaken bridge along	way
+1.0	Kuzenka	ride off	tsar 's meanwhile Fox run ahead
+1.0	Kuzenka	ride off	Fox run ahead
+1.0	Kuzenka	ride off	tsar 's meanwhile Fox run
+1.0	Kuzenka	ride off	tsar 's run ahead
+1.0	Kuzenka	ride off	meanwhile Fox run
+1.0	Kuzenka	ride off	tsar 's meanwhile run ahead
+1.0	Kuzenka	ride off	Fox run
+1.0	tsar	enlist	worker
+1.0	Kuzenka	have	only just ride
+1.0	Kuzenka	have	only just ride onto bridge
+1.0	Kuzenka	have	ride
+1.0	Kuzenka	take	he
+1.0	Kuzenka	have	just ride onto bridge
+1.0	Kuzenka	have	just ride
+1.0	it	collapse into	water
+1.0	Kuzenka	have	ride onto bridge
+1.0	we	have lose	Kozma Quickrich
+1.0	tsar	immediately send	people
+1.0	people	rescue	Kozma
+1.0	tsar	immediately send people	hear
+1.0	tsar	send people	hear
+1.0	tsar	send	people
+1.0	they	re-garb	he
+1.0	they	rescue	he
+1.0	they	lead	he
+1.0	tsar	have	daughter
+1.0	Kozma Quickrich	marry	tsar 's daughter
+1.0	tsar	live for	week
+1.0	tsar	live with	tsar
+1.0	tsar	say	live with tsar
+1.0	tsar	say	live
+1.0	tsar	say	live with tsar for week
+1.0	tsar	say	live for week
+1.0	nothing Kozma	make	ready
+1.0	they	harness	horse
+0.5015479493517508	shepherd	tend	flock of sheep
+1.0	she	see	shepherd
+0.8032640221154881	tend	flock of	sheep
+0.5015479493517508	shepherd	tend	flock
+1.0	she	ask	they
+1.0	she	ask	Shepherds
+1.0	you	be tend	whose flock
+1.0	shepherd	answer	flock of Tsar Zmiulan
+1.0	shepherd	answer	flock
+1.0	Fox	reason with	they
+1.0	they	heed	advice
+1.0	they	be	better
+1.0	fox	teach	they
+1.0	she	see	herdsman
+1.0	Fox	continue on	she way
+0.5015479493517508	herdsman	tend	swine
+1.0	she	ask	they
+1.0	she	ask	Herdsmen
+1.0	she	come across	herd of tsar zmiulan 's cattle
+1.0	tsar zmiulan	of	cattle
+1.0	she	run	she come
+1.0	she	run	she come across herd
+1.0	tsar zmiulan	across	herd of horse
+1.0	she	run	she come across herd of tsar zmiulan 's cattle
+1.0	she	come across	herd
+1.0	Fox	order	herdsman
+1.0	Fox	eventually meet up with	herd of camel
+1.0	Fox	eventually meet up with	herd
+1.0	Fox	meet up with	herd
+1.0	Fox	meet up with	herd of camel
+1.0	you	be keep	whose herd
+1.0	Fox	say	anything about tsar zmiulan
+1.0	Fox	forbid	they
+1.0	Fox	strictly forbid	they
+1.0	Fox	say	anything
+1.0	she	order instead	they
+1.0	Kozma Quickrich	have	herd otherwise
+1.0	she	order	they
+1.0	she	arrive at	kingdom of tsar zmiulan
+1.0	she	go straight to	chamber
+1.0	she	arrive at	kingdom
+1.0	she	go with	alabaster wall
+1.0	she	go to	chamber
+1.0	she	go straight with	alabaster wall
+1.0	you	do bring	Fox
+1.0	it	be time	you hide
+1.0	tsar Zmiulan	be time	you hide
+1.0	tsar Zmiulan	now be time	you hide
+1.0	it	now be time	you hide
+1.0	it	right now be time	you hide
+1.0	tsar Zmiulan	right now be time	you hide
+1.0	he	wife	lightning
+1.0	they	be burn	everything
+1.0	they	be burn	everything to crisp
+1.0	old oak tree	be in	you garden
+1.0	Tsar Zmiulan	quickly make	ready
+1.0	Tsar Zmiulan	make	ready
+1.0	Fox	tell	he
+1.0	they	come to	flock
+1.0	they	come to	flock of sheep
+1.0	you	be tend	whose flock
+1.0	that	answer	herdsman
+1.0	tsar	be	happy
+1.0	they	come to	herd
+1.0	they	come to	herd of swine
+1.0	Herdsmen herdsman	ask	princess
+1.0	Herdsmen herdsman	ask	young princess
+1.0	you	tend	whose herd
+1.0	they	ask	herdsman
+1.0	they	answer	same
+1.0	they	casually answer	same
+1.0	they	arrive at	tsar 's palace
+1.0	they	eventually arrive at	tsar 's palace
+1.0	they	so eventually arrive at	tsar 's palace
+1.0	tsar	at	palace
+1.0	Fox	meet	they
+1.0	Fox	lead	they
+1.0	everything	be	decorate
+1.0	everything	be	so beautifully decorate
+1.0	everything	be	beautifully decorate
+1.0	they	week	Fox say
+1.0	Kuzenka	be	so say
+1.0	Kuzenka	be	say
+1.0	they	kill	tsar zmiulan
+1.0	they	fire into	oak tree
+1.0	they	fire into	right oak tree
+1.0	Kozma Quickrich	live with	princess
+1.0	Kozma Quickrich	reign in	kingdom
+1.0	Kozma Quickrich	live well with	princess
+1.0	they	eat	they bread
+1.0	they	reward fox at_time	day
+1.0	she	stay right up	she have finish
+1.0	she	stay up with	they
+1.0	she	stay right up	she have finish off
+1.0	she	stay	she have finish
+1.0	she	stay right up with	they
+1.0	she	stay with	they
+1.0	she	stay up	she have finish off
+1.0	she	stay up	she have finish
+1.0	she	stay	she have finish off

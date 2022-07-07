@@ -1,0 +1,65 @@
+1	1	| soldier | a soldier sent to distant lands | He | his | his | He | he | he | He | soldier | The soldier | himself | I | my | I | me | He | his | him | he | his | him | soldier | you | I | I | I | brother | you | you | I | me | you | me | me | The soldier | He | He | He | he | his | he | he | the soldier | soldier | you | I | I | myself | the soldier | soldier | you | I | the soldier | I | my | I | my | soldier | the soldier | the soldier | I | you | you | your | your | The soldier | his | he | me | I | your brother | I | the soldier | him | I | I | I | Soldier | I | I | I | I. | I | myself | soldier | your | The soldier | He | the soldier | I | He | the soldier | the soldier | the soldier | the soldier | The soldier | his | the soldier | The soldier | he | he | He | he | the soldier | his | He | that soldier | he | his | the soldier | that soldier | him | him | the soldier | soldier | you | you | me | I | my | I | soldier | your | The soldier | the soldier | I | You | I | I | the soldier | he | himself | his | The soldier | The soldier | He | his | My | him | soldier | your | You | you | the soldier | he | He | soldier | you | your | I | my | I | you | you | I | my | him | The soldier | his | He | me | I | you | You | yourself | my | Our soldier | his | the soldier with the wine | him | The soldier | his | he | a familiar soldier | a familiar soldier | brother | you | brother | I | my | You | his countryman | he | his | his old comrade |
+1	0	| distant lands |
+1	0	| many lands walked through | many lands |
+1	0	| several kingdoms walked through | several kingdoms |
+1	0	| the apartment of a poor | the apartment of a poor , old woman |
+1	1	| a poor , old woman | a poor , old woman | her | grandmother | her |
+1	0	| Kingdom's people | Our |
+1	1	| King | Our king | the king | The king | the king | the king | you | your royal majesty | your | I | Your majesty | the king | the king | father | the king | Your royal majesty | The king | the king | The king | The king | the king | your majesty | I | my | sovereign | the king | He |
+1	1	| Princess Martha | a beautiful daughter , Princess Martha | her | the princess | her | She | her | Her | she | her | the princess | your daughter , Princess Martha | her | her | Princess Martha | your | the princess | Princess Martha | the princess |
+1	1	| A foreign prince | A foreign prince | him | he |
+1	1	| spirit 1 | an evil spirit | The evil spirit | the evil spirit | he | He | He | Who goes there | me | I | you , infidel | I | me | me | you | him | The devil | his | The devil | he | the devil | you | You | you , fiend | the loser | The devil | you | the devil | your | you | your | you | You | The devil | him | you | you | you | me | the evil one | the devil | He | him | you | the devil | he | the evil one | He | his | cursed | you | you | the devil | his | him | I | my | I | me |
+1	0	| wizards | wizards |
+1	0	| wise-men | wise-men |
+1	0	| nobody | nobody |
+1	0	| the buttons | the buttons |
+1	1	| A lady-in-waiting | A lady-in-waiting | She | she |
+1	0	| head | head |
+1	0	| a measure of cast-iron bullets | a measure of cast-iron bullets | iron bullets |
+1	0	| bullets & walnuts | a measure of cast-iron bullets , a measure of walnuts | the iron bullets and walnuts |
+1	0	| a measure of walnuts | a measure of walnuts | walnuts | walnuts | walnuts |
+1	0	| a pound of candles | a pound of candles | candles |
+1	1	| a spring-loaded iron man | a spring-loaded iron man | a younger brother | him | He | your younger brother | the iron man | it | his younger brother | the younger brother | his | it | his younger brother | who beat me | brother |
+1	0	| Palace's staff | They |
+1	0	| doors | doors |
+1	0	| soldier's pockets | his pockets |
+1	0	| so many of you infidels | so many of you infidels | everyone of you | you infidels | you infidels | you infidels | you | you | you | you |
+1	0	| typical soldier | a soldier | he | He | He | he |
+1	0	| winner | the winner |
+1	0	| punches | punches | punches | punches | punches | wallops |
+1	0	| what it's like to play for punches with your brother | what it 's like to play for punches with your brother |
+1	0	| soldier's group | us |
+1	0	| evil spirit's heels | his heels |
+1	0	| only evil spirit's tracks | only his tracks |
+1	1	| Satan | Satan | Satan | I , myself | Satan | him | him | him | Satan | Satan | Satan | Satan | Satan | his | him | Satan | he | Satan | his | me | grandfather | you | Satan |
+1	1	| second devil | a different devil | this one |
+1	1	| thirteen devils | They | thirteen devils | They all | grandchildren | grandchildren |
+1	0	| leftover nuts | nuts |
+1	0	| not one spirit | Not one | No evil spirits |
+1	0	| another thing | another |
+1	0	| the top of Satan's lungs | the top of his lungs |
+1	0	| Satan's lungs | his lungs |
+1	0	| Spirit One's head | my head |
+1	1	| so many infidels | the devils | they | they | They all | their | Our debtors | them | their | We | us | you | your | you all | you | The devils | they all | You | the devils | them | them | What is stuffed into this knapsack | the devils | They | they | you cursed ones | you | The devils | they | they | themselves | they |
+1	0	| soldier's statement to iron man | `` Hey , brother , come here quickly ! Our debtors came back . It 's time for them to receive their punches . '' | That | That |
+1	0	| punches owed to all infidels | their punches |
+1	0	| what gold is to soldier | What is gold to me |
+1	0	| spirits in general | evil spirits | they | they |
+1	0	| anything | anything |
+1	0	| soldier's shoulders | his shoulders |
+1	0	| inns | inns |
+1	0	| taverns | taverns |
+1	0	| a scribe | a scribe |
+1	0	| everyone at palace | us |
+1	0	| king's right-hand man | my right-hand man |
+1	0	| God | God | the Lord |
+1	0	| horses | horses |
+1	0	| the two soldiers | they | We |
+1	0	| Everything | Everything |
+1	0	| familiar soldier's livestock | my livestock | his livestock |
+1	0	| The tavern | The tavern |
+1	0	| women | the women | the women | the women | 's | They | Who let you out | the women |
+1	0	| Narrator's group | Our |
+1	0	| doors of the hut | the doors |
+1	0	| the hinges | the hinges |
+1	0	| a walk with his old comrade | a walk with his old comrade |

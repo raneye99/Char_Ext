@@ -1,0 +1,13 @@
+1	1	| Bukhtan | Bukhtan | one Bukhtan Bukhtanovich | He | his | him | Bukhtan Bukhtanovich | you | you | I | Bukhtan Bukhtanovich | Bukhtan Bukhtanovich | his | Bukhtan Bukhtanovich | the suitor | Bukhtan Bukhtanovich | you | He | Bukhtan | he | him | you , Bukhtan Bukhtanovich | him | Bukhtan Bukhtanovich | Bukhtan Bukhtanovich | Bukhtan Bukhtanovich | him | Bukhtan Bukhtanovich | your | Bukhtan | Bukhtan | anything except himself | he | his | this Bukhtan Bukhtanovich | himself | he | his | he | him | Bukhtan | yourself | Bukhtan Bukhtanovich | Bukhtan Bukhtanovich | his | Bukhtan | Bukhtan Bukhtanovich | Bukhtan Bukhtanovich | his | Bukhtan | his | my | Bukhtan Bukhtanovich | Bukhtan Bukhtanovich | him | The tsar | Bukhtan Bukhtanovich | his | he | he | his |
+1	0	| A stove | a stove built on pillars in the middle of a field | the stove | his stove | there | my stove | that stove | a disgrace |
+1	1	| Fox | A fox | me | little fox | you | The fox | The fox | me | The fox | me | The Fox | his | you | little fox | The fox | I | The fox | the fox | The fox | The fox | the fox | I | The fox | I | The fox | the fox | Little fox | I | the fox | the fox | Little fox | The fox | the fox | Little fox | little fox | the fox | He | The fox | he | The fox | Little fox | the fox | the fox | he | The fox |
+1	1	| tsar's daughter | the tsar 's daughter | your daughter | his wife | the tsarina |
+1	1	| the tsar | tsar | the tsar | Tsar | The tsar | the tsar | Tsar | the tsar | Tsar | the tsar | He | tsar | your | me | the tsar | the tsar | the tsar | Tsar | you | you | the tsar | tsar | The tsar | Tsar | Tsar | you yourself | The tsar | Tsar | The tsar | tsar |
+1	0	| halfpennies | halfpennies |
+1	0	| there | there |
+1	0	| wine | wine |
+1	0	| homeward | homeward |
+1	1	| Raven | Raven , Son of the Raven | Raven , Son of the Raven | him |
+1	1	| Cat | Cat , Son of the Cat | Cat , Son of the Cat | him |
+1	1	| Dragon | you | you | we | all the beasts | them |
+1	0	| the Cossacks | the Cossacks |

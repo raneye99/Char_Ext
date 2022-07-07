@@ -1,0 +1,552 @@
+1.0	old man	say at_time	one day
+1.0	man	say at_time	one day
+1.0	woman	buy	two onion bulb
+1.0	old woman	buy	two onion bulb
+1.0	they	put	other
+1.0	they	eat	one bulb
+1.0	they	hear something in	oven yell
+1.0	they	hear something in	oven
+1.0	they	hear	something
+1.0	it	be hot in	here
+1.0	it	be	hot
+1.0	woman	open	oven door
+1.0	old woman	open	oven door
+1.0	she	find	living girl
+1.0	Lord	give	girl
+1.0	Lord	give	we
+1.0	they	name	she onion
+1.0	she	be	grow
+1.0	Onion	grow	grow
+1.0	Onion	come into	forest
+1.0	Onion	pick	berry
+1.0	village maiden	ask at_time	one day
+1.0	Onion	come with	we
+1.0	you	will leave	she
+1.0	maiden	gather berry in	deepest part
+1.0	maiden	gather berry in	deepest darkest part of forest
+1.0	maiden	gather berry in	deepest part of forest
+1.0	maiden	gather berry in	deepest darkest part
+1.0	maiden	gather berry in	darkest part
+1.0	maiden	gather berry in	part of forest
+1.0	maiden	gather	berry
+1.0	maiden	gather berry in	part
+1.0	maiden	gather berry in	darkest part of forest
+1.0	they	suddenly find	themselves
+1.0	they	find	themselves
+1.0	they	find	bear sit on stump
+1.0	they	find	bear sit
+1.0	they	find	bear
+1.0	they	let in	themselves
+1.0	he	seat	they
+1.0	he	serve	they porridge
+1.0	he	keep	onion
+1.0	he	keep onion with	he
+1.0	he	ask	she
+1.0	he	drag out	hammock
+1.0	she	rock	he
+1.0	he	attach	it
+1.0	Onion	rock	he
+1.0	Onion	chant	Lullaby old prick
+1.0	Onion	chant	Lullaby prick
+0.9969095430474074	nothing	be	do
+1.0	she	rock	friend
+1.0	she	rock	precious friend
+1.0	she	rock	Lullaby
+1.0	bear	live in	way
+1.0	bear	live for	year
+1.0	onion	live for	year
+1.0	onion	live in	way
+1.0	she	be	pregnant
+1.0	Onion	think	find
+1.0	he	block door with	pile of oak log
+1.0	bear	once leave to	hunt
+1.0	he	block door with	pile
+1.0	he	block	door
+1.0	bear	leave to	hunt
+1.0	Onion	exert	all of she strength
+1.0	Onion	try	squeeze
+1.0	Onion	exert	all of strength
+1.0	Onion	exert	all she strength
+1.0	Onion	exert	all strength
+1.0	Onion	try	squeeze through
+1.0	she	run for	home
+1.0	they	live together for	three month
+1.0	they	live for	three month
+1.0	Onion	give birth in	fourth month
+1.0	Onion	give birth in	month
+1.0	Onion	give	birth
+1.0	Onion	give birth to	boy
+1.0	they	christen	he Ivanson-Bearson
+1.0	he	be already tall at_time	one hour
+1.0	he	be	one hour already five foot tall
+1.0	he	be tall at_time	one hour
+1.0	he	be already tall	five foot
+1.0	he	be	one hour five foot tall
+1.0	he	be tall at_time	one hour after he birth
+1.0	he	be	tall
+1.0	he	be already tall at_time	one hour after he birth
+1.0	he	be	already tall
+1.0	he	be	one hour after he birth already five foot tall
+1.0	he	be	one hour after he birth five foot tall
+1.0	he	be tall	five foot
+1.0	someone	be pull upward	he
+1.0	someone	be pull	he
+1.0	he	play prank on	other boy
+1.0	he	play prank on	boy
+1.0	he	turn	old
+1.0	he	make	mischief
+1.0	he	play	bad prank
+1.0	he	turn	fifteen year old
+1.0	he	play	prank
+1.0	he	grab boy by	hand
+1.0	he	grab	boy
+1.0	he	grab	boy
+1.0	he	grab boy by	head
+1.0	peasant man	complain to	old man
+1.0	peasant man	complain to	man
+1.0	man	be	sorrowful
+1.0	old man	be	sorrowful
+1.0	old man	be	very sorrowful
+1.0	man	be	very sorrowful
+0.81139905877865	you	be	so gloomy
+0.81139905877865	you	be	why so gloomy
+0.81139905877865	you	be	why gloomy
+0.81139905877865	you	be	gloomy
+0.5744820714652779	nothing	defend	myself
+1.0	old man	make	Ivanson 850 pound club
+1.0	man	so make	Ivanson 850 pound club
+1.0	old man	so make	Ivanson 850 pound club
+1.0	man	make	Ivanson 850 pound club
+1.0	goodbye	be with	he club
+1.0	he	walk along	road
+1.0	he	come wide to	river
+1.0	he	come to	river
+1.0	man	suck river into	he mouth
+1.0	man	suck	river
+1.0	man	stand on	bank
+1.0	he	eat	it
+1.0	he	cook	it
+1.0	he	catch fish in	he moustache
+1.0	he	catch	fish
+1.0	wind	take	I
+1.0	I	have	company
+1.0	I	be	happy
+1.0	champion	remove	entire mountain
+1.0	pair	place	it
+1.0	pair	clear	he path
+1.0	champion	remove	mountain
+1.0	ivanson	be	shock
+1.0	you	be	extremely strong
+1.0	you	be	strong
+1.0	you	be	so extremely strong
+1.0	you	be	so strong
+1.0	my strength	be	nothing
+1.0	I	have hear of	fellow
+1.0	I	have hear of	fellow by name
+1.0	I	have hear of	fellow by name of Ivanson-Bearson
+1.0	he	be get	strength
+1.0	he	be get	real strength
+1.0	wind	take	I
+1.0	I	have	company
+1.0	I	be	happy
+1.0	oak tree	be taller than	other
+0.6784237615291959	he	pound	that
+1.0	oak tree	be	taller
+1.0	tree	be	short
+1.0	he	pull up	it
+1.0	tree	be	too short
+1.0	Ivanson	be	surprise
+1.0	my strength	be	nothing
+1.0	he	be	now unquestionably strong
+1.0	he	be	strong
+1.0	he	be	now strong
+1.0	he	be	unquestionably strong
+1.0	God	be take	you
+1.0	wind	take	I
+1.0	I	have	company
+1.0	I	be	happy
+1.0	they	become	foursome
+1.0	they	travel for	time
+1.0	they	travel along	path
+1.0	they	travel for	long time
+1.0	they	find	themselves
+1.0	Ivanson	say	little hut
+1.0	Ivanson	say	hut
+1.0	Ivanson	say	hut
+1.0	Ivanson	say	little hut
+1.0	little hut	face	they
+1.0	hut	face	they
+1.0	door	open by	themselves
+1.0	champion	enter	hut
+1.0	champion	enter hut	nobody be there
+1.0	champion	enter hut	nobody be
+1.0	's	draw lot	see
+1.0	's	draw	lot
+1.0	they	draw	lot
+0.22795018331254002	it	stay	he brethren go out
+1.0	it	fall to	Usynya-Champion
+1.0	he brethren	go out to	hunt
+0.22795018331254002	it	fall	stay
+1.0	it	stay home	he brethren go
+0.22795018331254002	it	stay	he brethren go to hunt
+1.0	he brethren	go to	hunt
+1.0	it	stay home	he brethren go out to hunt
+1.0	it	stay home	he brethren go to hunt
+0.22795018331254002	it	stay	he brethren go
+1.0	it	stay	home
+0.22795018331254002	it	stay	he brethren go out to hunt
+1.0	it	stay home	he brethren go out
+1.0	he	sit	comb
+1.0	he	wash	hair
+1.0	he	sit under	little window
+1.0	they	be	go
+1.0	he	sit	comb through he lock
+1.0	he	whip up	go
+1.0	he	wash	he face
+1.0	he	sit under	window
+1.0	everything	be	suddenly topsy-turvy
+1.0	everything	be	topsy-turvy
+1.0	grass	fly into	he eye
+1.0	she	be ride in	iron mortar
+1.0	she	brandish	iron cattle-prod
+1.0	dog	bark behind	she
+1.0	Usynya-Champion	have here	something
+1.0	Usynya-Champion	have	something
+1.0	Usynya-Champion	have something here	I eat
+1.0	Usynya-Champion	have something	I eat
+1.0	he	seat	she
+1.0	he	serve	she portion
+1.0	she	eat	it
+1.0	he	serve	she another
+1.0	she	give	it
+1.0	you	call	hospitality
+1.0	she	beat	little Usynya-Champion
+1.0	she	beat	Usynya-Champion
+1.0	she	beat usynya-champion with	iron prod
+1.0	she	beat	poor little Usynya-Champion
+1.0	she	beat	poor Usynya-Champion
+1.0	she	stuff	he
+1.0	she	take	strip hide
+1.0	she	take	strip hide from he back
+1.0	she	eat	last crumb
+1.0	Usynya-Champion	sit	groan
+1.0	Usynya-Champion	wrap	he head
+1.0	I	be so overcome by	fume
+1.0	I	be	so overcome
+1.0	I	be	overcome
+1.0	I	be overcome by	fume
+1.0	I	be smoke out of	hut
+1.0	I	be	smoke
+1.0	I	be	completely smoke
+1.0	I	be completely smoke out of	hut
+1.0	Gorynya-Champion	stay at_time	next day
+1.0	Gorynya-Champion	stay home at_time	next day
+1.0	Gorynya-Champion	stay at_time	day
+1.0	Gorynya-Champion	stay home at_time	day
+1.0	he	wash	he face
+1.0	he	sit under	window
+1.0	he	sit	comb through he lock
+1.0	he	whip up	food
+1.0	he	sit	comb
+1.0	he	sit under	little window
+1.0	he	wash	hair
+1.0	everything	be	suddenly topsy-turvy
+1.0	everything	be	topsy-turvy
+1.0	grass	fly into	he eye
+1.0	earth	come from	from stone
+1.0	earth	come	Baba-Yaga
+1.0	she	be ride in	iron mortar
+1.0	she	brandish	iron cattle-prod
+1.0	dog	bark behind	she
+1.0	Gorynya-Champion	have something	I eat
+1.0	Gorynya-Champion	have here	something
+1.0	Gorynya-Champion	have	something
+1.0	Gorynya-Champion	have something here	I eat
+1.0	he	seat	she
+1.0	he	serve	she portion
+1.0	she	eat	it
+1.0	he	serve	she another
+1.0	she	give	it
+1.0	you	call	hospitality
+1.0	she	beat	little Gorynya-Champion
+1.0	she	beat	poor Gorynya-Champion
+1.0	she	beat	poor little Gorynya-Champion
+1.0	she	beat	Gorynya-Champion
+1.0	she	beat gorynya-champion with	iron prod
+1.0	she	stuff	he
+1.0	she	take	strip hide
+1.0	she	take	strip hide from he back
+1.0	she	eat	last crumb
+1.0	he	wrap	he head
+1.0	he	walk with	groan
+1.0	stove	emit	bad fume
+1.0	stove	emit	fume
+1.0	firewood	be	damp
+1.0	Dubynyushka-Champion	stay	home
+1.0	Dubynyushka-Champion	stay home on	third day
+1.0	Dubynyushka-Champion	stay home on	day
+0.09570040578057093	Dubynyushka-Champion	stay on	third day
+0.09570040578057093	Dubynyushka-Champion	stay on	day
+1.0	he	wash	he face
+1.0	he	sit under	window
+1.0	he	whip up	food
+1.0	he	sit under	little window
+1.0	he	wash	hair
+1.0	everything	be	suddenly topsy-turvy
+1.0	everything	be	topsy-turvy
+1.0	grass	fly into	he eye
+1.0	earth	come from	from stone
+1.0	earth	come	Baba-Yaga
+1.0	she	be ride in	iron mortar
+1.0	she	brandish	iron cattle-prod
+1.0	dog	bark behind	she
+1.0	Dear Dubynyushka-Champion	have	something
+1.0	Dear Dubynyushka-Champion	have something	I eat
+1.0	Dear Dubynyushka-Champion	have here	something
+1.0	Dear Dubynyushka-Champion	have something here	I eat
+1.0	he	seat	she
+1.0	he	serve	she portion
+1.0	she	eat	it
+1.0	he	serve	she another
+1.0	she	give	it
+1.0	you	call	hospitality
+1.0	she	beat	little Dubynyushka-Champion
+1.0	she	beat dubynyushka-champion with	iron prod
+1.0	she	beat	poor Dubynyushka-Champion
+1.0	she	beat	Dubynyushka-Champion
+1.0	she	beat	poor little Dubynyushka-Champion
+1.0	she	stuff	he
+1.0	she	take	strip hide
+1.0	she	take	strip hide from he back
+1.0	she	eat	last crumb
+1.0	he	wrap	he head
+1.0	he	walk with	groan
+1.0	's	have	we lunch
+1.0	I	be so overcome by	fume
+1.0	I	be	so overcome
+1.0	I	be	overcome
+1.0	I	be overcome by	fume
+1.0	hut	be completely full of	smoke
+1.0	hut	be full of	smoke
+1.0	hut	be	full
+1.0	hut	be	completely full
+1.0	it	be	on day Ivanson 's turn
+1.0	it	be	Ivanson 's turn
+1.0	it	be	on fourth day Ivanson 's turn
+1.0	it	stay	home
+1.0	he	wash	he face
+1.0	he	sit under	window
+1.0	he	whip up	food
+1.0	he	sit under	little window
+1.0	he	wash	hair
+1.0	everything	be	suddenly topsy-turvy
+1.0	everything	be	topsy-turvy
+1.0	grass	fly into	he eye
+1.0	earth	come from	from stone
+1.0	earth	come	Baba-Yaga
+1.0	she	be ride in	iron mortar
+1.0	she	brandish	iron cattle-prod
+1.0	dog	bark behind	she
+1.0	Ivanson-Bearson	have here	something
+1.0	Ivanson-Bearson	have something	I eat
+1.0	Ivanson-Bearson	have something here	I eat
+1.0	Ivanson-Bearson	have	something
+1.0	he	seat	she
+1.0	he	serve	she portion
+1.0	she	eat	it
+1.0	he	serve	she another
+1.0	she	give	it
+1.0	you	call	hospitality
+1.0	she	brandish	she prod
+1.0	he	beat	she half
+1.0	he	rip	three strip
+1.0	he comrade	just be return	home
+1.0	he comrade	be return	home
+1.0	he	lock	she
+1.0	he	rip	three strip of flesh
+1.0	friend	be seat	you please
+1.0	friend	be	seat
+1.0	they	sit down at	table
+1.0	ivanson	serve	they pile
+1.0	ivanson	serve	they pile of food
+1.0	they	pile of	food
+1.0	champion	eat	they fill
+1.0	they	say among	themselves
+1.0	they	go	bathe
+1.0	Ivanson-Bearson	heat banya after	lunch
+1.0	Ivanson-Bearson	heat	banya
+1.0	they	try as	Usynya-Champion
+1.0	they	try as	Dubynyushka-Champion
+1.0	they	keep	ivanson
+1.0	Ivanson	say to	they
+1.0	Baba-Yaga	rip strip off of	each they back
+1.0	Baba-Yaga	rip	strip of skin
+1.0	they	be at	home
+1.0	they	be at	home alone
+1.0	Baba-Yaga	come at	home
+1.0	Baba-Yaga	rip strip off of	each of they back
+1.0	Baba-Yaga	come at	home alone
+1.0	Baba-Yaga	rip	strip
+1.0	Baba-Yaga	rip strip off of	each of back
+1.0	Baba-Yaga	rip strip off of	each back
+1.0	he	run to	pantry
+1.0	he	take	champion ' hide
+1.0	he	return with	flesh
+0.05047851738313602	he	lay on	they back
+1.0	they	be	immediately heal
+1.0	he	lay	they
+1.0	they	be	all heal
+1.0	they	be	heal
+1.0	they	be	all immediately heal
+1.0	Ivanson-Bearson	tie	rope
+1.0	Ivanson-Bearson	hang	she
+1.0	Ivanson-Bearson	tie rope to	Baba-Yaga 's leg
+1.0	Baba-Yaga	to	leg
+1.0	Ivanson-Bearson	tie rope after	that
+1.0	whoever can shoot	be	winner
+1.0	he shot	go	wide
+1.0	he	barely nick	rope
+1.0	he	nick	rope
+1.0	Ivanson	have	shot cut through rope
+1.0	Baba-Yaga	fall to	ground
+1.0	she	run to	rock
+1.0	she	go under	ground
+1.0	she	lift up	it
+1.0	champion	throw	themselves
+1.0	hole	open in	ground
+1.0	nobody	want	to
+1.0	he	hang	bell
+1.0	he	attach	one end of rope
+1.0	he	attach	one end of rope to bell
+1.0	he	attach	one end
+1.0	he	grab onto	other end
+1.0	he	grab onto	end
+1.0	I	hold onto	rope
+1.0	I	ring	bell
+1.0	champion	lower	he
+1.0	he	have rip from	Baba-Yaga 's back
+1.0	Baba-Yaga	from	back
+1.0	he	tie	they
+0.36632681049637295	he	let down into	world
+1.0	he	let down	himself
+1.0	he	follow	road
+1.0	he	follow	well-kept road walk
+1.0	he	follow	well-kept road
+1.0	he	follow	road walk
+1.0	they	ask	he
+1.0	she	will eat	you
+1.0	she	will instantly wake up	you do
+1.0	she	lash	you
+1.0	she	will instantly wake	you do
+1.0	she	will wake up	you do
+1.0	she	will wake	you do
+1.0	two apple	ask	she
+1.0	she	partake of	apple
+1.0	two apple	tenderly ask	she
+1.0	two golden apple	tenderly ask	she
+1.0	two golden apple	ask	she
+1.0	she	open	she jaw wide
+1.0	she	will raise	she head
+1.0	steel sword	cut off	she head
+1.0	she	will come	you do
+1.0	she	will come back	you do
+1.0	she	will immediately come	you do
+1.0	she	will immediately come back	you do
+1.0	she	put	you
+1.0	ivanson	do	instruct
+1.0	ivanson	do	exactly instruct
+1.0	he	take maiden to	hole
+1.0	he	take back	maiden
+1.0	he	take maiden with	he
+1.0	he	take maiden back to	hole
+1.0	Baba-Yaga	have	head
+1.0	he	take	maiden
+1.0	he	cut off	Baba-Yaga 's head
+1.0	he	take	beautiful maiden
+1.0	he	take back	beautiful maiden
+1.0	he	take maiden back with	he
+1.0	he	ring	bell
+1.0	he	tie sister to	rope
+1.0	he	tie	eldest sister
+1.0	he	tie	sister
+1.0	champion	pull out	she
+1.0	champion	let down	rope
+1.0	champion	let back down	rope
+1.0	champion	let	rope
+1.0	they	pull up	one
+1.0	one	be	my wife
+1.0	he	tie	youngest sister
+1.0	he	tie	sister
+1.0	Dubynyushka-Champion	be	angry
+1.0	he	as soon grab	he club
+1.0	he	chop	rope
+1.0	he	soon grab	he club
+1.0	he	chop rope into	two piece
+1.0	he	grab	he club
+1.0	Ivanson	fall	ground
+1.0	he	sit there for	three day
+1.0	he	sit for	three day
+1.0	he	sit	eat
+1.0	he	sit there	eat
+1.0	he	be waste away from	hunger
+1.0	I	can surely find	something eat
+1.0	I	there can surely find	something eat
+1.0	I	can find	something eat
+1.0	I	there can find	something eat
+1.0	he	go through	storeroom
+1.0	he	eat	he fill
+1.0	he	stumble	he go
+1.0	he	stumble	he go along through storeroom
+1.0	he	stumble	he go through storeroom
+1.0	he	stumble	he go along
+1.0	he	stumble upon	passageway
+1.0	he	stumble upon	secret passageway
+1.0	he	go along through	storeroom
+1.0	he	come out into	wide world
+1.0	he	come out into	world
+1.0	he	walk along	field
+1.0	he	see	maiden
+1.0	he	see	beautiful maiden
+1.0	he	walk along	open field
+1.0	he	recognize	he betrothed
+1.0	he	approach	she
+1.0	my sister	marry to	champion
+1.0	I	marry	Dubynyushka-Champion
+1.0	maiden	drive herd home in	evening
+1.0	ivanson-bearson	follow	she
+1.0	maiden	drive	herd home
+1.0	beautiful maiden	drive	herd home
+1.0	beautiful maiden	drive herd home in	evening
+1.0	Dubynyushka-Champion	be sit at	table
+1.0	Gorynya-Champion	be sit at	table
+1.0	Usynya-Champion	be sit at	table
+0.633593924617174	Ivanson	say to	they
+1.0	Ivanson	say	people
+1.0	Ivanson	say people to	they
+1.0	Ivanson	say	good people
+1.0	they	bring	shot of vodka
+1.0	they	bring	he
+1.0	they	bring	shot
+1.0	he	drink	it
+1.0	he	ask for	another
+1.0	they	give	he
+1.0	they	give	another
+1.0	he	drink	it
+1.0	he	ask for	third
+1.0	he	kill	three champion
+1.0	he	throw	they body
+1.0	he	drink	third
+1.0	he	grab	battle club
+1.0	he	take	he bride
+1.0	he	take	he declare bride
+1.0	they	celebrate	they marriage
+1.0	drinking	be at	wedding
+1.0	I	be at	wedding
+1.0	I	be at	also wedding
+1.0	I	drink	mead
+1.0	it	flow	my mouth stay
+1.0	it	flow along	my moustache
+1.0	my mouth	stay	dry
+1.0	they	give	I
+1.0	they	give	beer
+1.0	my tale	have come to	end

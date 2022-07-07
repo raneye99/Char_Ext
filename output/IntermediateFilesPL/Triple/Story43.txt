@@ -1,0 +1,572 @@
+1.0	certain kingdom	live	Prince Ivan
+1.0	certain kingdom	be in	certain land
+1.0	kingdom	live	Prince Ivan
+1.0	he	have	three sister
+0.8724548610828018	sister	give	she
+1.0	prince	go	walk
+1.0	he sister	be in	green garden
+1.0	prince	go	walk with he sister in green garden
+1.0	prince	go	walk with he sister
+1.0	prince	bury	he parent
+1.0	prince	go in	he sorrow
+1.0	prince	go	walk with he sister in garden
+0.5101293601494133	thunderbolt	strike	it
+1.0	he	turn into	brave knight
+1.0	he	strike	floor
+1.0	he	turn into	knight
+1.0	ceiling	fly into	room
+1.0	Princess Maria	woo	you sister
+1.0	I	want	Princess Maria
+1.0	I	have come as	suitor
+1.0	I	now have come as	suitor
+1.0	she	go with	God
+1.0	my sister	find	you
+1.0	falcon	carry off	she
+1.0	falcon	marry	she
+1.0	hour	follow	year go
+1.0	hour	follow	whole year go
+1.0	day	follow at_time	day
+1.0	hour	follow	hour
+1.0	Prince Ivan	walk in	garden
+1.0	Prince Ivan	go	walk in green garden
+1.0	Prince Ivan	go	walk in garden
+1.0	Prince Ivan	walk in	green garden
+1.0	Prince Ivan	go	walk with he two sister
+1.0	Prince Ivan	go	walk in garden with he two sister
+1.0	Prince Ivan	go	walk
+1.0	Prince Ivan	walk with	he two sister
+1.0	Prince Ivan	go	walk in green garden with he two sister
+1.0	cloud	again come with	whirlwind
+1.0	great cloud	again come with	whirlwind
+1.0	great cloud	come with	whirlwind
+1.0	cloud	come with	whirlwind
+0.5101293601494133	thunderbolt	strike	it
+1.0	he	turn into	brave knight
+1.0	he	turn into	knight
+1.0	he	strike	floor
+1.0	I	have come as	suitor
+1.0	I	now have come as	suitor
+1.0	I	formerly come as	guest
+1.0	I	come as	guest
+1.0	he	woo	Princess Olga
+1.0	she	marry	you
+1.0	he	seize	she
+1.0	he	carry off	she
+1.0	Prince Ivan	say to	he sister
+1.0	Prince Ivan	say to	he youngest sister
+1.0	we	return	home
+1.0	we	return	sister
+1.0	they	return	home
+1.0	ceiling	be cut in	twain
+1.0	ceiling	be cut	fly in
+1.0	ceiling	be cut	fly
+1.0	ceiling	be	cut
+1.0	he	turn into	brave knight
+1.0	he	be	handsomer
+1.0	he	turn into	knight
+1.0	other two	be	handsome
+1.0	he	be	even handsomer
+1.0	she	marry	you
+1.0	she	find	you
+1.0	he	carry off	she
+1.0	Princess Anna	marry	raven
+1.0	he	become	weary
+1.0	one day	behold	host lie
+1.0	day	behold	host of troops
+1.0	one day	behold	host
+1.0	he	make	ready
+1.0	one day	behold	host of troops lie
+0.6609269631775254	lie	slay on	field
+1.0	day	behold	host lie
+1.0	one day	behold	host of troops
+1.0	day	behold	host
+1.0	day	behold	host of troops lie
+1.0	great army	be	slay
+1.0	great army	be slay by	beautiful queen
+1.0	man	answer	he
+1.0	great army	be slay by	Maria Morevna
+1.0	great army	be slay by	queen
+1.0	one man	answer	he
+1.0	Prince Ivan	come upon	tent
+1.0	Prince Ivan	come upon	white tent
+1.0	Maria Morevna	meet	he
+0.6115027098546584	Whither	be take	you
+0.6115027098546584	God	be take	you
+1.0	rest	be in	my tent
+1.0	he	marry	she
+1.0	Maria Morevna	find prince ivan to	she liking
+1.0	Maria Morevna	find	Prince Ivan
+1.0	Maria Morevna	take	Prince Ivan
+1.0	Maria Morevna	take prince ivan to	she kingdom
+1.0	Maria Morevna	take prince ivan with	she
+1.0	she	leave	household in charge
+1.0	queen	make	war
+1.0	she	leave	she household in Prince Ivan 's charge
+1.0	she	leave	household in Prince Ivan 's charge
+1.0	she	tell	he
+1.0	she	leave	she household in charge
+1.0	he	open	door
+1.0	deathless	be hang	chained with twelve chain
+1.0	deathless	be hang	chained
+1.0	deathless	be hang inside	closet Koshchey
+1.0	pity	give	drink
+1.0	begged	take pity on	I
+1.0	koshchey begged	take	pity
+1.0	begged	take	pity
+1.0	koshchey begged	take pity on	I
+1.0	pity	give	I
+1.0	my throat	be	parch
+1.0	my throat	be	all parch
+1.0	he	ask for	more
+1.0	he	drink	it
+1.0	Koshchey	shake	he chain
+1.0	Koshchey	ask for	third
+1.0	he	recover	he former strength
+1.0	Koshchey	drink	it
+1.0	Maria Morevna	seize	she
+1.0	he	carry off	she
+1.0	he	fly out of	window
+1.0	he	fly in	whirlwind
+1.0	he	fly in	terrible whirlwind
+1.0	Prince Ivan	make	ready
+0.48595738915318	oak	sit on	oak
+1.0	he	behold	castle
+1.0	he	behold	marvelous castle
+1.0	oak	sit	falcon
+1.0	oak	sit falcon on	oak
+1.0	oak	sit	bright falcon
+1.0	falcon	strike	ground
+1.0	falcon	turn into	knight
+1.0	falcon	turn into	brave knight
+1.0	Lord	do favor	you
+1.0	Princess Maria	question	he
+1.0	Princess Maria	receive prince ivan with	joy
+1.0	Princess Maria	receive	Prince Ivan
+1.0	Princess Maria	tell	he
+1.0	my	wife	Maria Morevna
+1.0	prince	stay for	three day
+1.0	prince	stay with	they
+1.0	we	remember	you
+1.0	we	shall look at	it
+1.0	Prince Ivan	leave	he silver spoon
+1.0	Prince Ivan	leave	he spoon
+1.0	Prince Ivan	go on	he way
+0.48595738915318	oak	sit on	oak
+1.0	he	see	castle magnificent than first
+1.0	oak	sit	eagle
+1.0	he	see	castle more magnificent
+1.0	he	see	castle magnificent
+1.0	he	see	castle more magnificent than first
+0.6572413281679889	castle	more magnificent than	first
+0.6572413281679889	castle	magnificent than	first
+1.0	oak	sit eagle on	oak
+1.0	he	see	castle
+1.0	eagle	strike	ground
+1.0	eagle	turn into	brave knight
+1.0	eagle	turn into	knight
+1.0	Princess Olga straightway	receive	Prince Ivan
+1.0	Princess Olga straightway	tell	he
+1.0	Prince Ivan	stay for	three day
+1.0	my	wife	Maria Morevna
+1.0	Prince Ivan	stay with	they
+1.0	we	remember	you
+1.0	we	shall look at	it
+1.0	Prince Ivan	go	he way
+1.0	Prince Ivan	leave	he fork
+1.0	Prince Ivan	leave	he silver fork
+1.0	oak	sit	raven
+0.48595738915318	oak	sit on	oak
+1.0	he	behold even magnificent	castle
+1.0	he	behold even more magnificent	castle
+1.0	he	behold	castle
+1.0	he	behold more magnificent	castle
+1.0	he	walk at_time	one day
+1.0	oak	sit raven on	oak
+1.0	he	behold magnificent	castle
+1.0	raven	strike	ground
+1.0	raven	turn into	knight
+1.0	raven	turn into	brave knight
+1.0	Princess Anna	receive	Prince Ivan
+1.0	Princess Anna	receive prince ivan with	joy
+1.0	Princess Anna	kiss	he
+1.0	Princess Anna	tell	he
+1.0	Princess Anna	question	he
+1.0	Prince Ivan	stay for	three day
+1.0	Prince Ivan	stay with	they
+1.0	I	look for	queen
+1.0	my	wife	Maria Morevna
+1.0	I	must go now	look for my wife
+1.0	I	must go	look for my wife
+1.0	I	look for	beautiful queen
+1.0	I	must go	look
+1.0	my	wife	beautiful queen
+1.0	I	look for	my wife
+1.0	I	look for	Maria Morevna
+1.0	I	must go now	look
+1.0	we	remember	you
+1.0	we	shall look at	it
+1.0	farewell	go on	he way
+1.0	he third day	come to	Maria Morevna
+1.0	he day	come to	Maria Morevna
+1.0	he	walk at_time	one day
+1.0	she	see	beloved
+1.0	she	shed	tear
+1.0	she	throw	herself
+1.0	they	make	ready
+1.0	he	return at	night fall
+1.0	he	return home at	night fall
+1.0	he steed	stumble under	he
+1.0	he good steed	stumble under	he
+1.0	you	do sense	mishap
+1.0	we	can take	they
+0.981162871954481	wheat	grind	it
+0.9949006697643124	we	bake	five ovenful
+1.0	we	overtake	they
+0.9940264495516253	we	grind	it
+0.9949006697643124	we	bake	five ovenful of bread
+1.0	bread	overtake	they
+0.9218599725462258	wheat	bake	five ovenful
+0.9218599725462258	wheat	reap	it
+0.8566474274031164	wheat	wait	it grow
+0.9949006697643124	we	reap	it
+0.9218599725462258	wheat	bake	five ovenful of bread
+0.9935167592736185	we	wait	it grow
+1.0	Koshchey	overtake	Prince Ivan
+1.0	care-i	cut	you
+1.0	he	carry off	she
+1.0	he	take maria morevna from	prince
+1.0	he	take	Maria Morevna
+1.0	Prince Ivan	sit on	stone
+1.0	deathless	happen	be away
+1.0	he	go back again for	Maria Morevna
+1.0	deathless	happen	be
+1.0	he	go for	Maria Morevna
+1.0	he	koshchey	deathless happen
+1.0	he	go again for	Maria Morevna
+1.0	he	go back for	Maria Morevna
+0.5614352287915844	he	will catch	we
+0.5614352287915844	Prince Ivan	will catch	we
+1.0	he	catch	we
+1.0	they	make	ready
+1.0	Koshchey Death	be return	home
+1.0	Koshchey Death	less be return	home
+1.0	he steed	stumble under	he
+1.0	he good steed	stumble under	he
+1.0	you	do sense	mishap
+1.0	we	can overtake	they
+1.0	we	sleep	we fill
+1.0	it	thresh	it
+1.0	we	drink	ourselves drunk
+1.0	we	brew	beer
+1.0	Koshchey	overtake	Prince Ivan
+1.0	he	take	queen
+1.0	he	carry off	she
+1.0	he	go again for	Maria Morevna
+1.0	he	go back for	Maria Morevna
+1.0	he	go back again for	Maria Morevna
+1.0	he	go for	Maria Morevna
+1.0	Koshchey	also happen	be away
+1.0	Koshchey	happen	be
+1.0	Koshchey	happen	be away
+1.0	Koshchey	also happen at	time
+1.0	Koshchey	happen at	time
+1.0	Koshchey	also happen	be
+1.0	he	cut	you
+1.0	he	will catch	you
+1.0	Prince Ivan	will catch	you
+1.0	he	cut	I
+1.0	they	make	ready
+1.0	he steed	stumble under	he
+1.0	he good steed	stumble under	he
+1.0	Koshchey deathless	be return	home
+1.0	you	do sense	mishap
+1.0	he	carry maria morevna off	off he house
+1.0	Koshchey	cut	he
+1.0	he	reinforce	it
+1.0	Koshchey	put piece in	barrel
+1.0	Koshchey	put piece in	tar barrel
+1.0	Koshchey	put	piece
+1.0	he	throw	it
+1.0	he	carry	Maria Morevna
+1.0	he	take	barrel
+1.0	Koshchey	overtake	Prince Ivan
+1.0	Prince Ivan	of	brother-in-law
+1.0	eagle	hurry to	sea
+1.0	eagle	pull	it
+1.0	eagle	pull ashore	it
+1.0	eagle	seize	barrel
+1.0	eagle	hurry	falcon fly
+1.0	falcon	fly for	water of life
+1.0	eagle	hurry	falcon fly for water of life
+1.0	eagle	hurry to	blue sea
+1.0	falcon	fly for	water
+1.0	eagle	hurry	falcon fly for water
+1.0	falcon	sprinkle body with	water of life
+1.0	falcon	sprinkle body with	water
+1.0	falcon	sprinkle	body
+1.0	raven	sprinkle	they
+1.0	I	shall go	look
+1.0	I	look for	Maria Morevna
+1.0	I	shall go	look for Maria Morevna
+1.0	he	come to	queen
+1.0	Maria Morevna	seize	moment
+1.0	Maria Morevna	seize	opportune moment
+1.0	she	fly at_time	day
+1.0	Beyond thrice nine land	be in	thrice tenth kingdom
+1.0	I	serve for	three day
+1.0	Baba Yaga	give	I
+1.0	Baba Yaga	give	one colt
+1.0	I	serve as	she herdsman
+1.0	you	do cross	river
+1.0	you	do cross	river of fire
+1.0	I	wave	it
+1.0	Maria Morevna	give	it
+1.0	Maria Morevna	listen to	he
+1.0	Maria Morevna	steal	handkerchief
+1.0	Prince Ivan	cross	river of fire
+1.0	Prince Ivan	cross	river
+1.0	he	walk	eat
+1.0	he	walk for	long time
+1.0	he	walk for	time
+1.0	he	happen	come with she young
+1.0	he	happen	come upon bird from beyond sea
+1.0	he	happen	come
+1.0	he	happen	come upon bird from beyond sea with she young
+1.0	he	happen	come upon bird
+1.0	he	come upon	bird from beyond sea
+1.0	he	happen	come upon bird with she young
+1.0	he	come upon	bird
+1.0	he	come with	she young
+1.0	I	be	someday shall useful to you
+1.0	I	be	shall useful to you
+1.0	I	be	someday shall useful
+1.0	I	be	shall useful
+1.0	beehive	be in	forest
+1.0	he	see	beehive
+1.0	he	see	beehive in forest
+0.6719644202704468	see	beehive in	forest
+1.0	he	meet	lioness
+1.0	he	meet	she whelp
+0.660460668196303	he	house of	Baba Yaga
+1.0	he	spy	house of Baba Yaga
+1.0	he	spy	house
+1.0	stake	be	bare
+1.0	one stake	be	bare
+1.0	you	have come-of	you will
+1.0	you	have come-of	need
+1.0	you	have come-of	you free will
+1.0	you	have come-of	you own will
+1.0	you	have come-of	you own free will
+1.0	I	earn	steed
+1.0	I	earn	mighty steed
+1.0	I	earn steed from	you
+1.0	you	may try	prince
+1.0	I	will give	mighty steed
+1.0	I	will give	you
+1.0	you	can tend	my mare
+1.0	I	will give	steed
+0.307919695602757	I	will give steed	you can tend
+1.0	Baba Yaga	give	drink
+1.0	Baba Yaga	order	he
+1.0	Baba Yaga	give	he
+1.0	Baba Yaga	give	meat
+1.0	he	set	work
+1.0	he	drive mare into	field
+1.0	he	drive	mare
+1.0	they	raise	they tail
+0.1765160333133069	he	drive into	field
+1.0	they	scatter over	meadow
+1.0	he	be	grieve
+1.0	he	sit on	stone
+1.0	bird	rouse	he
+1.0	bird	fly to	he
+1.0	Baba Yaga	scold	she mare
+1.0	you	come	home
+1.0	prince	return to	house
+1.0	Birds	almost peck	we eye
+1.0	Birds	peck	we eye
+1.0	Birds	peck out	we eye
+1.0	Birds	almost peck out	we eye
+1.0	tomorrow	scatter through	deep forest
+1.0	tomorrow	scatter through	forest
+1.0	Prince Ivan	sleep at_time	night
+1.0	Baba Yaga	say to	he
+1.0	Baba Yaga	say in	morning
+1.0	they	scatter in	deep forest
+1.0	they	scatter in	forest
+1.0	they	raise	they tail
+1.0	prince	sit on	stone
+1.0	prince	again sit on	stone
+1.0	sun	be set behind	forest
+0.6200120680112198	mare	be	gather
+0.6200120680112198	mare	be	gather together
+1.0	Baba Yaga	scold severely	she mare
+1.0	Baba Yaga	scold even more severely	she mare
+1.0	Baba Yaga	scold	she mare
+1.0	Prince Ivan	return to	house
+0.7969179519735856	you	do return	home
+1.0	Baba Yaga	scold more severely	she mare
+1.0	Baba Yaga	scold even severely	she mare
+1.0	wild beast	tear	we
+1.0	beast	tear	we
+1.0	beast	almost tear	we
+1.0	beast	come from	corner of world
+1.0	wild beast	almost tear	we
+1.0	we	help	go
+1.0	wild beast	come from	corner of world
+1.0	we	help	go home
+1.0	you	be	run into sea
+1.0	you	run into	blue sea
+1.0	you	be	run
+1.0	you	run into	sea
+1.0	you	be at_time	tomorrow
+1.0	you	be	run into blue sea
+1.0	he	graze	mare
+1.0	Baba Yaga	send	he
+1.0	they	stand up	up they neck
+1.0	they	straightway raise	they tail
+1.0	they	run into	sea
+1.0	they	vanish from	sight
+1.0	they	stand in	water
+1.0	they	run into	blue sea
+1.0	Prince Ivan	sit on	stone
+1.0	sun	be set behind	forest
+1.0	bee	fly up to	he
+1.0	bee	fly to	he
+1.0	mare	be	gather
+1.0	mare	be	gather together
+1.0	you	return	home
+1.0	he	leave house on	stroke
+1.0	he	leave	house
+1.0	he	leave house on	stroke of midnight
+1.0	Prince Ivan	make	he way
+1.0	Prince Ivan	hide behind	manger
+1.0	Baba Yaga	scold	she mare
+1.0	we	could help	return
+1.0	blood	run over	all side
+1.0	innumerable host	swarm from	corner of world
+1.0	blood	run over	side
+1.0	host	swarm from	corner of world
+1.0	blood	run over	we side
+1.0	blood	run over	all we side
+1.0	Baba Yaga stroke	steal	mangy colt
+1.0	Baba Yaga stroke	mount	he
+1.0	Baba Yaga stroke	steal	colt
+1.0	Baba Yaga stroke	saddle	he
+1.0	magnificent bridge	hang over	river
+1.0	magnificent bridge	hang as	as though nowhere
+1.0	high magnificent bridge	hang as	as though nowhere
+1.0	magnificent bridge	suddenly hang as	as though nowhere
+1.0	high magnificent bridge	suddenly hang over	river
+1.0	magnificent bridge	suddenly hang over	river
+1.0	bridge	suddenly hang as	as though nowhere
+1.0	bridge	suddenly hang over	river
+1.0	he	come to	river
+1.0	he	wave	he handkerchief
+1.0	high magnificent bridge	suddenly hang as	as though nowhere
+1.0	bridge	hang over	river
+1.0	high bridge	hang as	as though nowhere
+1.0	bridge	hang as	as though nowhere
+1.0	high bridge	hang over	river
+1.0	high bridge	suddenly hang over	river
+1.0	high magnificent bridge	hang over	river
+1.0	high bridge	suddenly hang as	as though nowhere
+1.0	prince	remain	bridge above river
+1.0	prince	wave only twice	he handkerchief
+1.0	prince	remain	thin very thin bridge above river
+1.0	prince	remain	thin thin bridge above river
+1.0	prince	wave twice	he handkerchief
+1.0	prince	remain	very thin bridge above river
+1.0	prince	remain	thin thin bridge
+1.0	prince	wave	he handkerchief
+1.0	prince	remain	thin very thin bridge
+1.0	prince	remain	very thin bridge
+1.0	prince	remain	thin bridge
+1.0	prince	remain	thin bridge
+1.0	prince	remain	thin bridge above river
+1.0	prince	remain	thin bridge above river
+1.0	prince	remain	bridge
+1.0	prince	go across	bridge
+1.0	colt	be	go
+1.0	mangy colt	be	go
+1.0	it	sweep	she trace
+1.0	she	rush off	gallop in iron mortar
+1.0	she	rush off	gallop fast
+1.0	she	gallop in	iron mortar
+1.0	she	rush off	gallop in iron mortar fast
+1.0	she	rush off	gallop
+1.0	she	rush off	gallop as fast
+1.0	she	rush off in	pursuit
+1.0	she	rush off	gallop in iron mortar as fast
+1.0	she	gallop as fast in	iron mortar
+1.0	she	gallop fast in	iron mortar
+1.0	she	gallop to	river
+1.0	she	gallop to	river of fire
+1.0	Baba Yaga	fall into	river
+1.0	Baba Yaga	die	cruel death
+1.0	Baba Yaga	die	death
+1.0	she	ride on	bridge
+1.0	Prince Ivan	feed	he colt
+1.0	it	become	steed
+1.0	it	become	marvelous steed
+1.0	prince	ride to	Maria Morevna
+1.0	God	bring	you
+1.0	God	bring back	you
+1.0	she	meet	he
+1.0	she	throw	herself
+1.0	he	say in	such way
+1.0	he	say in	way
+1.0	Koshchey	catch	you
+1.0	he	will cut	you
+1.0	he	will again cut	you
+1.0	they	mount	steed
+1.0	deathless	be return	home
+1.0	deathless	be return	he steed
+1.0	you	do sense	mishap
+1.0	we	can overtake	they
+1.0	Prince Ivan	have	mighty steed better
+1.0	Prince Ivan	now have	steed better
+1.0	Prince Ivan	have	steed better than myself
+1.0	Prince Ivan	now have	mighty steed better
+1.0	Prince Ivan	now have	steed
+1.0	Prince Ivan	have	steed better
+1.0	Prince Ivan	have	mighty steed
+1.0	Prince Ivan	have	mighty steed better than myself
+1.0	Prince Ivan	now have	mighty steed
+1.0	Prince Ivan	have	steed
+1.0	Prince Ivan	now have	mighty steed better than myself
+1.0	Prince Ivan	now have	steed better than myself
+1.0	he	catch up after	long time
+1.0	he	catch up with	Prince Ivan
+1.0	he	jump to	ground
+1.0	he	catch up after	time
+1.0	prince	finish off	he
+1.0	Prince Ivan 's steed	swing hoof with	he strength
+1.0	Prince Ivan 's steed	swing hoof with	strength
+1.0	Prince Ivan 's steed	smash	he head
+1.0	Prince Ivan	have	steed
+1.0	Prince Ivan 's steed	strike	Koshchey deathless
+0.03393743380799197	Prince Ivan 's steed	swing with	he strength
+0.03393743380799197	Prince Ivan 's steed	swing with	strength
+1.0	Thereupon	scatter	he ash
+1.0	Thereupon	burn	Koshchey deathless
+0.025344053211498907	Thereupon	scatter to	wind
+1.0	Thereupon	make	fire
+1.0	they	see	raven
+1.0	they	see first	raven
+1.0	he own	on ivan be	then eagle
+1.0	Koshchey	on	steed
+1.0	Maria Morevna	sit on	Koshchey 's steed
+1.0	they	be	receive
+1.0	they	be receive with	joy
+0.9286032436422808	hope	ever see again	you
+0.9286032436422808	hope	see	you
+0.9286032436422808	hope	see again	you
+0.9286032436422808	hope	ever see	you
+0.8211552690827628	Maria Morevna	could	could seek throughout world
+0.8211552690827628	Maria Morevna	could	could seek
+1.0	they	ride to	they own kingdom
+1.0	they	ride back to	they own kingdom
+1.0	they	ride to	they kingdom
+1.0	they	ride back to	they kingdom
+1.0	they	begin	live

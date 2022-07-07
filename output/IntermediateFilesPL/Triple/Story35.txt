@@ -1,0 +1,888 @@
+1.0	God	give	they
+1.0	they	see pond in	they sleep
+1.0	they	see	pond
+1.0	they	see	quiet pond
+1.0	she	would become	pregnant
+1.0	queen	eat	fish
+1.0	she	would instantly become	pregnant
+1.0	queen	call	nurse
+1.0	queen	call	nursemaid
+1.0	they	see	it
+1.0	it	can	can reality
+1.0	king	order	they
+1.0	king	desperately order	they
+1.0	they	catch	ruffe
+1.0	they	catch	golden-finned ruffe
+1.0	king	call	he fisherman
+1.0	fisherman	cast out	they net
+1.0	fisherman	arrive at	quiet pond
+1.0	fisherman	arrive at	sunrise
+1.0	fisherman	arrive at	pond
+1.0	they	catch	ruffe
+1.0	they	catch ruffe on	they first attempt
+1.0	they	catch ruffe on	they attempt
+1.0	they	catch ruffe to	they delight
+1.0	they	catch	golden-finned ruffe
+1.0	they	catch ruffe on	they very first attempt
+1.0	they	reel in	it
+1.0	they	bring	it
+1.0	queen	see	fish
+1.0	she	grab	they
+1.0	she	reward handsomely	they
+1.0	she	reward	they
+1.0	she	run to	fisherman
+1.0	she	personally hand	ruffe here
+1.0	she	afterward summon	she favorite cook
+1.0	she	afterward summon	she cook
+1.0	she	summon	she cook
+1.0	she	hand	ruffe here
+1.0	she	personally hand	ruffe
+1.0	she	personally hand	golden-finned ruffe here
+1.0	she	summon	she favorite cook
+1.0	she	hand	ruffe
+1.0	she	hand	golden-finned ruffe here
+1.0	she	hand	golden-finned ruffe
+1.0	she	personally hand	golden-finned ruffe
+1.0	nobody	touch	it
+1.0	nobody	else touch	it
+1.0	cook	gut	ruffe
+1.0	cook	wash	it
+1.0	cook	cook	it
+1.0	she	throw out	swill
+1.0	cook	lick off	dish
+1.0	queen	eat	fish
+1.0	queen	meanwhile eat	fish
+1.0	cow	have	ivan-bullson
+1.0	cook	have	ivan-cookson
+1.0	they	give birth at	moment
+1.0	they	give	birth
+1.0	queen	have	ivan-kingson
+1.0	they	give birth at	same moment
+1.0	king	's son be	who
+1.0	three goodly youth	look	identical
+1.0	three youth	look	identical
+1.0	king	have	son
+1.0	ivan-cookson	look for	something eat
+1.0	ivan-cookson	look	ivan-bullson lay
+1.0	he laundry	be	change
+1.0	ivan-cookson	look	ivan-bullson immediately lay down
+1.0	ivan-cookson	look	ivan-bullson immediately lay down to rest
+1.0	ivan-cookson	look	change
+1.0	ivan-cookson	look	ivan-bullson lay down
+1.0	ivan-cookson	look	ivan-bullson lay down to rest
+1.0	ivan-cookson	look	ivan-bullson immediately lay
+1.0	they	come in	they tenth year
+1.0	they	come to	king
+1.0	king	order	he smith
+1.0	it	take	smith
+1.0	nobody	could lift	one end
+1.0	nobody	could even lift	one end
+1.0	ivan-kingson	spin	rod
+1.0	ivan-cookson	be	able
+1.0	ivan-kingson	spin rod with	they finger
+1.0	it	be	goose feather
+1.0	ivan-kingson	spin rod	only goose feather
+1.0	nobody	could even lift	one end of rod
+1.0	nobody	could lift	one end of rod
+1.0	it	be	only goose feather
+1.0	ivan-kingson	spin rod	goose feather
+1.0	ivan-kingson	be	able
+1.0	ivan-bullson	be	able
+1.0	they	walk onto	wide palace grounds
+1.0	they	walk out onto	wide palace grounds
+1.0	they	walk onto	palace grounds
+1.0	they	walk out onto	palace grounds
+1.0	's	try	we strength
+1.0	rod	beat	we
+1.0	ivan-kingson	strike	ivan-cookson
+1.0	ivan-kingson	take	iron rod
+1.0	ivan-kingson	strike ivan-bullson on	they shoulder
+1.0	ivan-kingson	strike ivan-cookson on	they shoulder
+1.0	ivan-kingson	strike	ivan-bullson
+1.0	he	pound	one
+1.0	ivan-cookson	pound	ivan-bullson
+1.0	ivan-cookson	pound	ivan-kingson
+1.0	ivan-bullson	pound brother at_time	way up to throat
+1.0	ivan-bullson	pound brother at_time	way up to they throat
+1.0	ivan-kingson	strength	we
+1.0	we	will throw	iron rod
+1.0	we	will throw up	iron rod
+1.0	highest	will	will eldest brother
+1.0	highest	will	will brother
+1.0	rod	fall back after	quarter of hour
+1.0	rod	fall in	air
+1.0	rod	fall back to	earth
+1.0	rod	fall back after	quarter
+1.0	rod	fall after	quarter
+1.0	rod	fall to	earth
+1.0	rod	fall after	quarter of hour
+1.0	rod	fall back in	air
+1.0	rod	fall back after	half
+1.0	rod	fall after	half
+1.0	rod	fall back after	half hour
+1.0	rod	fall after	half hour
+1.0	ivan-bullson	be	we brother
+1.0	ivan-bullson	be	we eldest brother
+1.0	they	leave	stroll
+1.0	they	find	stone
+1.0	they	leave after	that
+1.0	they	find	enormous stone
+1.0	ivan-cookson	just barely move	stone
+1.0	ivan-cookson	just move	stone
+1.0	ivan-cookson	barely move	stone
+1.0	ivan-cookson	only move	stone
+1.0	ivan-cookson	move	stone
+1.0	ivan-cookson	only barely move	stone
+1.0	ivan-cookson	only just move	stone
+1.0	ivan-cookson	only just barely move	stone
+1.0	ivan-bullson	say to	they
+1.0	I	give	try
+1.0	I	give	it
+1.0	it	fly to	side of garden
+1.0	it	fly to	other side of garden
+1.0	it	break through	tree
+1.0	it	fly to	other side
+1.0	it	break through	several tree
+1.0	it	fly to	side
+1.0	they	find	chamber
+1.0	they	find	underground chamber
+1.0	they	find chamber underneath	stone
+1.0	three mighty stallion	be in	underground chamber
+1.0	three mighty stallion	be in	chamber
+1.0	mighty stallion	be in	chamber
+1.0	mighty stallion	be in	underground chamber
+1.0	battle harness	be hang on	wall
+1.0	sovereign father	bless	we
+1.0	they	petition	king
+1.0	father	bless	we
+1.0	we	gain	experience
+1.0	experience	prove	ourselves
+1.0	king	give	they
+1.0	king	give	money
+1.0	king	bless	they
+1.0	king	give	money for they journey
+1.0	they	come to	forest
+1.0	they	ride over	mountain
+1.0	they	ride through	valley
+1.0	they	come to	deep dark forest
+1.0	they	come to	dark forest
+1.0	they	come to	deep forest
+1.0	chicken leg	be with	ram horn
+1.0	hut	face	we
+1.0	little hut	face	we
+1.0	goodly youth	enter	hut
+1.0	youth	enter	little hut
+1.0	youth	enter	hut
+1.0	goodly youth	enter	little hut
+1.0	Bony Legged	be lie from	corner
+1.0	Bony Legged	be lie	corner
+1.0	Bony Legged	corner with	she nose
+1.0	Bony Legged	be lie	corner with she nose
+1.0	Bony Legged	be lie	corner with she nose against ceiling
+1.0	Bony Legged	be lie on	stove Baba Yaga
+1.0	Bony Legged	corner with	she nose against ceiling
+1.0	russian soul	now will sit into	my mouth
+1.0	soul	now will sit on	spoon itself
+1.0	soul	now will sit into	my mouth
+1.0	soul	will sit on	spoon
+1.0	russian soul	now will sit on	spoon
+1.0	russian soul	now will sit on	spoon itself
+1.0	soul	will sit on	spoon itself
+1.0	soul	now will sit on	spoon
+1.0	russian soul	will sit into	right my mouth
+1.0	russian soul	will sit on	spoon
+1.0	soul	now will sit into	right my mouth
+1.0	russian soul	now will sit into	right my mouth
+1.0	russian soul	will sit on	spoon itself
+1.0	russian soul	will sit into	my mouth
+1.0	soul	will sit into	my mouth
+1.0	soul	will sit into	right my mouth
+1.0	I	will tell	you
+1.0	I	will willingly tell	you
+1.0	Baba Yaga	bow deeply to	he
+0.5909816144124465	walk	right up to	ivan-bullson
+0.5909816144124465	walk	up to	ivan-bullson
+1.0	Baba Yaga	climb down	greeting
+1.0	Baba Yaga	bow to	he
+1.0	Baba Yaga	climb	greeting
+1.0	you	be	head
+0.8365045029449188	we	grandmother to	Arrowwood bridge
+0.8365045029449188	we	grandmother to	Wineberry River
+1.0	they	be	villain
+1.0	they	be	sure villain
+1.0	they	take	they
+1.0	they	rob	everyone
+1.0	brother	spend at_time	night
+1.0	brother	spend at	at Baba Yaga
+1.0	they	arise early and left on	they way
+1.0	they	arise early on	they way
+1.0	they	arise on	they way
+1.0	they	arise early and left in	morning
+1.0	they	arise in	morning
+1.0	they	arise early in	morning
+1.0	they	come to	Wineberry River
+1.0	they	enter	little hut
+1.0	they	enter	hut
+1.0	it	be	empty
+1.0	they	decide	stay
+1.0	they	decide	stay there
+1.0	it	be empty	they decide
+1.0	we	must	must careful
+0.20336576495830294	let	turn	stand
+1.0	let	stand	watch
+1.0	they	draw	straw
+1.0	ivan-kingson	be	stand
+1.0	second	go to	ivan-cookson
+1.0	ivan-kingson	go	watch
+1.0	ivan-kingson	go out	watch
+1.0	he	climb	just ivan-bullson expect
+1.0	he	climb into	bush
+1.0	he	fall	asleep
+1.0	he	climb	ivan-bullson expect
+1.0	he	fall	fast asleep
+0.5991135204182544	bullson	be	midnight Ivan
+0.8441713700976826	it	be	midnight Ivan
+0.5991135204182544	it	be	midnight Ivan
+1.0	bullson	be	soon ready
+1.0	bullson	be	as soon ready
+1.0	bullson	be	ready
+1.0	he	grab sword	stand under Arrowwood bridge
+1.0	he	grab	sword
+1.0	he	grab sword	stand
+1.0	he	grab	he shield
+1.0	he horse	stumble under	he
+1.0	he hound	bristle in	rear
+1.0	he	be probably unfit	have bear
+1.0	he	be unfit for	battle
+1.0	he	be probably unfit for	battle
+1.0	he	be unfit	have bear
+1.0	he	be	probably unfit
+1.0	he	be	unfit
+1.0	he	have	have bear
+1.0	I	will swat	he
+1.0	I	will hold down	he
+1.0	it	nip	feather
+1.0	it	would	would better
+1.0	it	prove	we strength
+1.0	dragon	have	luck
+1.0	Ivan bullson	cut off	three he head
+1.0	Ivan bullson	cut off	three of he head
+1.0	I	have	one
+1.0	you	have	three head
+1.0	I	only have	one
+1.0	dragon	have	remain head
+1.0	ivan-bullson	cut off	dragon 's remain head
+1.0	ivan-bullson	cut off	dragon 's head
+1.0	he	hack body into	piece
+1.0	he	throw	it
+1.0	he	hack body into	little piece
+1.0	he	hack	body
+1.0	he	put	six head
+1.0	he	return to	hut
+1.0	he	return to	little hut
+1.0	ivan-kingson	come in in	morning
+1.0	you	do see	anything
+1.0	ivan-cookson	go at_time	night
+1.0	ivan-cookson	go out at_time	next night
+1.0	ivan-cookson	go out	watch
+1.0	ivan-cookson	go at_time	next night
+1.0	ivan-cookson	go	watch
+1.0	ivan-cookson	go out at_time	night
+1.0	he	fall asleep	ivan-bullson expect
+1.0	he	climb into	bush
+1.0	he	fall	just ivan-bullson expect
+1.0	he	fall	ivan-bullson expect
+1.0	he	fall asleep	just ivan-bullson expect
+1.0	he	soon immediately prepare	himself
+1.0	he	as soon immediately prepare	himself
+1.0	he	immediately prepare	himself
+1.0	he	prepare	himself
+1.0	he	as soon prepare	himself
+1.0	he	soon prepare	himself
+1.0	he	leave	stand under Arrowwood bridge right
+1.0	he	leave	stand
+1.0	he	stand under	Arrowwood bridge right
+1.0	he horse	stumble under	he
+1.0	he hound	bristle in	rear
+1.0	dragon	jab steed in	rib
+0.3185874028755869	dragon	raven in	feather
+1.0	dragon	jab	steed
+1.0	you	dog-fur	bristle
+1.0	dragon	dog in	ear
+1.0	dog	be in	ear
+1.0	raven	be in	feather
+1.0	he	be	probably unfit
+1.0	he	be	unfit
+1.0	he	be unfit	have bear
+1.0	he	be probably unfit	have bear
+1.0	he	be unfit for	battle
+1.0	he	be probably unfit for	battle
+1.0	he	have	have bear
+1.0	I	will kill	he
+1.0	unclean power	of	head
+1.0	champion	wave	he sword
+1.0	champion	wave	he sharp sword
+1.0	he	force	he knee-deep
+1.0	he	force	he knee-deep into boggy earth
+1.0	he	knee-deep into	boggy earth
+1.0	he	strike	dragon
+1.0	ivan-bullson	throw	it
+1.0	dragon	wipe	he eye
+1.0	champion	cut off	head
+1.0	champion	cut off	remain head
+1.0	he	throw	it
+1.0	he	take	body
+1.0	he	chop up	it
+1.0	he	put	nine head
+1.0	ivan-cookson	come in in	morning
+1.0	they	put	they
+1.0	ivan-bullson	lead	he brother
+1.0	you	should go	battle
+1.0	you	should even go	battle
+1.0	you	lie at	home
+1.0	it	would	would better
+1.0	you	lie on	stove
+0.6891280332103151	ivan-bullson	prepare for	he watch
+1.0	he	hang	towel
+1.0	he	hang towel with	saucer place below it
+1.0	he	hang towel with	saucer place
+1.0	he	hang towel with	saucer place on floor
+1.0	he	hang towel with	saucer place below it on floor
+1.0	he	hang	white towel
+1.0	he	hang towel with	saucer
+1.0	he	hang towel on	wall
+0.5358295050709303	saucer	place on	floor
+0.5358295050709303	saucer	place below	it
+1.0	he	say to	he brother
+1.0	you	will need	stay awak night
+1.0	you	will need at_time	brothers
+1.0	you	stay awak	night
+1.0	blood	drip from	towel
+1.0	dish	be	only half-way full
+1.0	dish	be	half-way full
+1.0	thing	be fine	only half-way full
+1.0	thing	be fine	only half-way
+1.0	dish	be	only half-way
+1.0	dish	be	half-way
+1.0	thing	be	fine
+1.0	thing	be fine	half-way full
+1.0	thing	be fine	half-way
+1.0	everything	be	okay
+1.0	everything	be okay	full
+1.0	everything	be still okay	full
+1.0	everything	be	still okay
+1.0	dish	be	full
+1.0	it	overflow	edge
+1.0	it	be after	midnight
+1.0	he steed	have	tail
+1.0	he steed	have	tail of gold
+1.0	he horse	stumble under	he
+1.0	he horse	suddenly stumble under	he
+1.0	he hound	bristle in	rear
+1.0	dragon	jab	raven
+1.0	dragon	jab steed in	rib
+0.3185874028755869	dragon	raven in	feather
+1.0	you	dog-fur	bristle
+1.0	dragon	jab	steed
+1.0	dragon	dog in	ear
+1.0	dog	be in	ear
+1.0	raven	be in	feather
+1.0	he	be probably unfit	have bear
+1.0	he	be unfit for	battle
+1.0	he	be probably unfit for	battle
+1.0	he	be unfit	have bear
+1.0	he	be	probably unfit
+1.0	he	be	unfit
+1.0	he	have	have bear
+1.0	you	be	here
+1.0	you	can try	my strength
+1.0	you	be	fly
+1.0	you	be	mere
+1.0	you	be	mere fly
+1.0	you	be	fly compare
+1.0	you	be	fly compare to I
+1.0	you	be	mere fly compare
+1.0	you	be	mere fly compare to I
+1.0	I	fight	you
+1.0	he	take swing with	he sword
+1.0	he	take swing with	he sharp sword
+1.0	dragon	of	head
+1.0	he	cut off	three dragon 's head
+1.0	he	cut off	three of dragon 's head
+1.0	he	take	swing
+1.0	dragon	mark	they
+1.0	dragon	gather	he head
+1.0	thing	become for	ivan-bullson
+1.0	thing	become	bad
+1.0	dragon	pound	knee-deep
+1.0	dragon	pound	ivan-bullson knee-deep
+1.0	dragon	overcome	he
+1.0	dragon	pound knee-deep into	boggy earth
+1.0	ivan-bullson	throw	it
+1.0	ivan-bullson	take off	he right glove
+1.0	ivan-bullson	take off	he glove
+1.0	glove	break	window
+1.0	he brother	hear	nothing
+0.03393743380799197	Ivan	swing even harder at_time	second time
+0.03393743380799197	Ivan	swing at_time	time
+1.0	Ivan	swing harder	he sword
+1.0	Ivan	swing	he sword
+1.0	dragon	of	head
+0.03393743380799197	Ivan	swing harder at_time	time
+0.03393743380799197	Ivan	swing even harder at_time	time
+0.03393743380799197	Ivan	swing at_time	second time
+1.0	Ivan	swing even harder	he sword
+1.0	Ivan	cut off	six dragon 's head
+0.03393743380799197	Ivan	swing harder at_time	second time
+1.0	Ivan	cut off	six of dragon 's head
+1.0	monster	gather up	they
+1.0	head	grow in	place
+1.0	monster	mark	they
+1.0	head	again grow in	place
+1.0	head	again grow back in	place
+1.0	head	grow back in	place
+1.0	dragon	pound ivan up	up he waist
+1.0	dragon	pound	Ivan
+1.0	up he waist	be in	boggy ground
+1.0	dragon	pound ivan up	up he waist in boggy ground
+1.0	champion	take off	he other glove
+1.0	champion	take off	he glove
+1.0	champion	throw	it
+1.0	glove	bust through	roof
+1.0	he	swing harder	he sword
+1.0	he	cut off	nine dragon 's head
+1.0	he	cut off	nine of dragon 's head
+0.03393743380799197	he	swing harder for	third time
+0.03393743380799197	he	swing even harder for	time
+0.03393743380799197	he	swing even harder for	third time
+1.0	he	swing even harder	he sword
+1.0	dragon	of	head
+0.03393743380799197	he	swing for	time
+1.0	he	swing	he sword
+0.03393743380799197	he	swing harder for	time
+0.03393743380799197	he	swing for	third time
+1.0	dragon	mark	they
+1.0	dragon	gather up	they
+1.0	he	drive	ivan-bullson
+1.0	he	drive ivan-bullson into	boggy earth
+1.0	he	drive ivan-bullson up	up he shoulder
+1.0	he	throw	it
+1.0	he	pull off	he hat
+1.0	they	try	snap through its chain
+1.0	they	hear	steed
+1.0	they	hear	mighty steed
+1.0	they	try	snap
+1.0	they	glance at	blood
+1.0	they	hear	steed neigh loudly
+1.0	they	hear	mighty steed neigh
+1.0	they	hear	steed neigh
+1.0	they	hear	mighty steed neigh loudly
+1.0	they	rush to	stable
+1.0	they	rush	help
+1.0	they	also rush	help
+1.0	they	rush behind	behind he
+1.0	they	also rush behind	behind he
+1.0	they	rush behind	immediately behind he
+1.0	they	also rush behind	immediately behind he
+1.0	you	have	help
+1.0	steed	gallop up	up dragon
+1.0	steed	kick	he
+1.0	mighty steed	gallop up	up dragon
+1.0	mighty steed	kick	he
+1.0	dragon	have	fiery finger
+1.0	he	cut off	dragon 's fiery finger
+1.0	he	cut off	dragon 's finger
+1.0	he	sized-up	situation
+1.0	he	chop off	dragon 's head
+1.0	he	chop off	head
+1.0	he	chop	body
+1.0	he	chop body into	small piece
+1.0	he	throw	everything
+1.0	he	chop body into	piece
+1.0	he	throw everything into	Wineberry River
+1.0	he brother	come	run
+1.0	he	strike	ground
+1.0	he	turn into	sparrow
+1.0	he	fly to	palace
+1.0	he	sit at	open window
+1.0	he	sit at	window
+1.0	he	fly to	white-stoned palace
+1.0	witch	start	speak
+1.0	witch	see	he
+1.0	witch	sprinkle	seed
+1.0	old witch	sprinkle	seed
+1.0	old witch	start	speak
+1.0	old witch	see	he
+1.0	seed	hear	my sorrow
+1.0	you	eat	seed
+1.0	ivan-bullson	mock	I
+1.0	he	destroy	my sons-in-law
+1.0	he	destroy	sons-in-law
+1.0	I	will become	apple tree
+1.0	I	will become near	road
+1.0	I	will become	apple tree with gold
+1.0	apple tree	be with	gold
+1.0	I	will become	a with two cup float
+1.0	I	will become	a well with two cup float on top of water
+1.0	I	will become	a well with two cup float
+1.0	I	will become	a with two cup float on top of water
+1.0	I	will become	a
+1.0	I	will become	a well with two cup float on top
+1.0	I	will become	a well with two cup
+1.0	I	will become	a with two cup float on top
+1.0	I	will become	a with two cup
+1.0	ivan-bullson	turn into	youth
+1.0	ivan-bullson	strike	ground
+1.0	ivan-bullson	turn into	goodly youth
+1.0	ivan-bullson	turn back into	youth
+1.0	ivan-bullson	turn back into	goodly youth
+1.0	three brother	leave for	home
+1.0	brother	leave for	home
+1.0	they	travel along	road
+1.0	intense hunger	torment	they
+1.0	hunger	torment	they
+1.0	apple tree	be with	gold
+1.0	blood	gush out of	tree
+1.0	he	do	thing to well
+1.0	he	do	same thing
+1.0	he	do	thing
+1.0	he	do	same thing to well
+1.0	old witch	learn of	this
+1.0	she	disguise	herself
+1.0	witch	learn of	this
+0.160224926930152	she	wait with	knapsack
+1.0	she	wait	there
+1.0	she	run to	road
+1.0	she	stretch out	she hand
+1.0	she hand	ask for	alms
+1.0	Kingson	say to	ivan-bullson
+1.0	ivan-bullson	give	it
+1.0	ivan-bullson	pull out	ten ruble coin
+1.0	she	grab	he
+1.0	witch	lead	he
+1.0	witch	meanwhile drag	underground
+1.0	witch	meanwhile drag	ivan-bullson underground
+1.0	witch	drag	underground
+1.0	witch	drag	ivan-bullson underground
+1.0	old man	lay on	iron bed
+1.0	man	lay on	iron bed
+1.0	he	be unable with	eyelash
+1.0	he	be	unable
+1.0	he	be unable with	long eyelash
+1.0	he	order	they
+1.0	he	call	twelve mighty champion
+1.0	he	call	twelve champion
+1.0	I	will take peak	see
+1.0	I	will take	peak
+1.0	champion	raise	eyelash
+1.0	champion	raise eyelash with	pitchfork
+1.0	champion	raise	he eyebrow
+1.0	old man	take	glance
+1.0	man	take	glance
+1.0	I	be	ready
+1.0	I	be ready for	anything
+1.0	child	stand	talk
+1.0	my child	stand	talk
+1.0	it	be in	my service
+1.0	it	be	better
+1.0	I	marry	she
+1.0	old woman	become	hysterical
+1.0	woman	meanwhile become	hysterical
+1.0	old woman	meanwhile become	hysterical
+1.0	woman	become	hysterical
+1.0	she	splash into	water
+1.0	she	hang stone around	she neck
+1.0	she	hang	stone
+1.0	three time	be with	club
+1.0	ship	come out to	you
+1.0	ivan-bullson	come to	oak tree
+1.0	ivan-bullson	yell	everyone
+1.0	ivan-bullson	sit in	it
+1.0	he	go on	he way
+1.0	he	go	little distance
+0.5249172882554555	see	force of	ship
+0.43873166548954	he	go from	tree
+1.0	he	see	force
+1.0	he	go	distance
+1.0	he	see	force of ship
+0.5249172882554555	see	force of	innumerable ship
+1.0	he	see	force of innumerable ship
+1.0	he	go distance from	tree
+1.0	he	glance behind	he
+1.0	all	bless	he
+1.0	little old man	be in	boat
+1.0	man	approach	he
+1.0	little man	approach	he
+1.0	I	can do	myself
+1.0	I	have	companion
+1.0	I	be	happy
+1.0	I	have	good companion
+0.661713901566375	say	health to	ivan-bullson
+1.0	little old man	be in	boat
+0.661713901566375	say	good health to	ivan-bullson
+0.661713901566375	say	health to	you
+0.661713901566375	say	good health to	you
+1.0	friend	can drink	wine
+1.0	friend	can drink	beer
+1.0	good friend	can drink	wine
+1.0	good friend	can drink	beer
+1.0	that	be	simple
+1.0	up	come	old man
+1.0	up	come	third little man
+1.0	up	come	third little old man
+1.0	up	come	third old man
+1.0	up	come	little man
+1.0	up	come	little old man
+1.0	up	come	man
+1.0	up	come	third man
+1.0	friend	can sit in	sauna
+1.0	good friend	can sit in	sauna
+1.0	you attitude	be	pshaw bold
+1.0	you attitude	be	bold
+1.0	devil	take	you
+1.0	he	take	that
+1.0	good friend	be	stargazer
+1.0	friend	be	stargazer
+1.0	he	accept	fourth
+1.0	man	ask	join
+1.0	little man	ask	join
+1.0	little old man	ask	join
+1.0	old man	ask	join
+1.0	fifth man	ask	join
+1.0	fifth little man	ask	join
+1.0	fifth old man	ask	join
+1.0	fifth little old man	ask	join
+1.0	you	be	almost dead
+1.0	you	be	dead
+1.0	I	take	you
+1.0	good friend	can swim like	ruffe
+1.0	friend	can swim like	ruffe
+1.0	they	leave for	Queen Goldenlocks
+1.0	they	arrive at	kingdom
+1.0	they	arrive at	unseen kingdom
+1.0	they	baked bread for	three month
+1.0	they	bread for	three whole month
+1.0	they	baked bread for	three whole month
+1.0	they	bread for	three month
+1.0	it	be	all prepare
+1.0	it	be	prepare
+1.0	it	be	all prepare for you
+1.0	it	be	prepare for you
+1.0	ivan-bullson	suddenly remember	he comrade
+1.0	ivan-bullson	remember	he comrade
+1.0	ivan-bullson	summon	they
+1.0	we	do	good friend
+1.0	we	do	friend
+1.0	this	be	child 's play
+1.0	child	have	play
+1.0	old man	eat	bread
+1.0	one old man	eat	bread
+1.0	he	throw bread by	whole cartload
+1.0	he	throw bread by	cartload
+1.0	he	throw	bread
+1.0	he	eat	everything
+1.0	he	even yell	so little bread
+1.0	he	even yell	bread
+1.0	he	yell	little bread
+1.0	he	yell	bread
+1.0	he	yell	so little bread
+1.0	he	even yell	so bread
+1.0	he	even yell	little bread
+1.0	he	yell	so bread
+1.0	other old man	drink	wine
+1.0	other man	drink	wine
+1.0	old man	drink	wine
+1.0	old man	drink	beer
+1.0	man	drink	beer
+1.0	man	drink	wine
+1.0	other man	drink	beer
+1.0	other old man	drink	beer
+1.0	he	even swallow	barrel
+1.0	he	drink	everything
+1.0	he	swallow	barrel
+1.0	servant	be	dismayed
+1.0	she	run to	queen
+1.0	she	run with	report
+1.0	ivan-bullson	be take to	sauna
+1.0	Queen Goldenlocks	order	ivan-bullson
+1.0	ivan-bullson	be	take
+1.0	Queen Goldenlocks	so order	ivan-bullson
+1.0	sauna	have	have heat
+1.0	sauna	have	have heat for three month
+1.0	it	be	impossible
+1.0	it	approach within	five kilometer
+1.0	it	be	red-hot
+1.0	it	approach within	five kilometer of it
+1.0	it	be	so red-hot
+1.0	ivan-bullson	enter	sauna
+1.0	they	ask	ivan-bullson
+1.0	he	see	flame
+1.0	he	see	flame spew from sauna
+1.0	he	see	flame spew
+1.0	I	will burn up in	there
+1.0	I	will certainly burn up in	there
+1.0	my comrade	be with	I
+1.0	old man	run to	he
+1.0	old man	run up to	he
+1.0	one old man	run up to	he
+1.0	one old man	run to	he
+1.0	this	be	child 's play
+1.0	child	have	play
+1.0	he	enthusiastically hop into	sauna
+1.0	he	hop into	sauna
+1.0	he	blow in	one corner
+1.0	he	spit in	other corner
+1.0	he	spit in	corner
+1.0	snow	be even in	corner
+1.0	snow	be in	corner
+1.0	I	be	freezing
+1.0	old man	be with	he might
+1.0	servant	run with	report
+1.0	servant	run to	queen
+1.0	Queen Goldenlocks	be	give
+1.0	Queen Goldenlocks	be give to	he
+1.0	queen	go out	out he
+1.0	queen	personally go out	out he
+1.0	she	give	she hand
+1.0	she	sit on	boat
+1.0	she	give	he
+1.0	she	give	she white hand
+1.0	they	sail for	two day
+1.0	she	be	overcome
+1.0	she	suddenly be overcome with	sadness
+1.0	she	be overcome with	sadness
+1.0	she	be	suddenly overcome
+1.0	she	fly into	heaven
+1.0	she	beat	she chest
+1.0	she	turn into	star
+1.0	she	be	go
+1.0	she	be	completely go
+1.0	I	have	comrade
+1.0	I	surely have	comrade
+1.0	I	be	friend
+1.0	I	be	good friend
+1.0	child	have	play answer
+1.0	child 's play	answer	old man
+1.0	child 's play	answer	man
+1.0	he	strike	ground
+1.0	he	fly into	heaven
+1.0	he	turn into	star
+1.0	he	count	star
+1.0	he	find	extra star
+1.0	he	find	star
+1.0	he	shove	she
+1.0	star	fall into	boat
+1.0	star	turn back into	Queen Goldenlocks
+1.0	star	slip out of	its spot
+1.0	star	turn into	Queen Goldenlocks
+1.0	they	again sail for	two day
+1.0	they	sail for	two day
+1.0	longing	overcome	queen
+1.0	sadness	overcome	queen
+1.0	she	beat	she chest
+1.0	she	turn into	pike
+1.0	she	swim into	sea
+1.0	she	be	now go
+1.0	she	be	go
+1.0	it	be	child 's play
+1.0	child	have	play
+1.0	he	turn into	ruffe
+1.0	he	swim into	sea
+1.0	he	strike	ground
+1.0	he	jab water near	she
+1.0	he	jab	water
+1.0	man	part way at	point
+1.0	ivan-bullson	part way at	point
+1.0	little old man	part	way
+1.0	man	part	way
+1.0	little old man	part way at	point
+1.0	old man	part	way
+1.0	ivan-bullson	part	way
+1.0	old man	part way at	point
+1.0	little man	part way at	point
+1.0	little man	part	way
+1.0	dragon ' father	be with	Queen Goldenlocks
+1.0	they	go	Ivan ride
+1.0	they	go to	they home
+1.0	they	go	Ivan ride to dragon ' father
+1.0	Ivan	ride to	dragon ' father with Queen Goldenlocks
+1.0	they	go to	they own home
+1.0	Ivan	ride to	dragon ' father
+1.0	they	go	Ivan ride to dragon ' father with Queen Goldenlocks
+1.0	they	bring	iron pitchfork
+1.0	dragon ' father	ask for	he twelve champion
+1.0	dragon ' father	order	they
+1.0	dragon ' father	ask for	he twelve mighty champion
+1.0	he	look at	queen
+1.0	I	pardon	you
+1.0	you	go	you please
+1.0	you	be	free
+1.0	deep chasm	be with	narrow board lie across it
+1.0	whoever can cross	marry	queen
+1.0	ivan-bullson	go out onto	narrow board
+1.0	ivan-bullson	go out onto	board
+1.0	ivan-bullson	go onto	board
+1.0	ivan-bullson	go onto	narrow board
+1.0	swan	than	feather
+1.0	ivan-bullson	make	it
+1.0	old man	go onto	board
+1.0	man	go onto	board
+1.0	man	go out onto	board
+1.0	old man	go out onto	board
+1.0	he	fall through into	chasm
+1.0	he	fall into	chasm
+1.0	ivan-bullson	take queen goldenlocks to	he homeland
+1.0	ivan-bullson	take	Queen Goldenlocks
+1.0	they	marry everyone to	great feast
+1.0	they	soon marry everyone to	great feast
+1.0	they	marry	everyone
+1.0	they	marry everyone to	feast
+1.0	they	soon marry	everyone
+1.0	they	soon marry everyone to	feast
+1.0	ivan-bullson	boast to	he brother
+1.0	I	find wife	I battle for time
+1.0	I	find wife	I battle
+1.0	I	still find wife	I battle for long time
+1.0	I	battle for	long time
+1.0	I	find wife	I battle for long time
+1.0	I	still find	wife
+1.0	I	find	wife
+1.0	I	find	young wife
+1.0	I	still find wife	I battle for time
+1.0	I	still find	young wife
+1.0	I	still find wife	I battle
+1.0	ivan-bullson	sit at	table
+1.0	I	battle for	time
+1.0	brother	only sit up there on	stove
+1.0	brother	sit up there on	stove
+1.0	you	only sit there on	stove
+1.0	brother	sit there on	stove
+1.0	brother	only sit there on	stove
+1.0	you	sit on	stove
+1.0	you	only sit up there on	stove
+1.0	you	sit up there on	stove
+1.0	you	sit up on	stove
+1.0	brother	sit up on	stove
+1.0	you	only sit on	stove
+1.0	brother	nibble on	brick
+1.0	brother	only sit up on	stove
+1.0	you	sit there on	stove
+1.0	brother	sit on	stove
+1.0	brother	only sit on	stove
+1.0	you	only sit up on	stove
+1.0	I	drink	mead-wine
+0.8973930223473651	it	flow along	my moustache
+1.0	they	take away	wash basin
+1.0	they	pour milk in	it
+1.0	they	take away wash basin from	bull
+1.0	they	pour	milk
+1.0	they	pour milk for	I
+1.0	they	give	white loaf
+1.0	they	give	loaf
+1.0	they	sop	it
+1.0	they	give	small white loaf
+1.0	they	give	small loaf
+1.0	they	give	I
+1.0	they	fight with	I
+1.0	they	force	I
+1.0	I	put on	cap

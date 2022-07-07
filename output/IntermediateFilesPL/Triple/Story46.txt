@@ -1,0 +1,383 @@
+1.0	third one	be	simpleton
+1.0	one	be	simpleton
+1.0	morgen	be	day steal from he field
+1.0	morgen	be steal at_time	day
+1.0	he	notice at_time	one time
+1.0	peasant	send	he son
+1.0	peasant	send	he eldest son
+1.0	boy	try	stay awake
+1.0	boy	try	stay
+1.0	second boy	be	send
+1.0	boy	be	send
+1.0	boy	keep	watch
+1.0	second boy	keep	watch
+1.0	he	fall at	dawn
+1.0	he	also fall at	dawn
+1.0	he	also fall asleep at	dawn
+1.0	he	fall asleep at	dawn
+1.0	peasant	send	he dumb son
+1.0	peasant	send	he son
+1.0	simpleton	fall immediately	get
+1.0	simpleton	fall	get
+1.0	simpleton	fall asleep	get
+1.0	simpleton	fall	get there
+1.0	simpleton	fall asleep immediately	get
+1.0	simpleton	fall asleep	get there
+1.0	simpleton	fall immediately	get there
+1.0	simpleton	fall asleep immediately	get there
+1.0	he	wake up at_time	next morning
+1.0	he	see	little bird
+1.0	he	see	bird
+1.0	he	wake up at_time	morning
+1.0	he	crawl up to	it
+1.0	he	catch	it
+1.0	he	go	sleep
+1.0	he	go back	sleep
+1.0	he brother	come to	field
+1.0	he older brother	come to	field
+1.0	they	find	wheat untouched
+1.0	simpleton	show	they
+1.0	simpleton	tell	they
+1.0	simpleton	tell	everything
+1.0	he brother	take	it
+1.0	they	tell	they father
+1.0	peasant	carry straight	it
+1.0	peasant	take	bird
+1.0	peasant	carry	it
+1.0	peasant	take	little bird
+1.0	it	lock up in	cellar
+1.0	king	pay	peasant for bird
+1.0	king	pay	peasant
+1.0	he	give	key
+1.0	bird	let out	it
+1.0	bird	ask	he
+1.0	my mother	carry	key on piece
+0.7851894577832287	my mother	key on	piece of string
+1.0	my mother	carry	key on piece tie
+0.7851894577832287	my mother	key on	piece tie
+0.7851894577832287	my mother	key on	piece of string tie around she neck
+1.0	my mother	carry	key on piece of string tie around she neck
+1.0	my mother	carry	key on piece of string
+0.7851894577832287	my mother	key on	piece tie around she neck
+1.0	my mother	carry	key on piece of string tie
+1.0	my mother	carry	key
+0.7851894577832287	my mother	key on	piece
+0.7851894577832287	my mother	key on	piece of string tie
+1.0	my mother	carry	key on piece tie around she neck
+1.0	he	let out	bird
+1.0	he	steal	key
+1.0	he	steal	key from she
+0.501831835553638	bird	be in	fact
+1.0	you	ever need	anything
+1.0	you	need	anything
+1.0	king	invite	many people
+1.0	king	invite people at_time	follow day
+1.0	king	invite	people
+1.0	king	invite people at_time	day
+1.0	they	go to	cellar
+1.0	they	go down to	cellar
+1.0	many guest	come to	palace
+1.0	guest	come to	palace
+1.0	they	open	door
+1.0	king	ask	he wife
+1.0	it	be	she
+0.36557685961113096	she	cry	nobody believe
+1.0	nobody	believe	she
+1.0	she	be	sentence
+1.0	she	be sentence to	death
+1.0	she	remember	she son 's embrace
+1.0	she	tell	he guest
+1.0	she	tell	husband
+1.0	she	tell husband about	it
+1.0	prince	pick up	stick
+1.0	little prince	pick up	stick
+1.0	prince	pick up	walk stick
+1.0	little prince	pick up	walk stick
+1.0	he	remember	Father Brass
+1.0	he	suddenly remember	Father Brass
+1.0	he	climb	hill
+1.0	he	call out	Father Brass
+1.0	little prince	tell	he
+1.0	prince	tell	he
+1.0	Father Brass	think for	while
+1.0	king	to	palace
+1.0	you	work as	kitchen-boy
+1.0	war	will break out	he agree
+1.0	cook	go out gate	he agree
+1.0	you	can go to	war
+1.0	gate	call	I
+1.0	cook	go out	gate
+0.40698801184380096	cook	go out	he agree
+1.0	you	can go	watch
+1.0	prince	do	tell
+1.0	he	be	tell
+1.0	he	reach	palace
+1.0	he	cross	sea
+1.0	king	see stroll around	courtyard
+1.0	little prince	still wear	he pig skin coat
+1.0	prince	approach	he
+1.0	prince	still wear	he pig skin coat
+1.0	little prince	wear	he pig skin coat
+1.0	prince	wear	he pig skin coat
+1.0	he	work as	kitchen-boy
+1.0	prince	beg	he
+1.0	little prince	approach	he
+1.0	little prince	beg	he
+1.0	king	send	he
+1.0	boy	serve	king
+1.0	war	start in	year
+1.0	boy	serve king for	two year
+1.0	war	start in	third year
+1.0	war	start until	finally
+1.0	king	set out to	war
+1.0	king	gather up	he troops
+1.0	king	be	go
+1.0	kitchen-boy	ask	cook
+1.0	he	see	war
+1.0	boy	give	five rouble
+1.0	boy	give	he
+1.0	cook	be	reluctant
+1.0	prince	go out through	gate
+1.0	prince	go through	gate
+1.0	prince	call	Father Brass
+1.0	he	give	he
+1.0	he	give	horse
+1.0	he	give	sword
+1.0	he	give	army uniform
+1.0	king	will invite	you
+1.0	you	play with	apple
+1.0	you	get to	palace
+1.0	play	will ask	you
+1.0	you	get back to	palace
+1.0	you	pass at_time	night
+1.0	you	pass on	threshold of she chamber
+1.0	you	pass on	threshold
+1.0	prince	do	tell
+1.0	he	be	tell
+1.0	he	go to	war
+1.0	prince	refuse	go
+1.0	king	invite	he
+1.0	prince	go to	kitchen
+1.0	prince	change back into	he pig skin coat
+1.0	he	arrive back	home
+1.0	he	arrive	home
+1.0	he	start	play with silver apple
+1.0	he	play with	silver apple
+1.0	he	have wash	dish
+1.0	he	start	play
+1.0	princess	see	apple
+1.0	he	much ask for	it
+1.0	he	ask for	it
+1.0	he	how much ask for	it
+1.0	she	want	know
+1.0	I	only want	you
+0.03191106735239502	I	want	let
+0.03191106735239502	I	only want	let
+1.0	I	want	you
+1.0	I	sleep on	threshold
+1.0	I	sleep on	threshold of you chamber
+1.0	prince	go after	nightfall
+1.0	prince	go to	princess
+1.0	prince	pass	night
+1.0	prince	pass night on	she threshold
+1.0	he	go in	morning
+1.0	he	go back in	morning
+1.0	king	gather	he army
+1.0	king	set out	fight
+1.0	kitchen-boy	sign up	go again
+1.0	kitchen-boy	sign up	go to war
+1.0	kitchen-boy	sign up	go once again
+1.0	he	walk out through	palace gate
+1.0	kitchen-boy	sign up	go to war once again
+1.0	kitchen-boy	go again to	war
+1.0	kitchen-boy	go once again to	war
+1.0	kitchen-boy	sign up	go to war again
+1.0	he	call	Father Brass
+1.0	kitchen-boy	sign up	go
+1.0	kitchen-boy	go to	war
+1.0	Father Brass	give	horse
+1.0	Father Brass	give	silver apple
+1.0	she	agree	let
+1.0	he	give	it
+1.0	Father Brass	give	he
+1.0	he	tell	he
+1.0	he	sleep beside	she bed
+1.0	prince	defeat	enemy army
+1.0	prince	again defeat	enemy army
+1.0	prince	once again defeat	enemy army
+1.0	king	invite	he
+1.0	he	turn	apple
+1.0	he	wash	dish
+1.0	apple	play with	it
+1.0	he	turn around	apple
+1.0	she	again ask	he
+1.0	he	sell	she apple
+1.0	she	ask	he
+1.0	princess	come into	kitchen
+1.0	she	once again ask	he
+1.0	he	spend	night
+1.0	he	ask	she
+1.0	he	spend night beside	she bed
+1.0	he	only ask	she
+1.0	she	take	apple
+1.0	prince	spend night beside	she bed
+1.0	prince	go to	she chamber
+1.0	prince	spend	night
+1.0	he	go at_time	next morning
+1.0	he	go back at_time	next morning
+1.0	he	go back at_time	morning
+1.0	he	do	he work
+1.0	he	go at_time	morning
+1.0	he	do	he usual work
+1.0	war	break out after	three year
+1.0	new war	break out after	three year
+1.0	new war	break out after	three more year
+1.0	war	break out after	three more year
+1.0	king	gather	he army
+1.0	king	set out	fight
+1.0	prince	ask	cook
+1.0	he	go	battle
+1.0	he	give	boy
+1.0	he	give	silver apple as nice as sun
+1.0	he	give	apple as nice as sun
+1.0	he	give	apple as nice
+1.0	he	give	horse
+1.0	he	give	apple
+1.0	he	give	silver apple as nice
+1.0	he	give	silver apple
+1.0	better horse	apple as	nice
+1.0	king	shall invite	you
+1.0	you	spend night in	she bed
+1.0	you	spend	night
+1.0	prince	mount	he horse
+1.0	he	slew	enemy
+1.0	king	take off	he handkerchief
+1.0	king	apply	it
+1.0	prince	be	wound
+1.0	he	invite	he
+1.0	he	give	prince
+1.0	he	rest in	he palace
+1.0	he	also give	prince
+1.0	he	soon disappear behind	hill
+1.0	he	disappear behind	hill
+1.0	he	spur	he horse
+1.0	king	gain	land
+1.0	king	gain	new land
+1.0	king	be	very glad
+1.0	he	win	three war
+1.0	king	gain land for	he kingdom
+1.0	king	be	glad
+1.0	prince	go to	kitchen
+1.0	prince	change back into	he pig skin coat
+1.0	prince	let out	he horse
+1.0	prince	change into	he pig skin coat
+1.0	they	ask	he
+1.0	they	ask there	he
+1.0	he	tell	they
+1.0	he	wash dish as	usual
+1.0	he	start	play
+1.0	he	wash	dish
+1.0	he	sell	it
+1.0	he	play with	it
+1.0	he	play for	while
+1.0	she	beg	he
+1.0	prince	be in	he pig skin coat
+1.0	boy	make	bed
+1.0	she	tell	boy
+1.0	kitchen-boy	go to	princess
+1.0	he clothes	lay down on	bed
+1.0	kitchen-boy	go at	nightfall
+1.0	he clothes	lay down next to	she
+1.0	kitchen-boy	go to	chamber
+1.0	he	wake up at_time	day
+1.0	king	be send to	he
+1.0	he	wake up at_time	next day
+1.0	he	wake up around	noon
+1.0	king	be	send
+1.0	he	ask	send
+1.0	he	ask	send to he
+1.0	he	ride to	palace
+1.0	king	be	surprise
+1.0	he	get	dress
+1.0	guard	be	new
+1.0	he	reach	prince 's chamber
+1.0	he	pass through	door
+1.0	prince	have	chamber
+1.0	prince	soon run to	he
+1.0	prince	run to	he
+1.0	prince	greet	he
+1.0	prince	soon run up to	he
+1.0	prince	as soon run up to	he
+1.0	prince	run up to	he
+1.0	prince	ask	he
+1.0	prince	as soon run to	he
+1.0	king	recognize	he
+1.0	he	also recognize	kerchief on prince 's hand
+1.0	prince	on	hand
+1.0	he	also recognize	kerchief
+1.0	he	recognize	kerchief
+1.0	he	also recognize	ring
+1.0	he	recognize	ring
+1.0	he	recognize	kerchief on prince 's hand
+1.0	he	recognize	ring on he finger
+1.0	he	also recognize	ring on he finger
+1.0	he	lead	he
+1.0	princess	have in	have long love with prince
+1.0	he	be	very good man
+1.0	princess	have in	have love
+1.0	he	be	man
+1.0	princess	have in	have love with prince
+1.0	he	be	good man
+1.0	he	be	good
+1.0	she	marry	he
+1.0	have love	be with	prince
+1.0	princess	have in	have long love
+1.0	Father Brass	take	care of he
+1.0	Father Brass	take	care
+1.0	Father Brass	give	he
+1.0	Father Brass	give	silver apple
+1.0	he	cross	sea
+0.6853906992625066	Father Brass	care of	he
+1.0	prince	tell	they
+1.0	couple	celebrate	they wedding
+1.0	they	meet	prince 's parent
+1.0	prince	have	parent
+1.0	it	be	how possible
+1.0	they	be	very happy
+1.0	they	be	happy
+1.0	it	be possible	he get
+1.0	it	be	possible
+1.0	they	see again	he
+1.0	they	see	he
+1.0	he	have lead as far	he
+1.0	he	have lead	he
+1.0	he	have lead far	he
+1.0	prince	tell	they
+1.0	he	reveal	story to king
+1.0	he	also tell	they
+1.0	he	marry	she
+1.0	he	become	engage to princess
+1.0	he	reveal	story
+1.0	he	tell	they
+1.0	he	become	engage
+1.0	he	reveal	whole story to king
+0.5177695092998124	he	story to	king
+1.0	he	reveal	whole story
+1.0	he	engage to	princess
+0.5177695092998124	he	whole story to	king
+1.0	prince	live for	many year
+1.0	princess	live happily for	year
+1.0	princess	live happily for	many year
+1.0	princess	live for	many year
+1.0	princess	live for	year
+1.0	prince	live happily for	many year
+1.0	prince	live happily for	year
+1.0	prince	live for	year
+1.0	they	inherit	they kingdom
+1.0	Father Brass	accompany	they
+1.0	they	often have	feast
+1.0	they	have	feast
+1.0	slip	twixt	cup
+1.0	honey	be	probably sweet
+1.0	honey	be	sweet
+1.0	slip	twixt	my lip

@@ -1,0 +1,317 @@
+1.0	soldier	get	permission go
+0.5627705834447732	permission	go on	leave
+1.0	soldier	get	permission go on leave
+1.0	he	set off along	way
+1.0	he	get	ready
+1.0	he	do see	water
+1.0	he hardtack	eat	little
+1.0	he	nowhere do see	water
+1.0	he belly	have	have long since empty
+1.0	he belly	have	have long empty
+1.0	he belly	have	have since empty
+1.0	he belly	have	have empty
+1.0	he	so drag	himself
+1.0	he	drag	himself
+0.9969095430474074	nothing	be	do
+1.0	he	see	creek running
+1.0	he	go to	creek
+1.0	he	get	three biscuit
+1.0	he	go up to	creek
+1.0	he	put	they
+1.0	soldier	have	fiddle
+1.0	soldier	have fiddle besides	hardtack
+1.0	he	play song in	he free time
+1.0	he	chase away	he boredom
+1.0	he	play song in	he time
+1.0	he	play	song
+1.0	he	play	various song
+1.0	soldier	begin	play
+1.0	soldier	sit down	down stream
+1.0	soldier	so sit down	down stream
+1.0	book	be in	he hand
+1.0	soldier	address	he
+1.0	devil	wrinkle up	he face
+1.0	you	give	you fiddle
+1.0	I	will give	my book
+1.0	you	give	I
+1.0	I	will give	you
+1.0	old man	do need	you book
+1.0	man	do need	you book
+1.0	I	do need	you book
+1.0	I	have serve	he majesty
+1.0	Alright	give	it
+1.0	soldier	open up book	just he have do so from he early year
+1.0	soldier	open up book	just he have do so from he year
+1.0	soldier	open up book	he have do so
+1.0	soldier	open up book	he have do so from he year
+1.0	soldier	start	read
+1.0	soldier	open up	book
+1.0	soldier	open up book	just he have do so
+1.0	soldier	open up book	he have do
+1.0	soldier	open up book	he have do so from he early year
+1.0	soldier	open up book	just he have do
+1.0	he	immediately hand over	he fiddle
+1.0	he	hand over	he fiddle
+1.0	he	be	delighted
+1.0	unclean one	begin	work at it
+1.0	unclean one	begin	work
+1.0	unclean one	take	it
+1.0	unclean one	begin	work at it with bow
+1.0	unclean one	begin	work with bow
+1.0	he	say to	soldier
+1.0	I	will	will very grateful
+1.0	I	will	will grateful
+1.0	I	go on	home
+1.0	you	home in	single day
+1.0	I	play	fiddle
+1.0	I	will drive right there	you
+1.0	you	teach	I
+1.0	I	will drive there	you
+1.0	you	home in	day
+1.0	you home	be in	single day
+1.0	I	will drive	you
+1.0	he	take hardtack	he want
+1.0	he	take	hardtack
+1.0	he	eat	something
+1.0	he	take hardtack out of	stream
+1.0	that	be really awful stuff	you have get there
+1.0	he	get	bread
+1.0	he	get	white bread
+1.0	he	stay on	man
+1.0	he	stay on	unknown old man
+1.0	unknown man	play	fiddle
+1.0	unknown old man	play	fiddle
+1.0	soldier	eat	he fill
+1.0	old man	play	fiddle
+1.0	he	stay on	old man
+1.0	he	stay on	unknown man
+1.0	man	play	fiddle
+1.0	he	stay with	he
+1.0	he	go	home
+0.40698801184380096	he	ask	go
+1.0	he	stay for	three day
+0.660460668196303	porch	troika of	fine horse
+1.0	porch	stand	troika of fine horse
+1.0	devil	lead outside and there	he
+1.0	devil	lead	he
+1.0	devil	lead outside	he
+1.0	porch	stand	troika of horse
+0.660460668196303	porch	troika of	horse
+1.0	porch	stand	troika
+1.0	I	will get	you
+1.0	I	will get there	you
+1.0	they verst	flash by	he eye
+0.8491846643795082	verst	flash by	he eye
+1.0	they many verst	flash by	he eye
+0.8491846643795082	many verst	flash by	he eye
+1.0	soldier	get in	cart
+1.0	he	get	there in nothing flat
+1.0	he	get	there
+1.0	he	get	there in nothing
+1.0	you	will recognize	village
+1.0	they	exchange	greeting
+1.0	soldier	go in to	he relative
+1.0	year	be in	fact
+1.0	he	be consider	runaway
+1.0	he	be	consider
+1.0	he	be consider	runaway in he regiment
+1.0	soldier	become	timid
+1.0	he	go	outside
+1.0	I	go to	regiment
+1.0	I	go back to	regiment
+1.0	they	will run	I
+1.0	you	have play	trick
+1.0	you	have play trick on	I
+1.0	you	have play	nasty trick
+0.07520120590815393	he	have	speak
+1.0	he	speak word than	unclean one
+0.07520120590815393	he	have	speak than unclean one
+0.07520120590815393	he	have there	speak than unclean one
+1.0	he	speak	word
+0.07520120590815393	he	speak than	unclean one
+0.07520120590815393	he	have there	speak
+1.0	Stay	be with	I
+1.0	you service	be in	regiment
+1.0	they	give	biscuit eat
+1.0	they	beat	you
+1.0	they	give	you
+1.0	they	give	dry biscuit eat
+0.03191106735239502	you	do want	make
+1.0	you	do want	I
+1.0	I	make	you merchant
+1.0	I	try	happiness
+1.0	large shop	be in	capital city
+0.5128531634210168	he	shop with	sort of valuable goods
+1.0	unclean one	give	shop with sort of valuable goods
+1.0	large shop	be with	sort of valuable goods
+0.5128531634210168	he	large shop with	sort of valuable goods
+1.0	unclean one	give	shop in capital city with sort of valuable goods
+1.0	unclean one	give	large shop in capital city with sort of valuable goods
+1.0	unclean one	give	he
+1.0	unclean one	make	he merchant
+1.0	unclean one	give	large shop with sort of valuable goods
+1.0	king	have	Princess Maria
+1.0	king	have	splendid daughter
+1.0	king	have	daughter
+1.0	I	torment	she
+1.0	we merchant	worry about	nothing
+1.0	happiness	just tumble onto	he household
+1.0	happiness	tumble onto	he household
+1.0	he	become	prosperous
+1.0	he	become	even prosperous
+1.0	he	become	even more prosperous
+1.0	he	become	more prosperous
+1.0	he	have	just one task
+1.0	merchant	become	envious
+1.0	merchant	become however	envious
+1.0	other merchant	become	envious
+1.0	other merchant	become however	envious
+1.0	's	ask	he
+1.0	he	be take	trade
+1.0	he	have	nothing for while
+1.0	he	have	nothing
+1.0	he	be take	we trade
+1.0	he	be take away	trade
+1.0	he	be take away	we trade
+1.0	he	reply	my brother
+1.0	they	go to	he
+0.24376623227344607	he	reply to	they
+1.0	they	question	he
+1.0	you	will find out	everything
+1.0	merchant	go	they separate way
+0.5624514432690371	merchant	go to	they home
+0.5624514432690371	merchant	go to	they own home
+1.0	merchant	go	they way
+1.0	he	should answer	they
+1.0	he shop	go out of	town
+1.0	he	leave	he shop
+1.0	he	walk	he come to barrier
+1.0	he	come to	barrier
+1.0	he	walk	he come
+1.0	I	be come to	you tsardom
+1.0	I	be come	ill
+1.0	daughter	be	ill
+1.0	I	cure	she
+1.0	I	be	doctor
+1.0	sentry	report to	king himself
+1.0	sentry	report to	king
+1.0	sentry	report to	courtier
+1.0	king	call in	soldier
+1.0	you	cure	my daughter
+0.49106155810983987	I	will marry	you
+1.0	you majesty	give	three pound
+1.0	you majesty	give	three pound
+1.0	you majesty	give	three bottle of wine
+1.0	you majesty	give	three pound of bullet
+1.0	you majesty	give	three bundle
+1.0	you majesty	give	three deck of card
+1.0	you majesty	give	three pound of nut
+1.0	you majesty	give	three bottle
+1.0	you majesty	give	three bottle
+1.0	you majesty	give	three bottle of sweet wine
+1.0	you majesty	give	three deck
+1.0	you majesty	give	three bottle of strong spirit
+1.0	you majesty	give	three bottle of spirit
+1.0	all	will	good will ready
+1.0	all	will	will ready
+1.0	soldier	set off to	to princess
+1.0	soldier	buy	fiddle
+1.0	soldier	wait until	evening
+1.0	soldier	buy	himself
+1.0	he	play on	he fiddle
+1.0	he	light	candle
+1.0	he	light candle in	she room
+1.0	unclean one	come at	midnight
+1.0	unclean one	hear	music
+1.0	unclean one	rush to	soldier
+1.0	he	bring	full glass
+1.0	he	bring	glass of strong spirit
+1.0	he	bring	glass of spirit
+1.0	he	bring	full glass of spirit
+1.0	he	bring	glass
+1.0	he	bring	he
+1.0	he	bring	full glass of strong spirit
+1.0	devil	drink	all pop on he forehead
+1.0	devil	drink	all pop
+1.0	devil	drink	it
+1.0	devil	drink	all
+1.0	devil	drink	all pop right out
+1.0	devil	drink	all pop out
+1.0	devil	drink	all pop out on he forehead
+1.0	devil	drink	he eye
+1.0	devil	drink	all pop right out on he forehead
+1.0	I	have	bite eat
+1.0	he	give	bullet
+1.0	he	give	he
+1.0	he	break	he tooth
+1.0	he	just break	he tooth
+1.0	they	play	card
+1.0	king	ask	princess
+1.0	you	do sleep at_time	night
+1.0	you	do sleep at_time	last night
+1.0	thanks	be to	God
+1.0	thanks	be to	peacefully God
+1.0	next night	pass	way
+1.0	night	pass	same way
+1.0	night	pass	way
+1.0	next night	pass	same way
+1.0	you	majesty	three iron one
+1.0	soldier	ask king on	night
+1.0	soldier	ask	king
+1.0	soldier	ask king on	third night
+1.0	you	majesty	order make
+1.0	all	will	good will ready
+1.0	all	will	will ready
+1.0	unclean one	appear at	deepest midnight
+1.0	unclean one	appear at	midnight
+1.0	I	have come	carouse with you again
+1.0	I	have come	carouse again
+1.0	I	have come	carouse
+1.0	I	have come	carouse with you
+1.0	I	carouse again with	you
+1.0	I	carouse with	you
+1.0	unclean one	see	pincers
+1.0	king	take	I
+1.0	I	teach	musician
+1.0	king	order	I
+1.0	I	straighten out	they
+1.0	soldier	squeeze	they
+1.0	devil	put hand in	pincers
+1.0	devil	put	hand
+1.0	devil	have	it
+1.0	he	pick up	rod
+1.0	this	be for	you merchant 's work
+1.0	he	beat	he
+1.0	merchant	for	work
+1.0	he	flog	he
+1.0	he	might break	loose
+1.0	he	might break	loose
+1.0	I	will grab	you
+1.0	you	once go beyond	thirty verst
+1.0	you	go beyond	thirty verst
+1.0	he	rule	entire tsardom
+1.0	soldier	live with	she
+1.0	king	die after	several year
+1.0	soldier	marry	princess
+1.0	soldier	so marry	princess
+1.0	king	die after	year
+1.0	soldier	live in	love
+1.0	he	rule	tsardom
+1.0	new king	once go	walk
+1.0	new king	go into	garden
+1.0	king	once go into	garden
+1.0	he wife	once go into	garden
+1.0	king	once go	walk
+1.0	king	go into	garden
+1.0	he wife	go	walk
+1.0	new king	go	walk
+1.0	new king	once go into	garden
+1.0	he wife	go into	garden
+1.0	he wife	once go	walk
+1.0	king	go	walk
+1.0	king	drive	there
+1.0	king	get	ready
+1.0	that	be	clearly my fate
+1.0	I	say	farewell to my young wife
+1.0	I	say	farewell
+1.0	I	say	farewell to my wife

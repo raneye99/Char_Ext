@@ -1,0 +1,104 @@
+1.0	they	have	little son
+1.0	they	have	daughter
+1.0	they	have	son
+1.0	we	shall bring back	you
+1.0	we	shall bring	bun
+1.0	we	shall bring back	bun
+1.0	we	sew	dress
+1.0	we	shall bring	you
+1.0	we	sew	you
+1.0	we	buy	you
+1.0	we	buy	kerchief
+0.9824318615509064	watch	be	careful
+1.0	they	tell	she
+1.0	she	put	she brother
+1.0	she	become	absorb in game
+1.0	she	run out into	street
+1.0	she	become	absorb
+1.0	magic swan goose	seize	boy
+1.0	swan goose	carry off	he
+1.0	magic swan goose	seize	little boy
+1.0	magic swan goose	carry off	he
+1.0	swan goose	seize	little boy
+1.0	swan goose	seize	boy
+1.0	she	rush	look in corner
+1.0	mother	scold	she
+1.0	she father	scold	she
+1.0	mother	scold severely	she
+1.0	she father	scold severely	she
+1.0	swan goose	vanish behind	forest
+1.0	swan goose	flash in	distance
+1.0	swan goose	vanish behind	dark forest
+0.8888794662119025	they	great deal of	damage
+1.0	they	have do	deal of damage
+1.0	they	have do	great deal of damage
+0.8888794662119025	they	deal of	damage
+1.0	they	steal	little child
+1.0	they	have do	deal
+1.0	they	have do	great deal
+1.0	they	steal	many little child
+1.0	they	carry off	she brother
+1.0	they	rush after	they
+1.0	she	see	stove
+1.0	you	eat	my cake
+1.0	you	eat	my cake of rye
+1.0	I	will tell	you
+0.863919175299291	we	cake of	wheat
+1.0	father	in	house
+1.0	she	see	apple tree
+1.0	you	eat	one my wild apple
+1.0	you	eat	one of my wild apple
+1.0	you	eat	one of my apple
+1.0	you	eat	one my apple
+1.0	I	will tell	you
+1.0	father	in	house
+1.0	she	see river with	shore of pudding
+1.0	she	see	river
+1.0	she	see	river of milk
+1.0	she	see river with	shore
+1.0	milk	of river be	whither have
+1.0	river	shore of	pudding
+1.0	you	eat of	my pudding
+1.0	you	eat of	my simple pudding
+1.0	you	eat with	milk
+1.0	I	will tell	you
+1.0	father	in	house
+1.0	she	wander in	wood
+1.0	she	wander for	long time
+1.0	she	wander for	time
+1.0	he	prick	she
+1.0	she	nudge	he
+1.0	brother	play with	apple
+1.0	little brother	be sit on	bench
+1.0	little hut lay Baba Yaga	be with	vein snout
+1.0	little brother	play with	apple
+1.0	brother	be sit on	bench
+1.0	brother	play with	golden apple
+1.0	little brother	play with	golden apple
+1.0	he sister	carry away	he
+1.0	he sister	carry	he
+1.0	he sister	seize	he
+1.0	he sister	see	he
+1.0	robber	overtake	she
+1.0	mother river	hide	I
+1.0	little mother river	hide	I
+0.9969095430474074	nothing	be	do
+1.0	she	eat	it
+1.0	river	hide	she beneath shore
+1.0	river	hide	she
+1.0	goose	fly toward	she
+1.0	she	carry	she brother
+0.4894356065236988	Apple tree	hide	I
+1.0	she	eat quickly	it
+1.0	she	eat	it
+1.0	she	run on with	she brother
+1.0	goose	see	she
+1.0	goose	fly after	she
+1.0	they	strike	she
+1.0	Madam Stove	hide	I
+1.0	girl	quickly stick	cake
+1.0	girl	stick	cake
+1.0	girl	quickly stick cake in	she mouth
+1.0	girl	stick cake in	she mouth
+1.0	girl	go into	stove
+1.0	it	be	good

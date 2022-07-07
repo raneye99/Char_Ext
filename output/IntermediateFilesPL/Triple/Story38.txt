@@ -1,0 +1,699 @@
+1.0	tale	start with	gray thing
+1.0	tale	start with	thing
+1.0	bull	be on	ocean
+1.0	baked bull	be on	ocean
+1.0	baked bull	be on	island buyane
+1.0	baked bull	be on	sea
+1.0	bull	be on	sea
+1.0	bull	be on	island buyane
+1.0	it	be	ground onion
+1.0	three youth	have	breakfast
+1.0	they	boast	themselves
+1.0	they	boast	entertaining themselves
+1.0	brother	stuff	ourselves fuller
+1.0	brother	stuff	ourselves
+1.0	brother	be in	place
+1.0	country woman	than	dough
+1.0	brother	stuff	ourselves fuller than country woman 's dough
+1.0	real story	be	yet come
+1.0	story	be	yet come
+1.0	story	be	come
+1.0	real story	be	come
+1.0	king	question	beggar
+1.0	king	question	wander beggar
+1.0	boy	weave	trawl net
+1.0	bream	give	he
+1.0	golden-finned bream	give	he
+1.0	they	follow	beggar 's instruction
+1.0	they	send	it
+1.0	beggar	have	instruction
+1.0	they	catch	golden-finned bream
+1.0	they	catch	bream
+1.0	chef	gut	bream
+1.0	she	throw	swill
+1.0	she	throw entrails to	dog
+1.0	she	throw	swill to three mare
+1.0	queen	eat	fish
+0.2582723879909679	she	swill to	three mare
+1.0	she	throw	entrails
+1.0	she	gnaw	bone herself
+1.0	she	gnaw	bone
+1.0	she	throw swill to	dog
+1.0	queen	give birth at	time
+1.0	queen	give	birth
+1.0	queen	give birth at	same time
+1.0	chef	have	son
+1.0	dog	come	three foal
+0.6399519129670479	dog	come out of	three mare
+1.0	dog	have	son
+1.0	king	name	boy Ivan Kingson
+1.0	king	name	Ivan Dogson
+1.0	king	name	Ivan Chefson
+0.8038196385919116	they	be	grow
+0.8038196385919116	they	be	fully grow
+1.0	Ivan Dogson	send	Ivan Kingson
+1.0	Ivan Dogson	send ivan kingson to	king
+1.0	mare	carry	we may ride
+1.0	we	may ride around	city
+1.0	mare	carry	we may ride around city
+1.0	they	ride out past	city
+1.0	they	saddle	horse
+1.0	it	would	would better
+1.0	it	ride to	land
+1.0	it	ride to	foreign land
+1.0	they	lead	they horse
+1.0	they	make	themselves 300-pound club
+1.0	they	procure	iron
+0.716707217604718	Ivan Dogson	brothers	how be we go
+0.716707217604718	Ivan Dogson	brothers	be we go
+1.0	we	do	something
+0.04233298802032592	we	do something	determine
+1.0	they	throw	javelin
+1.0	they	ride	good distance
+1.0	they	ride	distance
+1.0	they	lay	Kingson 's javelin
+1.0	Kingson	have	javelin
+1.0	bit	fall	Chefson 's javelin
+1.0	Chefson	have	javelin
+1.0	little bit	fall	Chefson 's javelin
+1.0	Dogson 's javelin	be	nowhere
+1.0	Dogson 's javelin	be	see
+1.0	Dogson	have	javelin
+1.0	Dogson 's javelin	be	still nowhere
+1.0	they	ride into	kingdom
+1.0	they	ride into	different realm altogether
+1.0	they	ride into	entirely different realm
+1.0	they	ride into	realm altogether
+1.0	they	ride into	entirely different realm altogether
+1.0	they	ride through	through thrice-nine land
+1.0	they	ride into	thrice-tenth kingdom
+1.0	they	ride into	different realm
+1.0	Dogson	have	spear
+1.0	they	ride into	realm
+1.0	they	be	immediately decide
+1.0	they	be	decide
+1.0	Kingson	would	would brother
+1.0	Kingson	would	would youngest brother
+1.0	path	be with	steppe spread before they
+1.0	they	continue on	again path
+1.0	they	continue on	path with steppe
+1.0	they	continue on	they way
+1.0	they	continue on	once again path with steppe
+1.0	they	continue on	once again path
+1.0	they	continue on	path
+1.0	they	continue on	again path with steppe
+1.0	tent	be on	steppe
+1.0	tent	be with	horse standing eat
+1.0	Ivan Dogson	send	Ivan Kingson
+1.0	Ivan Dogson	send ivan kingson to	tent
+1.0	kingson	enter	tent
+1.0	kingson	so enter	tent
+1.0	White Polyanin	lie be on	bed
+1.0	White Polyanin	thump kingson on	forehead
+1.0	White Polyanin	thump	Kingson
+1.0	White Polyanin	thump kingson with	he finger
+1.0	White Polyanin	throw	he
+1.0	White Polyanin	thump kingson with	he pinky finger
+1.0	he	run to	tent
+1.0	he	run to	tent himself
+1.0	he	knock backward	he eye
+1.0	he	strike	White Polyanin
+1.0	he	knock	he eye
+1.0	Dogson	carry polyanin out of	tent
+1.0	Dogson	carry	polyanin
+1.0	breeze	bring	he
+1.0	fresh breeze	bring	he
+1.0	Dogson	carry	white polyanin
+1.0	Ivan Dogson	pardon	he
+1.0	brother	saddle up	they steed
+1.0	brother	ride through	hill
+1.0	four brother	ride through	hill
+1.0	four brother	saddle up	they steed
+1.0	they	ride	they come
+1.0	they	come to	two-story house
+1.0	they	ride	they come to house
+1.0	they	ride	they come to two-story house
+1.0	they	come to	house
+1.0	they	ride	they come with roof
+1.0	they	come with	golden roof
+1.0	they	come with	roof
+1.0	they	ride	they come to two-story house with roof
+1.0	they	ride	they come to house with golden roof
+1.0	they	ride	they come to house with roof
+1.0	they	ride	they come to two-story house with golden roof
+1.0	they	ride	they come with golden roof
+1.0	they	enter	house
+1.0	they	find	it
+1.0	it	be stock with	drink
+1.0	it	be well stock with	drink
+1.0	it	be	well stock
+1.0	it	be	stock
+1.0	they	decide	lay
+1.0	they	decide	lay for time
+1.0	they	decide	lay over here for time
+1.0	they	decide	lay over here
+1.0	Ivan Kingson	look after	matter
+1.0	Ivan Kingson	stay	look after domestic matter
+1.0	Ivan Kingson	stay home	look after matter
+1.0	Ivan Kingson	stay	look after matter
+1.0	Ivan Kingson	stay	look
+1.0	Ivan Kingson	stay home	look after domestic matter
+1.0	Ivan Kingson	stay home	look
+1.0	Ivan Kingson	look after	domestic matter
+1.0	he	boil	what-have-yous for lunch
+1.0	he	boil	various what-have-yous for lunch
+1.0	he	boil	various what-have-yous
+1.0	he	boil	what-have-yous
+1.0	he	sit on	bench
+1.0	man	suddenly prop up with	pole
+1.0	old man	prop up with	pole
+1.0	man	prop up with	pole
+1.0	old man	suddenly prop up with	pole
+1.0	platform fathom	be	wide
+1.0	platform seven fathom	be	wide
+1.0	he	latch with	hook
+1.0	he	latch onto	Kingson
+1.0	man	throw	it
+1.0	old man	grab	fleshy husk
+1.0	man	grab	fleshy husk
+1.0	man	grab	husk
+1.0	old man	throw	it
+1.0	old man	grab	husk
+1.0	brother	return from	hunt
+1.0	brother	ask	Kingson
+1.0	other	go out on	hunt
+1.0	Ivan Chefson	stay	home
+1.0	Ivan Chefson	stay home at_time	day
+0.09570040578057093	Ivan Chefson	stay at_time	day
+0.09570040578057093	Ivan Chefson	stay at_time	next day
+1.0	Ivan Chefson	stay home at_time	next day
+1.0	he	prepare	lunch
+1.0	he	sit on	bench smoking
+1.0	old man	ask for	alms
+1.0	man	ask for	alms
+1.0	platform fathom	be	wide
+1.0	platform seven fathom	be	wide
+1.0	he	pull chefson with	hook
+1.0	he	pull chefson into	mortar
+1.0	he	pull	Chefson
+1.0	old man	throw	fleshy husk
+1.0	man	throw	fleshy husk
+1.0	man	throw husk under	bed
+1.0	man	throw	husk
+1.0	old man	rip off	Chefson 's skin
+1.0	man	rip off	Chefson 's skin
+1.0	Chefson	have	skin
+1.0	old man	throw	husk
+1.0	old man	throw husk under	bed
+1.0	brother	return from	they hunt
+1.0	White Polyanin	state home at_time	third day
+0.27786230233670195	White Polyanin	state at_time	third day
+0.27786230233670195	White Polyanin	state at_time	day
+1.0	White Polyanin	state home at_time	day
+1.0	White Polyanin	state	home
+1.0	he	prepare	lunch
+1.0	he	sit on	bench smoking
+1.0	up	come	old man
+1.0	old man	ask for	alms
+1.0	up	come man in	mortar
+0.6399519129670479	up	come in	mortar
+0.6399519129670479	up	come	ask
+1.0	up	come	man
+1.0	man	ask for	alms
+0.6399519129670479	up	come	ask for alms
+1.0	platform fathom	be	wide
+1.0	platform seven fathom	be	wide
+1.0	man	pull	White Polyanin
+1.0	old man	pull white polyanin into	mortar
+1.0	man	pull white polyanin with	hook
+1.0	old man	pull	White Polyanin
+1.0	old man	pull white polyanin with	hook
+1.0	man	pull white polyanin into	mortar
+1.0	he	rip off	White Polyanin 's skin
+1.0	he	throw	husk
+1.0	he	throw	raw husk
+1.0	White Polyanin	have	skin
+1.0	he	throw husk under	bed
+1.0	Ivan Dogson	stay home on	day
+1.0	Ivan Dogson	stay	home
+1.0	Ivan Dogson	stay home on	fourth day
+0.09570040578057093	Ivan Dogson	stay on	fourth day
+0.09570040578057093	Ivan Dogson	stay on	day
+1.0	he	prepare	lunch
+1.0	he	sit on	bench smoking
+1.0	old man	be in	mortar
+1.0	platform fathom	be	wide
+1.0	platform seven fathom	be	wide
+1.0	Dogson	give	he
+1.0	Dogson	give	roll
+1.0	old man	hook	he
+1.0	mortar	break into	piece
+1.0	man	hook	he
+1.0	Ivan Dogson	drag	he
+1.0	Ivan Dogson	grab man by	head
+1.0	Ivan Dogson	grab	old man
+1.0	Ivan Dogson	grab	man
+1.0	he	wedge	old man 's beard
+1.0	he	split stump into	two
+1.0	he	split	stump
+1.0	he	wedge	man 's beard
+1.0	old man	have	beard
+1.0	brother	be return	home
+1.0	they	talk amongst	themselves
+1.0	that	curse	old man
+1.0	he	be flay too	Dogson
+1.0	he	be already flay too	Dogson
+1.0	he	be probably flay too	Dogson
+1.0	he	be flay	Dogson
+1.0	he	be already flay	Dogson
+1.0	he	be probably already flay too	Dogson
+1.0	he	be probably already flay	Dogson
+1.0	he	be probably flay	Dogson
+1.0	they	arrive	home
+1.0	Dogson Ivan	be	anybody here
+1.0	Dogson Ivan	be	anybody
+1.0	I	give	some he medicine
+1.0	I	give	some
+1.0	I	give	he
+1.0	I	give	some of he own medicine
+1.0	I	give	some of he medicine
+1.0	I	give	some he own medicine
+1.0	you	do do to	he
+1.0	I	wedge	he beard
+1.0	they	look at	man
+1.0	they	come	look at man
+1.0	they	come	look at old man
+1.0	they	come	look
+1.0	they	look at	old man
+1.0	he	rip out stump with	root
+1.0	he	rip out stump with	its root
+1.0	he	carry	it
+1.0	he	come under	golden roof
+1.0	he	come under	roof
+1.0	he	come from	world
+1.0	he	come to	he house
+1.0	he	come to	he own house
+1.0	brother	follow along	along he track
+1.0	they	come to	mountain
+1.0	they	walk	they come
+1.0	they	walk	they come to mountain
+1.0	they	fling	open
+1.0	they	tie rock to	rope
+1.0	they	lower	it
+1.0	they	tie	rock
+1.0	they	pull back up	it
+1.0	they	tie ivan dogson to	rope
+1.0	they	pull	it
+1.0	they	as soon pull up	it
+1.0	they	as soon pull back up	it
+1.0	they	soon pull back up	it
+1.0	they	as soon pull	it
+1.0	they	soon pull up	it
+1.0	they	soon pull	it
+1.0	they	pull up	it
+1.0	they	tie	Ivan Dogson
+0.8916975228401708	rope	pull right up	I
+0.9406794808093758	I	pull right up	I
+0.9406794808093758	I	pull	I
+0.8916975228401708	rope	pull	I
+1.0	I	shake	rope
+0.9406794808093758	I	pull up	I
+0.8916975228401708	rope	pull up	I
+1.0	they	lower	he
+1.0	princess	be steal by	three serpent
+1.0	princess	be	steal into world by three serpent
+1.0	princess	be steal into	world
+1.0	princess	be	steal
+1.0	I	seek out	they
+1.0	he	come to	two story house
+1.0	he	walk	he come to two story house
+1.0	he	walk	he come
+0.5328941419597223	russian man	have come to	we courtyard
+0.5328941419597223	man	have come to	we courtyard
+0.5328941419597223	you	have come to	we courtyard
+1.0	you	do ask	question
+1.0	you	can ask	you question
+1.0	she	feed	he
+1.0	she	bring	he water
+1.0	she	give	he
+1.0	she	give	something drink
+1.0	she	lead	he
+1.0	I	wage war with	you husband
+1.0	I	wage	war
+1.0	you	win	I
+1.0	my husband	be	strong
+1.0	my husband	be	incredibly strong
+1.0	my husband	be incredibly strong with	six head
+1.0	my husband	be strong with	six head
+1.0	princess	hide	he
+1.0	you	be fly over	Russia
+1.0	you	have get	smell of russian bone
+1.0	you	have get all	smell
+1.0	you	have get	smell
+1.0	you	have get all	smell of russian bone
+1.0	you	have get	smell of bone
+1.0	you	have get all	smell of bone
+1.0	she	sigh	she be serve
+1.0	she	deeply sigh	she be serve
+1.0	we	make	merry
+1.0	serpent	appear	iron spear with silver
+1.0	Dogson	appear	silver spear gold edge
+1.0	serpent	appear	iron spear with silver edge
+1.0	serpent	blow	Dogson blow
+1.0	iron spear	be with	silver edge
+1.0	Dogson	appear	spear gold edge
+1.0	serpent	appear	iron spear
+1.0	he	strike	serpent
+1.0	he	strike once	serpent
+1.0	he	kill	he
+1.0	he	burn	serpent
+1.0	he	scatter	he ash
+0.025344053211498907	he	scatter in	wind
+1.0	princess	present	dogson
+1.0	maiden	meet	he
+1.0	you	do ask	question
+1.0	you	can ask	you question
+1.0	she	bring	he water
+1.0	he	give	he
+1.0	he	lead	he
+1.0	he	give	something drink
+1.0	I	wage war with	you husband
+1.0	I	wage	war
+1.0	you	fight with	my husband
+1.0	my husband	be	strong
+1.0	my husband	be	incredibly strong
+1.0	he	have	nine head
+1.0	they	god as	my helper
+1.0	princess	hide	she guest
+1.0	it	be	be fly around Russia
+1.0	you	be	just be fly
+1.0	it	be	just be fly
+1.0	it	be	just be fly around Russia
+1.0	it	be	be fly
+1.0	you	be	just be fly around Russia
+1.0	you	be	be fly
+1.0	you	be	be fly around Russia
+1.0	you	have pick up	smell of russian bone
+1.0	you	have pick up	smell
+1.0	you	have pick up	smell of bone
+1.0	she	serve	dinner
+1.0	she	serve dinner with	sigh
+1.0	I	make	merry
+1.0	I	make	merry with he
+1.0	Ivan Dogson	walk out from	from door
+1.0	serpent	appear	iron spear with silver
+1.0	Dogson	appear	silver spear gold edge
+1.0	serpent	appear	iron spear with silver edge
+1.0	serpent	blow	Dogson blow
+1.0	iron spear	be with	silver edge
+1.0	Dogson	appear	spear gold edge
+1.0	serpent	appear	iron spear
+1.0	he	strike	serpent
+1.0	he	strike once	serpent
+1.0	he	kill	he
+1.0	he	burn	serpent
+1.0	he	scatter	he ash
+0.025344053211498907	he	scatter in	wind
+1.0	princess	present	dogson
+1.0	he	come to	type
+1.0	he	again come with	two story
+1.0	he	come to	type of house
+1.0	he	come to	same type
+1.0	he	come with	two story
+1.0	he	again come to	same type
+1.0	he	again come to	type
+1.0	he	come to	same type of house
+1.0	he	again come to	type of house
+1.0	he	again come to	same type of house
+1.0	maiden	meet	he
+0.5328941419597223	russian man	have come to	we courtyard
+0.5328941419597223	man	have come to	we courtyard
+0.5328941419597223	you	have come to	we courtyard
+1.0	I	give	I
+1.0	I	ask	you question
+1.0	I	give	something drink
+1.0	she	feed	he
+1.0	she	give	he
+1.0	she	bring	he water
+1.0	she	give	something drink
+1.0	she	lead	he
+1.0	I	take	you
+1.0	you	take away	I
+1.0	my husband	be	strong
+1.0	my husband	have	twelve head
+1.0	my husband	be	incredibly strong
+1.0	I	will fight just well	he
+1.0	I	will fight	he
+1.0	God	be	my helper
+1.0	I	will fight well	he
+1.0	he	enter	back room
+1.0	he	enter	room
+1.0	serpent	have	thirteen-hundred-pound club lean in corner
+1.0	Dogson	notice	serpent 's thirteen-hundred-pound club
+1.0	Dogson	notice	serpent 's thirteen-hundred-pound club lean in corner
+1.0	Dogson	notice	serpent 's club lean
+1.0	Dogson	notice	serpent 's club
+1.0	Dogson	notice	serpent 's thirteen-hundred-pound club lean
+1.0	Dogson	notice	serpent 's club lean in corner
+1.0	he	swing	club
+1.0	Ivan Dogson	put	he own club
+1.0	Ivan Dogson	put	he club
+1.0	Ivan Dogson	grab	serpent
+1.0	he	strike	serpent rumble spread
+1.0	he	strike	serpent spread
+1.0	serpent	spread throughout	estate
+1.0	he	strike	serpent spread throughout estate
+1.0	serpent	rumble spread throughout	estate
+1.0	he	strike	serpent rumble spread throughout estate
+1.0	roof	fly off	house
+1.0	Ivan Dogson	kill	serpent
+1.0	Ivan Dogson	burn	he body
+1.0	Ivan Dogson	scatter	he ash
+1.0	Ivan Dogson	kill	twelve-headed serpent
+0.025344053211498907	Ivan Dogson	scatter in	wind
+1.0	princess	smile at	he
+1.0	he	ask	she
+1.0	she	come instead with	he
+1.0	she	come with	he
+1.0	I	can leave	riches
+1.0	I	can leave	my riches
+1.0	she	give	it
+1.0	she	gather wealth into	egg
+1.0	she	gather wealth into	golden egg
+1.0	she	gather	she wealth
+1.0	she	gather	wealth
+1.0	he	put egg in	he pocket
+1.0	he	put	egg
+1.0	middle princess	gather	wealth
+1.0	princess	also gather	she wealth
+1.0	middle princess	also gather	she wealth
+1.0	middle princess	also gather	wealth
+1.0	princess	gather	she wealth
+1.0	princess	gather	wealth
+1.0	youngest	put	she wealth
+1.0	princess	also gather	wealth
+1.0	middle princess	gather	she wealth
+1.0	they	give egg to	Ivan Dogson
+1.0	they	give	egg
+1.0	foursome	come to	shaft
+1.0	Ivan Dogson	tug	rope
+1.0	Ivan Dogson	tie	princess
+1.0	Ivan Dogson	tie princess to	rope
+1.0	Ivan Dogson	tie	youngest princess
+0.0096584267772849	he	again tug to	he brother
+1.0	he	tie	princess
+1.0	he	again tug rope signaling to	he brother
+1.0	he	tie princess to	rope
+1.0	he	tug rope signaling to	he brother
+0.0096584267772849	he	tug to	he brother
+1.0	he	tie	other princess
+1.0	he	tug	rope signaling
+1.0	he	again tug	rope signaling
+1.0	they	pull up	you
+1.0	he	tie	rope
+1.0	he	say soon to	she
+1.0	he	tie rope around	third princess
+1.0	he	say as soon to	she
+1.0	he	tie rope around	princess
+1.0	he	say to	she
+1.0	they	pull out	last princess
+1.0	they	pull out	princess
+1.0	White Polyanin	grab	rope
+1.0	they	be pull out	Ivan Dogson
+1.0	White Polyanin	be in	anger
+1.0	White Polyanin	cut through	it
+1.0	Dogson	go to	man
+1.0	Dogson	fall to	ground
+1.0	Dogson	go to	old man
+1.0	man	question	he
+1.0	old man	question	he
+1.0	they	start	fight
+1.0	Fatigued	go for	water
+1.0	they	go for	water
+1.0	he	give	water drink
+1.0	he	give	Dogson
+1.0	he	only drink	water
+1.0	he	drink	plain water
+1.0	he	give	water of strength drink
+0.788478337493449	he	water	drink
+1.0	he	only drink	plain water
+1.0	he	drink	water
+1.0	Ivan Dogson	gain	upper hand
+1.0	Ivan Dogson	gain	hand
+1.0	you	will find	three piece of hide
+1.0	you	will find	three piece
+1.0	they	will serve well	you
+1.0	you	be in	when trouble
+1.0	they	will serve	you
+1.0	you	be in	trouble
+1.0	Ivan Dogson	take	flint
+1.0	Ivan Dogson	take	piece of steel
+1.0	Ivan Dogson	take	piece
+1.0	he	light	fire
+1.0	dirt clod	fly from	from its hoof
+1.0	you	make	you lunch
+1.0	stallion	run to	he
+1.0	black stallion	run to	he
+1.0	dirt clod	fly from	from hoof
+1.0	you	can carry	I
+1.0	you	can carry quickly	I
+0.6399519129670479	he	scorch	up come
+0.6399519129670479	he	scorch	come
+1.0	he	scorch	hide
+1.0	he	scorch	auburn hide
+1.0	dirt clod	fly from	from hoof
+1.0	you	can carry	I
+1.0	you	can carry quickly	I
+1.0	he	find	himself
+1.0	he	mount	auburn stallion
+1.0	he	mount	stallion
+1.0	he	present	himself
+1.0	princess	make	ring for my wedding
+1.0	youngest princess	make	I
+1.0	princess	make	ring
+1.0	youngest princess	order	goldsmith
+1.0	princess	make	golden ring for my wedding
+1.0	princess	make	I
+1.0	youngest princess	make	golden ring for my wedding
+1.0	princess	make	golden ring
+1.0	princess	order	goldsmith
+1.0	youngest princess	make	golden ring
+1.0	youngest princess	make	ring for my wedding
+1.0	youngest princess	make	ring
+1.0	he	undertake	work
+1.0	goldsmith	bring	he
+1.0	goldsmith	bring	bag
+1.0	goldsmith	bring	bag of nut
+1.0	Ivan Dogson	eat	nut
+1.0	Ivan Dogson	beat on	gold
+1.0	Ivan Dogson	beat with	hammer
+1.0	he	give	it
+1.0	he	pull out	princess ' ring
+1.0	he	pull out	princess ' little ring
+1.0	he	clean	it
+1.0	princess	come for	ring
+1.0	princess	come on	Saturday
+1.0	she	invite	goldsmith
+1.0	she	invite goldsmith to	she wedding
+1.0	goldsmith	go to	wedding
+1.0	Ivan Dogson	stay	home
+0.09570040578057093	goldsmith	go	Ivan Dogson stay
+1.0	goldsmith	go at_time	next day
+1.0	goldsmith	go at_time	day
+0.005153942488911989	he	scorch	up run
+0.005153942488911989	he	scorch	run
+1.0	he	scorch	gray hide
+1.0	he	scorch	hide
+1.0	I	pull down	chimney
+1.0	he	look into	ear
+1.0	he	look out	right
+1.0	it	write with	pen
+1.0	he	look into	left ear
+1.0	he	pull down	chimney
+1.0	he	gallop to	house
+1.0	other princess	bring	gold
+1.0	princess	later bring	gold
+1.0	other princess	later bring	gold
+1.0	ring	be	make
+1.0	princess	bring	gold
+1.0	Ivan Dogson	say to	goldsmith
+1.0	I	will make	you ring
+1.0	Dogson	beat	gold
+1.0	Dogson	eat	nut
+1.0	Dogson	beat gold with	hammer
+1.0	he	pull out	princess
+1.0	he	clean	it
+1.0	he	hand over	it
+1.0	princess	see	ring
+1.0	I	give	exact copy
+1.0	I	give	exact copy of this
+1.0	I	give	copy of this
+1.0	I	give	copy
+1.0	she	take	ring
+1.0	she	invite goldsmith to	wedding
+1.0	she	invite	goldsmith
+1.0	Ivan Dogson	scorch	hide
+1.0	he	go to	wedding
+1.0	Ivan Dogson	scorch	black hide
+1.0	I	pull down roof at	wedding house
+1.0	I	pull down	roof
+1.0	he	look into	ear
+1.0	he	look out	right
+1.0	he	look into	left ear
+1.0	he	become	great
+1.0	he	become	exceedingly great
+1.0	he	become	so exceedingly great
+1.0	stallion	carry	he
+1.0	stallion	carry surely	he
+1.0	he	rip	roof
+1.0	he	rip roof from	house
+1.0	stallion	carry so surely	he
+1.0	ring	be make for	she
+1.0	ring	be	make
+1.0	Ivan Dogson	say to	goldsmith
+1.0	I	will make	you ring
+1.0	he	again eat	nut
+1.0	he	beat	gold
+1.0	he	eat	nut
+1.0	he	beat gold with	hammer
+1.0	he	pull out	princess
+1.0	he	clean	it
+1.0	he	hand over	it
+1.0	princess	come for	ring
+1.0	princess	come on	Saturday
+1.0	she	see	it
+1.0	you	do get	ring
+1.0	I	give away	its replica
+1.0	she	invite	goldsmith
+1.0	auburn stallion	come	run
+1.0	goldsmith	go to	wedding
+1.0	Ivan Dogson	stay	home
+0.09570040578057093	goldsmith	go	Ivan Dogson stay
+1.0	goldsmith	go at_time	next day
+1.0	stallion	come	run
+1.0	goldsmith	go at_time	day
+1.0	I	drag white polyanin by	forelock
+1.0	I	drag	White polyanin
+1.0	stallion	carry	he
+1.0	auburn stallion	carry powerfully	he
+1.0	auburn stallion	carry	he
+1.0	stallion	carry powerfully	he
+1.0	Dogson	first rip ceiling from	house
+1.0	Dogson	rip ceiling from	house
+1.0	Dogson	first rip	ceiling
+1.0	Dogson	rip	ceiling
+1.0	he	grab white polyanin by	forelock
+1.0	he	grab white polyanin	he be leave
+1.0	he	grab	White polyanin
+0.8330873311864035	ride	high in	air
+1.0	he	throw	he
+1.0	White Polyanin	shatter into	piece
+1.0	he	embrace	he bride
+1.0	Ivan Dogson	lower	himself
+1.0	Chefson	see	he
+1.0	they	begin	live in wealth
+1.0	they	marry	princess
+1.0	they	begin	live together in wealth
+1.0	they	marry	wonderful princess
+1.0	they	begin	live together
+1.0	they	begin	live

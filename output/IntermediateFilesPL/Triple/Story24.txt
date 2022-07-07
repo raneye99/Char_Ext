@@ -1,0 +1,277 @@
+1.0	they	have	three son
+1.0	they	find	bride
+1.0	they	send	they son
+1.0	they	send	they eldest son
+1.0	they	find	bride for himself
+1.0	he	walk for	long time
+1.0	he	walk for	time
+1.0	he	look at	girl
+1.0	he	meet	dragon
+1.0	he	meet	three-headed dragon on road
+1.0	he	be	frighten
+1.0	he	meet	three-headed dragon
+1.0	he	meet	dragon on road
+1.0	dragon	say to	he
+1.0	I	get	marry
+1.0	you	get	bride
+1.0	they	come to	big stone
+1.0	they	walk	they come
+1.0	they	come to	stone
+1.0	they	walk	they come to stone
+1.0	they	walk	they come to big stone
+1.0	Egorushko	turn up	it
+1.0	dragon	say to	he
+1.0	Egorushko	return	home
+1.0	Egorushko	tell	mother
+1.0	Egorushko	tell	he father
+1.0	they	son	Mishka bandy-legged
+1.0	mother	send	they son
+1.0	mother	send	Mishka bandy-legged
+1.0	mother	send	they middle son
+1.0	same thing	happen to	he
+1.0	thing	happen to	he
+1.0	they	send	Ivashko Lie-on-the-Stove
+1.0	Ivashko Lie-on-the-Stove	begin	beg
+1.0	Ivashko Lie-on-the-Stove	however begin	beg
+1.0	Ivashko	meet	dragon
+1.0	Ivashko	meet	three-headed dragon
+1.0	you	go	my good fellow
+1.0	Whither	go	my fellow
+1.0	Whither	go	my good fellow
+1.0	dragon	ask	he
+1.0	you	go	my fellow
+1.0	it	be	my turn
+1.0	it	be	now my turn
+1.0	you	get	bride
+1.0	I	will show	you
+1.0	dragon	tell	he
+1.0	he	turn up stone from	its place
+1.0	they	come to	same stone
+1.0	they	come to	stone
+1.0	he	turn up	stone
+1.0	Ivashko	take	hold
+1.0	Ivashko	take	hold of it
+1.0	thong	be	fix
+1.0	hole	be in	ground
+1.0	thong	be fix near	it
+1.0	you	will see maiden in	each of they
+1.0	you	come to	three kingdom
+1.0	you	will see maiden in	each
+1.0	you	will see	maiden
+1.0	I	will lower	you
+1.0	Ivashko	be	lower
+1.0	Ivashko	start on	he way
+1.0	he	come to	copper kingdom
+1.0	he	walk	he come to copper kingdom
+1.0	he	walk	he come
+1.0	he	see	maiden
+1.0	he	see	beautiful maiden
+1.0	he	enter	it
+1.0	you	see	smooth place
+1.0	you	see	place
+1.0	Ivashko	tell	she
+1.0	I	find	favor
+1.0	I	find favor with	you
+1.0	she	give	silver ring
+1.0	she	give	he
+1.0	gallant youth	thank maiden for	she hospitality
+1.0	gallant youth	thank	maiden
+1.0	youth	thank maiden for	she hospitality
+1.0	youth	thank	maiden
+1.0	he	come to	silver kingdom
+1.0	he	see	maiden more beautiful
+1.0	he	see	maiden beautiful
+1.0	he	see	maiden
+1.0	he	see	maiden even beautiful
+1.0	he	see	maiden even beautiful than first
+1.0	he	see	maiden even more beautiful than first
+1.0	he	enter	it
+1.0	he	see	maiden even more beautiful
+1.0	he	see	maiden beautiful than first
+1.0	he	see	maiden more beautiful than first
+1.0	I	salute	you
+1.0	he	ask	blessing
+1.0	I	salute	fair maiden
+1.0	he	make	obeisance
+1.0	I	salute	maiden
+1.0	she	answer	youth
+1.0	she	answer	strange youth
+0.10003620100646804	kingdom	live	more beautiful
+0.10003620100646804	golden kingdom	live	even beautiful
+1.0	kingdom	live maiden in	it
+1.0	she	say to	he
+0.10003620100646804	golden kingdom	live	even more beautiful
+0.10003620100646804	golden kingdom	live	beautiful
+1.0	she	say	go
+1.0	kingdom	live	maiden
+0.10003620100646804	kingdom	live	beautiful
+0.10003620100646804	kingdom	live in	it
+0.10003620100646804	golden kingdom	live in	it
+0.10003620100646804	kingdom	live	even beautiful
+1.0	she	give	golden ring
+1.0	she	give	he
+0.10003620100646804	kingdom	live	more beautiful than i.
+0.10003620100646804	golden kingdom	live	even beautiful than i.
+1.0	golden kingdom	live	maiden
+1.0	she	give	ring
+0.10003620100646804	kingdom	live	beautiful than i.
+0.10003620100646804	kingdom	live	even beautiful than i.
+1.0	golden kingdom	live maiden in	it
+0.10003620100646804	golden kingdom	live	more beautiful
+0.10003620100646804	kingdom	live	even more beautiful
+0.10003620100646804	golden kingdom	live	even more beautiful than i.
+0.10003620100646804	golden kingdom	live	beautiful than i.
+0.10003620100646804	kingdom	live	even more beautiful than i.
+0.10003620100646804	golden kingdom	live	more beautiful than i.
+1.0	Ivashko	say	farewell to she
+1.0	Ivashko	say	farewell
+1.0	he	come to	kingdom
+1.0	he	come to	golden kingdom
+1.0	he	see	maiden more beautiful
+1.0	he	see	maiden beautiful
+1.0	he	see	maiden
+0.6572413281679889	maiden	beautiful than	other
+1.0	he	enter	it
+0.6572413281679889	maiden	more beautiful than	other
+1.0	he	see	maiden more beautiful than other
+1.0	he	see	maiden beautiful than other
+1.0	he	salute	maiden
+1.0	he	ask	blessing
+1.0	he	whither	he be go
+1.0	maiden	begin	ask
+1.0	Ivashko Lie-on-the-Stove	treat amply	himself
+0.7678675920128696	I	find	bride
+1.0	Ivashko Lie-on-the-Stove	treat	himself
+1.0	you	wish	my wife
+1.0	you	be	my wife
+1.0	maiden	give	ball
+1.0	maiden	give	golden ball
+1.0	maiden	give	he
+1.0	they	come to	silver kingdom
+1.0	they	take	maiden
+1.0	they	take	maiden
+1.0	they	come to	copper kingdom
+1.0	they	there take	maiden
+1.0	they	take maiden with	they
+1.0	they	there too take	maiden
+1.0	they	come to	kingdom
+1.0	they	too take	maiden
+1.0	elder brother	be stand	climb
+1.0	brother	be already stand	climb into it
+1.0	elder brother	be stand by	hole
+1.0	brother	be already stand	climb
+1.0	brother	be stand	climb
+1.0	elder brother	be already stand by	hole
+1.0	brother	be already stand by	hole
+1.0	elder brother	be already stand	climb into it
+1.0	brother	climb into	it
+1.0	brother	be stand	climb into it
+1.0	elder brother	climb into	it
+1.0	brother	be stand by	hole
+1.0	elder brother	be stand	climb into it
+1.0	elder brother	be already stand	climb
+1.0	Ivashko	shake	they
+1.0	brother	lower	thong
+1.0	brother	pull	maiden
+1.0	brother	lower again	thong
+1.0	brother	pull out	she
+1.0	Ivashko	seat maiden from	silver kingdom
+1.0	Ivashko	send down	thong
+1.0	Ivashko	seat	maiden
+1.0	he	seat maiden from	golden kingdom
+1.0	brother	pull out	she
+1.0	he	seat	maiden
+1.0	brother	pull out too	she
+1.0	he	finally seat maiden from	kingdom
+1.0	he	finally seat maiden from	golden kingdom
+1.0	he	finally seat	maiden
+1.0	he	seat maiden from	kingdom
+1.0	brother	drop back	thong
+1.0	he brother	pull	he
+1.0	we	pull out	he
+1.0	he brother	pull too	he
+1.0	he	give	we
+1.0	it	be	Ivashko
+1.0	he	give	maiden
+1.0	they	cut	thong
+1.0	old man big	be with	beard cubit long
+1.0	Ivashko	tell	he
+0.42418022640306013	Ivashko	everything	have happen how
+0.42418022640306013	Ivashko	everything	have happen to he how
+1.0	old man	instruct	he
+1.0	man	instruct	he
+1.0	he	there lie	man so tall
+1.0	he	lie	man tall
+1.0	he	stretch from	corner
+1.0	he	lie	man
+1.0	he	get to	Russia
+1.0	he	there lie	man tall
+1.0	he	there lie	man
+0.270954568891561	he	lie in	house
+1.0	he	lie man in	house
+1.0	he	stretch from	corner to corner
+1.0	you	must ask	he
+1.0	he	lie	man so tall
+1.0	he	there lie man in	house
+0.270954568891561	he	there lie in	house
+1.0	he	enter	it
+1.0	Ivashko	come to	little house
+1.0	Ivashko	come to	house
+1.0	I	get to	Russia
+1.0	they	have come by	themselves
+1.0	house	stand on	chicken leg
+1.0	little house	stand on	chicken leg
+1.0	little house house	live	Baba Yaga
+1.0	house house	live	Baba Yaga
+1.0	he	will take out	you
+1.0	she	have	eagle
+1.0	good youth	come to	house
+1.0	youth	come to	house
+1.0	youth	come to	little house
+1.0	good youth	come to	little house
+1.0	Baba Yaga	cry	fie
+1.0	he	enter	it
+0.7547443884135225	I	come by	order of giant ask for you eagle
+0.7547443884135225	I	come by	order ask for you powerful eagle
+0.7547443884135225	I	come by	order ask
+1.0	he	take up	I
+0.7547443884135225	I	come by	order of giant ask
+0.7547443884135225	I	come by	order of mighty giant ask for you powerful eagle
+0.7547443884135225	I	come by	order of mighty giant ask
+0.7547443884135225	I	come by	order of mighty giant ask for you eagle
+1.0	Ivashko	say	little grandmother
+0.7547443884135225	I	come by	order ask for you eagle
+0.7547443884135225	I	come by	order of giant ask for you powerful eagle
+1.0	Ivashko	say	grandmother
+1.0	key	go beyond	seven door
+1.0	you	sit on	he
+1.0	you	open	last door
+1.0	you	open	door
+1.0	meat	time	he look back
+1.0	Baba Yaga	tell	he
+1.0	he	sit on	eagle
+1.0	Ivashko	give	piece of meat
+1.0	Ivashko	give	piece
+1.0	Ivashko	give	he
+0.6134776345849086	Ivashko	piece of	meat
+1.0	he	give meat to	eagle
+0.7149815851316944	eagle	meat	he bad
+1.0	he	give meat often to	eagle
+1.0	he	give often	meat
+1.0	he	give	meat
+1.0	eagle	pluck	piece
+1.0	eagle	drag out	he
+1.0	eagle	pluck piece from	Ivashko 's shoulder
+1.0	eagle	eat	it
+1.0	Ivashko	from	shoulder
+1.0	eagle	pluck	piece of flesh
+0.9504698398361083	eagle	piece of	flesh
+1.0	Ivashko	get down off	eagle
+1.0	he	take	maiden
+1.0	he	take	maiden of golden kingdom
+1.0	they	begin	live happily together
+1.0	he	take maiden from	he brother
+1.0	they	begin	live together
+1.0	he	take	maiden of kingdom
+1.0	they	begin	live
+1.0	I	be at	they wedding

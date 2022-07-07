@@ -1,0 +1,15 @@
+1	1	| dragon | he | he | the dragon | He | his | he | he | he | dragon | the dragon | the dragon | him | he | he | he | the wicked dragon | the dragon | the dragon | the dragon | him | dragon | the dragon | himself | your | you | The dragon | he | him | him | the dragon | me | I | I | the dragon | the dragon | he | the dragon | you | your | The dragon | him | him |
+1	1	| princess | the tsar 's daughter | her | her | her | she | a beauty | her | the princess | The princess | her | The princess | her | She | her | their daughter | her | The princess | the princess | she | her | her | the princess |
+1	1	| tsar | tsar | father | tsar | her father | the tsar | his | the tsar | tsar |
+1	0	| princess' dog | a little dog that had followed her to the dragon 's lair | dog | the dog |
+1	1	| tsarina | mother | tsarina | tsarina |
+1	0	| who is stronger | who in this world was stronger than the dragon |
+1	0	| dragon's statement | a tanner in the city of Kiev was stronger than he | this |
+1	1	| Nikita | a tanner in the city of Kiev | Nikita the Tanner | him | Nikita the Tanner | Nikita | his | he | him | he | his | he | him | he | him | him | Nikita | him | Nikita himself | he | He | himself | him | Nikita | Nikita | I | he | Nikita | he | Nikita | Nikita the Tanner | you | you | Nikita | He | Nikita | Nikita | Nikita | his |
+1	0	| tsar's coming | the tsar went in person to beg Nikita the Tanner to free his land from the wicked dragon and rescue the princess | the tsar in person had come to see him |
+1	0	| his hands | his hands | his hands |
+1	0	| children | five thousand little children | them | their | The little children |
+1	0	| children's tears | their tears | tears | theirs |
+1	0	| Nikita's tears | tears |
+1	0	| the other | the other |
+1	0	| those who do not know what it is | those who do not know what it is |

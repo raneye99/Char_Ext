@@ -1,0 +1,199 @@
+1.0	I	amuse	you
+1.0	it	be	wonderful
+1.0	it	be	tale
+1.0	it	be	wonderful tale
+1.0	time	be	bad
+1.0	he	get	money
+1.0	he	could chase away	he misery
+1.0	he	on get	money
+1.0	Shabarsha	set off for	millpond
+1.0	I	can catch fish at	rate
+1.0	I	will sell	they
+1.0	I	will have	money
+1.0	I	will make	one
+1.0	he	sit down on	shore
+1.0	he	ask	miller
+1.0	boy	be in	black shirt
+1.0	boy	jump out of	water
+1.0	I	cleanse	pond of you devil
+1.0	I	cleanse	pond of all you devil
+1.0	I	tell	grandfather
+1.0	Shabarsha	go to	he work
+1.0	Shabarsha	go back to	he work
+1.0	I	play	trick
+1.0	I	play trick on	you
+1.0	you	curse	one
+1.0	you	will bring	gold
+1.0	you	will bring	silver
+1.0	you	will bring	I
+1.0	he	have dig	it
+0.5832435855590061	hat	full of	gold
+1.0	imp	dive back into	water
+1.0	imp	dive into	water
+1.0	I	should wrestle with	likes
+1.0	I	should wrestle with	likes of you
+1.0	he	be rest in	ravine
+1.0	he	be rest under	bush
+1.0	I	can call out	he
+1.0	imp	find	bear
+1.0	imp	whack	he
+1.0	imp	go into	ravine
+1.0	Misha	grab imp	bone crack
+1.0	Misha	rise up on	he hind leg
+1.0	Misha	grab imp	he bone crack
+1.0	Misha	rise up on	he leg
+1.0	Misha	grab	imp
+1.0	he	run to	man
+1.0	he	run to	old man
+0.08417186681517996	he	force out of	bear 's claw
+1.0	he	force	himself
+1.0	he	run to	man in water
+1.0	bear	out of	claw
+1.0	old man	be in	water
+1.0	he	run to	old man in water
+0.8313639508632585	Shabarsha	have	Misha
+0.8313639508632585	Shabarsha	have	brother
+0.8313639508632585	Shabarsha	have	younger brother
+0.8313639508632585	Shabarsha	have brother in	he fright
+1.0	I	would	would have have start
+1.0	it	would	would have have start
+1.0	I	wrestle	Shabarsha
+1.0	foot race	be with	shabarsha
+1.0	boy	be in	red hat
+1.0	boy	so come up	up Shabarsha
+1.0	boy	so more come up	up Shabarsha
+1.0	boy	more come up	up Shabarsha
+1.0	boy	so once come up	up Shabarsha
+1.0	boy	come up	up Shabarsha
+1.0	boy	so once more come up	up Shabarsha
+1.0	boy	once more come up	up Shabarsha
+1.0	boy	once come up	up Shabarsha
+1.0	shabarsha	reply	why should I race
+1.0	grandfather	have	word
+1.0	shabarsha	reply	why should I race with likes
+1.0	should I race	be with	likes of you
+1.0	he	repeat	he grandfather 's word
+1.0	shabarsha	reply	why should I race with likes of you
+1.0	shabarsha	reply	should I race with likes
+1.0	shabarsha	reply	should I race
+1.0	shabarsha	reply	should I race with likes of you
+1.0	my little brother	will leave	you
+1.0	my brother	will leave behind	you
+1.0	my little brother	will leave behind	you
+1.0	my little brother	will leave far behind	you
+1.0	my	brother	Bunny
+1.0	my brother	will leave	you
+1.0	my brother	will leave far behind	you
+1.0	he	lie in	grass
+1.0	he	want	rest
+1.0	he will race	be with	you
+1.0	he	will race with	you
+1.0	imp	touch	he
+1.0	hare	jump up with	imp right
+1.0	hare	jump up with	imp right behind he
+1.0	I	come up with	you
+1.0	I	come up with	even you
+1.0	he	say to	water spirit
+1.0	shabarsha	take	he club
+1.0	spark	fall from	my eye
+1.0	I	could get up from	ground
+1.0	I	could hardly get up from	ground
+1.0	imp	set off for	Shabarsha
+1.0	imp	put	it
+1.0	imp	take	club
+1.0	we	try	one
+1.0	it	fly higher	black dot in sky
+1.0	it	fly higher	dot in sky
+1.0	it	fly higher and higher	just black dot in sky
+1.0	it	fly	just dot in sky
+1.0	it	be just dot in	sky
+1.0	it	fly	dot
+1.0	it	be dot in	sky
+1.0	it	be	dot
+1.0	it	fly higher and higher	just dot in sky
+1.0	devil	throw	club
+1.0	it	fly higher and higher	black dot in sky
+1.0	black dot	be in	sky
+1.0	it	fly higher	just dot in sky
+1.0	it	fly higher and higher	dot in sky
+1.0	it	fly	just dot
+1.0	it	fly	just black dot in sky
+1.0	it	be black dot in	sky
+1.0	it	fly higher	just dot
+1.0	it	be	just black dot
+1.0	it	fly	black dot in sky
+1.0	it	fly higher and higher	black dot
+1.0	it	fly	black dot
+1.0	it	fly higher	just black dot
+1.0	it	fly higher and higher	just dot
+1.0	it	be	black
+1.0	it	fly higher and higher	just black dot
+1.0	it	fly higher	dot
+1.0	it	fly higher	black dot
+1.0	it	be	just dot
+1.0	it	be	black dot
+1.0	it	fly higher and higher	dot
+1.0	it	fly higher	just black dot in sky
+1.0	it	fly	dot in sky
+1.0	it	fly	just black dot
+1.0	it	be just black dot in	sky
+1.0	they	wait	it come back to earth
+1.0	they	wait	it come to earth
+1.0	they	wait impatiently	it come
+1.0	they	wait	it come
+1.0	it	come to	earth
+1.0	they	wait impatiently	it come back
+1.0	they	wait	it come back
+1.0	it	come back to	earth
+1.0	they	wait impatiently	it come back to earth
+1.0	they	wait impatiently	it come to earth
+1.0	it	be	heavy
+1.0	he	begin	gaze
+1.0	he	lean on	it
+1.0	he	begin	gaze at sky
+0.34918140689127997	he	stand on	toe of one foot
+1.0	he	stand	it
+0.34918140689127997	he	stand on	toe
+1.0	he	lean with	he palm
+1.0	I	will throw club at	it
+1.0	I	will throw	club
+1.0	my brother	be sit up	there
+1.0	my	brother	blacksmith
+1.0	devil	grab	club
+1.0	devil	dive to	he grandfather
+1.0	devil	dive back to	he grandfather
+1.0	they	drag	money
+1.0	Shabarsha	nearly throw	he club
+1.0	grandfather	hear from	he grandson
+1.0	he	get	afraid
+0.08888763875480499	Shabarsha	nearly throw out of	sight
+1.0	Shabarsha	throw	he club
+1.0	they	drag money out of	pool
+1.0	he	get	seriously afraid
+1.0	he	order	they
+0.08888763875480499	Shabarsha	throw out of	sight
+1.0	money	buy off	he
+1.0	hat	be	marvel
+1.0	it	be	empty
+1.0	I	have put money in	it
+1.0	I	have put	you money
+1.0	it	be	still empty
+1.0	I	have put	money
+1.0	he	be still weave	line
+1.0	he	be weave	line
+1.0	Shabarsha	have	hat
+1.0	imp	start with	chest
+1.0	imp	start with	secret chest
+1.0	he	pour in	it
+1.0	he	have fill	it
+1.0	laborer	have live in	glory
+1.0	laborer	have live since	then
+1.0	laborer	have live since	time
+1.0	I	come mead with	they
+0.4735073641878579	I	come with	they
+1.0	they	invite	I
+1.0	I	come	beer
+1.0	I	come beer with	they
+1.0	I	come	mead
+1.0	mead	be	bitter
+1.0	beer	be	cloudy

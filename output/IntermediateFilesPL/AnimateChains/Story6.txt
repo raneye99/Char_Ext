@@ -1,0 +1,18 @@
+1	1	| Ivanko's father | a wealthy peasant | his | The peasant | his | he | he | His | him | the peasant | the peasant | the peasant | I | father | you | the peasant | He | father | You yourself | I | the peasant | himself | me | I | I | he | he | the peasant | the peasant | father | you |
+1	1	| Ivanko's mother | his wife | the wife | her | her | she | his mother | his mother | his wife | she | her | His wife | she |
+1	1	| bear | bear | The bear | him | him | the bear | bear | him |
+1	1	| Ivanko | a son | This son | a man down to the waist and a bear below the waist | his | him | Ivanko the Bearlet | Ivan | he | his | her son | this freak | a son | this son | Bearlet | you | I | you | Ivanko the Bearlet | him | He | he | you | you | me | me | I | me | You | a clever fellow | I | Ivanko the Bearlet | a guard | the guard | him | him | my | Ivanko | me | I | this fool | he | him | Ivanko | him | him | Ivanko the Bearlet | you | Bearlet | I | I | Bearlet | you | you | Ivanko | I | I | the Bearlet | me | Ivanko | me | I | you | you | The Bearlet | his | he | I | you | you | Ivanko | my | Ivanko | He | he | him | he | you | your | my | my | I | Ivanko | his | Ivanko the Bearlet | my laborer | my laborer |
+1	0	| a sheep | a sheep | one | Whichever one stares at you | one sheep | whichever one stared at me |
+1	0	| all the sheep | the sheep | all of them | them all | them | them all | all of them , without exception |
+1	1	| thieves | thieves | Thieves | they | they | they | the thieves | the thieves |
+1	0	| dogs | dogs | the dogs | the dogs |
+1	0	| many devils | many devils | they | you devils | you | we | we |
+1	1	| Devil | a little devil | you | I | my | the little devil | he | he | I | me | you | a nimble fellow | you | you | you | the devil | he | you | you | you | the devil | he | his | I | you | The devil | the devil | the little devil | He | he | I | The devil | his | he | he | his | brother | the little devil | I | the devil | I | I | The little devil | the devil | He | the devil | a laborer for you |
+1	1	| Devil's grandfather | my grandfather | Grandfather | he | his grandfather | Grandfather | he | grandfather | his | Grandfather | he |
+1	1	| hare | he | him | He | a hare | hare | The hare | him |
+1	0	| there behind a bush | there behind a bush |
+1	0	| a bush | a bush |
+1	0	| a bush | a bush |
+1	0	| one condition - if you lag behind | one condition - if you lag behind , I will kill you |
+1	0	| he rode so long that finally the horse collapsed under him | he rode so long that finally the horse collapsed under him | that |
+1	0	| fill my hat with gold | fill my hat with gold , and work for a year as my laborer | that |

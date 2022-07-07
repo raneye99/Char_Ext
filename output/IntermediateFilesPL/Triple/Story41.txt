@@ -1,0 +1,481 @@
+1.0	father	have	blessing
+1.0	he	look for	he mother
+1.0	son	crave	he father 's blessing
+1.0	eldest son	crave	he father 's blessing
+1.0	he father	give	he blessing
+1.0	he father	give	he
+1.0	he	obtain	he father 's blessing
+1.0	father	have	blessing
+1.0	he	too obtain	he father 's blessing
+1.0	son	say to	he father
+1.0	youngest son	say to	he father
+1.0	you	bless	I
+1.0	he father	give	he blessing
+1.0	he father	so give	he
+1.0	he father	give	he
+1.0	he father	so give	he blessing
+1.0	Prince Ivan	choose	steed
+1.0	I	put	you
+1.0	I	give	slap with other
+1.0	slap	be with	other
+1.0	that	be	all
+1.0	I	give	it
+1.0	I	give	slap
+1.0	woman	run down	by-street
+1.0	old woman	run down	by-street
+1.0	she	take	he
+1.0	she	show	spot
+1.0	she	show	he
+1.0	she	show	certain spot
+1.0	Prince Ivan	dig up	it
+1.0	Prince Ivan	see	iron plate
+1.0	Prince Ivan	see iron plate with	twelve padlock on it
+1.0	Prince Ivan	see iron plate with	twelve padlock
+1.0	he	immediately break off	padlock
+1.0	he	tear open	door
+1.0	he	break off	padlock
+1.0	he	follow	path
+1.0	step	begin	neigh
+1.0	step	so begin	neigh
+1.0	approach step	so begin	neigh
+1.0	approach step	begin	neigh
+1.0	Prince Ivan	put on	armor fit
+1.0	Prince Ivan	bridle	horse
+1.0	Prince Ivan	saddle	it
+1.0	Prince Ivan	put on	armor fit for hero
+1.0	he	give	woman money
+1.0	he	say to	she
+1.0	he	give	old woman money
+1.0	he	mount	he steed
+1.0	it	be	impossible
+1.0	he	last come to	mountain
+1.0	he	do ride at_time	time
+1.0	he	come to	mountain
+1.0	he	do ride	he come to mountain
+1.0	it	be	utterly impossible
+1.0	he	do ride	he come
+1.0	he	do ride	last he come to mountain
+1.0	it	get up	it
+1.0	he	do ride at_time	long time
+1.0	he	do ride	last he come
+1.0	he brother	presently come	way
+1.0	he brother	come	way
+1.0	they	come to	iron rock
+1.0	hundred pood	be in	weight
+1.0	they	ride on	together
+1.0	they	ride	they come
+1.0	they	ride	they come to iron rock
+1.0	Prince Ivan	fling	it
+1.0	two elder brother	be	unable
+1.0	Prince Ivan	immediately appear	ladder
+1.0	two elder brother	lift	rock
+1.0	elder brother	lift	rock
+1.0	Prince Ivan	appear	ladder
+1.0	elder brother	be	unable
+1.0	Prince Ivan	let	drop
+1.0	Prince Ivan	give	it
+0.36632681049637295	Prince Ivan	dismount	let
+0.36632681049637295	Prince Ivan	let from	he finger
+0.36632681049637295	Prince Ivan	dismount	let from he finger
+0.36632681049637295	Prince Ivan	let from	he finger into glass
+0.36632681049637295	Prince Ivan	let from	he little finger
+0.36632681049637295	Prince Ivan	dismount	let from he finger into glass
+0.36632681049637295	Prince Ivan	dismount	let from he little finger into glass
+1.0	Prince Ivan	let	drop of blood run
+1.0	Prince Ivan	let drop from	he finger into glass
+0.36632681049637295	Prince Ivan	dismount	let from he little finger
+1.0	Prince Ivan	let drop from	he little finger into glass
+1.0	Prince Ivan	let drop from	he little finger
+1.0	Prince Ivan	let drop from	he finger
+1.0	blood	be in	glass
+0.36632681049637295	Prince Ivan	let from	he little finger into glass
+1.0	he	go	he way
+1.0	he	take	leave of they
+1.0	he	take	leave
+1.0	he	mount	hill
+1.0	fruit	of sort be	sort
+1.0	sort	sort of	bird
+1.0	Prince Ivan	do walk on	last he come to house
+1.0	Long	do walk on	he come to house
+1.0	Long	do walk on	he come
+1.0	Prince Ivan	do walk on	he come
+1.0	Long	do walk on	last he come
+1.0	Prince Ivan	do walk on	he come to house
+1.0	Long	do walk on	last he come to house
+1.0	he	come to	house
+1.0	he	come to	house
+1.0	he	last come to	house
+1.0	he	last come to	house
+1.0	he	come to	huge house
+1.0	he	last come to	huge house
+1.0	Prince Ivan	do walk on	last he come
+1.0	king	have	daughter
+1.0	Prince Ivan	round	enclosure
+1.0	king 's daughter	come on to	balcony
+1.0	king 's daughter	call out to	he
+1.0	chink	be in	enclosure
+1.0	touch	be with	you little finger
+1.0	it	will become	door
+1.0	king 's daughter	call out	see
+1.0	king	have	daughter
+1.0	maiden	receive kindly	he
+1.0	maiden	receive	he
+1.0	Prince Ivan	go into	house
+1.0	maiden	give	he
+1.0	he	tell	she
+1.0	you	mother	Prince Ivan
+1.0	he	will kill	you
+1.0	he	see	I
+1.0	he sword	pood in	weight
+1.0	fifty pood	be in	weight
+1.0	he	sword	fifty pood in weight
+1.0	you	can lift	it
+1.0	you	may venture	go
+1.0	you	may venture	so
+1.0	Prince Ivan	do lift	sword
+1.0	he	toss high	it
+1.0	he	toss	it
+1.0	he	so go on	he way
+1.0	he	so go again on	he way
+1.0	he	go on	he way
+1.0	he	go again on	he way
+1.0	he	come to	second house
+1.0	he	come to	house
+1.0	he	know now	look for door
+1.0	he	know	where look
+1.0	he	know now	where look
+1.0	he	know	look for door
+1.0	he	know now	where look for door
+1.0	he	know	where look for door
+1.0	he	know now	look
+1.0	he	look for	door
+1.0	he	know	look
+1.0	he	here do try	he strength
+1.0	he	here also do try	he strength
+1.0	he	do try	he strength
+1.0	he	also do try	he strength
+1.0	time	come	deathless arrive
+0.6399519129670479	time	come for	Koshchei
+1.0	mother	hide	she son
+1.0	mother	hide away	she son
+1.0	deathless	enter	house
+1.0	man	have come to	house
+1.0	russian man	have come to	house
+1.0	man	now have come to	house
+1.0	russian man	now have come to	house
+1.0	one	with	eye
+1.0	Prince Ivan	have	mother
+1.0	you	address	he
+1.0	you	answer	Prince Ivan 's mother
+1.0	you	get	air
+1.0	she	draw to	Koshchei
+1.0	you	death	o Koshchei
+1.0	she	draw nigh to	Koshchei
+1.0	you	get	air up you nostril
+1.0	death	be	such
+1.0	my death	be in	egg
+1.0	egg	be in	duck
+1.0	duck	be in	hare
+1.0	oak	be casket under	oak
+1.0	hare	be in	casket
+1.0	oak	be	casket
+1.0	time	go	look for Koshchei 's death
+1.0	time	go	look
+1.0	Koshchei	for	death
+1.0	mother	have	blessing
+1.0	Prince Ivan	receive	he mother 's blessing
+1.0	he	feel	mortally hungry
+1.0	he	feel	hungry
+1.0	he	feel at	last
+1.0	he	kill	it
+1.0	he	see	crow
+1.0	he	load	he gun
+1.0	he	go	shoot
+1.0	Prince Ivan	think	matter over
+1.0	Prince Ivan	think	matter
+1.0	he	come to	sea
+1.0	young pike	suddenly jump at	moment
+1.0	pike	suddenly jump out of	water
+1.0	pike	fall on	strand
+1.0	young pike	fall on	strand
+1.0	pike	jump out of	water
+1.0	young pike	jump at	moment
+1.0	pike	suddenly jump at	moment
+1.0	pike	jump at	moment
+1.0	young pike	jump out of	water
+1.0	young pike	suddenly jump out of	water
+1.0	he	think	dead with hunger
+1.0	he	be half dead with	hunger
+1.0	he	be	half dead
+1.0	he	think	dead
+1.0	he	think	half dead
+1.0	he	catch	hold of it
+1.0	I	now have	something eat
+1.0	he	catch	hold
+1.0	I	have	something eat
+1.0	he	think	half dead with hunger
+1.0	he	be dead with	hunger
+1.0	he	be	dead
+1.0	he	spare	pike
+1.0	he	spare also	pike
+1.0	he	so spare also	little pike
+1.0	he	so spare	pike
+1.0	he	so spare	little pike
+1.0	he	so spare also	pike
+1.0	he	spare	little pike
+1.0	he	spare also	little pike
+1.0	he	be cross	sea
+1.0	he	sit down on	shore
+1.0	pike	lay	herself
+1.0	Prince Ivan	walk	he be go
+1.0	he	be go over	bridge
+1.0	Prince Ivan	walk	he be go over bridge
+1.0	Prince Ivan	walk along	she back
+1.0	Koshchei	have	death
+1.0	he	find	casket
+0.164266332496663	he	find casket	jump
+1.0	he	jump	hare
+1.0	he	open	it
+1.0	hare	be	how stop
+1.0	hare	be	stop
+1.0	Prince Ivan	be	frighten
+0.36632681049637295	Prince Ivan	be terribly frighten	have let
+1.0	wolf	catch	it
+1.0	Prince Ivan	be	terribly frighten
+0.36632681049637295	Prince Ivan	be frighten	have let
+1.0	Prince Ivan	let	hare escape
+1.0	wolf	rush after	hare
+1.0	he	have refrain from	killing
+1.0	wolf	bring	it
+1.0	Prince Ivan	give up	himself
+1.0	he	seize	hare
+1.0	he	cut	it open
+1.0	he	have	such fright
+1.0	he	seize hare with	great delight
+1.0	he	have	fright
+1.0	he	seize hare with	delight
+1.0	he	shoot so again	all
+1.0	he	shoot	all
+1.0	he	shoot again	all
+1.0	he	fire after	it
+1.0	crow	set off after	duck
+1.0	crow	catch	it
+1.0	crow	be with	she little crow
+1.0	crow	bring	it
+1.0	Prince	get	hold
+1.0	Prince	get	hold of egg
+1.0	Prince	be	pleased
+1.0	Prince	be	greatly pleased
+1.0	he	go on	he way
+1.0	he	come to	sea
+1.0	he	wash	egg
+1.0	it	drop into	water
+1.0	he	be get	it
+1.0	he	however be get	it
+1.0	Prince	give up	himself
+1.0	Prince	again give up	himself
+1.0	sea	suddenly become	violently agitate
+1.0	sea	become	violently agitate
+1.0	sea	become	agitate
+1.0	pike	bring	he
+1.0	sea	suddenly become	agitate
+1.0	pike	bring	egg
+1.0	it	moreover stretch	itself
+1.0	it	stretch	itself
+1.0	he	set out for	for he mother
+1.0	he	set out again for	for he mother
+1.0	Prince Ivan	walk along	it
+1.0	Prince Ivan	walk to	other side
+1.0	Prince Ivan	walk to	side
+1.0	she	hide	he
+1.0	she	hide again	he
+1.0	Prince Ivan	have	mother
+1.0	Prince Ivan	squeeze	egg
+1.0	Koshchei	fall on	he knee
+1.0	Koshchei	fall before	he
+1.0	's	be	friend
+1.0	world	will lie at	we foot
+1.0	he	smash	egg
+1.0	he	koshchei	deathless die
+1.0	King	have	daughter
+0.010717726303177022	King 's daughter	be	where have see on he way
+1.0	they	take too	she
+0.010717726303177022	King 's daughter	be	have see on he way
+1.0	they	come on	they way
+0.010717726303177022	they	come	have see
+0.010717726303177022	they	come	have see on he way
+1.0	they	take	she
+0.010717726303177022	they	come	where have see on he way
+0.010717726303177022	King 's daughter	be	have see
+0.010717726303177022	King 's daughter	be	where have see
+0.010717726303177022	they	come	where have see
+1.0	Ivan 's brother	be still wait for	he
+1.0	Ivan 's brother	be wait for	he
+1.0	Ivan	have	brother
+1.0	I	have forget	diamond ring
+1.0	I	have forget	marriage robe
+1.0	he mother	go down	ladder
+1.0	he	consent	do
+1.0	he	consent	do so
+0.08525081604622908	they	use to	he mother
+1.0	they	use threat to	he mother
+1.0	they	use	such threat
+1.0	they	use	threat
+1.0	they	reach	they native country
+1.0	they	reach	they country
+1.0	they father	see	he two son
+1.0	he	be	grieve
+1.0	he	be	still grieve
+1.0	they father	see	he wife
+1.0	he	be grieve about	Prince Ivan
+1.0	he	still be grieve about	Prince Ivan
+1.0	they father	be	delighted
+1.0	Prince Ivan	get	wedding dress
+1.0	Prince Ivan	return to	home
+1.0	Prince Ivan	return to	home of he betrothed
+1.0	he	toss	ring
+1.0	he	toss ring to	other
+1.0	he	toss ring from	one hand
+1.0	youth	carry down	he
+1.0	youth	immediately carry down	he
+1.0	he	go on to	he own country
+1.0	he	go on to	he country
+1.0	mother	be in	you country
+1.0	he	there take up	he quarter
+1.0	he	take up	he quarter
+1.0	he	ask	she
+1.0	we queen	be keep in	prison
+1.0	we queen	be	keep
+1.0	we queen	be keep by	Koshchei
+1.0	we queen	be	keep in prison by Koshchei
+1.0	she three son	look for	she
+1.0	she son	look for	she
+1.0	she three son	go	look for she
+1.0	she son	go	look
+1.0	she three son	go	look
+1.0	she son	go	look for she
+1.0	King	be very unhappy about	he
+1.0	King	be	very unhappy
+1.0	King	be unhappy about	he
+1.0	King	be	unhappy
+1.0	she	want	it
+1.0	she	just want	it
+1.0	she	fetch first	she betrothal ring
+1.0	eldest son	marry	she
+1.0	son	marry	she
+1.0	she	fetch	she betrothal ring
+1.0	you	make	one
+1.0	woman	immediately dress	herself
+1.0	old woman	dress	herself
+1.0	woman	hasten to	King
+1.0	old woman	immediately dress	herself
+1.0	woman	so dress	herself
+1.0	old woman	so immediately dress	herself
+1.0	old woman	so dress	herself
+1.0	woman	so immediately dress	herself
+1.0	woman	dress	herself
+1.0	old woman	hasten to	King
+0.6616321263793618	you	be	welcome
+1.0	she	run	home
+1.0	Prince Ivan	set	work
+1.0	woman	tell	Prince Ivan
+1.0	Prince Ivan	set	work at ring
+1.0	old woman	tell	Prince Ivan
+1.0	Ivan	lay down	sleep
+1.0	Ivan	trouble	himself
+1.0	Ivan	trouble little	himself
+1.0	Ivan	trouble very little	himself
+1.0	ring	be there at_time	time
+1.0	she	scold	he
+1.0	he	only laugh at	old woman
+1.0	she	be tremble over	all
+1.0	he	laugh at	woman
+1.0	he	laugh at	old woman
+1.0	he	only laugh at	woman
+1.0	she	be tremble	all
+1.0	you	have do for	I
+1.0	woman	cry	she fall asleep
+1.0	woman	cry	she fall
+1.0	old woman	cry	she fall
+1.0	old woman	cry	she fall asleep
+1.0	Prince Ivan	get	say
+1.0	Prince Ivan	get up in	morning
+1.0	Prince Ivan	get in	morning
+1.0	Prince Ivan	get up	say
+1.0	Prince Ivan	early get up	say
+1.0	Prince Ivan	early get up in	morning
+1.0	Prince Ivan	awaken	she
+1.0	Prince Ivan	early get	say
+1.0	Prince Ivan	early get in	morning
+1.0	old woman	carry off	ring
+1.0	old woman	be	overjoyed
+1.0	woman	carry off	ring
+1.0	woman	be	overjoyed
+1.0	bride	be	delighted
+1.0	bride	be delighted with	it
+1.0	they	give	dish full of gold
+1.0	they	give	woman
+1.0	they	give	old woman
+1.0	she	take	only one ducat
+1.0	they	give	dish full
+0.5832435855590061	dish	full of	gold
+1.0	they	give	dish
+1.0	you	do take	so little
+1.0	you	do take	little
+1.0	you	will give	it
+1.0	she lover	fetch	she she wedding-dress
+1.0	bride	tell	she lover
+1.0	she lover	fetch	else
+1.0	woman	succeed in	matter
+1.0	old woman	well succeed in	matter
+1.0	Prince Ivan	to	aid
+1.0	old woman	succeed too in	matter
+1.0	woman	succeed too in	matter
+1.0	woman	take	she wedding-dress
+1.0	old woman	take	she wedding-dress
+1.0	old woman	thanks to	Prince Ivan 's aid
+1.0	old woman	succeed in	matter
+1.0	woman	well succeed too in	matter
+1.0	woman	well succeed in	matter
+1.0	old woman	well succeed too in	matter
+1.0	she	afterwards take	she seamless shoe
+1.0	she	afterwards take also	she shoe
+1.0	she	afterwards take	she shoe
+1.0	she	take	she seamless shoe
+1.0	she	take	she shoe
+1.0	she	take also	she shoe
+1.0	Prince Ivan	say to	old woman
+1.0	Prince Ivan	say to	woman
+1.0	Ivan	immediately put on	he princely raiment
+1.0	Ivan	go out of	house
+1.0	Ivan	put on	he princely raiment
+1.0	Ivan	put on	he raiment
+1.0	Ivan	immediately put on	he raiment
+1.0	old woman	fall at	he foot
+1.0	woman	fall at	he foot
+1.0	he	go into	church
+1.0	he	get marry to	she
+1.0	he	stand up	alongside of bride
+1.0	he	stand up	alongside
+1.0	he	get	marry
+1.0	he	be	escort back to palace
+1.0	he	be	then escort
+1.0	he	be	escort back
+1.0	he	be	then escort back to palace
+1.0	he	be	escort
+1.0	proper bridegroom	meet	they
+1.0	he	be	then escort back
+1.0	bridegroom	meet	they
+1.0	he bride	be	escort
+1.0	he bride	be	escort home
+1.0	he bride	be	escort together
+1.0	he bride	be	escort home together
+1.0	he	banish	two prince
+1.0	he	be	delighted
+1.0	he	banish	two elder prince
+1.0	he	make ivan heir to	throne
+1.0	he	see	Prince Ivan
+1.0	he	see again	Prince Ivan
+1.0	he	be delighted as to	king
+1.0	he	make	Ivan heir
+1.0	wedding feast	have	have solemnize

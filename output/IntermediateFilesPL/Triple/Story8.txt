@@ -1,0 +1,216 @@
+1.0	they	like	walk
+1.0	they	like	walk there
+1.0	they garden	be	big
+1.0	they	walk at	night
+1.0	they	like	walk there at night
+1.0	they	like	walk at night
+1.0	they	walk there at	night
+1.0	dragon	visit	garden
+1.0	king	have	daughter
+1.0	king 's daughter	tarry in	garden
+1.0	he maidservant	look for	they
+1.0	he maidservant	look in	garden
+1.0	king	proclaim	great multitude of people
+1.0	king	proclaim	state of emergency
+1.0	king	proclaim state at_time	morning
+1.0	king	proclaim multitude at_time	morning
+1.0	king	proclaim	state
+1.0	king	proclaim	multitude
+1.0	king	proclaim state at_time	next morning
+1.0	king	proclaim	great multitude of people gather
+1.0	king	proclaim	great multitude
+1.0	king	proclaim	multitude of people
+1.0	king	proclaim	multitude of people gather
+1.0	king	proclaim multitude at_time	next morning
+1.0	erema	be	drunkard
+1.0	they	set out	look
+1.0	they	look for	princess
+1.0	frolka stay-at-home	be	drunkard
+1.0	they	set out	look for princess
+1.0	they	come to	forest
+1.0	they	walk	they come
+1.0	they	walk	they come to forest
+1.0	they	come to	deep forest
+1.0	they	walk	they come to deep forest
+1.0	they	be	overwhelm
+1.0	they	be overwhelm by	drowsiness
+1.0	frolka stay-at-home	shove pinch into	he nose
+1.0	frolka stay-at-home	shove	pinch
+1.0	frolka stay-at-home	draw snuffbox out of	he pocket
+1.0	frolka stay-at-home	draw	snuffbox
+1.0	frolka stay-at-home	shove	pinch of tobacco
+1.0	we	keep	go
+1.0	they	be	five-headed
+1.0	they	come to	enormous house
+1.0	they	be dragon in	house
+1.0	they	finally come to	house
+1.0	they	be five-headed dragon in	house
+1.0	five-headed dragon	be in	house
+1.0	they	finally come to	enormous house
+1.0	they	come to	house
+1.0	they	be	dragon
+1.0	they	be	five-headed dragon
+1.0	frolka stay-at-home	push away	soldier
+1.0	frolka stay-at-home	push	soldier
+1.0	frolka stay-at-home	push away	erema
+1.0	frolka stay-at-home	push	erema
+1.0	he	snuff up	tobacco
+1.0	he	smash	it
+1.0	they	enter	yard
+1.0	they	sit in	circle
+1.0	maiden	come out of	house
+1.0	he	happen	be
+1.0	you	be	lucky
+1.0	he	happen	be away
+1.0	I	do have	enemy
+1.0	I	do have	enemy in world
+1.0	enemy	be in	world
+1.0	he	bury body in	ground
+1.0	he	bury	body
+1.0	he	put	they
+0.15647219362686393	maiden	be	overjoyed
+1.0	maiden	say to	three man
+1.0	maiden	say to	three brave man
+1.0	they	be	glad
+1.0	Frolka	tell	she
+1.0	king	have	eldest daughter
+1.0	princess	invite	they
+1.0	princess	give	drink
+1.0	princess	give	they
+1.0	princess	give	meat
+1.0	they	rescue	she sister
+1.0	princess	beg	they
+1.0	princess	tell	they
+1.0	it	may	may harder
+1.0	it	deal with	twelve-headed dragon
+1.0	it	deal with	dragon
+1.0	it	may	may somewhat harder
+1.0	they	finally come to	abode
+1.0	they	come to	abode
+1.0	they	come to	abode of second sister
+1.0	they	come to	abode of sister
+1.0	they	finally come to	abode of sister
+1.0	they	finally come to	abode of second sister
+1.0	they	finally find	it
+1.0	they	find	it
+1.0	they	look for	gate
+1.0	they	sit down	they have do
+1.0	they	enter	yard
+1.0	they	sit down	eat
+1.0	they	sit down	they have do before
+1.0	seven-headed dragon	come	fly
+1.0	seven-headed dragon	suddenly come	fly
+1.0	dragon	suddenly come	fly
+1.0	dragon	come	fly
+1.0	he	begin	fight with dragon in one stroke
+1.0	he	fight with	dragon
+1.0	he	begin	fight with dragon
+1.0	he	begin	fight in one stroke
+1.0	he	begin	fight
+1.0	he	fight in	one stroke
+1.0	king	have	second daughter
+0.6389798485513236	king 's daughter	sit on	sofa
+0.6389798485513236	king 's second daughter	sit on	sofa
+1.0	they	pass through	one room
+1.0	they	pass through	second
+1.0	they	tell	she
+1.0	she	offer	food
+1.0	they	rescue	she youngest sister
+1.0	they	rescue	she sister
+1.0	she	offer	drink
+1.0	she	offer	they
+1.0	she	beg	they
+1.0	fear	be in	my heart
+1.0	God	will help	I
+1.0	they	come to	steep ravine
+1.0	they	walk	they come to ravine
+1.0	they	walk	they come
+1.0	they	walk	they come to very steep ravine
+1.0	they	come to	ravine
+1.0	they	walk	they come to steep ravine
+1.0	they	come to	very steep ravine
+1.0	frolka	remain	standing on he foot
+1.0	he two companion	fall to	ground
+1.0	he companion	fall to	ground
+1.0	frolka	standing on	he foot
+1.0	he two companion	fall from	fear
+1.0	frolka	remain	standing
+1.0	he companion	fall from	fear
+1.0	Frolka	say to	they
+1.0	he	see	they
+1.0	twelve-headed dragon	live in	castle
+1.0	you	be go to	evil place
+1.0	you	be go to	place
+1.0	dragon	live in	castle
+1.0	frolka	get through	through courtyard
+1.0	frolka	be with	he companion
+1.0	old man	bring	they
+1.0	man	bring	they
+1.0	she	jump off	she bed
+1.0	she	quickly jump off	she bed
+1.0	they	tell	she
+1.0	princess	offer	food
+1.0	princess	begin	make
+1.0	princess	offer	they
+1.0	princess	offer	drink
+1.0	they	suddenly see	they be prepare
+1.0	they	leave	house
+1.0	verst	at	distance
+1.0	they	see	they be prepare
+1.0	dragon	fly from	they
+1.0	dragon	fly at	verst 's distance
+1.0	he companion	meet	dragon
+1.0	king 's daughter	rush back into	house
+1.0	king	have	daughter
+1.0	king 's daughter	rush into	house
+1.0	dragon	attack	they
+1.0	Frolka	cut off	all he twelve head
+1.0	Frolka	defeat	he
+1.0	Frolka	cut off	all of he twelve head
+1.0	Frolka	cut off	all of twelve head
+1.0	Frolka	cut off	all twelve head
+1.0	Frolka	cast	they
+1.0	they	return	revel
+1.0	they	return in	they joy
+1.0	they	return to	house
+1.0	they	return	revel more
+1.0	they	return	revel even more
+1.0	they	set out on	they way
+1.0	they	thus come back to	they land
+1.0	they	thus come back to	they native land
+1.0	they	come to	they land
+1.0	they	thus come to	they land
+1.0	they	thus come to	they native land
+1.0	they	come to	they native land
+1.0	they	come back to	they land
+1.0	they	come back to	they native land
+1.0	king	be	overjoyed
+1.0	king	open	he royal treasury
+1.0	Erema	bring	basket
+1.0	soldier	bring	he knapsack
+1.0	frolka	fill	he cap
+1.0	frolka	fill first	he cap
+1.0	silver	fall into	mud
+1.0	money	drop from	cap
+0.6825589821904942	king	enough money for	you
+0.6825589821904942	king	money for	you
+0.6011602882646446	king	have too	money for you
+0.6011602882646446	king	have	enough money for you
+0.6011602882646446	king	have too	enough money for you
+0.6011602882646446	king	have	money for you
+1.0	they	do	this
+1.0	erema	begin	be still money
+1.0	erema	begin	be money
+1.0	erema	fill	he basket
+1.0	Frolka	remain with	he cap
+1.0	Frolka	remain near	royal treasury
+1.0	Frolka	pour out money for	himself
+1.0	Frolka	remain near	treasury
+1.0	Frolka	pour out	money
+1.0	he cap	be	fill
+1.0	I	be	too tired
+1.0	I	be	now tired
+1.0	he cap	be	when fill
+1.0	I	shall go on with	my story
+1.0	I	be	now too tired
+1.0	I	be	tired

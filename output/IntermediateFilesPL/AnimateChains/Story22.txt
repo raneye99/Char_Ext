@@ -1,0 +1,17 @@
+1	1	| simpleton | The simpleton | I | the simpleton | the simpleton | His | you | Your | you | you | you | The simpleton | He | The simpleton | I | I | my | I | my | I | him | Simpleton , do not eat me ; | Simpleton | The simpleton | me | I | my | the simpleton | the simpleton | his | The simpleton | my | he | The simpleton | he | him | him | him | The simpleton | his | The simpleton | me | I | him | The simpleton | He | him | him | him | The simpleton | my | the simpleton | the simpleton | The simpleton | my | He | The simpleton | the simpleton | the simpleton | him | The simpleton | my | the simpleton | him | The simpleton | my | a simpleton | a simpleton | her husband | him |
+1	0	| them | The wise brothers | the brothers | Your brothers |
+1	0	| she and her husband | They | them | they |
+1	0	| over so many people | they | the people | they | people | them |
+1	1	| His sisters in law | him | my sisters-in-law | The sisters-in-law | He | He | his | his sisters-in-law | him |
+1	0	| our wives | them |
+1	0	| red boots | red boots | red boots |
+1	0	| red boots | red boots |
+1	0	| inhabitants of the town | they |
+1	1	| the king | him | He | He | him | The king | the king | he | the king | the king | The king | him | his | him | the king | the king | he | his | he | the king | her father | Her father | he |
+1	0	| the pails | them | pails | his pails | themselves | their | We |
+1	0	| this | their | this | they | you |
+1	0	| the other ax | The ax |
+1	0	| a stick | a stick | the stick | The stick | it |
+1	0	| The king 's messengers | they |
+1	1	| daughter | her | her | Her | his daughter | she | her | the simpleton 's wife | the simpleton 's wife |
+1	0	| a barrel | the barrel | the barrel | this barrel | the barrel |

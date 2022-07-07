@@ -1,0 +1,327 @@
+1.0	he	come to	kingdom
+1.0	he	come at_time	one day
+1.0	merchant	carry	goods
+1.0	merchant	carry goods to	various province
+1.0	he	bring	cloth
+1.0	he	come to	certain kingdom
+1.0	he	bring cloth as	gift
+1.0	merchant	carry goods to	province
+1.0	he	bring	precious cloth
+1.0	he	bring cloth to	king
+1.0	I	have	beautiful daughter
+1.0	I	have	daughter
+1.0	she	be	clever
+1.0	she	be	so clever
+1.0	king	write	letter
+1.0	king	call	he guard
+1.0	king	immediately write	letter
+1.0	he	deliver	letter
+1.0	merchant	to	house
+1.0	merchant	to	daughter
+1.0	he	deliver letter to	merchant 's daughter
+1.0	he	tell	they
+1.0	merchant	have	daughter
+1.0	merchant 's daughter	prepare	go
+1.0	merchant 's daughter	burst into	tear
+1.0	maid	be full of	spite
+1.0	maid	be	full
+1.0	merchant	have	daughter
+1.0	maidservant	put	they
+1.0	maidservant	give	merchant 's daughter
+1.0	maidservant	cut out	she eye
+0.5996902132368394	say	gentleman	my maid servant have go
+1.0	my maid servant	have go to	sea
+0.5996902132368394	say	gentleman	my maid servant have go to sea
+1.0	she	come to	guard
+1.0	he	marry	maid
+1.0	he	marry maid at	once
+1.0	they	begin	live together
+1.0	they	begin	live
+1.0	king	think to	himself
+1.0	she	be	why so ignorant
+1.0	she	be	so ignorant
+1.0	she	be	ignorant
+1.0	she	be	why ignorant
+1.0	merchant	have	daughter
+1.0	she maid	have bring upon	she
+1.0	she	hear	man
+1.0	she	hear	old man
+1.0	she	say to	he
+1.0	man	take in	she
+1.0	old man	take in	she
+1.0	she	say grandfather to	man
+1.0	she	say grandfather to	old man
+0.6419802189178757	grandfather	drive out	cattle
+1.0	she	say	little grandfather
+0.633593924617174	she	say to	old man
+0.6419802189178757	little grandfather	drive out	cattle
+1.0	she	say	drive out cattle
+1.0	she	say	grandfather
+0.633593924617174	she	say to	man
+1.0	little grandfather	drive out	cattle
+1.0	she	say	drive
+1.0	he	heed	she
+1.0	he	drive away	cattle
+1.0	she	send	old man
+1.0	she	send	man
+1.0	she	send man to	shop
+1.0	none	would give	shopkeeper
+0.7096460961069851	none	give	he
+1.0	none	would give	poor shopkeeper
+1.0	none	would give	goods
+0.7950812857581874	he	none of	wealthy merchant
+0.7096460961069851	none	give	some
+1.0	none	would give	goods on credit
+0.8914684917628735	none	goods on	credit
+1.0	none	would give	he
+0.7950812857581874	he	none of	merchant
+0.9731055007546756	he	goods on	credit
+1.0	he	bring velvet to	blind maiden
+1.0	he	bring silk to	maiden
+1.0	he	bring velvet to	maiden
+1.0	he	bring	velvet
+1.0	he	bring	silk
+1.0	he	bring silk to	blind maiden
+1.0	she	say to	he
+1.0	she	sew	royal crown of velvet
+1.0	she	sew	royal crown
+1.0	she	sew	crown
+1.0	she	sew	crown of velvet
+0.6910845085223954	it	behold	it
+1.0	blind maiden	rouse	man
+1.0	blind maiden	rouse man at_time	next morning
+1.0	maiden	rouse man at_time	morning
+1.0	maiden	rouse	man
+1.0	blind maiden	rouse man at_time	morning
+1.0	maiden	rouse man at_time	next morning
+1.0	maiden	rouse	old man
+1.0	blind maiden	rouse	old man
+1.0	old man	go to	palace
+1.0	man	go to	palace
+1.0	man	go with	crown
+1.0	old man	go with	crown
+1.0	everyone	admire	it
+1.0	man	ask for	eye in payment
+1.0	man	ask for	eye
+1.0	old man	ask for	eye
+1.0	old man	ask for	eye in payment
+1.0	eye	be in	payment
+1.0	Straightway king	be	tell
+1.0	man	ask for	eye
+1.0	king	begin	bargain
+1.0	old man	ask for	eye
+1.0	man	still ask for	eye
+1.0	king	begin	bargain for it
+1.0	old man	still ask for	eye
+0.9209645203610931	old man	hold	he ground
+0.9209645203610931	man	hold	he ground
+1.0	king	cry to	he guard
+1.0	he wife	take	eye
+1.0	he	wife	queen
+1.0	he wife	give	it
+1.0	he wife	take eye from	she pocket
+1.0	king	be	overjoy
+1.0	eye	leave	palace
+1.0	eye	return to	he hut
+1.0	he	give	eye
+1.0	maiden	ask	he
+1.0	my	eye	little grandfather
+1.0	blind maiden	ask	he
+1.0	she	take	it
+1.0	she	put	it
+1.0	she	give	money
+1.0	she	send man to	shop
+1.0	she	send	man
+1.0	she	give	he
+1.0	she	ask	he
+1.0	merchant	to	daughter
+1.0	he	bring thing to	merchant 's daughter
+1.0	he	bring	thing
+1.0	she	send man to	king
+1.0	she	send	old man
+1.0	she	finish	it
+1.0	she	send	man
+1.0	she	send man to	same king
+1.0	God	only give	it
+1.0	you	get	crown
+1.0	answer	give	it
+1.0	God	give	it
+1.0	answer	only give	it
+1.0	you	be	ask
+1.0	man	come to	palace
+1.0	old man	come to	palace
+1.0	second	be	even lovelier
+1.0	crown	be	beautiful
+1.0	first crown	be	beautiful
+1.0	second	be	lovelier
+1.0	guard	cut away eye from	prisoner
+1.0	he wife	give	he
+1.0	he wife	again give	he
+1.0	guard	cut away	eye
+1.0	he wife	give	eye
+1.0	he wife	again give	eye
+1.0	king	be	overjoyed
+1.0	king	thank	she
+1.0	you	be	great
+1.0	you	get	crown
+1.0	king	ask	man
+1.0	king	ask	old man
+1.0	God	give	they
+1.0	he	leave	palace
+1.0	he	give eye to	blind maiden
+1.0	he	give	eye
+1.0	he	come to	he hut
+1.0	he	give eye to	maiden
+1.0	she	again go at	twilight
+1.0	she	again go outside	spat on eye
+1.0	she	see with	eye
+1.0	she	again go	spat
+1.0	she	go	spat
+1.0	she	go outside	spat on eye
+1.0	she	again go outside at	twilight
+1.0	she	go	spat on eye
+1.0	she	go outside at	twilight
+1.0	she	go outside	spat
+1.0	she	put	it
+1.0	she	again go	spat on eye
+1.0	she	spat on	eye
+1.0	she	go at	twilight
+1.0	she	again go outside	spat
+1.0	she	lay down	sleep
+1.0	she	lay down	sleep in hut
+1.0	she	suddenly find	herself
+1.0	she	sleep in	hut
+1.0	she	find	herself
+1.0	king	go	see
+1.0	merchant	have	daughter
+1.0	he drive	be	delighted
+1.0	he	drive into	yard
+1.0	he	sit down at	table
+1.0	she	receive hospitably	he
+1.0	she	receive	he
+1.0	he	feast	there
+1.0	place	be in	such
+1.0	he	return to	he palace
+1.0	he	say to	he queen
+1.0	it	think to	herself
+1.0	I	cut out	eye
+1.0	queen	be	full
+1.0	king	visit	maiden
+1.0	queen	be full of	spite
+1.0	king	invite	she
+1.0	she	say to	old man
+1.0	she	say to	man
+1.0	she	begin	make
+1.0	she	make	ready
+1.0	it	will	will full
+1.0	it	will	will always full
+1.0	you	will awaken in	you hut
+1.0	you	sleep in	glass house
+1.0	you	will go	sleep in glass house
+1.0	you	will awaken in	you old hut
+1.0	you	will go	sleep
+1.0	I	make	visit
+1.0	I	shall	shall kill into little piece
+1.0	I	shall	shall kill
+1.0	I	shall	shall kill into piece
+1.0	coffin	gather	my remains
+1.0	coffin	bury	they
+1.0	man	weep for	she
+1.0	old man	weep for	she
+1.0	guard	seat	she
+1.0	she	shoot	she
+1.0	king	to	palace
+1.0	she	go into	courtyard
+1.0	she	say to	guard
+1.0	merchant	have	daughter home
+1.0	she	say to	they
+1.0	they	talk to	she glibly
+1.0	they	take	merchant 's daughter home
+1.0	they	cut	she
+1.0	they	bury	she
+1.0	they	take out	she heart
+1.0	they	return to	palace
+1.0	queen	roll up	it
+1.0	queen	take	heart
+1.0	queen	meet	they
+1.0	queen	put	it
+1.0	man	sleep in	glass house
+1.0	man	awake in	hut
+1.0	man	go	sleep
+1.0	man	go	sleep in glass house
+1.0	old man	go	sleep in glass house
+1.0	old man	awake into	tear
+1.0	old man	awake in	hut
+1.0	old man	go	sleep
+1.0	man	awake into	tear
+1.0	old man	sleep in	glass house
+0.5881584201071272	he	set about	he appoint task
+0.5881584201071272	he	set about	he task
+1.0	he	dig up	she
+1.0	he	find	she
+1.0	he	put	they
+1.0	he	bury	they
+1.0	he	gather	piece
+1.0	merchant	have	daughter
+1.0	he	visit	merchant 's daughter
+1.0	she	be	bury
+1.0	she	be	where bury
+1.0	he	arrive at	place
+1.0	he	return	I drive
+1.0	he	tell	queen
+1.0	I	find	maiden
+1.0	I	find	only garden
+1.0	I	find	garden
+1.0	he	return to	palace
+1.0	I	find	house
+1.0	she	go into	courtyard
+1.0	she	say to	guard
+1.0	it	turn into	stone
+1.0	they	come to	garden
+1.0	king	see	garden
+1.0	king	go to	place
+1.0	king	see again	garden
+1.0	he	behold	boy
+1.0	he	behold	boy there
+1.0	he	take boy to	he palace
+1.0	he	take	boy
+1.0	he	cease	cry
+1.0	maiden	from	heart
+1.0	she	have make from	maiden 's heart
+1.0	queen	give	it
+1.0	he	begin	skip
+1.0	he	begin	skip around room
+1.0	boy	run to	garden
+1.0	boy	run to	yard
+1.0	boy	run to	field
+1.0	boy	run into	street
+1.0	king	see	maiden
+1.0	king	be	overjoy
+1.0	merchant	have	daughter
+1.0	you	bride	daughter
+1.0	bride	daughter 's	merchant
+1.0	she	say to	he
+1.0	they	go to	palace
+1.0	queen	fall at	she foot
+1.0	merchant	have	daughter
+1.0	I	cut in	little piece
+1.0	I	cut in	piece
+1.0	she	be tie to	horse
+1.0	she	be	tie
+1.0	she	drag to	she death
+1.0	maidservant	have	eye
+1.0	she	drag to	she death over field
+1.0	she	drag to	she death over open field
+1.0	king	begin	live
+1.0	king	begin	live happily with queen
+1.0	king	live with	young queen
+1.0	king	live happily with	queen
+1.0	king	begin	live happily
+1.0	king	live happily with	young queen
+1.0	king	live with	queen
+1.0	king	begin	live happily with young queen
+1.0	king	begin	live with young queen
+1.0	king	begin	live with queen
+1.0	king	delighted in	she
+1.0	king	dress	she
+1.0	king	always delighted in	she

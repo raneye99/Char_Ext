@@ -1,0 +1,394 @@
+1.0	red sun	scorch	they
+1.0	sun	scorch	they
+1.0	he	keep there	he daughter
+1.0	he	keep	he daughter
+1.0	princess	read at_time	one day
+1.0	king	visit	they
+1.0	tear	be in	they eye
+1.0	princess	read in	book
+1.0	princess	read in	certain book
+1.0	they	beseech	he
+0.9969095430474074	nothing	be	do
+1.0	king	grant	they prayer
+1.0	king	grant	they insistent prayer
+1.0	princess	walk in	garden
+1.0	beautiful princess	walk in	garden
+1.0	they	have	freedom of bright world
+1.0	they	have	freedom
+0.49872404974270007	they	freedom of	bright world
+1.0	they	behold	red sun
+0.49872404974270007	they	freedom of	world
+1.0	they	have	freedom of world
+1.0	they	behold	sun
+1.0	king straightway	promise	reward
+1.0	king straightway	promise	great reward
+1.0	governess	report to	king
+1.0	king	ask	he councilor
+1.0	anyone	undertake	search
+1.0	king	call	he grand council
+1.0	anyone	search for	he daughter
+1.0	anyone	undertake	search for he daughter
+1.0	king	call together	he grand council
+1.0	king	call	he council
+1.0	king	call together	he council
+1.0	king	ask	boyar
+1.0	he choice	be in	marriage
+1.0	call	be issue throughout	kingdom
+1.0	call	be	issue
+1.0	someone	undertake	heavy task
+1.0	someone	undertake	task
+1.0	they	be	mighty champion
+1.0	they	be	champion
+1.0	king 's call	reach	they
+1.0	mother	for	blessing
+1.0	king	have	call
+1.0	they	come to	king
+0.5358974798850353	say	rule for	year sovereign
+0.5358974798850353	say	rule for	many year sovereign
+1.0	we	perform	task
+1.0	we	leave	go in search of you daughter
+1.0	we	go in	search
+1.0	we	go in	search of you daughter
+1.0	we	leave	go
+1.0	we	leave	go in search
+1.0	she	be give drink from	he table
+1.0	king	take	woman
+1.0	she	be give	drink
+1.0	king	take woman into	he palace
+1.0	she	be give drink from	he store
+1.0	she	be give food from	he table
+1.0	she	be give	food
+1.0	she	be give food from	he store
+1.0	king	take	old woman
+1.0	youth	set out on	they way
+1.0	good youth	set out on	they way
+1.0	they	come to	desert steppe
+1.0	they	come to	wide desert steppe
+1.0	forest	be beyond	steppe
+1.0	thick forest	be beyond	steppe
+0.34918140689127997	forest	stand close to	forest
+1.0	forest	stand	hut
+1.0	thick forest	stand	hut
+1.0	forest	stand hut close to	forest
+1.0	forest	stand	little hut
+0.34918140689127997	thick forest	stand close to	forest
+1.0	thick forest	stand	little hut
+1.0	thick forest	stand hut close to	forest
+1.0	they	go	sleep
+1.0	they	pray to	God
+1.0	morning dawn	say to	he brother
+1.0	next morning dawn	say to	he brother
+1.0	next morning dawn	say to	he eldest brother
+1.0	morning dawn	say to	Evening
+1.0	morning dawn	say to	he eldest brother
+1.0	next morning dawn	say to	Evening
+1.0	he	lay down	rest on bench
+1.0	he	prepare	everything
+1.0	he	lay down	rest
+0.5815439783569778	little man	big as	thumb
+0.5815439783569778	man	as big as	thumb
+0.5815439783569778	little man	as big as	thumb
+0.5815439783569778	man	big as	thumb
+1.0	you	slaughter	my ram
+1.0	he	cry to	Evening
+1.0	he	cast around	angry look
+1.0	you	make	yourself
+1.0	he	cast around	look
+1.0	I	shall take	spoonful
+1.0	I	shall take	crumb
+1.0	I	throw	they
+1.0	I	shall take	crumb of bread
+1.0	I	shall take	spoonful of cabbage soup
+0.5543361358291731	I	be	small
+1.0	he	beat	he
+1.0	he	be	half dead
+1.0	he	begin	beat
+1.0	he	be	dead
+1.0	he	throw	he
+1.0	little man	eat	ram
+1.0	old man	eat	ram
+1.0	little old man	eat	ram
+1.0	little old man	go into	wood
+1.0	little man	go into	wood
+1.0	man	eat	roasted ram
+1.0	little man	eat	roasted ram
+1.0	old man	go into	wood
+1.0	little old man	eat	roasted ram
+1.0	man	eat	ram
+1.0	man	go into	wood
+1.0	old man	eat	roasted ram
+1.0	rag	lay	moan
+1.0	brother	ask	he
+1.0	matter	be with	you
+1.0	I	get	headache
+1.0	day dawn	go	hunting
+1.0	midnight	prepare	dinner
+1.0	next day dawn	go	hunting
+1.0	midnight	be leave at	home
+1.0	midnight	be	leave
+1.0	evening	go	hunting
+1.0	he	lay on	bench
+1.0	midnight	slaughter	it
+1.0	midnight	choose	fattest ram
+1.0	midnight	put	it
+1.0	midnight	choose	ram
+1.0	he	beat	he
+1.0	he	almost beat	he
+1.0	old man big	be with	beard cubit long
+1.0	he	go into	wood
+1.0	he	eat	roasted ram
+1.0	he	eat	ram
+1.0	midnight	lay under	bench
+1.0	midnight	tie up	he head
+1.0	matter	be with	you
+1.0	dawn	ask	he
+1.0	I	have	headache from fume
+1.0	I	have	headache
+1.0	he	choose	ram
+1.0	he	choose	best ram
+1.0	he	put on	it
+1.0	dawn	stay at	home
+1.0	hunting	stay at	home
+1.0	he	lay on	bench
+1.0	he	see man with	beard cubit long
+1.0	he	see	man big
+1.0	he	see	old man
+1.0	whole hayrick	hold	huge cask of water
+1.0	he	see	old man big
+1.0	hayrick	hold	cask
+1.0	hayrick	hold	huge cask
+1.0	whole hayrick	hold	huge cask
+0.5815439783569778	old man	as big as	thumb
+1.0	hayrick	hold	huge cask of water
+1.0	whole hayrick	hold cask in	he hand
+0.5815439783569778	old man	big as	thumb
+1.0	he	see man with	beard
+1.0	whole hayrick	hold	cask of water
+0.5815439783569778	man	as big as	thumb
+1.0	he	see	man
+1.0	he	see man with	beard long
+1.0	hayrick	hold cask in	he hand
+0.5815439783569778	man	big as	thumb
+1.0	whole hayrick	hold	cask
+1.0	hayrick	hold	cask of water
+1.0	old man	put down	cask
+1.0	man	spread	hay
+1.0	little man	put down	cask
+1.0	little old man	spread hay over	yard
+1.0	little man	spread	hay
+1.0	little man	put down	cask of water
+1.0	man	put down	cask of water
+1.0	old man	put down	cask of water
+1.0	little old man	put down	cask of water
+1.0	old man	spread	hay
+1.0	little old man	put down	cask
+1.0	man	put down	cask
+1.0	little old man	spread	hay
+1.0	old man	spread hay over	yard
+1.0	man	spread hay over	yard
+1.0	little man	spread hay over	yard
+1.0	Dawn	grab man by	he beard
+1.0	Dawn	grab	little old man
+1.0	Dawn	grab man by	he long beard
+1.0	Dawn	grab	man
+1.0	Dawn	grab	old man
+1.0	Dawn	grab	little man
+1.0	man	implore	he
+1.0	man big	begin with	beard long
+0.7373812421371786	old man	as big as	thumb
+1.0	man	begin with	beard cubit long
+0.7373812421371786	man	big as	thumb
+1.0	old man big	begin with	beard
+0.7373812421371786	man	as big as	thumb
+1.0	man big	begin with	beard cubit long
+1.0	man big	implore	he
+1.0	man	begin with	beard long
+1.0	old man	begin with	beard long
+1.0	man	begin with	beard
+1.0	old man big	begin with	beard long
+1.0	old man big	implore	he
+1.0	old man big	begin with	beard cubit long
+1.0	man big	begin with	beard
+0.7373812421371786	old man	big as	thumb
+1.0	old man	begin with	beard cubit long
+1.0	old man	implore	he
+1.0	old man	begin with	beard
+1.0	he	sit	wait
+1.0	he	return to	house
+1.0	dawn	fasten	he beard
+1.0	dawn	lead	he
+1.0	he	sit	wait for he brother
+1.0	he	sit down	wait for he brother
+1.0	he	sit down	wait
+1.0	brother	be	amaze
+1.0	brother	be amaze	find
+0.5411290415303919	old man	as big	thumb have run away
+0.5411290415303919	man	big	thumb have long run
+0.5411290415303919	old man	as big	thumb have long run away
+0.5411290415303919	man	big	thumb have long run away
+0.5411290415303919	old man	as big	thumb have run
+0.5411290415303919	man	as big	thumb have long run away
+0.5411290415303919	man	as big	thumb have run
+0.5411290415303919	man	big	thumb have run
+1.0	they	go into	yard
+0.5411290415303919	old man	big	thumb have run
+0.5411290415303919	old man	big	thumb have long run
+0.5411290415303919	old man	big	thumb have long run away
+0.5411290415303919	man	as big	thumb have long run
+0.5411290415303919	old man	big	thumb have run away
+0.5411290415303919	old man	as big	thumb have long run
+0.5411290415303919	man	as big	thumb have run away
+0.5411290415303919	man	big	thumb have run away
+1.0	blood	be spatter over	he track
+1.0	half	dangle from	pillar
+1.0	blood	be	spatter
+1.0	brother	come to	deep hole
+1.0	deep hole	be in	ground
+1.0	brother	come follow	clue
+1.0	brother	come to	hole
+1.0	brother	come to	deep hole in ground
+1.0	brother	come to	hole in ground
+1.0	dawn	wind	rope
+1.0	dawn	gather	lime bast
+1.0	he brother	drop underground	he
+1.0	dawn	tell	he brother
+1.0	he brother	drop	he
+1.0	dawn	go to	wood
+1.0	evening	drop	he
+1.0	midnight	drop	he
+1.0	he	find	himself
+1.0	he	release	himself
+1.0	he	see	copper castle
+1.0	princess whiter	ask	he
+1.0	you	good youth of	you own
+1.0	you	come	youth of you own
+1.0	youngest princess rosier	ask kindly	he
+1.0	princess whiter	meet	he
+1.0	princess rosier whiter	meet	he
+1.0	you	come	youth
+1.0	you	youth of	you own
+1.0	princess whiter	ask kindly	he
+1.0	princess	ask kindly	he
+1.0	princess rosier	meet	he
+1.0	you	come	good youth
+1.0	youngest princess rosier whiter	ask	he
+1.0	youngest princess rosier	meet	he
+1.0	princess rosier	ask kindly	he
+1.0	youngest princess rosier	ask	he
+1.0	you	come here	good youth
+1.0	youngest princess whiter	ask	he
+1.0	youngest princess rosier whiter	ask kindly	he
+1.0	you	come here	youth
+1.0	princess rosier whiter	ask kindly	he
+1.0	youngest princess	ask	he
+1.0	princess	meet	he
+1.0	you	come here	good youth of you own
+1.0	princess	ask	he
+1.0	youngest princess whiter	meet	he
+1.0	princess rosier whiter	ask	he
+1.0	youngest princess whiter	ask kindly	he
+1.0	youngest princess	meet	he
+1.0	princess rosier	ask	he
+1.0	you	come here	youth of you own
+1.0	youngest princess rosier whiter	meet	he
+1.0	he	enter	castle
+1.0	you	come	good youth of you own
+1.0	youngest princess	ask kindly	he
+1.0	she	hand	phial with water
+1.0	she	give	drink
+1.0	she	give	meat
+1.0	she	give	he
+1.0	she	hand	he
+1.0	she	seat	he
+1.0	she	hand	phial
+1.0	she	hand	phial with water of strength
+0.08250788677896104	dawn	feel in	himself
+1.0	dawn	feel	great power
+1.0	dawn	feel	power
+1.0	dawn	drink	phial
+1.0	dawn	drink	phial of water
+1.0	dawn	feel power in	himself
+1.0	wild wind	arise at	moment
+1.0	princess	be	frighten
+1.0	wind	arise at	moment
+1.0	she	take dawn by	he hand
+1.0	she	hide	he
+1.0	she	take	dawn
+1.0	three-headed dragon	come	fly
+1.0	dragon	come	fly
+1.0	russian smell	be in	here
+1.0	russian smell	be in	you nostril
+1.0	princess	bring	drink
+1.0	princess	pour	potion
+1.0	princess	pour	sleep potion
+1.0	princess	pour potion into	wine
+1.0	princess	bring	he
+1.0	princess	pick lice from	he hair
+1.0	dragon	be	soon overwhelm
+1.0	princess	pick	lice
+1.0	dragon	be	overwhelm
+1.0	princess	fall	sound asleep
+1.0	princess	fall	sound
+1.0	princess	lay on	she knee
+1.0	dragon	be overwhelm by	drowsiness
+1.0	dragon	be soon overwhelm by	drowsiness
+1.0	princess	call	Dawn
+1.0	he	cut off	all three head
+1.0	he	cut off	all of dragon 's three head
+1.0	he	make	bonfire
+0.025344053211498907	he	scatter in	open field
+1.0	he	burn	foul dragon
+1.0	he	scatter	he ash
+1.0	he	cut off	all of three head
+1.0	he	swing	he sword
+1.0	he	burn	dragon
+1.0	he	cut off	all dragon 's three head
+0.025344053211498907	he	scatter in	field
+1.0	dragon	of	three head
+1.0	he	come to	silver castle
+1.0	dawn	kill	six-headed dragon
+1.0	dawn	kill	dragon
+1.0	dawn	kill there	dragon
+1.0	dawn	kill there	six-headed dragon
+1.0	he	live princess in	castle
+0.23894290573990895	he	live in	castle
+1.0	Dawn	kill	dragon
+1.0	he	live	eldest princess
+1.0	he	live	princess
+1.0	Dawn	kill	twelve-headed dragon
+1.0	Dawn	free	that
+1.0	princess	go out into	courtyard
+1.0	she	take	egg
+1.0	she	put	it
+1.0	golden kingdom	roll up into	egg
+1.0	princess	go out into	wide courtyard
+1.0	she	go with	dawn
+1.0	princess	go into	wide courtyard
+1.0	kingdom	roll up into	egg
+1.0	princess	wave	handkerchief
+1.0	princess	go into	courtyard
+1.0	princess	wave	red handkerchief
+1.0	they	roll up	they kingdom
+1.0	they	take	they
+1.0	evening	pull	three princess
+1.0	midnight	pull	they brother
+1.0	midnight	pull	three princess
+1.0	evening	pull	they brother
+1.0	straightway kingdom	appear	copper
+1.0	princess	roll	they egg
+1.0	straightway three kingdom	appear	silver
+1.0	straightway three kingdom	appear	golden one
+1.0	straightway kingdom	appear	silver
+1.0	straightway kingdom	appear	golden one
+1.0	straightway kingdom	appear	one
+1.0	straightway three kingdom	appear	copper
+1.0	straightway three kingdom	appear	one
+1.0	he	immediately marry	midnight to he daughter
+1.0	he	marry	midnight
+0.9209407241238377	he	midnight to	he daughter
+1.0	he	immediately marry	midnight
+1.0	he	marry	Dawn
+1.0	he	immediately marry	Evening
+1.0	he	marry	Evening
+1.0	he	marry	midnight to he daughter
+1.0	he	immediately marry	Dawn

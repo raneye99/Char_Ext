@@ -1,0 +1,390 @@
+1.0	soldier	send to	land
+1.0	soldier	send to	distant land
+1.0	he	receive	discharge
+1.0	he	set off to	he homeland
+1.0	he	receive	honorable discharge
+1.0	he	serve	he term
+1.0	he	stop at	apartment of poor woman
+1.0	he	stop at	apartment of woman
+1.0	he	stop at	apartment of old woman
+1.0	he	stop at	apartment
+1.0	he	stop at	apartment of poor old woman
+1.0	everything	be in	kingdom
+1.0	he	ask	she
+1.0	kingdom	in everything be	grandmother
+1.0	we king	have	beautiful daughter
+1.0	we king	have	daughter
+1.0	we king	have	Princess Martha
+1.0	foreign prince	woo	she
+1.0	princess	marry	he
+1.0	prince	woo	she
+1.0	he	set spirit on	she
+1.0	he	set	spirit
+1.0	he	set	evil spirit
+1.0	she	be	be ill for three year
+1.0	she	be	be already ill
+1.0	she	be	be ill
+1.0	she	be	be already ill for three year
+1.0	king	have consult	wizard
+1.0	king	have consult	wise-men
+1.0	she	scream out of	control
+1.0	nobody	can heal	she
+1.0	soldier	think to	himself
+1.0	soldier	listen to	she story
+1.0	I	will	maybe will able
+1.0	I	save	princess
+1.0	I	will	will able
+1.0	king	will give	I
+1.0	king	will give	something for road
+1.0	king	will give	something
+1.0	he	clean	button
+1.0	he	grab	he overcoat
+1.0	he	march to	palace
+1.0	he	put on	it
+1.0	he	clean button with	chalk
+1.0	lady-in-waiting	see	he
+1.0	she	grab	he arm
+1.0	she	lead straight	he
+1.0	she	lead	he
+1.0	you	daughter	Princess Martha
+1.0	I	can heal	she
+1.0	she I	will cover	you
+1.0	you	majesty	command
+1.0	iron rake	be with	five prong
+1.0	everything	be	will ready by tomorrow
+1.0	everything	be	will ready
+1.0	they	prepare	everything as necessary
+1.0	they	prepare	everything
+1.0	they	prepare	everything necessary
+1.0	soldier	make sign over	they
+1.0	soldier	make	sign
+1.0	soldier	make	sign of orthodox cross
+1.0	he	stand watch near	door
+1.0	he	stand	watch
+0.34918140689127997	he	stand near	door
+1.0	he	illuminate	room
+1.0	he	pour	walnut
+1.0	he	pour	iron bullet
+1.0	he	place card on	table
+1.0	he	pour iron bullet into	he pocket
+1.0	he	pour walnut into	he pocket
+1.0	he	illuminate room with	candle
+1.0	he	place	card
+1.0	he	make	everything ready
+1.0	he	wait	he finish
+1.0	he	finish	make
+1.0	he	fly around	palace
+1.0	he	turn into	man
+1.0	I	be	chamber servant
+1.0	you	would give	I
+1.0	you	would give	nut chew on
+1.0	you	would give	nut chew
+1.0	I	give	nut
+1.0	none	leave for	myself
+1.0	devil	put bullet into	he mouth
+1.0	devil	put	bullet
+1.0	devil	crunch down	it
+1.0	devil	swallow	it
+1.0	soldier	chew	he be belabor
+1.0	he	be belabor with	iron bullet
+1.0	soldier	eat over	twenty nut
+1.0	soldier	chew	he be belabor with iron bullet
+1.0	you	be	fool
+1.0	I	ground down	my tooth
+1.0	I	ground	my tooth
+1.0	's	play	card
+1.0	's	play	soldier
+1.0	he	receive	just three coin
+1.0	he	buy	shoe polish
+1.0	he	buy	soap
+1.0	he	buy	glue
+1.0	he	buy	chalk
+1.0	he	go to	bathhouse
+1.0	he	need	go
+1.0	he	need	go to bathhouse
+1.0	loser	about get punch by	winner
+1.0	loser	get	punch
+1.0	loser	how about get punch by	winner
+1.0	loser	get punch by	winner
+1.0	loser	get	about punch
+1.0	loser	get	how about punch
+1.0	they	start	play for punch
+1.0	they	play for	punch
+1.0	they	start	play
+1.0	devil	lose	three time
+1.0	you	can use	you punch
+1.0	you	have	ten
+1.0	they	continue	play
+0.705315285700348	soldier	bring	he tally of punch
+1.0	soldier	be deal	three card of one suit
+0.705315285700348	soldier	bring	he tally of owe punch
+1.0	soldier	be deal	three card
+0.04812451479275803	soldier	be	deal
+0.705315285700348	soldier	bring	he tally
+1.0	he	say to	devil
+1.0	he	now say to	devil
+1.0	I	show	you
+1.0	punch	be with	you brother
+1.0	I	will cut down	you
+1.0	I	will cut down	soldier-style
+1.0	you	will rue at_time	day
+1.0	he	only beat	he
+1.0	he	beat	he
+1.0	devil	implore	soldier
+1.0	devil	ask	he
+1.0	he	beat softly	he
+1.0	he	only beat softly	he
+1.0	you	will walk over	we
+1.0	you	will walk over	all we
+1.0	I	make	oath
+1.0	I	be	soldier
+0.4894356065236988	soldier	take	money
+1.0	I	pay with	punch
+1.0	I	play for	punch
+1.0	I	so pay with	punch
+1.0	I	have	brother
+1.0	I	have	younger brother
+1.0	's	go to	he
+1.0	he	will hit	much softer
+1.0	he	will hit	softer than i.
+1.0	he	will hit	you
+1.0	he	will hit	much softer than i.
+1.0	he	will hit	softer
+1.0	it	take	I
+1.0	soldier	lead	evil one
+1.0	he	whack devil in	forehead
+1.0	he	trigger	spring
+1.0	he	whack	devil
+1.0	he	be knock to	side of room
+1.0	he	be knock to	other side of room
+1.0	he	be	knock
+1.0	he	be knock to	other side
+1.0	he	be knock to	side
+1.0	soldier	grab	he
+1.0	I	still owe	nine more punch
+1.0	I	still owe	nine punch
+1.0	I	owe	nine more punch
+1.0	I	owe	nine punch
+1.0	spring	knock hard	devil
+1.0	spring	knock	devil
+1.0	spring	knock so hard	devil
+1.0	it	knock	evil one
+1.0	he	smash out	frame
+1.0	he	take to	he heel
+1.0	seven punch	come to	you
+1.0	punch	come to	you
+1.0	devil	leave	he track
+1.0	devil	leave	only he track
+1.0	king	ask	Princess Martha
+1.0	king	ask princess martha in	morning
+1.0	Satan	send devil to	palace
+1.0	Satan	send	different devil
+1.0	Satan	send	devil
+1.0	Satan	send devil at_time	next night
+1.0	Satan	send devil at_time	night
+1.0	they	scare princess by	turn
+1.0	they	scare	princess
+1.0	soldier	have for	one
+1.0	soldier	have	nut leftover
+1.0	soldier	still have for	one
+1.0	soldier	still have	nut leftover
+1.0	thirteen devil	get into	scrape
+1.0	thirteen devil	get over	course
+1.0	thirteen devil	get into	scrape with soldier
+1.0	devil	get into	scrape with soldier
+1.0	devil	get over	course of thirteen night
+1.0	devil	get over	course
+1.0	scrape	be with	soldier
+1.0	devil	get into	scrape
+1.0	thirteen devil	get over	course of thirteen night
+1.0	they	have	equally rough time
+1.0	they	have	rough time
+1.0	they	have	time
+1.0	Satan	come to	palace
+1.0	Satan	chat	about one thing
+1.0	Satan	chat	another
+1.0	they	play	card
+1.0	soldier	lead	he
+1.0	soldier	beat	he
+1.0	younger brother	grasp	Satan
+1.0	soldier	set	spring
+1.0	brother	grasp	Satan
+1.0	brother	grasp satan with	he iron arm
+1.0	younger brother	grasp satan with	he iron arm
+1.0	soldier	grab	iron bar
+1.0	he	wear out	iron rod
+1.0	he	grab	rake
+1.0	Satan	bellow at	top
+1.0	soldier	rake over	he
+1.0	Satan	bellow at	top of he lung
+1.0	he	do	job
+1.0	he	do thoroughly	job
+1.0	he	do so thoroughly	job
+1.0	Satan	return to	he swamp
+0.7019150299314023	soldier	beat	I
+0.7019150299314023	soldier	almost beat	I
+1.0	you	now see at_time	grandfather
+1.0	you	see at_time	grandfather
+1.0	it	be	two week
+1.0	it	be	already two week
+1.0	my head	be	still splitting
+1.0	my head	be	splitting
+1.0	I	be in	palace
+1.0	I	be	glad
+1.0	I	be	just glad
+1.0	they	decide	they think
+1.0	they	buy off	he
+1.0	they	make	offer
+1.0	they	make	he
+1.0	soldier	notice	they fear
+1.0	that	be	enough
+1.0	we	negotiate with	you
+1.0	we	come	negotiate
+1.0	we	come	negotiate with you
+1.0	you	must climb into	knapsack
+1.0	you	pay	you debt
+1.0	you	must climb	you want
+1.0	evil spirit	be	tricky
+1.0	evil spirit	be	excruciatingly tricky
+1.0	spirit	be	tricky
+1.0	spirit	be	excruciatingly tricky
+1.0	they	be in	even crevice
+1.0	they	be in	tiny crevice
+1.0	they	can get out in	tiny crevice
+1.0	they	be in	even tiny crevice
+1.0	they	can still get out in	crevice
+1.0	they	can get out in	even crevice
+1.0	they	can still get in	even crevice
+1.0	they	can get in	even crevice
+1.0	they	can get in	tiny crevice
+1.0	they	can get out in	even tiny crevice
+1.0	they	can still get out in	tiny crevice
+1.0	they	can get in	crevice
+1.0	they	can still get out in	even tiny crevice
+1.0	they	can still get in	crevice
+1.0	they	be	tiny
+1.0	they	can still get in	even tiny crevice
+1.0	they	can still get out in	even crevice
+1.0	they	can still get in	tiny crevice
+1.0	they	can get in	even tiny crevice
+1.0	they	can get out in	crevice
+1.0	they	be in	crevice
+1.0	I	seriously will leave	palace
+1.0	I	will leave palace	you do
+1.0	I	will leave	palace
+1.0	I	seriously will leave palace on	my word
+1.0	I	will leave palace on	my word
+1.0	I	seriously will leave palace	you do
+1.0	they	climb in	Satan lie on top
+1.0	they	climb in	Satan lie
+1.0	soldier	open	it
+1.0	they	climb right in	Satan lie on top
+1.0	they	climb right in	Satan lie
+1.0	you	do	that
+1.0	I	can fasten	it
+1.0	I	can completely fasten	it
+0.6002062454115549	you	will	will happy
+1.0	he	go to	king
+1.0	he	put	knapsack
+1.0	soldier	fasten	buckle
+1.0	he	put knapsack on	he back
+1.0	soldier	fasten buckle on	knapsack
+1.0	he	cross	himself
+1.0	Order thirty iron hammer	be	make
+1.0	Order iron hammer	be	make
+1.0	hammer	must weigh apiece	100 pound
+1.0	hammer	must weigh	100 pound
+1.0	king	give	command
+1.0	thirty hammer	be	make
+1.0	thirty hammer	be	make immediately
+1.0	hammer	be	make
+1.0	hammer	be	make immediately
+1.0	it	be	pound as hard
+1.0	soldier	bring	knapsack
+1.0	soldier	bring knapsack to	smithy
+1.0	soldier	lay	it
+1.0	it	be	pound
+1.0	soldier	order	it
+1.0	it	be	pound hard
+1.0	it	become for	devil
+1.0	it	become	awful
+1.0	it	be	impossible
+1.0	soldier	certainly fool	they
+1.0	soldier	fool	they
+1.0	he	throw	knapsack
+1.0	he	appear	king report
+1.0	he	throw knapsack onto	he shoulder
+1.0	king	thank	soldier
+1.0	king	thank	job
+1.0	king	thank	he
+1.0	king	thank	excellent job
+1.0	king	assign	scribe
+1.0	state	of	bill
+1.0	king	follow	soldier
+1.0	he	wander for	month
+1.0	he	wander for	whole month
+1.0	he	return to	king
+1.0	soldier	do have	you fill
+1.0	you	do have	you fill
+0.47318217566553156	I	have	my fill
+1.0	my	fill	majesty
+0.47318217566553156	I	have	you majesty
+1.0	I	want	go home
+1.0	I	want	go
+1.0	Stay	be with	we
+1.0	I	will make	you my man
+1.0	I	will make	you my right-hand man
+1.0	I	see	my family
+1.0	he	give	he
+1.0	he	give	more than enough money for whole lifetime
+1.0	he	give	more than money for whole lifetime
+1.0	he	give	carriage
+1.0	he	give	horse
+1.0	soldier	leave for	he homeland
+1.0	they	have serve in	regiment
+1.0	he	see	soldier
+1.0	they	have serve in	same regiment
+1.0	he	see	familiar soldier
+1.0	everything	be	same
+1.0	I	have become	very rich
+1.0	I	have suddenly become	very rich
+1.0	I	have suddenly become	rich
+1.0	I	have become	rich
+1.0	we	should toast to	joy
+1.0	I	fetch	one
+1.0	you	go to	trouble
+1.0	you	will have	go
+1.0	you	will have	go to trouble
+1.0	tavern	be	there too far
+1.0	tavern	be	far
+1.0	tavern	be	there far
+1.0	tavern	be	too far
+1.0	tavern	be	right there too far
+1.0	tavern	be	right there far
+1.0	you	take	my knapsack
+1.0	we soldier	get	wine
+1.0	he countryman	bring	knapsack
+1.0	he countryman	warn	woman
+1.0	he countryman	bring knapsack into	hut
+1.0	he	gather	he livestock
+1.0	they	unfasten	it
+1.0	they	knock door from	hinge
+1.0	they	knock	door
+1.0	they	meet soldier along	road
+1.0	they	meet	soldier
+1.0	they	meet soldier with	wine
+0.6381952168185482	you	curse	one
+0.6381952168185482	Augh	curse	one
+1.0	devil	be	scared
+1.0	they	throw	themselves
+1.0	they	see	he
+1.0	devil	be	so scared
+1.0	soldier	go with	he comrade
+1.0	soldier	go with	he old comrade
+1.0	soldier	scold	woman
+1.0	soldier	thoroughly scold	woman
+1.0	soldier	return to	hut
+1.0	soldier	go on	walk
+0.27792894616668395	he	begin	live
+1.0	he	later arrive	home
+1.0	he	arrive	home

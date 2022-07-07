@@ -1,0 +1,570 @@
+1.0	third	be	fool
+1.0	third	be fool of	World
+1.0	he	be simple as	child
+1.0	anyone	harm in	he life
+1.0	he	be	as simple
+1.0	he	be	simple
+1.0	anyone harm	be in	he life
+1.0	he	be as simple as	child
+1.0	it	happen like	that
+1.0	it	well always happen like	that
+1.0	it	well happen like	that
+1.0	it	always happen like	that
+1.0	they	look at	he
+1.0	they	forget	he
+1.0	they	happen	be look at he
+1.0	they	always forget	he
+1.0	he	get	eat
+1.0	they	happen	be look
+1.0	fool	be lucky	he get
+1.0	fool	be	lucky
+1.0	he	get enough	eat
+1.0	it	be with	he father
+1.0	God	love	folk
+1.0	it	be with	however he father
+1.0	God	love	simple folk
+1.0	tzar	send out	messenger
+1.0	tzar	send out messenger along	highroad
+1.0	tzar	send out messenger to	even hut in forest like ours
+1.0	hut	be in	forest like ours
+1.0	ship	be with	wing
+1.0	tzar	send out messenger to	hut
+1.0	tzar	send out messenger to	hut in forest
+0.5988817307833865	messenger	tzar of	country
+1.0	fly ship	ship with	wing
+1.0	tzar	send out messenger to	hut in forest like ours
+1.0	tzar	send out messenger to	even hut in forest
+1.0	tzar	send out messenger to	even hut
+1.0	they	set off at_time	day
+1.0	they	set off at_time	same day
+1.0	Tzar	have	daughter
+1.0	they	set off together at_time	same day
+1.0	they	set off together at_time	day
+1.0	they	be	great
+1.0	they father	give	clothes than ever
+1.0	he	wear	himself
+1.0	they father	give	they
+1.0	they father	bless	they
+1.0	they father	give	finer clothes than ever
+1.0	they mother	make up	they
+1.0	she	go as far with	they
+1.0	she	go with	they
+1.0	they	be out of	sight
+1.0	she	go far with	they
+1.0	she	wave	she hand
+1.0	clever brother	set	see
+1.0	two clever brother	set merrily off	see
+1.0	clever brother	set merrily off	see
+1.0	clever brother	set merrily	see
+1.0	two clever brother	set off	see
+1.0	two clever brother	set	see
+1.0	clever brother	set off	see
+1.0	two clever brother	set merrily	see
+1.0	they	set off with	they fine parcel
+1.0	they	set off with	they parcel
+1.0	they	set off with	they parcel of food
+1.0	they	set off with	they fine parcel of food
+1.0	good meat	drink	corn brandy
+1.0	meat	drink	corn brandy
+1.0	Tzar	have	daughter
+1.0	you	be	stir
+1.0	you	stare at	they
+1.0	you	would walk	you be
+1.0	wolf	eat	you
+1.0	you	would walk into	arm of bear
+1.0	you	stir from	house
+1.0	you	be	stir from house
+1.0	you	would walk into	arm
+1.0	you	have finish	stare at they
+1.0	you	have finish	stare
+1.0	he	go	say
+1.0	he	eat by	way
+1.0	she	put food in	bag
+1.0	she	put food	he eat
+1.0	she	put food	he eat by way
+1.0	she	so put food	he eat
+1.0	she	put	food
+1.0	she	so put food in	bag
+1.0	she	so put food	he eat by way
+1.0	she	so put	food
+1.0	she	put	crust of dry bread
+1.0	she	put	crust of black bread
+1.0	she	put	crust of bread
+1.0	she	put	crust of dry black bread
+1.0	she	put crust in	bag
+1.0	she	put	crust
+1.0	fool	set off with	he bag
+1.0	fool	set off	he be off
+1.0	he	shoulder	singing
+1.0	fool	set off over	singing
+1.0	fool	set off	he be
+1.0	Tzar	have	daughter
+1.0	fool	set off over	he shoulder
+1.0	he	sing merrily for	all
+1.0	he	sing for	all
+1.0	thing	be after	all
+1.0	main thing	have	something eat
+1.0	thing	have	something eat
+1.0	main thing	be after	all
+1.0	he	trudge merrily along	road
+1.0	he	sing	green
+1.0	tree	be	green
+1.0	he	trudge along	road
+1.0	eye	hide under	he bushy eyebrow
+1.0	eye	hide under	he eyebrow
+1.0	tzar	give	he daughter
+1.0	you	can make	ship
+1.0	you	can really make	fly ship
+1.0	you	can really make	ship
+1.0	you	can make	fly ship
+0.6252493815242008	thing	sit	you
+0.6252493815242008	thing	sit down here	you
+0.6252493815242008	thing	sit here	you
+1.0	we	have	bite of food
+0.8568229474124254	have	bite of	food
+1.0	we	have	bite
+1.0	I	offer	you
+1.0	fool	hardly believe	he eye
+1.0	fool	open	he bag
+1.0	fool	believe	he eye
+1.0	he	cook	meat
+1.0	he	see	fresh roll
+1.0	he	see	white roll
+1.0	he	see roll instead of	crust
+1.0	he	see roll instead of	black crust
+1.0	he	see	fresh white roll
+1.0	he	see	roll
+1.0	he	hand out	they
+1.0	's	have sip at	corn brandy
+1.0	's	have	sip
+1.0	fool	open	he flask
+1.0	fool water	there come out	corn brandy
+1.0	fool water	come out	corn brandy
+1.0	it	blow with	you little hatchet
+1.0	it blow	be with	you little hatchet
+1.0	it	blow with	you hatchet
+1.0	you	will find	ship
+1.0	you	will find	ship make
+1.0	Sit	be in	it
+1.0	you	want	go
+1.0	fool	thank	ancient old man
+1.0	fool	thank	ancient man
+1.0	fool	thank	old man
+0.8287025418998746	go	good-bye to	he
+0.9486936329722548	go	off to	forest
+1.0	fool	thank	man
+1.0	sign	strike blow on	trunk of tree
+1.0	sign	instantly fall backwards flat on	ground
+0.6560957984701654	he hatchet	round	he head
+1.0	sign	instantly fall flat on	ground
+1.0	sign	fall backwards flat on	ground
+1.0	sign	fall on	ground
+1.0	sign	swing	he hatchet
+1.0	sign	strike	mighty blow
+1.0	sign	strike	blow
+1.0	sign	fall flat on	ground
+1.0	sign	close	he eye
+1.0	sign	instantly fall on	ground
+1.0	sign	strike blow on	trunk
+1.0	sign	go	sleep
+1.0	it	seem	he sleep
+0.005467916476222023	somebody	be	jogging
+1.0	it	seem to	fool
+1.0	he	open	he eye
+1.0	he hatchet	lay beside	he
+1.0	tree	be	go
+1.0	big tree	be	go
+0.34918140689127997	big tree	there stand in	its place
+1.0	tree	stand	ship
+1.0	big tree	there stand ship in	its place
+1.0	big tree	stand	little ship ready
+1.0	big tree	stand	ship ready
+1.0	tree	there stand ship in	its place
+1.0	tree	stand	little ship
+0.34918140689127997	big tree	stand in	its place
+0.34918140689127997	tree	there stand in	its place
+0.34918140689127997	tree	stand in	its place
+1.0	big tree	there stand	ship
+1.0	big tree	stand ship in	its place
+1.0	big tree	there stand	little ship
+1.0	big tree	stand	little ship
+1.0	tree	there stand	little ship ready
+1.0	tree	stand	little ship ready
+1.0	tree	there stand	ship
+1.0	big tree	stand	ship
+1.0	tree	stand	ship ready
+1.0	big tree	there stand	ship ready
+1.0	tree	there stand	ship ready
+1.0	tree	stand ship in	its place
+1.0	big tree	there stand	little ship ready
+1.0	tree	there stand	little ship
+1.0	he	seize	tiller
+1.0	he	jump into	ship
+1.0	ship	leap up into	air
+1.0	ship	instantly leap up into	air
+1.0	ship	sail over	top of tree
+1.0	ship	sail away over	top of tree
+1.0	ship	sail away over	top
+1.0	ship	sail over	top
+1.0	he	lose	he way
+1.0	he	be	afraid
+1.0	he	be afraid	he try
+1.0	ship	answer as readily	tiller
+1.0	Fool	steer for	highroad
+1.0	ship	answer	tiller
+1.0	ship	answer readily	tiller
+1.0	Fool	sail along	along it
+1.0	Fool	sail	afraid
+1.0	he	steer	course across open country
+1.0	he	steer	course across country
+1.0	he	steer	course
+1.0	he	see	man lie in road
+1.0	he	see	man lie with he ear on ground
+1.0	he	see	man lie in road with he ear on damp ground
+1.0	he	see	man
+1.0	he	see	man lie in road below he with he ear on ground
+1.0	he	see	man lie in road with he ear
+1.0	he	see	man lie with he ear
+1.0	he	see	man lie with he ear on damp ground
+1.0	he	see	man lie in road below he with he ear
+1.0	he	see	man lie in road with he ear on ground
+1.0	he	see	man lie in road below he with he ear on damp ground
+1.0	he	see	man lie in road below he
+1.0	he	see	man lie
+1.0	they	fly on	together sing song
+1.0	man	sit down with	Fool
+1.0	they	fly on	sing song
+1.0	man	sit down in	ship
+1.0	they	fly on	song
+1.0	man	be	willing
+1.0	man	be	willing enough
+1.0	other	tie up to	he head
+1.0	Fool	bring ship to	ground
+1.0	Fool	bring	ship
+1.0	they	fly on	together sing song
+1.0	they	fly on	sing song
+1.0	man	sit down in	ship
+1.0	they	fly on	song
+1.0	man	sit down with	they
+1.0	he	be fake	aim
+1.0	man	be with	gun
+1.0	beast	be	sort
+1.0	beast	be sort of	mark
+1.0	beast	be sort for	I
+1.0	beast	be	sort of mark for I
+1.0	man	sit down in	ship
+1.0	man	sit down with	they
+1.0	they	fly on	together
+1.0	louder	rise	they song
+1.0	louder	rise	they song
+1.0	man	carry sack full on	he back
+0.5832435855590061	sack	full of	bread
+1.0	man	carry	sack
+1.0	man	carry sack full of bread on	he back
+1.0	man	carry	sack full of bread
+1.0	man	carry	sack full
+1.0	man	carry sack on	he back
+1.0	I	get bread for	my dinner
+1.0	I	get	bread
+1.0	you	have get	sack
+1.0	you	have get	sack on you back
+1.0	you	have get	full sack on you back
+1.0	you	have get	full sack
+1.0	they	fly	together sing louder
+1.0	they	fly	sing
+1.0	they	fly	sing louder
+1.0	Eater	sit down in	ship
+1.0	Eater	sit down with	they
+1.0	they	fly	together sing
+1.0	man	walk	round
+1.0	man	walk	round
+1.0	they	again fly on	singing in chorus
+0.5488061872786384	they	singing in	chorus
+1.0	they	again fly	singing
+1.0	they	fly	singing
+1.0	they	fly	singing in chorus
+1.0	singing	be in	chorus
+1.0	drinker	sit down with	they
+1.0	they	again fly	singing in chorus
+1.0	they	fly on	singing
+1.0	they	fly on	singing in chorus
+1.0	they	again fly on	singing
+1.0	man	be with	fagot of wood on he shoulder
+1.0	man	be with	fagot on he shoulder
+1.0	man	be with	fagot of wood
+1.0	man	be with	fagot
+1.0	man	walk towards	forest
+1.0	you	be take	wood
+1.0	you	be take wood to	forest
+1.0	it	be	scatter about
+1.0	it	be	scatter
+1.0	place	be with	we
+1.0	ship	rise up into	air
+1.0	man	sit down with	they
+0.8032640221154881	carry	sack of	straw
+1.0	man	carry	sack
+1.0	man	carry	sack of straw
+1.0	good health	say	fool
+1.0	health	say	fool
+1.0	straw	be in	you village
+1.0	weather	instantly turn	cold
+1.0	you	scatter	it
+1.0	you	scatter abroad	it
+1.0	weather	turn	cold
+1.0	down	in step be	singing like
+1.0	step	be in	down
+1.0	man	step in	down
+1.0	they	cast anchor in	courtyard
+1.0	they	cast	anchor
+1.0	tzar	be eat	he dinner
+1.0	ship	sail down into	he courtyard
+1.0	he	look out of	window
+1.0	he	hear	they loud singing
+1.0	he	hear	they singing
+1.0	he	send out	he servant
+1.0	servant	come up	up ship
+1.0	servant	see	fool of World sit
+1.0	servant	see	fool sit there
+1.0	servant	see	fool of World
+1.0	servant	see	fool
+1.0	servant	see	fool of World sit there
+1.0	servant	see	fool sit
+0.5495115439717155	they	sit in	ship
+1.0	he	ask	question
+1.0	he	begin	think
+1.0	I	shall get ship for	nothing
+1.0	I	shall get	ship
+1.0	they	get off with	they life
+1.0	they	will	will glad
+1.0	he servant	go to	fool
+1.0	he	tell	he servant
+1.0	Listener	hear	word
+1.0	Listener	repeat	they
+0.8053442545585926	hear	word of	tzar
+1.0	Listener	hear	word of tzar
+1.0	Fool	of	companion
+1.0	tzar	be give	order
+1.0	Listener	first of	Fool 's companion
+1.0	tzar	be give order to	he servant
+1.0	he	have finish	he dinner
+1.0	he	want	it
+1.0	Tzar	have	command
+1.0	servant	announce	Tzar 's command
+1.0	he	have	it
+1.0	he companion	be out of	sight have step from ship
+1.0	he	companion	swift-goer
+1.0	he companion	be out of	sight almost have step from ship
+1.0	he companion	untie	he foot
+1.0	he companion	be out of	sight almost have step
+1.0	he companion	be out of	sight have step
+1.0	I	tell	it
+1.0	I	tell	you
+1.0	he	sit under	windmill
+1.0	he	go off	sleep
+1.0	dinner	be come to	end
+1.0	royal dinner	be come to	end
+1.0	everybody	be watch for	swift-goer
+1.0	Listener	lay	he ear
+1.0	Listener	listen	moment
+1.0	Listener	lay	he right ear
+1.0	he	have go	sleep under windmill
+1.0	he	have go	sleep
+1.0	he	sleep under	windmill
+0.9575115635186374	fly	buzz with	its wing
+1.0	fly	perch on	windmill
+0.9575115635186374	fly	perch on	windmill
+0.9575115635186374	fly	perch close on	windmill
+1.0	fly	buzz with	its wing
+1.0	fly	perch close on	windmill
+1.0	he	wake swift-goer with	thud of bullet on wood of mill
+1.0	he	wake swift-goer with	thud on wood of mill
+1.0	he	wake	swift-goer
+1.0	he	wake swift-goer with	thud on wood
+0.9168418087937878	he gun	aim at	fly
+1.0	he	wake swift-goer with	thud of bullet
+0.9168418087937878	he gun	aim at	fly on windmill
+1.0	he	pick up	he gun
+1.0	he	wake swift-goer with	thud
+1.0	he	wake swift-goer with	thud of bullet on wood
+1.0	Fool	give	it
+1.0	you	be	such
+1.0	you	be	cunning
+1.0	you	eat at	single meal twelve oxen whole
+1.0	you companion	eat at	meal twelve oxen roasted whole
+1.0	you	eat at	meal twelve oxen whole
+1.0	you	eat at	single meal twelve oxen roasted whole
+1.0	you companion	eat at	meal twelve oxen whole
+1.0	you	eat at	meal twelve oxen roasted whole
+1.0	you companion	eat at	single meal twelve oxen roasted whole
+1.0	you companion	eat at	single meal twelve oxen whole
+1.0	Listener	hear	message
+1.0	Listener	tell	Fool
+1.0	fool	be	terrify
+1.0	I	have	snack
+1.0	I	shall	shall glad
+1.0	I	have	little snack
+1.0	I	have snack in place of	my dinner
+1.0	Tzar	have	command
+1.0	companion	have scarcely sit down	down meal
+1.0	they	bring	twelve Oxen roasted whole
+0.28788330668994755	they	as much bread	could baked in forty oven
+1.0	they	so bring	twelve Oxen roasted whole
+0.28788330668994755	they	much bread	could baked
+0.28788330668994755	they	bread	could baked in forty oven
+0.28788330668994755	they	as bread	could baked
+1.0	they	bring	twelve Oxen whole
+1.0	they	bring	much bread
+0.28788330668994755	they	as bread	could baked in forty oven
+1.0	they	bring	as much bread
+1.0	Eater	have finish	lot
+1.0	they	so bring	much bread
+1.0	they	so bring	as bread
+1.0	they	so bring	bread
+1.0	they	bring	as bread
+1.0	they	so bring	as much bread
+0.28788330668994755	they	bread	could baked
+0.28788330668994755	they	as much bread	could baked
+0.28788330668994755	they	much bread	could baked in forty oven
+1.0	they	so bring	twelve Oxen whole
+1.0	they	bring	bread
+1.0	companion	have sit down	down meal
+1.0	they	be about	it
+1.0	he servant	tell	fool
+1.0	he companion	drink	forty barrel of wine
+1.0	Tzar	tell	he servant
+1.0	he companion	drink	forty barrel
+1.0	forty bucketful	be in	barrel
+1.0	Listener	tell	Fool
+1.0	I	be	thirsty
+1.0	it	will	will nothing
+1.0	it	will	will nothing of drink
+1.0	it	will	will nothing of drink for I
+1.0	they	bring	forty barrel of wine
+1.0	drinker	toss down	one gulp for barrel
+1.0	drinker	toss down	they
+1.0	they	bring	forty barrel
+1.0	they	tap	they
+1.0	I	be	thirsty
+1.0	I	be	why thirsty still
+1.0	I	be	thirsty still
+1.0	I	be	why thirsty
+1.0	fellow	get	ready
+1.0	fellow	get	ready for wedding
+1.0	he	bathe	himself
+1.0	bath house	be make	hot
+1.0	bath house	be make	so hot
+1.0	bath house	be	make
+1.0	it	be	iron bath-house
+1.0	it	be	make
+1.0	it	be make	hot
+1.0	it	be make	red hot
+1.0	moujik	be with	straw
+1.0	Fool	wash	himself
+0.5624514432690371	Fool	go with	straw
+1.0	Fool	go	moujik
+1.0	they	call	Fool
+1.0	Fool	go moujik with	he
+1.0	Fool	go moujik with	straw
+0.5624514432690371	Fool	go with	he
+1.0	they	well make	bath-house hot
+1.0	Fool	go along	along bath-house
+1.0	they	make	bath-house hot
+1.0	they	shut	they
+1.0	moujik	scatter	he straw
+0.025344053211498907	moujik	scatter	they go
+1.0	it	become	so cold
+0.025344053211498907	moujik	scatter	they go in
+1.0	it	become	cold
+1.0	it	become in	there
+1.0	water	be in	cauldron
+0.025344053211498907	moujik	scatter before	they
+1.0	they	spend at_time	night there shiver
+1.0	they	lay down on	very stove itself
+1.0	they	lay down on	stove itself
+1.0	they	spend at_time	night
+1.0	they	lay down on	stove
+1.0	they	spend at_time	night shiver
+1.0	they	lay down on	very stove
+1.0	fool	lie on	stove song
+1.0	servant	open bathhouse in	morning
+1.0	servant	open	bathhouse
+1.0	they	tell	Tzar
+1.0	tzar	rage with	anger
+1.0	message	show	you be
+1.0	I	send	he
+1.0	you	defend	she
+1.0	you	show	you be
+1.0	you	marry	my daughter
+1.0	you	be	able
+1.0	you	have	at least regiment of soldier
+0.7964511618573609	you	least regiment of	soldier
+1.0	you	have	at least regiment
+1.0	you	have	regiment of soldier
+0.7964511618573609	you	regiment of	soldier
+1.0	you	have	regiment
+1.0	peasant	can raise	troop
+1.0	simple peasant	can raise	troop
+0.20446750137818204	Thinks	can raise	troop
+1.0	he	will find	it enough
+1.0	he	will find	it
+1.0	he	will find	it hard enough
+1.0	fool	begin to	lament
+1.0	Listener	tell	fool of World
+1.0	Listener	tell	fool
+1.0	my brother	have save more once	I
+1.0	you	have save more once	I
+0.9969095430474074	nothing	be	do
+1.0	my brother	have save	I
+1.0	you	have save once	I
+1.0	you	have save	I
+1.0	my brother	have save once	I
+1.0	peasant	be with	fagot of wood
+1.0	I	be man for	little affair
+1.0	I	be	man
+1.0	I	be man for	affair
+1.0	Tzar 's servant	give	he message
+1.0	Tzar	have	servant
+1.0	I	take princess by	force
+1.0	I	make war on	he country
+1.0	fool	tell	tzar
+1.0	I	make	war
+1.0	I	take	Princess
+1.0	he	put off	I
+1.0	he	put off again	I
+1.0	they have care	be in	world
+1.0	peasant	go hither and thither during	night
+1.0	peasant	go	other sleep
+1.0	peasant	scatter	he stick
+1.0	peasant	go hither during	night
+1.0	peasant	be with	fagot of wood
+1.0	peasant	go hither and thither	other sleep
+1.0	peasant	go hither	other sleep
+1.0	peasant	go during	night
+1.0	number	be in	it-cavalry
+1.0	he	find	Tzar wake
+1.0	Tzar	look from	window
+1.0	general	be in	cocked hat
+1.0	himself	general in	hat
+1.0	he	find in	morning
+1.0	Tzar	look from	window of palace
+1.0	himself	general in	cocked hat
+1.0	it	be	now Tzar 's turn
+1.0	it	be	Tzar 's turn
+1.0	he	marry	Princess
+1.0	he	beg	he
+1.0	he	come to	palace
+1.0	fool	put on	fine clothes
+1.0	stand	could wish for	husband
+1.0	fool	put on	clothes
+1.0	he	present	himself
+1.0	he	become	so clever
+1.0	he	become	clever
+1.0	she	receive with	she dowry
+1.0	she	receive with	she rich dowry
+1.0	tzar	like much	he
+1.0	she	love	he
+1.0	Tzaritza	like much	he
+1.0	Tzaritza	like very much	he
+1.0	tzar	like very much	he
+1.0	Tzaritza	like	he
+1.0	tzar	like	he

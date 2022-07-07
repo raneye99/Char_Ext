@@ -1,0 +1,24 @@
+1	1	| three Sons | three Sons | these | all the party | we | they | they | Ivan Popyalof and his brothers | their | they all | They | they | them | 's | our | we | ourselves | they all | They | them | 's | they | They | they | them | 's | Ivan and his brothers | them | Ivan and his brothers |
+1	1	| Ivan's Brothers | Two of these | their | them | his brothers | his brothers | my brothers | his brothers | their | The brothers | they | they | their | his brothers | his brothers | his brothers | the elder brothers | brothers | the elder brothers | brothers | the elder brothers | brothers | his brothers | his brothers |
+1	1	| Ivan | the third | a simpleton , Ivan by name , surnamed Popyalof | Ivan | he | himself | him | Ivan | Ivan | he | his | me | he | he | he | he | he | his | him | Ivan | his | me | he | he | Ivan | he | his | Ivan | his | him | he | he | Ivan | Ivan | he | he | he | his | He | him | Ivan | his | his | my | me | he | he | Ivan Popyalof | Ivanushka | Ivan | Ivan | Ivan | Ivan | Ivan Popyalof | Ivan | my | Ivan | his | their brother | Ivan Popyalof | his | he | his | he | his | him | he | his | he | he | himself | a cat | him | he | he | his | he | his | he | his | Ivan | he | his | Ivan | I | he | his | Ivan Popyalof | he | his | Ivan | his | Ivan | Ivan | his | Ivan Popyalof | Ivan | him | he | he | his | himself | Ivan Popyalof | him |
+1	1	| Twelve-headed Snake | Snake | that Snake | the Snake | the Snake | the Snake | a third , which had twelve heads | him | his | The Snake | him | the Snake | my | this Snake | his | the Snake | his | his | the Snake | Snake | the Snake | Snake | Snake | Snake | Snake | Snake |
+1	1	| Ivan's father | his father | Father | his father | Father | his father |
+1	0	| 1st mace | a mace five poods in weight | the mace | it | the mace | the mace | it | the mace |
+1	0	| blood | blood |
+1	1	| Snake with three heads | a Snake with three heads | His | his | his | the Snake | the Snake | the Snake |
+1	0	| His steed | His steed | thou | Steed | I | the Steed |
+1	0	| his hound | his hound | thou | Hound |
+1	1	| his falcon | his falcon | thou | Falcon |
+1	1	| Six-headed Snake | another snake, a six-headed one | him |
+1	1	| a raven | a raven | it | the Raven | thee | the Raven | the Raven |
+1	1	| Snake's wife | my wife | wife | the Snake 's Wife | she | her | her | She | she | she | The Snake 's Wife | me | your | the Snake 's Wife | she | her | her | her | the Snake 's Wife | her | her |
+1	0	| the cry of the Raven | the cry of the Raven |
+1	1	| the Snake's daughters | daughters | the silken cushions , the apple-tree , and the spring | all of them | daughters of the Snake | the Snake 's daughters |
+1	0	| Ivan's horse | his horse | his horse |
+1	0	| blood | blood |
+1	0	| blood | blood |
+1	0	| its waters | its waters |
+1	0	| blood | blood |
+1	0	| afterwards - when she had tasted the salt | afterwards - when she had tasted the salt , and found out it was not Ivan |
+1	0	| they all | they all | they | they | they | they | themselves |
+1	0	| Narrator | I | my | my |

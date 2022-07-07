@@ -1,0 +1,212 @@
+1.0	old couple	be upon	time
+1.0	they	have	three son
+1.0	old couple	once be upon	time
+1.0	couple	be upon	time
+1.0	couple	once be upon	time
+1.0	third	be	simpleton
+1.0	simpleton	ivan by	name
+1.0	Ivan	lay for	twelve year
+1.0	Ivan	lay among	ash from stove
+1.0	he	shake	himself
+1.0	Ivan	lay among	ash
+1.0	Ivan	lay for	twelve whole year
+1.0	I mace five pood	be in	weight
+1.0	he	so say to	he father
+1.0	he	say to	he father
+1.0	Ivan	kill	Snake
+1.0	he	have get	mace
+1.0	he	fling	it
+1.0	he	fling straight up	it
+1.0	he	go out into	field
+1.0	he	fling up	it
+1.0	he	go into	field
+1.0	he	have fling mace on	high
+1.0	he	go out into	field
+1.0	he	go out at_time	day
+1.0	he	go out at_time	next day
+1.0	he	go into	field
+0.34918140689127997	he	stand with	he head
+1.0	he	go at_time	next day
+0.34918140689127997	he	stand with	he head throw back
+1.0	he	go at_time	day
+1.0	he	stand	there
+0.34918140689127997	he	stand with	he head throw
+1.0	he	have fling	mace
+1.0	it	so hit	he
+1.0	it	hit	he
+1.0	mace	break in	two
+1.0	Ivan	say to	he father
+1.0	Ivan	go	home
+1.0	he	fling	it
+1.0	he	go out into	field
+1.0	he	fling aloft	it
+1.0	it	go into	field
+1.0	it	go out into	field
+1.0	he	go into	field
+1.0	mace	go	fly through air
+1.0	mace	fly through	air
+1.0	mace	go for	three day
+1.0	mace	go	fly
+1.0	mace	break into	three piece
+1.0	mace	come	tumble
+1.0	he	put	he knee
+1.0	Ivan	go out	out same spot
+1.0	Ivan	go on	day
+1.0	Ivan	go out	out spot
+1.0	mace	break over	it
+1.0	mace	come	tumble down
+1.0	he father	make	he third mace
+1.0	he father	make	he mace
+1.0	Ivan	tell	he father
+1.0	Ivan	go	home
+1.0	he	fling	it
+1.0	he	go out into	field
+1.0	he	fling aloft	it
+1.0	he	have get	it
+1.0	he	go into	field
+0.9836026654608091	be	up in	air
+0.9836026654608091	be	up in	air six day
+1.0	forehead	bow under	it
+1.0	it	strike	Ivan 's forehead
+1.0	Ivan	have	forehead
+1.0	down	fall	mace
+1.0	he	have get	everything ready
+1.0	he	so go with	he brother
+1.0	he	fight	Snake
+1.0	he	so go forth with	he brother
+1.0	he	go forth with	he brother
+1.0	he	go with	he brother
+1.0	he	presently stand hut before	he
+0.23894290573990895	he	live in	hut
+1.0	he	stand	hut on fowl 's leg
+0.34918140689127997	he	presently stand before	he
+1.0	he	presently stand	hut
+1.0	he	stand	hut
+1.0	he	presently stand	hut on fowl 's leg
+1.0	he	live snake in	hut
+0.34918140689127997	he	stand before	he
+1.0	fowl	on	leg
+1.0	he	live	Snake
+1.0	he	stand hut before	he
+1.0	party	come to	standstill
+1.0	Ivan	say to	he brother
+1.0	Ivan	hang up	he glove
+1.0	he	have say	this
+0.5791336874553463	he	go into	hut
+1.0	he	sit down under	board
+1.0	Snake	cry	O Steed
+1.0	we	try together	we strength
+1.0	we	try	we strength
+1.0	they	begin	fight
+1.0	Ivan	sit down again beneath	board
+1.0	Ivan	kill	Snake
+1.0	Ivan	sit down beneath	board
+1.0	Ivan	well begin	fight
+1.0	Ivan	lop off	nine he head
+1.0	Ivan	well begin	fight with he
+1.0	Ivan	lop off	nine of he head
+1.0	Ivan	begin	fight with he
+1.0	Ivan	fight with	he
+1.0	Ivan	begin	fight
+1.0	raven	come	fly
+1.0	it	croak	Krof
+1.0	raven	come	fly by
+1.0	my wife	come	Ivan Popyalof
+1.0	Snake	cry to	raven
+1.0	we	will kill	Snake
+1.0	raven	fly to	he brother
+1.0	raven	give	ear
+0.633593924617174	raven	give ear	Ivan say
+0.6254474269105283	they	cry of	raven
+1.0	they	hear	cry of raven
+1.0	they	hear	cry
+1.0	they	hasten to	they brother 's aid
+1.0	brother	to	aid
+1.0	they	go into	he hut
+1.0	they	kill	Snake
+1.0	they	take	he head
+1.0	they	destroy	they
+1.0	he brother	set off on	they way home
+1.0	he brother	kill	Snake
+1.0	he brother	set off on	they way
+1.0	Ivan Popyalof	set off on	they way
+1.0	Ivan Popyalof	set off on	they way home
+1.0	he brother	wait meanwhile for	he
+1.0	he brother	wait for	he
+1.0	he	fetch	they
+1.0	he	take away	he glove
+1.0	he	tell	he brother
+1.0	Snake	of	wife
+1.0	he	have reach	hut
+1.0	he	hear	voice
+1.0	he	now hear	voice
+1.0	he	begin	mew outside door
+1.0	he	turn	himself
+0.11982177299755592	he	turn into	cat
+1.0	he	begin	mew
+1.0	they	let in	he
+1.0	he	get	he glove
+1.0	he	come	he brother be
+1.0	he	come	where he brother be
+1.0	he	soon mount	he horse
+1.0	he	as soon mount	he horse
+1.0	he	mount	he horse
+1.0	they	see before	they
+1.0	they	presently see before	they
+1.0	green meadow	lay	silken cushion
+1.0	green meadow	lay	cushion
+1.0	meadow	lay	silken cushion
+1.0	meadow	lay	silken cushion
+1.0	meadow	lay	cushion
+1.0	meadow	lay	cushion
+1.0	he	strike	cushion
+1.0	he	seize	he mace
+1.0	he	strike cushion with	it
+1.0	they	go on	further
+1.0	it	be	gold
+1.0	's	eat	apple
+1.0	's	eat apiece	apple
+1.0	I	will try first	they
+1.0	I	will try	they
+1.0	tree	be with	it
+1.0	he	take	he mace
+1.0	he	strike	apple
+1.0	they	go on	further
+0.746737473795256	they	spring in front of	they
+1.0	they	see	spring
+1.0	's	have	drink
+0.5175846712011892	's	drink of	water
+1.0	's	have	drink of water
+1.0	its water	become	blood
+1.0	he	strike	spring
+1.0	he	raise	he mace
+1.0	Ivan	go on	homeward
+1.0	Snake	have	daughter
+1.0	he brother	kill	Snake 's daughter
+1.0	he brother	go on	homeward
+0.8915968012844484	Snake 's Wife	fly after	they
+1.0	Snake	have	Wife
+1.0	she	open	she jaw
+1.0	Ivan	throw	three pood
+1.0	Ivan	throw	three pood of salt
+1.0	he brother	throw	three pood
+1.0	he brother	throw	three pood of salt
+0.18531147821861205	think	be	Ivan Popyalof
+1.0	twelve door	be in	forge of Kuzma
+1.0	he horse	go	free
+1.0	he	hide	himself
+1.0	danger	be at	hand
+1.0	Snake	have	Wife
+1.0	Snake 's Wife	say to	Kuzma
+1.0	you tongue	take	he
+1.0	Snake	have	Wife
+1.0	Snake 's Wife	lick	door
+1.0	they	scatter	she ash
+1.0	Snake	have	Wife
+1.0	Snake 's Wife	be	when dead
+0.025344053211498907	they	scatter to	wind
+1.0	they	consume	she
+1.0	Snake 's Wife	be	dead
+1.0	I	have	liquor drink
+1.0	it	run down	my beard
+1.0	it	only run down	my beard

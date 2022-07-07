@@ -1,0 +1,251 @@
+1.0	they	have	only daughter
+1.0	they	have	Princess Maria
+1.0	they	have	daughter
+1.0	king	take	Yagishna
+1.0	one	have	two eye
+1.0	stepmother	order	she
+1.0	stepmother	dislike	Princess Maria
+1.0	she	take	Burenushka
+1.0	princess	bow to	Burenushka 's right leg
+1.0	princess	drink	she fill
+1.0	princess	dress in	attire
+1.0	princess	bow to	Burenushka 's leg
+1.0	she	tend	Burenushka
+1.0	she	dress like	lady
+1.0	Burenushka	to	right leg
+1.0	princess	dress in	fine attire
+1.0	she	again bow to	cow 's leg
+1.0	she	put	it
+0.8222218120281167	home	carry	she crust of bread
+1.0	she	bow at	end
+1.0	she	again bow at	end
+0.8222218120281167	home	carry back	she crust of bread
+1.0	she	remove	she attire
+1.0	she	bow at	end of day
+1.0	she	bow to	little cow 's right leg
+1.0	little cow	to	right leg
+0.8222218120281167	home	carry back	she crust
+1.0	she	bow to	little cow 's leg
+1.0	she	go	home
+1.0	she	bow to	cow 's leg
+1.0	she	again bow to	little cow 's right leg
+1.0	she	bow to	cow 's right leg
+1.0	she	again bow to	cow 's right leg
+1.0	she	again bow to	little cow 's leg
+0.8222218120281167	home	carry	she crust
+1.0	she	remove	she fine attire
+1.0	she	again bow at	end of day
+1.0	slut	do keep	alive
+1.0	she	give	Princess Maria
+1.0	she	send	she elder daughter
+1.0	she	send	she daughter
+1.0	she	give	crust
+1.0	she	give crust at_time	day
+1.0	she	give	same crust
+1.0	she	give crust at_time	next day
+1.0	they	come	say
+1.0	they	come to	field
+1.0	they	come to	open field
+1.0	she	begin at	same time say
+1.0	she	pick	they
+1.0	she	begin at	same time
+1.0	she	begin at	time
+1.0	she	begin at	time say
+1.0	Sleep	dear	my
+1.0	Princess Maria	remove	she attire
+1.0	Princess Maria	remove	she fine attire
+1.0	my mother	will scold	I
+1.0	my mother	now will scold	I
+1.0	mother	ask	she
+1.0	she	get up at_time	morning
+1.0	she	get	say
+1.0	she	get at_time	next morning
+1.0	she	send	three daughter
+1.0	she	get up	say
+1.0	she	send	three eyed daughter
+1.0	she	get up at_time	next morning
+1.0	she	get at_time	morning
+1.0	Princess Maria	begin	pick
+1.0	Sleep	dear	my
+1.0	she	forget about	eye
+1.0	she	forget about	third eye
+1.0	she	bow to	she right leg
+1.0	she	drink	she fill
+1.0	she	run to	Burenushka
+1.0	she	drink	she fill dress in attire
+1.0	she	drink	she fill dress in fine attire
+1.0	she	bow to	she leg
+1.0	she	drink	she fill dress
+1.0	sun	begin	set
+1.0	she	remove	she fine attire
+1.0	she	remove	she attire
+1.0	she	again bow to	Burenushka
+1.0	she	bow to	Burenushka
+1.0	Princess Maria	put	she crust
+1.0	Princess Maria	put	she dry crust
+1.0	Princess Maria	come	home
+1.0	three-eyed one	tell	everything
+1.0	Yagishna	say to	she husband
+1.0	old man	slaughter	cow
+1.0	man	slaughter	cow
+1.0	Princess Maria	beg	he
+1.0	man	throw	she
+1.0	old man	throw	she
+1.0	she	place	it
+1.0	bush	grow up on	it
+1.0	Prince Ivan	hear about	Princess Maria
+1.0	Yagishna	pick	berry
+1.0	she	send	Princess Maria
+1.0	she	last send	Princess Maria
+0.7199197455508125	they	bird	she could pick
+0.7199197455508125	they	little bird	she could pick
+1.0	Princess Maria	take	dish
+1.0	she	pick	they
+0.7199197455508125	they	little bird	she herself could pick
+0.7199197455508125	they	bird	she herself could pick
+1.0	she	place berry on	table
+1.0	she	place	berry
+1.0	she	bow to	prince
+1.0	Prince Ivan	take away	Princess Maria
+1.0	Prince Ivan	take	Princess Maria
+1.0	they	begin	live happily
+1.0	they	begin	live
+1.0	Princess Maria	give	birth
+1.0	Princess Maria	give birth to	son
+1.0	Princess Maria	give birth after	time
+1.0	she	go with	she husband
+1.0	she	visit	she father
+1.0	she	go to	he house
+0.11982177299755592	she stepmother	turn into	goose
+1.0	she stepmother	disguise	she daughter as Prince Ivan 's wife
+1.0	she stepmother	disguise	she elder daughter
+1.0	she stepmother	disguise	she daughter
+1.0	she stepmother	disguise	she elder daughter as Prince Ivan 's wife
+1.0	she stepmother	turn	she
+1.0	Prince Ivan	as	wife
+1.0	old tutor	go	stop near bush
+1.0	old tutor	go to	open field
+1.0	tutor	go to	open field
+1.0	old tutor	go	stop
+1.0	old tutor	take baby in	he arm
+1.0	tutor	go	stop near bush
+1.0	tutor	go	stop near little bush
+1.0	tutor	go	stop
+1.0	tutor	go to	field
+1.0	old tutor	go	stop near little bush
+1.0	old tutor	take	baby
+1.0	tutor	take	baby
+1.0	old tutor	go to	field
+1.0	tutor	take baby in	he arm
+1.0	my	goose	gray goose
+1.0	you	have see	baby 's mother
+1.0	baby	have	mother
+1.0	my	goose	gray goose
+1.0	you	have see	baby 's mother
+1.0	baby	have	mother
+1.0	baby 's mother	take	baby
+1.0	baby 's mother	jump to	ground
+1.0	I	will fly beyond	forest dark
+1.0	baby 's mother	tear off	she goose skin
+1.0	I	will fly beyond	mountain
+1.0	I	will fly beyond	forest
+1.0	baby	have	mother
+0.6934639395779968	I	will nurse	he
+1.0	baby 's mother	take baby in	she arm
+1.0	baby 's mother	nurse	he
+1.0	I	will fly beyond	mountain high
+1.0	little fellow	sleep till	next morning
+1.0	false wife	rail	have go to open field
+1.0	false wife	go to	open field
+1.0	little fellow	sleep till	morning
+1.0	false wife	rail at	man
+1.0	little fellow	sleep	awaken
+1.0	fellow	sleep till	morning
+1.0	fellow	sleep till	next morning
+1.0	false wife	rail	have go
+1.0	false wife	rail at	old man
+1.0	false wife	rail	have go to field
+1.0	false wife	go to	field
+1.0	fellow	sleep	awaken
+1.0	he	get up very early at_time	next morning
+1.0	he	wash clean	himself
+1.0	he	wash very clean	himself
+1.0	he	again get up very early at_time	next morning
+1.0	he	follow	old man unseen
+1.0	he	get up at_time	morning
+1.0	he	again get up at_time	morning
+1.0	he	go to	field
+1.0	he	again get up early at_time	next morning
+1.0	he	get up at_time	next morning
+1.0	he	get up early at_time	next morning
+1.0	he	again get up early at_time	morning
+1.0	he	wash	himself
+1.0	he	again get up at_time	next morning
+1.0	he	go to	open field
+1.0	he	go with	child
+1.0	he	follow	man unseen
+1.0	he	get up early at_time	morning
+1.0	he	get up very early at_time	morning
+1.0	he	again get up very early at_time	morning
+1.0	he	hide in	bush
+1.0	man	call to	they
+1.0	old man	call to	they
+1.0	my	goose	gray goose
+1.0	you	have see	baby 's mother
+1.0	baby	have	mother
+1.0	my	goose	gray goose
+1.0	you	have see	baby 's mother
+1.0	baby	have	mother
+1.0	I	will fly beyond	forest dark
+1.0	baby 's mother	jump to	ground
+1.0	baby 's mother	say	fare to he
+1.0	baby 's mother	tear off	she goose skin
+1.0	baby 's mother	throw	it
+1.0	baby 's mother	nurse	baby
+1.0	I	will fly beyond	forest
+1.0	baby	have	mother
+1.0	baby 's mother	say	fare well to he
+1.0	baby 's mother	nurse baby at	she breast
+1.0	baby 's mother	say	fare
+1.0	she	give baby to	old man
+1.0	she	give	baby
+1.0	she	give baby to	man
+1.0	Prince Ivan	have burn	it
+1.0	it	be	go
+1.0	she	put on	she goose skin
+1.0	she	turn into	lizard
+1.0	she	turn into	then lizard
+1.0	she	turn into	frog
+1.0	Prince Ivan	throw	top back of he
+1.0	Prince Ivan	throw	top back
+1.0	woman	stand before	he
+0.7134313088545029	back	bottom in front of	he
+1.0	young woman	stand before	he
+1.0	Prince Ivan	throw	back of he
+1.0	Prince Ivan	throw	bottom
+1.0	Prince Ivan	break spindle in	two
+1.0	beautiful young woman	stand before	he
+1.0	beautiful woman	stand before	he
+1.0	Prince Ivan	break	spindle
+0.7134313088545029	top back	bottom in front of	he
+1.0	Prince Ivan	throw	back
+1.0	they	go	home
+1.0	they	go together	home
+1.0	Yagishna	have	daughter
+1.0	Prince Ivan	gather together	boyar
+1.0	Prince Ivan	ask	they
+1.0	Prince Ivan	gather together	duke
+1.0	Prince Ivan	gather	boyar
+1.0	Prince Ivan	gather	duke
+1.0	they	say with	first
+1.0	gentleman	climb gate	she will live
+1.0	gentleman	climb gate	will I live
+1.0	gentleman	climb	gate
+1.0	gentleman	climb gate	she will I live
+1.0	Yagishna	have	daughter once climb to top of gate
+1.0	Princess Maria	clutch	it
+1.0	Princess Maria	only clutch	it
+1.0	Prince Ivan	begin	live
+1.0	Prince Ivan	take	he gun
+1.0	Prince Ivan	begin	live with Princess Maria
+1.0	Prince Ivan	shoot	false wife

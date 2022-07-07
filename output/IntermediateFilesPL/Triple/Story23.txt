@@ -1,0 +1,216 @@
+1.0	old gaffer	meet	he
+1.0	gaffer	meet	he
+1.0	old man	look for	mushroom
+1.0	old man	go at_time	one day
+1.0	old man	go into	forest
+1.0	man	go	look for mushroom
+1.0	man	go at_time	one day
+1.0	man	look for	mushroom
+1.0	old man	go	look
+1.0	old man	go	look for mushroom
+1.0	man	go	look
+1.0	man	go into	forest
+1.0	I	know	you thought
+1.0	forty-one house	be in	village
+1.0	old man	go	egg
+1.0	man	put brood hen over	they
+1.0	old man	put brood hen over	they
+1.0	old man	put	brood hen
+1.0	man	put	brood hen
+1.0	man	go	egg
+1.0	child	bear of	egg
+1.0	man	give	they
+1.0	old man	give	they
+1.0	old man	give	name
+1.0	man	give	name
+1.0	he	call	he Zamoryshek
+1.0	they	begin	work
+1.0	they	shoot up	fast
+1.0	season	come on	forty
+1.0	rick	be put up in	single week
+1.0	rick	be put up in	week
+1.0	Zamoryshek	stay at	home
+1.0	harvest season	come on	forty
+1.0	man	look at	they
+1.0	old man	look at	they
+1.0	old man	go into	field
+1.0	man	go into	field
+0.63710295746508	they	have harvest at	all
+0.63710295746508	they	have harvest in	one week
+1.0	one rick	be	a-missing
+1.0	he	gloat on	he possession
+1.0	he	go out at_time	day
+1.0	he	go out	gloat on he possession
+1.0	rick	be	a-missing
+1.0	he	go out again	gloat on he possession
+1.0	he	go out	gloat
+1.0	he	go out again	gloat
+1.0	he	go out again at_time	next day
+1.0	he	go out again at_time	day
+1.0	he	go out at_time	next day
+1.0	Zamoryshek	go to	smith
+1.0	Zamoryshek	ask for	chain big enough
+1.0	Zamoryshek	ask for	chain
+1.0	Zamoryshek	ask for	chain big
+1.0	Zamoryshek	put	it
+1.0	Zamoryshek	put	he
+1.0	Zamoryshek	stretch	it
+1.0	Zamoryshek	put	round he
+1.0	smith	make	iron chain
+1.0	it	round	he body
+1.0	smith	so make	second iron chain
+1.0	smith	make	second iron chain
+1.0	smith	so make	iron chain
+1.0	Zamoryshek	go under	hayrick
+1.0	storm	rage at	midnight
+1.0	strange nag	rise out of	sea
+1.0	sea	rage at	midnight
+0.967887836512221	run	up to	rick
+1.0	nag	rise out of	sea
+1.0	sudden storm	rage at	midnight
+1.0	rise	rage at	midnight
+1.0	Zamoryshek	bind	neck round
+1.0	Zamoryshek	bind neck round with	chain
+0.06541701069382	Zamoryshek	bind with	chain
+1.0	Zamoryshek	mount	she
+1.0	mare	gallop over	hill
+1.0	you	master of	my foal
+1.0	mare	gallop over	valley
+1.0	you	may become	master
+1.0	she	say in	human voice
+1.0	you	may become	master of my foal
+1.0	she	say in	voice
+1.0	they	be	foal
+1.0	they	be	such foal
+1.0	sea	up run	forty-one foal
+1.0	they	be	fine foal
+1.0	they	be	such fine foal
+1.0	she	run under	sea
+0.7921384505128162	single horse	be better than	other horse
+1.0	sea	run	forty-one foal
+1.0	old man	hear	neighing
+1.0	he son zamoryshek	be with	entire
+1.0	old man	hear neighing at_time	morning
+1.0	old man	hear neighing outside	he door
+1.0	man	hear	neighing
+1.0	man	hear neighing at_time	morning
+1.0	man	hear neighing at_time	next morning
+1.0	man	hear neighing outside	he door
+1.0	ye	hunt for	bride
+1.0	father	bless	they
+1.0	brother	set forth on	they distant way
+1.0	brother	set forth on	they way
+1.0	brother	set on	they way
+1.0	brother	set on	they distant way
+1.0	mother	bless	they
+1.0	they	seek	they bride
+1.0	they	ride far in	world
+1.0	they	ride in	white world
+1.0	they	ride far in	white world
+1.0	they	ride in	world
+1.0	they	stand	white stone palace
+1.0	they	stand	stone palace
+0.34918140689127997	they	stand with	wall
+1.0	they	count	forty-one column
+1.0	they	go across	thirteen country
+1.0	they	stand stone palace with	wall
+1.0	they	stand stone palace with	high wall
+0.34918140689127997	they	stand with	high wall
+1.0	they	tie	they horse
+1.0	they	tie	they knightly horse
+1.0	Baba Yaga	meet	they
+1.0	you	tie	you horse
+1.0	you	do dare without	leave
+1.0	First	give	we
+1.0	First	question	we
+1.0	First	ask	we
+1.0	First	take	we
+1.0	First	give	drink
+1.0	First	give	food
+1.0	First	thereafter ask	we
+1.0	she	ask	they
+1.0	Baba Yaga	serve	they
+1.0	Baba Yaga	conduct	they
+1.0	ye	do	deed
+1.0	she	afterwards ask	they
+1.0	you	have come	seek
+1.0	I	have	daughter
+1.0	she	burst into	room
+1.0	she	burst into	lofty room
+1.0	she	bring out	she forty-one daughter
+1.0	they	begin	feast together
+1.0	they	be	then betroth
+1.0	they	be	betroth
+1.0	they	begin	feast
+1.0	good horse	speak with	voice
+1.0	horse	speak with	human voice
+1.0	horse	see	he
+1.0	Zamoryshek	go	look at he horse
+1.0	horse	speak with	voice
+1.0	Zamoryshek	look at	he horse
+1.0	good horse	see	he
+1.0	good horse	speak with	human voice
+1.0	Zamoryshek	go	look
+1.0	you	will	will kill
+1.0	you	lie down with	you young wife
+1.0	you	lie down with	you wife
+1.0	you	will	otherwise will kill
+1.0	you	will	will all kill
+1.0	they	put on	you wife ' clothes
+1.0	you	will	otherwise will all kill
+1.0	Zamoryshek	only take	care
+1.0	Zamoryshek	take care	keep
+1.0	Zamoryshek	keep	he eye open
+1.0	Zamoryshek	only take care	keep
+1.0	they	go	sleep
+1.0	Zamoryshek	take	care
+1.0	Baba Yaga	cry out	Ho
+1.0	Baba Yaga	cry out ho in	loud voice
+1.0	Baba Yaga	cry out ho at	midnight
+1.0	Ho	servant	my
+0.06368547128976998	Baba Yaga	cry out in	loud voice
+1.0	Baba Yaga	cry out ho in	voice
+0.06368547128976998	Baba Yaga	cry out at	midnight
+0.06368547128976998	Baba Yaga	cry out in	voice
+1.0	Baba Yaga	cry out	ye my faithful servant
+1.0	ye	will cut off	head of my insolent guest
+1.0	ye	will cut off	head
+1.0	ye	will cut off	head of my guest
+1.0	servant	cut off	daughter ' head
+1.0	Zamoryshek	tell	they
+1.0	Zamoryshek	rouse	he brother
+1.0	they	put	they
+1.0	they	take head with	they
+1.0	they	take	head
+1.0	they	arm	themselves
+1.0	Baba Yaga	see	head on stake
+1.0	Baba Yaga	look through	she little window
+1.0	Baba Yaga	see	head
+1.0	Baba Yaga	get up in	morning
+1.0	Baba Yaga	look through	she window
+0.6101179615657969	see	head on	stake
+1.0	she	be	angry
+1.0	she	call for	she fiery shield
+1.0	she	call for	she shield
+1.0	she	leap out on	chase
+1.0	she	be	very angry
+1.0	youth	should betake	themselves
+1.0	Whither	should betake	themselves
+1.0	sea	be in front of	they
+1.0	blue sea	be in front of	they
+1.0	she	burn everything with	she fiery shield
+1.0	she	burn	everything
+1.0	she	burn everything with	she shield
+1.0	Zamoryshek	shake	handkerchief in front
+1.0	Zamoryshek	shake	handkerchief
+1.0	Zamoryshek	so shake	handkerchief in front
+1.0	Zamoryshek	build	bridge across width of blue sea
+1.0	handkerchief	be in	front
+1.0	doughty youth	cross safely	sea
+1.0	Zamoryshek	so shake	handkerchief
+1.0	Zamoryshek	be	inventive
+1.0	Zamoryshek	so build	bridge across width of blue sea
+1.0	doughty youth	cross	sea
+1.0	Zamoryshek	shake handkerchief on	left-hand side
+1.0	Zamoryshek	shake	handkerchief
+1.0	Zamoryshek	shake handkerchief on	side

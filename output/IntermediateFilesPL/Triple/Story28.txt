@@ -1,0 +1,559 @@
+1.0	he	have	only one daughter
+1.0	he	have	only one daughter call
+1.0	he	have	have marry for twelve year
+1.0	he	have	have marry
+1.0	girl	be	old
+1.0	girl	be	when eight year old
+1.0	girl	be old	eight year
+1.0	girl	be	when old
+1.0	I	together leave	you
+1.0	I	leave	you
+1.0	you	get into	trouble
+1.0	you	give	doll food
+1.0	you	ask	its advice
+1.0	it	will tell	you
+1.0	mother	kiss	she child
+1.0	wife	after	death
+1.0	merchant	mourn after	he wife 's death
+1.0	he	be	man
+1.0	he	like	best certain widow
+1.0	he	like	certain widow
+1.0	he	like	widow
+1.0	he	be	handsome
+1.0	he	be	handsome man
+1.0	he	like	best widow
+1.0	he	think	elderly of same age
+1.0	she	have	two daughter of she own
+1.0	she	be elderly of	almost same age as Vasilisa
+1.0	he	think	elderly of age as Vasilisa
+1.0	he	think	elderly of almost same age as Vasilisa
+1.0	he	think	elderly
+1.0	she	be elderly of	age as Vasilisa
+1.0	she	be elderly of	age
+1.0	she	be elderly of	almost age
+1.0	she	have	two daughter
+1.0	he	think	elderly of almost age
+1.0	she	be elderly of	almost age as Vasilisa
+1.0	she	be elderly of	almost same age
+1.0	she	be	elderly
+1.0	she	be	experienced
+1.0	he	think	elderly of age
+1.0	he	think	elderly of same age as Vasilisa
+1.0	she	be elderly of	same age
+1.0	he	think	elderly of almost same age
+1.0	she	be elderly of	same age as Vasilisa
+1.0	he	think	elderly of almost age as Vasilisa
+1.0	she	be good mother for	he Vasilisa
+1.0	he	marry	she
+1.0	she	be good mother for	Vasilisa
+1.0	stepsister	be	jealous
+1.0	she	have	miserable life
+1.0	she	have	life
+1.0	she	grow	thin
+1.0	she stepmother	be jealous of	she beauty
+1.0	she	grow from	exposure
+1.0	stepsister	torment	she
+1.0	she stepmother	be	jealous
+1.0	she	have life in	truth
+1.0	she stepmother	be	jealous of she beauty
+1.0	beautiful girl	be in	village
+1.0	she	have	most miserable life
+1.0	she	grow from	exposure to wind
+1.0	she	grow from	toil
+1.0	stepsister	be jealous of	she beauty
+1.0	they	sit with	fold hand
+1.0	they	always sit with	fold hand
+1.0	stepmother	grow from	spite
+1.0	they	always sit with	hand
+1.0	she daughter	grow	thin
+1.0	they	sit like	lady
+1.0	they	sit with	hand
+1.0	they	always sit like	lady
+1.0	Vasilisa	become	buxom
+1.0	Vasilisa	become	lovelier buxom
+1.0	she daughter	grow from	spite
+1.0	stepmother	grow	thin
+1.0	Vasilisa	be	help
+1.0	Vasilisa	be help by	she doll
+1.0	vasilisa	keep	choicest morsel for she doll
+1.0	vasilisa	keep	morsel
+0.878355980990736	keep	choicest morsel for	she doll
+1.0	vasilisa	keep	choicest morsel
+0.878355980990736	keep	morsel for	she doll
+1.0	vasilisa	keep	morsel for she doll
+1.0	she	give	treat
+1.0	she	would lock	herself
+1.0	she	give	doll
+1.0	father	in	house
+1.0	I	be deprive of	joy
+1.0	wicked stepmother	be drive	I
+1.0	stepmother	be drive	I
+1.0	doll	comfort	she
+1.0	doll	give	she advice
+1.0	doll	show	Vasilisa
+1.0	doll	even show	Vasilisa
+1.0	she	lead life	thanks
+1.0	she	lead	easy life
+1.0	she	lead	life
+1.0	she	lead life	thanks to she doll
+1.0	Vasilisa	reach	marriage age
+1.0	stepmother	be more spiteful than	ever
+1.0	stepmother	be spiteful than	ever
+1.0	stepmother	be	spiteful
+1.0	stepmother	be	more spiteful
+1.0	merchant	leave home for	time
+1.0	merchant	leave home	trade
+1.0	merchant	leave home	trade in land
+1.0	merchant	have at_time	one day
+1.0	merchant	leave	home
+1.0	merchant	leave home	trade in distant land
+1.0	merchant	leave home for	long time
+1.0	hut	live	Baba Yaga
+1.0	they	be	chicken
+1.0	anyone	come near	she
+1.0	merchant	have	wife hate
+1.0	merchant 's wife	move into	new house
+1.0	merchant 's wife	move into	house
+1.0	stepmother	put out light over	house
+1.0	light	leave	only one candle
+1.0	stepmother	go to	bed
+1.0	stepmother	put out light over	all house
+1.0	she	instead snuff out	it
+1.0	mother	follow	order
+1.0	she	snuff out	it
+1.0	someone	must run to	Baba Yaga
+1.0	someone	get	light
+1.0	they	cry to	they stepsister
+1.0	they	push vasilisa out of	room
+1.0	they	push	Vasilisa
+1.0	she	go into	she room
+1.0	she	go into	she little room
+1.0	she	go into	she own room
+1.0	she	go into	she own little room
+1.0	she	have prepare before	she doll
+1.0	she	will eat up	I
+1.0	they	be send	I
+1.0	doll	eat	supper burn
+1.0	doll	eat	supper
+1.0	doll	eat	supper burn like two candle
+1.0	doll	eat	its eye
+1.0	you	be	send
+1.0	you	be	where send
+1.0	Vasilisa	make	sign
+1.0	Vasilisa	make	sign of cross
+1.0	Vasilisa	put	she doll
+1.0	Vasilisa	go into	deep forest
+1.0	Vasilisa	go into	forest
+1.0	Vasilisa	make	ready
+1.0	she	walk in	fear
+1.0	horse	have	trappings
+1.0	daybreak	come to	wood
+1.0	he	be	dress
+1.0	he	be dress	in white white
+1.0	he horse	be white in	white
+1.0	he face	be	white
+1.0	he horse	be	white
+1.0	he	be dress	white
+1.0	he	be	red
+1.0	he	be	dress
+1.0	sun	begin	rise
+1.0	horseman	gallop past	she
+1.0	he horse	be	red
+1.0	he	be dress in	red
+1.0	second horseman	gallop past	she
+1.0	he	be	all red
+1.0	Baba Yaga	have	hut
+1.0	Vasilisa	walk at_time	whole night
+1.0	she	do come at_time	day
+1.0	she	do come at_time	whole day
+1.0	Vasilisa	walk at_time	night
+1.0	door	have	human leg for doorpost
+1.0	fence	be	on spike skull with eye
+1.0	door	have	human leg
+1.0	mouth	be with	sharp tooth
+1.0	fence	be human skull on	spike
+1.0	fence	be	on spike human skull with stare eye
+1.0	fence	be	on spike human skull with eye
+1.0	fence	be skull on	spike
+1.0	door	have	leg for doorpost
+1.0	fence	be	human skull
+1.0	door	have	leg
+1.0	fence	be	on spike skull with stare eye
+0.5909670343095524	door	leg for	doorpost
+1.0	fence	be human skull with	eye
+1.0	fence	be skull with	eye
+1.0	human skull	be with	stare eye
+1.0	fence	be human skull with	stare eye
+0.5909670343095524	door	human leg for	doorpost
+1.0	fence	be skull with	stare eye
+1.0	fence	be	skull
+1.0	Vasilisa	be	numb
+1.0	Vasilisa	stand	root
+1.0	Vasilisa	be numb with	horror
+1.0	Vasilisa	stand	root to spot
+1.0	he	be dress in	black
+1.0	he	be	dress
+1.0	he	be	black
+1.0	he	be	all black
+1.0	he horse	be	black
+1.0	Baba Yaga	to	door
+1.0	he	gallop up to	Baba Yaga 's door
+1.0	earth	have swallow up	he
+1.0	glade	be as bright as	day
+1.0	glade	be bright as	day
+1.0	glade	be	bright
+1.0	glade	be	as bright
+1.0	Baba Yaga	drive out in	mortar
+1.0	terrible noise	resound through	wood
+1.0	terrible noise	soon resound through	wood
+1.0	noise	resound through	wood
+1.0	noise	soon resound through	wood
+1.0	she	sniff	air
+1.0	she	sniff air around	she
+1.0	she	ride up	up gate
+0.8885379567269335	air	cry	fie
+0.8885379567269335	air	cry	fie
+1.0	I	smell	russian smell
+1.0	I	smell	smell
+1.0	Vasilisa	tremble with	fear
+1.0	I	get	light
+1.0	my stepsister	send	I
+1.0	I	will eat up	you
+1.0	you	work for	I
+1.0	you	must live with	I
+1.0	she	turn to	gate
+1.0	my	bolt	unlock
+1.0	Baba Yaga	drive in	whistle
+1.0	Vasilisa	follow	she
+1.0	Baba Yaga	say to	Vasilisa
+1.0	I	be	hungry
+1.0	Baba Yaga	enter	room
+1.0	Vasilisa	light	torch from skull
+1.0	Vasilisa	light	torch
+1.0	Vasilisa	light	torch from skull on fence
+1.0	she	bring	kvass
+1.0	she	bring	wine
+1.0	she	bring kvass from	cellar
+1.0	she	bring beer from	cellar
+1.0	she	bring wine from	cellar
+1.0	she	bring	mead
+1.0	she	bring	beer
+1.0	she	bring mead from	cellar
+1.0	witch	eat	everything
+1.0	witch	leave piece for	Vasilisa
+1.0	old witch	leave	little cabbage soup
+1.0	witch	leave	only little cabbage soup
+1.0	old witch	leave	crust
+1.0	old witch	leave	crust of bread
+1.0	old witch	leave	cabbage soup
+1.0	witch	leave cabbage soup for	Vasilisa
+1.0	old witch	eat	everything
+1.0	old witch	leave	piece
+1.0	witch	leave	only cabbage soup
+1.0	witch	leave	cabbage soup
+1.0	old witch	leave cabbage soup for	Vasilisa
+1.0	witch	leave	piece of pork
+1.0	witch	leave	piece
+1.0	old witch	leave piece for	Vasilisa
+1.0	witch	leave	crust
+1.0	witch	leave	little cabbage soup
+1.0	old witch	leave	only little cabbage soup
+1.0	soup	crust of	bread
+0.6029300783271708	cabbage soup	piece of	pork
+1.0	old witch	leave	piece of pork
+1.0	witch	leave	crust of bread
+0.6029300783271708	little cabbage soup	piece of	pork
+1.0	old witch	leave	only cabbage soup
+1.0	you	wash	linen
+1.0	you	go to	cornbin
+1.0	you	go out	bushel
+1.0	you	sweep	yard
+1.0	you	cook	dinner
+1.0	you	go out	bushel of wheat
+1.0	I	will eat up	you
+1.0	everything	be	do
+1.0	Baba Yaga	begin	snore
+1.0	Baba Yaga	give	order
+1.0	Vasilisa	weep	bitter tear
+1.0	Vasilisa	weep	tear
+1.0	Vasilisa	set	remnant
+1.0	Vasilisa	set remnant before	she doll
+0.5772640644752647	Vasilisa	remnant of	witch 's supper
+1.0	old witch	of	supper
+0.5772640644752647	Vasilisa	remnant of	old witch 's supper
+1.0	Vasilisa	set	remnant of old witch 's supper
+1.0	Vasilisa	set	remnant of witch 's supper
+1.0	Baba Yaga	have give	task do
+1.0	Baba Yaga	have give	I
+1.0	Baba Yaga	have give	hard task do
+1.0	doll	answer	Vasilisa Beautiful
+1.0	morning	be wiser than	evening
+1.0	morning	be	wiser
+1.0	you supper	go	sleep
+1.0	Vasilisa	very awake	Baba Yaga have arise
+1.0	Vasilisa	look out of	window
+1.0	Vasilisa	awake	Baba Yaga have arise
+1.0	broom	appear before	she
+1.0	mortar	appear before	she
+1.0	Baba Yaga	go into	yard
+1.0	Baba Yaga	go out into	yard whistle
+1.0	pestle	appear before	she
+1.0	Baba Yaga	go out into	yard
+1.0	Baba Yaga	go into	yard whistle
+1.0	Baba Yaga	prod on	it
+1.0	Baba Yaga	sweep	she trace
+0.039271560364453006	Baba Yaga	sweep with	broom
+1.0	Baba Yaga	sit in	mortar
+1.0	Vasilisa	stop	wonder
+1.0	Baba Yaga	about	hut
+1.0	doll	be pick shred from	wheat
+1.0	doll	be pick	last shred
+0.873112258400902	doll	shred of	chaff
+1.0	doll	be pick	last shred of chaff
+1.0	doll	be pick	shred
+0.873112258400902	doll	last shred of	chaff
+1.0	doll	be pick	shred of chaff
+1.0	Vasilisa	into	pocket
+1.0	you	have	do
+1.0	health	for	sake
+1.0	Vasilisa	set	table
+1.0	Vasilisa	wait for	Baba Yaga
+1.0	dusk	begin	fall
+1.0	Vasilisa	meet	she
+1.0	everything	be	do
+1.0	Baba Yaga	be	annoy
+1.0	Baba Yaga	look at	everything
+1.0	my	servant	dear friend
+1.0	my faithful servant	grind	my wheat
+1.0	Baba Yaga	again give	she order
+1.0	Baba Yaga	eat	she fill
+1.0	Baba Yaga	give	she order
+1.0	Baba Yaga	make	ready
+1.0	someone	throw dust into	bin
+1.0	poppy seed	grain by	grain
+1.0	someone	throw	dust
+1.0	you	have do at_time	today
+1.0	someone	throw dust out of	spite
+1.0	poppy seed	get	rid
+1.0	poppy seed	get	rid of dust
+1.0	she	have speak	pray
+1.0	morning	be wiser than	evening
+1.0	doll	speak	she have speak
+1.0	morning	be	wiser
+1.0	she	have speak at_time	day
+1.0	she	pray to	God
+1.0	she	have speak	pray to God
+1.0	doll	speak	she have speak day
+1.0	everything	will	will do
+1.0	next morning Baba Yaga	again leave	yard
+1.0	next morning Baba Yaga	leave	yard
+1.0	morning Baba Yaga	leave yard in	she mortar
+1.0	doll	have	work do
+1.0	morning Baba Yaga	again leave	yard
+1.0	Vasilisa	have	work do
+1.0	doll	soon have	work do
+1.0	morning Baba Yaga	leave	yard
+1.0	Vasilisa	soon have	work do
+1.0	next morning Baba Yaga	again leave yard in	she mortar
+1.0	morning Baba Yaga	again leave yard in	she mortar
+1.0	next morning Baba Yaga	leave yard in	she mortar
+1.0	witch	cry	press oil
+1.0	old witch	look at	everything
+1.0	old witch	cry	my faithful servant
+1.0	my	servant	press oil out poppy seed
+1.0	servant	oil out of	poppy seed
+1.0	witch	cry	my faithful servant
+1.0	old witch	cry	press oil
+1.0	witch	look at	everything
+1.0	Vasilisa	stand	silent
+1.0	you	be	dumb
+1.0	I	ask	you
+1.0	I	ask	something
+1.0	you	know	much
+1.0	you	know	too much
+0.19132517912564495	you	will grow	you know
+0.19132517912564495	you	will soon grow	you know
+1.0	you	will soon grow	old
+1.0	you	will grow	old
+1.0	I	ask	you
+1.0	I	ask	grandmother
+1.0	I	be on	my way to you
+1.0	I	be on	my way
+1.0	he	have	horse
+1.0	he	have	red horse
+1.0	he	be	my red sun
+1.0	he	be	my sun
+1.0	I	meet at	you gate
+1.0	I	meet at	grandmother
+1.0	you	gate	grandmother
+1.0	I	meet at	you very gate
+1.0	he	be	my dark night
+1.0	he	be	my night
+1.0	Vasilisa	keep	silent
+1.0	you	say	grandmother
+1.0	you	say	yourself
+1.0	I	now shall ask	something
+1.0	I	shall ask	something
+1.0	I	shall ask	you
+1.0	I	now shall ask	you
+1.0	I	set for	you
+1.0	bless one	be in	my house
+1.0	she	take skull with	eye
+1.0	she	take skull with	eye from fence
+1.0	she	take skull with	burn eye from fence
+1.0	she	take	skull
+1.0	she	drag	Vasilisa
+1.0	she	stick	it
+1.0	she	give	it
+1.0	she	push	she
+1.0	she	take skull with	burn eye
+1.0	she	drag vasilisa out of	room
+1.0	they	send	you
+1.0	Vasilisa	run by	light by nightfall
+1.0	Vasilisa	run homeward by	light
+1.0	Vasilisa	run by	light
+1.0	Vasilisa	run homeward by	light by nightfall
+1.0	she	throw away	skull
+1.0	she	approach	gate
+1.0	she	be about	think
+1.0	dull voice	come from	skull
+1.0	voice	come from	skull
+1.0	dull voice	suddenly come from	skull
+1.0	voice	suddenly come from	skull
+1.0	she	look at	stepmother 's house
+1.0	stepmother	at	house
+1.0	she	be receive kindly for	time
+1.0	she	be receive for	time
+1.0	she	be	receive kindly
+1.0	she	be receive for	first time
+1.0	she	be	receive
+1.0	she	be receive kindly for	first time
+1.0	stepsister	tell	she
+1.0	she stepmother	tell	she
+1.0	skull	be bring into	room
+1.0	its eye	stare at	stepmother
+1.0	skull	be	bring
+1.0	its eye	keep	stare
+1.0	its eye	keep	stare at stepmother
+1.0	skull	burn	they
+1.0	eye	follow	they
+1.0	they	try	hide
+1.0	Vasilisa	remain by	fire
+1.0	Vasilisa	remain	untouched
+0.9858168417790424	bury	skull in	ground
+1.0	morning Vasilisa	bury	skull in ground
+1.0	morning Vasilisa	bury	skull
+1.0	skull	be in	ground
+1.0	certain childless old woman	give	she shelter
+1.0	woman	give	she shelter
+1.0	certain childless woman	give	she shelter
+1.0	childless old woman	give	she shelter
+1.0	childless woman	give	she shelter
+1.0	father	for	return
+1.0	certain woman	give	she shelter
+1.0	certain old woman	give	she shelter
+1.0	old woman	give	she shelter
+1.0	she	say to	woman
+1.0	she	say at_time	one day
+1.0	Vasilisa	set	work
+1.0	good flax	set	work
+1.0	flax	set	work
+1.0	she spin	be as	even hair
+1.0	she spin	be as	hair
+1.0	Vasilisa	for	yarn
+1.0	Vasilisa	ask	she doll
+1.0	I	will make	loom
+1.0	horse	have	mane
+1.0	doll	make	wonderful loom
+1.0	doll	make	loom
+1.0	linen	be weave by	end of winter
+1.0	it	be pass through	needle like thread
+1.0	it	be	pass
+1.0	it	be	fine
+1.0	linen	be weave by	end
+1.0	it	be	so fine
+1.0	it	be pass through	needle
+1.0	linen	be	weave
+1.0	Vasilisa	say to	woman
+1.0	Vasilisa	say	grandmother
+1.0	linen	be	bleached
+1.0	Vasilisa	say to	old woman
+1.0	linen	be bleached in	spring
+1.0	old woman	look at	linen
+1.0	woman	look at	linen
+1.0	woman	walk back beneath	window
+1.0	woman	walk beneath	window
+1.0	old woman	walk back beneath	window
+1.0	old woman	go to	tsar 's palace
+1.0	woman	walk back and forth beneath	window
+1.0	woman	go to	tsar 's palace
+1.0	tsar	to	palace
+1.0	old woman	walk beneath	window
+1.0	old woman	walk back and forth beneath	window
+1.0	tsar	see	she
+1.0	you	want	old woman
+1.0	you	want	woman
+1.0	he	be	amaze
+1.0	she	be bring	he
+1.0	she	be bring	before he
+1.0	tsar	order	she
+0.03191106735239502	you	do want for	it
+1.0	I	have bring	it
+1.0	tsar	reward	she
+1.0	tsar	thank	she
+1.0	shirt	be	make
+1.0	tsar	order	shirt
+1.0	shirt	be make of	linen
+1.0	it	be	cut
+1.0	tsar	summon woman in	end
+1.0	they	find	one
+1.0	tsar	summon	woman
+1.0	I	give	shelter
+1.0	she	sew	shirt
+1.0	woman	tell everything to	Vasilisa
+1.0	woman	tell	everything
+1.0	old woman	tell everything to	Vasilisa
+1.0	woman	return	home
+1.0	old woman	tell	everything
+1.0	old woman	return	home
+1.0	she	sew without	rest
+1.0	dozen shirt	be	soon ready
+1.0	dozen shirt	be	ready
+1.0	she	set to	work
+1.0	Vasilisa	wash	herself
+1.0	Vasilisa	dress in	she clothes
+1.0	Vasilisa	dress in	she finest clothes
+1.0	woman	take	they
+1.0	Vasilisa	comb	she hair
+1.0	Vasilisa	sit at	window
+1.0	old woman	take	they
+1.0	she	see	servant of tsar
+1.0	she	see	servant
+1.0	messenger	come into	room
+1.0	vasilisa	appear before	tsar
+1.0	he	fall madly with	she
+1.0	tsar	see	Vasilisa
+1.0	he	fall with	she
+1.0	he	fall in	love
+1.0	he	fall madly in	love
+1.0	you	shall	shall my wife
+1.0	he	seat	she
+1.0	he	take vasilisa by	she hand
+1.0	wedding	be celebrate at	once
+1.0	he	take	Vasilisa
+1.0	wedding	be	celebrate
+1.0	he	take vasilisa by	she white hand
+1.0	Vasilisa 's father	come	live in he daughter 's house
+1.0	daughter	in	house
+1.0	Vasilisa 's father	be overjoy at	she good fortune
+1.0	Vasilisa	have	father
+1.0	Vasilisa 's father	be	overjoy
+1.0	Vasilisa 's father	be overjoy at	she fortune
+1.0	Vasilisa 's father	come	live
+1.0	Vasilisa	take too	woman
+1.0	Vasilisa	take woman into	she home
+1.0	Vasilisa	take	woman
+1.0	Vasilisa	take woman too into	she home
+1.0	Vasilisa	carry	she doll
+1.0	Vasilisa	take too	old woman
+1.0	Vasilisa	take	old woman

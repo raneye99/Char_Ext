@@ -1,0 +1,496 @@
+1.0	man	have	three daughter
+1.0	woman	have	three daughter
+1.0	old woman	have	three daughter
+1.0	old man	have	three daughter
+1.0	she	reprove	she
+1.0	she	dump	work
+1.0	she	wake	she early in morning
+1.0	she	frequently reprove	she
+1.0	she	wake	she early
+1.0	she	wake	she
+1.0	she	dump work on	she
+0.9021125673347008	she	early in	morning
+1.0	flock	be	feed
+1.0	girl	make	sure
+1.0	she	sweep	hut
+1.0	she	would clean up during	night
+1.0	she	would even clean up during	night
+1.0	woman	be	still unsatisfied
+1.0	old woman	be	unsatisfied
+1.0	woman	be	very unsatisfied
+1.0	old woman	be	still very unsatisfied
+1.0	woman	be	unsatisfied
+1.0	woman	be	still very unsatisfied
+1.0	old woman	be	still unsatisfied
+1.0	old woman	be	very unsatisfied
+1.0	broom	be in	wrong place
+1.0	broom	be in	place
+1.0	nothing	be	quite right
+1.0	nothing	be	right
+1.0	it	be dusty in	hut
+1.0	it	be	dusty
+1.0	girl	hold	she tongue
+1.0	she step-mother	serve	she step-mother 's daughter
+1.0	step-mother	have	daughter
+1.0	she	please	she step-mother
+1.0	mother	follow	lead
+1.0	they	enjoy	they niggle she constantly
+1.0	they	thoroughly enjoy	see
+1.0	they	thoroughly enjoy	they niggle
+1.0	they	thoroughly enjoy	they niggle she constantly
+1.0	they	enjoy	they niggle
+1.0	they	enjoy	see
+1.0	she half-sister	always slept-in in	morning
+1.0	she half-sister	slept-in in	morning
+1.0	they	dry off with	towel
+1.0	they	wash with	water prepare
+1.0	they	wash with	water prepare by someone
+1.0	they	dry off with	clean towel
+1.0	they	wash with	water prepare by someone else
+1.0	they	wash with	water
+1.0	they	only start	they work
+1.0	they	start	they work
+1.0	girl	be in	story
+1.0	they	become	maiden
+1.0	they	become	eligible maiden
+1.0	it	tell	tale
+1.0	he	love	she
+1.0	she	be	child
+1.0	she	be	obedient
+1.0	she	be	obedient child
+1.0	he wife	be	afterall complainer
+1.0	he other daughter	be	lazy
+1.0	he daughter	be	lazy
+1.0	he wife	be	complainer
+0.9171851199311603	he	be	sickly
+0.5084621503917639	couple	think	time pass
+1.0	old couple	think	they own thought
+1.0	couple	think	they own thought
+1.0	old couple	think	they thought
+1.0	couple	think	they thought
+0.5084621503917639	old couple	think	time pass
+1.0	old man	provide for	they future
+1.0	old man	think	provide for they future
+1.0	man	think	how provide
+1.0	old man	think	woman think
+1.0	man	provide for	they future
+1.0	old man	think	how provide for they future
+1.0	old man	think	how provide
+1.0	man	think	woman think only
+1.0	old man	think	woman think only
+1.0	old man	think	provide
+1.0	man	think	how provide for they future
+1.0	man	think	provide for they future
+1.0	man	think	provide
+1.0	old man	think	old woman think
+1.0	man	think	old woman think
+1.0	old man	think	old woman think only
+1.0	man	think	woman think
+1.0	man	think	old woman think only
+1.0	old woman	speak to	man
+1.0	's	give	Marfusha
+1.0	woman	speak to	man
+1.0	's	give marfusha to	wife
+1.0	old woman	speak to	old man
+1.0	woman	speak at_time	one day
+1.0	woman	speak to	old man
+1.0	old woman	speak at_time	one day
+1.0	old woman	follow	he
+1.0	tomorrow	get up earlier	man
+1.0	tomorrow	get up earlier	old man
+1.0	tomorrow	get earlier	old man
+1.0	tomorrow	get earlier	man
+1.0	tomorrow	get	man
+1.0	woman	follow	he
+1.0	tomorrow	get	old man
+1.0	Marfusha	gather	you thing
+1.0	Marfusha	put on	you petticoat
+1.0	you	be	someone 's guest
+1.0	someone	have	guest
+1.0	you	be go	someone 's guest
+1.0	good marfusha	be	happy
+1.0	marfusha	hear	great news
+1.0	marfusha	be	happy
+1.0	good marfusha	hear	such great news
+1.0	good marfusha	hear	such news
+1.0	good marfusha	hear	great news
+1.0	marfusha	hear	such great news
+1.0	marfusha	hear	such news
+1.0	good marfusha	hear	news
+1.0	marfusha	hear	news
+1.0	she	be go on	visit
+1.0	she	have dream long at_time	night
+1.0	she	have dream at_time	night
+1.0	she	get up in	morning
+1.0	she	dress	herself
+1.0	she	get up early in	morning
+1.0	she	dress up	herself
+1.0	she	be	lovely woman
+1.0	she	be	lovely young woman
+1.0	she	be	woman
+0.9775818246507376	fit	be	bride
+1.0	she	be	lovely
+0.9775818246507376	fit	be	wonderful bride
+1.0	she	be	young
+1.0	she	be	young woman
+1.0	it	be	winter-time
+1.0	it	be	yet winter-time
+1.0	it	be	bitterly cold
+1.0	it	be	cold
+1.0	man	harness mare in	darkness of early morning
+1.0	old man	harness mare in	darkness of early morning
+1.0	man	harness	mare
+1.0	man	harness mare in	darkness
+1.0	old man	harness mare to	sledge
+1.0	old man	harness mare in	darkness
+1.0	man	harness mare to	sledge
+1.0	old man	harness mare in	darkness of morning
+1.0	man	harness mare in	darkness of morning
+1.0	old man	harness	mare
+1.0	he	lead	it
+1.0	he	go into	hut
+1.0	I	sit on	bolster
+1.0	old man	sit at	table
+1.0	man	make	place for he daughter
+1.0	old man	make	place for he daughter
+1.0	man	make	place
+1.0	old man	make	place
+1.0	man	sit at	table
+1.0	bread container	be on	table
+1.0	he	break off	piece of bread for himself
+1.0	he	break off	piece of bread for himself for he daughter
+1.0	he	break off	piece for he daughter
+1.0	he	pull out	cottage-loaf
+1.0	he	break off	piece of bread
+1.0	he	break off	piece for himself for he daughter
+1.0	he	break off	piece of bread for he daughter
+1.0	he	break off	piece for himself
+1.0	he	break off	piece
+1.0	old woman	meanwhile serve	they soup
+1.0	old woman	meanwhile serve	they soup in bowl
+1.0	woman	meanwhile serve	they old soup in bowl
+1.0	they	soup in	bowl
+1.0	woman	meanwhile serve	they soup in bowl
+1.0	they old soup	be in	bowl
+1.0	they	old soup in	bowl
+1.0	old woman	meanwhile serve	they old soup in bowl
+1.0	old woman	serve	they old soup
+1.0	woman	serve	they soup in bowl
+1.0	old woman	meanwhile serve	they old soup
+1.0	old woman	serve	they soup in bowl
+1.0	woman	meanwhile serve	they old soup
+1.0	woman	serve	they soup
+1.0	old woman	serve	they old soup in bowl
+1.0	woman	serve	they old soup
+1.0	woman	serve	they old soup in bowl
+1.0	old woman	serve	they soup
+1.0	woman	meanwhile serve	they soup
+1.0	I	have have	look enough
+1.0	I	have have	look long enough
+1.0	I	have have	look at you
+1.0	I	have have	look at you long enough
+1.0	I	have have	look
+1.0	I	have have	look at you enough
+1.0	I	look enough at	you
+1.0	I	look long enough at	you
+1.0	I	look at	you
+1.0	old man	take	marfusha
+1.0	old man	take marfusha to	groom
+1.0	man	take	marfusha
+1.0	man	take marfusha to	groom
+1.0	you	turn off	road
+1.0	you	turn off road to	right
+1.0	you	turn off road to	right towards forest
+1.0	marfusha	be	Jack Frost 's wife
+1.0	Jack Frost	have	wife
+1.0	old man	start	sob
+1.0	man	start	sob
+1.0	he	open	he mouth
+1.0	he	open wide	he mouth
+1.0	girl	start	wail
+1.0	groom	be	handsome
+1.0	groom	be handsome after	all
+1.0	groom	be	quite handsome
+1.0	groom	be quite handsome after	all
+1.0	he abode	be	covet
+1.0	he	be	a-kind-of-a-hero
+1.0	himself	be	a-kind-of-a-hero
+1.0	man	pack	he daughter belongings
+1.0	man	silently pack	he daughter belongings
+1.0	old man	silently pack	he daughter belongings
+1.0	old man	pack	he daughter belongings
+1.0	they	start on	they journey
+1.0	he	wrap	he daughter
+1.0	they	drive for	long time
+1.0	they	drive for	time
+1.0	it	tell	tale
+1.0	they	go through	snow
+1.0	they	finally arrive at	pine forest
+1.0	they	go straight through	crusty snow
+1.0	they	go straight through	snow
+1.0	they	arrive at	pine forest
+1.0	they	turn off	road
+1.0	they	finally arrive at	forest
+1.0	they	go through	crusty snow
+1.0	they	arrive at	forest
+1.0	he	climb off	sledge
+1.0	he	stop	he daughter
+1.0	he	place	she box
+1.0	he	turn	horse
+1.0	he	turn around	horse
+1.0	girl	sit	tremble
+1.0	chill	overcome	she
+1.0	she	hear	something
+1.0	she	suddenly hear	something
+1.0	he	crackle from	one tree
+1.0	he	crackle from	one tree to another
+1.0	Jack Frost	drop	himself
+1.0	Jack Frost	drop lower	himself
+1.0	Jack Frost	crinkle along	way
+1.0	Frost	ask	girl
+1.0	you	be	warm
+0.9079015540856642	you	be	warm
+1.0	I	be	warm dear
+1.0	I	be	warm
+1.0	Frost	crinckle	more
+1.0	Frost	say to	maiden
+0.9079015540856642	you	be	warm
+1.0	you	be	warm
+1.0	maiden	turn	completely rigid
+1.0	maiden	turn	rigid
+1.0	Frost	take	pity
+1.0	Frost	take pity on	Marfusha
+1.0	Frost	take pity at	this
+1.0	he	warm	she
+1.0	he	wrap up	she
+1.0	old woman	say to	she husband
+1.0	woman	say in	morning
+1.0	woman	say to	she husband
+1.0	old woman	say	go
+1.0	old woman	say in	morning
+1.0	woman	say	go
+1.0	old man	harness	horse
+1.0	man	harness	horse
+1.0	he	leave	he daughter
+1.0	he	find	she alive
+1.0	she	have	box full of luxurious present
+1.0	she	have	box full of present
+1.0	she	wear	expensive wedding veil
+1.0	she	have	box full
+1.0	she	wear	wedding veil
+1.0	she	wear	good winter coat
+0.5832435855590061	box	full of	present
+1.0	she	have	box
+0.5832435855590061	box	full of	luxurious present
+1.0	she	wear	winter coat
+1.0	maiden	fall at	foot of she step-mother
+1.0	maiden	fall at	foot
+1.0	she daughter	be still alive with	winter coat
+1.0	she daughter	be still alive with	new winter coat
+1.0	she daughter	be alive with	winter coat
+1.0	she daughter	be	alive
+1.0	she daughter	be alive with	new winter coat
+0.7775986830811933	box	full of	linen
+1.0	she daughter	be	still alive
+1.0	slut	bamboozle	I
+1.0	woman	say after	time have pass
+1.0	woman	say after	time
+1.0	woman	say after	little time have pass
+1.0	old woman	say after	little time have pass
+1.0	old woman	say after	time have pass
+1.0	old woman	say after	time
+1.0	old woman	say to	old man
+1.0	old woman	say after	little time
+1.0	woman	say after	little time
+1.0	woman	say to	old man
+1.0	old woman	say to	man
+1.0	woman	say to	man
+1.0	he	will give	even more present
+1.0	he	surely will give	more present
+1.0	he	surely will give	they
+1.0	he	surely will give	even more present
+1.0	he	will give	they
+1.0	he	surely will give	present
+1.0	he	will give	more present
+1.0	he	will give	present
+1.0	it	tell	tale
+1.0	woman	feed	she child
+1.0	old woman custom	prepare they as	bride
+1.0	woman	send	they
+1.0	woman custom	prepare they as	bride
+1.0	old woman custom	prepare	they
+1.0	woman custom	prepare	they
+1.0	old woman	send	they
+1.0	old woman	feed	she child
+1.0	old man	take	they
+1.0	man	leave	two daughter below fir tree
+1.0	old man	leave	two daughter
+1.0	old man	leave	two daughter below fir tree
+1.0	old man	leave	two daughter below large fir tree
+1.0	man	leave	two daughter
+1.0	man	take	they
+1.0	man	leave	two daughter below large fir tree
+1.0	they	start	joke
+1.0	they	start	girl sit
+1.0	girl	be wear	winter jacket
+1.0	they	become	cold
+1.0	they	become	quite cold
+1.0	cold	be bore	hole
+1.0	cold	be bore hole through	my skin
+1.0	we	be go	freeze here
+1.0	we	be go	freeze
+1.0	it	be	early
+1.0	it	be probably still early	suitor be gather
+1.0	it	be	probably early
+1.0	it	be probably too early	suitor be gather
+1.0	it	be	still early
+1.0	it	be	probably too early
+1.0	it	be	probably still too early
+1.0	it	be	too early
+1.0	it	be	probably still early
+1.0	it	be probably early	suitor be gather
+1.0	it	be	still too early
+1.0	it	be still too early	suitor be gather
+1.0	it	be still early	suitor be gather
+1.0	it	be probably still too early	suitor be gather
+1.0	it	be early	suitor be gather
+1.0	it	be too early	suitor be gather
+1.0	he	will take	I
+1.0	Jack Frost	freeze	girl ' hand
+1.0	they	start up again over	thing
+1.0	they	start up over	thing
+1.0	they	start up again over	same thing
+1.0	they	start up over	same thing
+1.0	they	shove	they hand
+1.0	they	bicker back	become
+1.0	they	become	seriously cold
+1.0	they	so bicker back	become
+1.0	they	so bicker	become
+1.0	they	become	cold
+1.0	they	bicker back and forth	become
+1.0	they	bicker	become
+1.0	they	so bicker back and forth	become
+1.0	they	suddenly say at	time
+1.0	they	say at	time
+1.0	they	say at	same time
+1.0	they	suddenly say at	same time
+1.0	you	have turn	blue
+1.0	he	crinkle	he go
+1.0	he	jump from	tree to tree
+1.0	he	jump	crinkle
+1.0	he	jump from	tree
+1.0	bell	be with	they
+1.0	they	have	bell
+1.0	they	have	bell with they
+0.46567432502338074	they	bell with	they
+1.0	I	be freezing to	death
+1.0	I	be	freezing
+1.0	you	be	bride
+1.0	you	be choose	bride
+1.0	you	be	choose
+1.0	they	start	blow
+1.0	they	blow on	they finger
+1.0	they	start	blow on they finger
+1.0	he	alight on	fir tree above maiden
+1.0	he	alight on	fir tree
+1.0	he	finally alight on	fir tree
+1.0	he	finally alight on	fir tree above maiden
+1.0	he	say to	maiden
+0.8892074684343315	you	be	warm
+0.8848840860968942	you	be	warm
+1.0	we	be	freeze
+1.0	we	be	freeze through
+1.0	we	wait	we betroth
+1.0	we	curse	he
+0.802569946597578	you	be	warm
+0.8892074684343315	you	be	warm
+1.0	devil	be with	you
+1.0	you	be	blind
+1.0	Jack Frost	drop	himself
+1.0	Jack Frost	drop lower	himself
+1.0	Jack Frost	drop lower quickly	himself
+1.0	Jack Frost	drop quickly	himself
+1.0	Jack Frost	drop very quickly	himself
+1.0	Jack Frost	drop lower very quickly	himself
+1.0	you	scram curse	one
+1.0	you	curse	one
+1.0	girl	be	right then freeze
+1.0	girl	be	freeze
+1.0	girl	be freeze	solid
+1.0	girl	be	then freeze
+1.0	old woman	say to	she husband
+1.0	woman	say in	morning
+1.0	woman	say to	she husband
+1.0	old woman	say in	morning
+1.0	it	be pretty cold there after	all
+1.0	it	be pretty cold after	all
+1.0	it	be cold there after	all
+1.0	it	be	cold out there
+1.0	it	be cold after	all
+1.0	it	be	cold
+1.0	it	be	pretty cold out there
+1.0	it	be	pretty cold
+1.0	you	get out there	geezer
+1.0	you	get out there quickly	old geezer
+1.0	you	get out there	old geezer
+1.0	you	get out quickly	geezer
+1.0	you	get out there quickly	geezer
+1.0	you	get out	old geezer
+1.0	you	get out quickly	old geezer
+1.0	you	get out	geezer
+1.0	he	discover	they dead
+1.0	he	come for	he daughter
+1.0	he	place	they body
+1.0	he	enclose	they
+1.0	he	cover	they
+1.0	man	come from	away
+1.0	old woman	meet	they
+1.0	woman	meet	they
+1.0	woman	ask	he
+1.0	old man	come from	far away
+1.0	old woman	ask	he
+1.0	old man	come from	away
+1.0	man	come from	far away
+1.0	old woman	pull off	blanket
+1.0	old woman	turn back	sack
+1.0	she child	be	dead
+1.0	woman	turn back	sack
+1.0	woman	pull off	blanket
+1.0	woman	lash into	old man
+1.0	old woman	lash into	old man
+1.0	old woman	suddenly erupt like	thunderstorm
+1.0	old woman	erupt like	thunderstorm
+1.0	woman	erupt like	thunderstorm
+1.0	old woman	lash into	man
+1.0	woman	lash into	man
+1.0	woman	suddenly erupt like	thunderstorm
+1.0	you	kill	my daughter
+1.0	you	kill	my own child
+1.0	you	kill	my child
+1.0	I	thrash	you
+1.0	I	flog	you
+1.0	tempt	be	mule-headed
+1.0	you	be tempt by	riches
+1.0	you	be	tempt
+1.0	I	blame for	that
+1.0	old woman	become	angry
+1.0	woman	become	angry
+1.0	old woman	make up in	time
+1.0	woman	make up with	she step-daughter
+1.0	old woman	make up with	she step-daughter
+1.0	woman	make up in	time
+1.0	they	bear	will one another
+1.0	neighbor	ask for	Marfusha 's hand
+1.0	neighbor	ask for	Marfusha 's hand in marriage
+1.0	Marfusha	for	hand in marriage
+1.0	neighbor	come	ask for Marfusha 's hand
+1.0	neighbor	soon come	ask for Marfusha 's hand
+1.0	neighbor	come	ask for Marfusha 's hand in marriage
+1.0	neighbor	come	ask
+1.0	Marfusha 's hand	be in	marriage
+1.0	neighbor	soon come	ask for Marfusha 's hand in marriage
+1.0	neighbor	soon come	ask
+1.0	wedding	be	hold
+1.0	man	frighten	he granchildren
+1.0	old man	frighten	he granchildren
+1.0	I	drink	mead-beer

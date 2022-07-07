@@ -1,0 +1,249 @@
+1.0	he wife	live	existence
+1.0	man	live	existence
+1.0	man	live	meager existence
+1.0	old man	live	meager existence
+1.0	he wife	live	meager existence
+1.0	old man	live	existence
+1.0	they	have live	entire century
+1.0	they	bear	child
+1.0	they	have live	century
+1.0	they	bear	single child
+1.0	they	grow	old
+1.0	they	take	onion
+1.0	it	sing	it lullaby
+1.0	it	rock	it
+1.0	little son	berry of	boy
+1.0	boy	become	independent
+1.0	boy	become	more independent
+1.0	he father	make	he little canoe
+1.0	he father	make	he canoe
+1.0	he mother	give	little bit of milk
+1.0	Tereshechka	take	it fishing
+0.6978525558160288	cheese	little bit of	milk
+1.0	he mother	give	cheese
+1.0	he mother	give	little bit
+0.6978525558160288	cheese	bit of	milk
+1.0	he mother	give	he
+1.0	he mother	give	bit
+1.0	he mother	give	bit of milk
+1.0	she	come to	shore
+1.0	row	row to	shore
+1.0	I	bring	you
+1.0	I	bring	milk
+1.0	you mother	bring	you
+1.0	you mother	bring	milk
+1.0	tereshechka	hear	she sweet voice
+1.0	tereshechka	hear	she voice
+1.0	he	dump out	he catch
+1.0	he	return to	he fishing
+1.0	he mother	tell	my dear
+1.0	he mother	once tell	son
+1.0	he mother	once tell	little son
+1.0	he mother	once tell	my dear
+1.0	he mother	tell	he
+1.0	he mother	tell	little son
+1.0	he mother	once tell	he
+1.0	he mother	tell	son
+1.0	witch	be stalk	you
+1.0	Chuvilikha	soon come to	shore
+1.0	Chuvilikha	come to	shore
+1.0	Chuvilikha	thereafter come to	shore
+1.0	Chuvilikha	call out in	she frightening voice
+1.0	Chuvilikha	soon thereafter come to	shore
+1.0	Chuvilikha	call out in	she voice
+1.0	row	row to	shore
+1.0	I	bring	you
+1.0	I	bring	milk
+1.0	you mother	bring	you
+1.0	you mother	bring	milk
+1.0	she	run like	Tereshechka 's mother 's voice
+1.0	she	buy	voice
+1.0	Tereshechka	have	mother
+1.0	she	buy voice for	herself
+1.0	she	run like	just Tereshechka 's mother 's voice
+1.0	she	buy	little voice
+1.0	Tereshechka	have	mother
+1.0	Tereshechka 's mother	return to	shore
+1.0	she	call with	delicate voice
+1.0	she	call with	delicate little voice
+1.0	she	call with	little voice
+1.0	she	call with	voice
+1.0	she	call to	she son
+1.0	row	row to	little bank
+1.0	it	be little voice of	my mother
+1.0	it	be little voice of	my own dear mother
+1.0	it	be voice of	my mother
+1.0	it	be	little voice
+1.0	it	be little voice of	my dear mother
+1.0	it	be voice of	my dear mother
+1.0	it	be voice of	my own mother
+1.0	it	be	voice
+1.0	it	be little voice of	my own mother
+1.0	it	be voice of	my own dear mother
+1.0	he mother	give	he
+1.0	he mother	give	something eat
+1.0	along	come	witch
+1.0	along	come	Chuvilikha
+1.0	mother	have	voice
+1.0	Chuvilikha	quickly stuff	he
+1.0	Chuvilikha	grab	he
+1.0	Chuvilikha	stuff	he
+1.0	she	bring	he
+1.0	she	hurriedly bring	he
+1.0	she	order	she daughter
+1.0	she	run out again on	hunt
+1.0	she daughter	cook	he
+1.0	she quick	run out again on	hunt
+1.0	she	run out on	hunt
+1.0	she quick	run out on	hunt
+1.0	tereshechka	be	young
+1.0	tereshechka	be	young man
+1.0	tereshechka	be	man
+1.0	he	defend	himself
+1.0	he	be	cook
+1.0	he	put	she
+1.0	he	be cook in	oven
+1.0	he	be cook in	oven himself
+1.0	he	climb up into	oak tree
+1.0	he	climb up into	tall oak tree
+1.0	she	rush into	hut
+1.0	she	go out into	yard
+1.0	she	drink	she fill
+1.0	she	go into	yard
+1.0	Tereshechka	on	flesh
+1.0	she	turn	say
+0.3904281295484894	witch	about have feed on	flesh
+0.3904281295484894	witch	have feed on	flesh
+1.0	he	turn about	roll about witch have feed on flesh of you own daughter
+1.0	he	turn about	roll about witch have feed
+1.0	he	turn about	roll witch have feed
+1.0	he	turn	roll witch have feed on flesh
+0.3904281295484894	witch	have feed on	flesh of you daughter
+1.0	he	turn	roll witch have feed on flesh of you own daughter
+1.0	he	turn about	roll witch have feed on flesh
+0.3904281295484894	witch	about have feed on	flesh of you daughter
+0.3904281295484894	witch	have feed on	flesh of you own daughter
+0.3904281295484894	witch	about have feed on	flesh of you own daughter
+1.0	he	turn about	roll about witch have feed on flesh
+1.0	he	turn	roll about witch have feed on flesh
+1.0	he	turn about	roll
+1.0	he	yell at	she
+1.0	he	turn	roll about witch have feed
+1.0	he	turn	roll
+1.0	he	turn	roll witch have feed on flesh of you daughter
+1.0	he	turn	roll about witch have feed on flesh of you daughter
+1.0	he	turn about	roll about witch have feed on flesh of you daughter
+1.0	he	yell from	oak
+1.0	he	turn	roll witch have feed
+1.0	he	turn about	roll witch have feed on flesh of you own daughter
+1.0	he	turn about	roll witch have feed on flesh of you daughter
+1.0	he	turn	roll about witch have feed on flesh of you own daughter
+1.0	she	hear	he
+1.0	she	lift up	she head
+1.0	she	go at	it
+1.0	she	again go at	it
+1.0	Tereshechka	on	flesh
+1.0	I	feed on	Tereshechka 's flesh
+0.3904281295484894	witch	have feed on	flesh of you daughter
+0.3904281295484894	witch	about have feed on	flesh of you daughter
+0.3904281295484894	witch	about have feed on	flesh
+0.3904281295484894	witch	have feed on	flesh
+0.3904281295484894	witch	about have feed on	flesh of you own daughter
+0.3904281295484894	witch	have feed on	flesh of you own daughter
+1.0	this	startle	she
+1.0	she	finally see	he
+1.0	she	see	he
+1.0	she	dash to	blacksmith
+1.0	blacksmith	forge	axe
+1.0	she	heed	he
+1.0	she	fall on	tree
+1.0	tree	be with	she tooth
+1.0	she	so fall on	tree
+1.0	she	so fall on	tree with she tooth
+1.0	she	fall on	tree with she tooth
+1.0	she	so fall to	gnawing
+1.0	she	fall to	gnawing
+1.0	it	start	shudder
+1.0	White goose	fly through	sky
+1.0	White goose	come	fly through sky
+1.0	White goose	come	fly
+0.9547123987393489	I	carry	I
+1.0	you	will	will richly feed
+0.9608905054254991	I	place	I
+1.0	White goose	take with	you
+1.0	White goose	take to	my mother
+1.0	you	will	there will richly feed
+1.0	you	will	will feed
+0.955946377291974	he	help	he
+1.0	you	will	there will feed
+1.0	goose	honk in	reply
+1.0	white goose	honk in	reply
+1.0	they	will take	you
+1.0	they	carry	you
+1.0	they	carry	home
+1.0	overhead	fly	other flock
+1.0	overhead	fly	flock
+0.607819115318003	you	will	there will feed
+0.9547123987393489	I	carry	I
+0.9608905054254991	I	place	I
+1.0	White goose	take with	you
+1.0	White goose	take to	my mother
+0.607819115318003	you	will	there will richly feed
+0.607819115318003	you	will	will feed
+0.607819115318003	you	will	will richly feed
+1.0	he	will pick up	you
+1.0	he	carry	home
+1.0	he	carry	you
+1.0	she	look up at	Tereshechka
+1.0	she	smack	she lip
+1.0	she	have attain	she prize
+1.0	she	have nearly attain	she prize
+1.0	White goose	carry	home
+1.0	you	wash with	clean water
+1.0	White goose	carry	I
+1.0	you	will	will richly feed
+1.0	White goose	carry	home to my father
+1.0	you	will	there will richly feed
+1.0	White goose	place	I
+1.0	you	will	will feed
+1.0	you	wash with	water
+1.0	you	will	there will feed
+1.0	gosling	fly away with	he
+0.4326033118091884	give	tereshechka	he wing
+1.0	gosling	take	pity
+1.0	runty gosling	fly with	he
+1.0	runty gosling	fly away with	he
+1.0	gosling	fly with	he
+1.0	runty gosling	take	pity
+1.0	they	sit on	grass
+1.0	they	alight near	window of he father 's home
+1.0	father	of	home
+1.0	they	sit outside on	grass
+1.0	they	sit just outside on	grass
+1.0	they	alight near	window
+1.0	old woman	make	pancake
+1.0	she	summon	she companion
+1.0	woman	make	pancake
+1.0	she	say	prayer
+1.0	she	say	prayer for Tereshechka
+1.0	she	say	say
+1.0	this	be for	dear husband
+1.0	pancake	be for	I
+1.0	Tereshechka	call out from	from window
+1.0	old man	see	Tereshechka
+1.0	man	see	Tereshechka
+1.0	he	embrace	he
+1.0	he	bring in	he
+1.0	runty gosling	be	feed
+1.0	runty gosling	be	set
+1.0	gosling	be	feed
+1.0	runty gosling	be set	free
+1.0	gosling	be	set
+1.0	gosling	be set	free
+1.0	runty gosling	be	well feed
+1.0	gosling	be	well feed
+1.0	he	flap	he wing wide
+1.0	he	fly in	front
+1.0	he	fly in	front of flock
+1.0	he	flap from	time
+1.0	Tereshechka	have	memory

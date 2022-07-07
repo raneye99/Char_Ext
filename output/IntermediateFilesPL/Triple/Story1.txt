@@ -1,0 +1,100 @@
+1.0	he	take	tribute
+1.0	he	take tribute from	people
+1.0	he	take	heavy tribute
+1.0	it	finally be fate	go to dragon
+1.0	it	be fate	go to dragon
+1.0	it	be	finally fate of tsar 's daughter go to dragon
+1.0	it	be	fate of tsar 's daughter go
+1.0	it	be fate	go
+1.0	tsar	of	daughter
+1.0	it	be	fate of tsar 's daughter go to dragon
+1.0	it	finally be fate	go
+1.0	it	be	finally fate of tsar 's daughter go
+1.0	she	be	beauty
+1.0	he	drag	she
+1.0	he	instead take	she
+1.0	he	take	she
+1.0	he	prevent princess	escape
+1.0	he	prevent	princess
+1.0	he	board up	he house
+1.0	dragon	to	lair
+1.0	princess	write to	she father
+1.0	princess	often write to	she father
+1.0	she	would attach	she letter
+1.0	dog	to	neck
+1.0	dog	bring back	answer
+1.0	dog	would take	it
+1.0	dog	even bring back	answer
+1.0	tsar	write at_time	one day
+1.0	tsarina	write at_time	one day
+1.0	tsarina	write to	they daughter
+1.0	tsarina	ask	she
+1.0	tsar	write to	they daughter
+1.0	princess	become	kindlier
+1.0	princess	become	kindlier toward dragon
+1.0	tanner	be in	city of Kiev
+1.0	he	say at_time	one day
+1.0	he	say inadvertently at_time	one day
+1.0	Nikita Tanner	be in	Kiev
+1.0	Nikita Tanner	send	he
+1.0	she	write	she father
+1.0	tsar	receive	letter
+1.0	tsar	go in	person
+1.0	tsar	beg	Nikita Tanner
+1.0	tsar	be in	person
+1.0	tsar	see	he
+1.0	he	tremble with	fear
+1.0	Nikita	hold	twelve hide
+1.0	he	tear	twelve hide
+1.0	he	go forth against	dragon
+1.0	he	go against	dragon
+1.0	they	gather	five thousand little child
+1.0	they	gather	five thousand child
+1.0	they	so gather	five thousand little child
+1.0	they	so gather together	five thousand child
+1.0	they	gather together	five thousand little child
+1.0	they	send	they
+1.0	they	implore	he
+1.0	they tear	move	he
+1.0	they	gather together	five thousand child
+1.0	they	so gather together	five thousand little child
+1.0	they	so gather	five thousand child
+1.0	little child	beg	he
+1.0	child	come to	Nikita
+1.0	little child	come to	Nikita
+1.0	child	beg	he
+1.0	he	see	theirs
+1.0	Nikita	shed	tear
+1.0	he	take	twelve thousand pound of hemp
+1.0	he	take	twelve thousand pound
+1.0	he	tar	it
+1.0	dragon	lock	himself
+1.0	dragon	to	lair
+1.0	Nikita	come to	dragon 's lair
+1.0	dragon	lock in	himself
+1.0	he	break down	door
+1.0	dragon	go out	fight in open field
+1.0	dragon	go out	fight in field
+1.0	dragon	go out	fight
+1.0	dragon	fight in	field
+1.0	dragon	fight in	open field
+1.0	dragon	implore	Nikita
+1.0	you	shall live in	one half
+1.0	we	draw	boundary line
+1.0	he	harness	dragon
+1.0	he	harness dragon to	it
+1.0	he	plow	furrow from Kiev
+1.0	that	weigh	twelve thousand pound
+1.0	dragon	plow	boundary
+0.5139594163509121	he	furrow from	Kiev
+1.0	he	plow	furrow
+1.0	he	plow furrow to	Caspian Sea
+1.0	dragon	plow boundary from	Kiev
+1.0	we	divide	sea
+1.0	Nikita	kill	he
+1.0	Nikita	drown	he
+1.0	it	be	high
+1.0	it	be high	fourteen foot
+1.0	furrow	be	intact
+1.0	Nikita	return to	hide
+1.0	Nikita	return to	curry hide

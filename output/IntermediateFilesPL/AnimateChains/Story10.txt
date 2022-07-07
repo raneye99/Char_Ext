@@ -1,0 +1,23 @@
+1	1	| Father | a man who had seven sons - all by the name of Simeon | their father | he | the father | the father | their father |
+1	1	| seven sons | seven sons - all by the name of Simeon | They | seven lazy , good-for-nothing loafers | The laziest sons anyone ever had anywhere | They | their | all seven Simeons | them | so many fine , able men | their | they | them | their | them all | the seven Simeons | their | the seven Simeons | them | them | soldiers | The Simeons | expert craftsmen | they | They | they | their | their | the Simeons | the Simeons | the seven Simeons | the Simeons | they |
+1	0	| Anyone | anyone |
+1	0	| Anywhere | anywhere |
+1	1	| Czar | the czar | his | The czar | him | He | yourself , your royal majesty | the czar | your royal majesty | me | He | He | your royal majesty | the czar | He | he | he | the czar | he | the czar | The king | the czar | he | He | he | he | him | The czar | He | himself | he | the czar | The czar | the czar | He | he | The czar | he | he |
+1	1	| 1st Simeon | the oldest Simeon | him | your | you | his brother , the thief | the thief | who she wanted to marry | the man who kidnapped me | the thief | a dashing fellow whose nobility appealed to the princess | Simeon the Thief | his |
+1	1	| 2nd Simeon | the second | you | I | an artisan | I | You | The maker of valuables | his | his |
+1	1	| 3rd Simeon | the third Simeon | you | I | The marksman | his |
+1	0	| any bird | any bird |
+1	1	| 4th Simeon | the fourth | you | I | Simeon number four |
+1	1	| a marksman | a marksman |
+1	0	| any dog | any dog |
+1	1	| 5th Simeon | you | the fifth | I | the fifth Simeon | the fifth Simeon | Simeon | you | Simeon | his | he | One , looking from the high mast |
+1	1	| 6th Simeon | the sixth | I | me | I |
+1	1	| 7th Simeon | the seventh | you | I | a healer | Healer Simeon |
+1	0	| what | what |
+1	0	| They | They |
+1	1	| Princess | a certain princess | her | that princess | the bride-to-be - princess | the princess | the princess | the princess | her | she | a white swan | her | the swan | her | The swan | a princess | her | the princess | the czar 's future bride | the princess | her | she | The princess | I | me | the princess |
+1	0	| The princess's kingdom | the kingdom of the bride-to-be - princess |
+1	0	| They | They |
+1	0	| delay | delay |
+1	0	| somebody | somebody | they |
+1	0	| another word | another word |

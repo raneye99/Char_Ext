@@ -1,0 +1,247 @@
+1.0	she	have	son well build
+1.0	she	have	daughter
+1.0	she	have	son build
+1.0	she	have	son
+1.0	she	destroy	they
+1.0	she	could lead	they
+1.0	she	conceive	plan
+1.0	she	conceive plan in	end
+0.6686679675231958	my friend	be ring for	you
+1.0	son	on	finger
+1.0	she	come to	they mother
+0.6686679675231958	my dear friend	be ring for	you
+0.6686679675231958	my friend	here be ring for	you
+0.6686679675231958	my friend	be	ring
+0.6686679675231958	my dear friend	be	here ring
+1.0	my	dive	here ring for you
+0.6686679675231958	my friend	be	here ring
+0.6686679675231958	my dear friend	be	ring
+0.6686679675231958	my dear friend	here be ring for	you
+1.0	he	will	will healthy
+1.0	he	will	with its help will healthy
+1.0	old woman	be	overjoy
+1.0	old woman	believe	she
+1.0	ring	would	would find
+1.0	she	enjoin upon	she son
+1.0	woman	believe	she
+1.0	woman	be	overjoy
+1.0	he	would like	one girl
+1.0	he	would like	another
+1.0	he	find	it
+1.0	he	would like	then another
+1.0	he	always find	it
+1.0	he	try ring on	lovely maiden
+0.287981023048276	he	try on	lovely maiden
+1.0	he	return	home
+1.0	he sister	ask	he
+1.0	he	tell	he trouble
+1.0	he	tell	she
+1.0	ring	be	troublesome
+1.0	ring	be	why troublesome
+1.0	ring	be	so troublesome
+1.0	ring	be	why so troublesome
+1.0	I	try	it
+1.0	it	make to	she size
+1.0	she	begin	gleam
+1.0	it	fit	she
+1.0	she	clasp	it
+1.0	preparation	be make for	wedding
+1.0	preparation	be	make
+1.0	he	dance for	joy
+1.0	sister burst	sit on	threshold
+1.0	sister burst	go out of	she room
+1.0	she	offer	food
+1.0	she	offer	drink
+1.0	she	offer	they
+1.0	she	invite	they
+1.0	she	be	why sad
+1.0	she	be	sad
+1.0	seat	be in	four corner
+1.0	brother	go to	room
+1.0	brother	wed	he sister
+0.3810495411957828	Sister Catherine	come to	featherb
+1.0	I	come	let
+1.0	I	come in	minute
+1.0	I	come	only let
+1.0	I	remove	my earring
+1.0	he	sister	cuckoo
+1.0	doll	be in	four corner
+1.0	he	take	cuckoo
+1.0	he	take	he sister
+1.0	earth	begin	open
+0.5943874810036917	Sister Catherine	come to	featherbed
+1.0	she brother	cry	Sister Catherine come
+1.0	she brother	cry	Sister Catherine
+1.0	she brother	cry	Sister Catherine come to featherbed
+1.0	I	unclasp	my girdle
+1.0	he	sister	cuckoo
+1.0	he	take	cuckoo
+1.0	he	take	he sister
+1.0	sister 's head	be above	still ground
+1.0	sister 's head	be above	ground
+0.06141471494456796	brother	call	she
+1.0	brother	call	Sister Catherine come
+0.6655873558959282	Sister Catherine	come to	featherbed
+1.0	brother	call	Sister Catherine
+1.0	brother	call	Sister Catherine come to featherbed
+0.06141471494456796	brother	call	she again
+1.0	I	must remove	my slipper
+1.0	she	vanish into	earth
+1.0	he	call	she in voice
+1.0	brother	call	she
+1.0	he	call	she in louder voice
+1.0	he	call	she
+1.0	he	call	she again in louder voice
+1.0	he	call	she again in voice
+1.0	he	call	she again
+1.0	he	run to	she room
+1.0	he	run to	she room bang
+1.0	he	run to	she room bang at door
+1.0	he sister	be	go
+1.0	doll	cry	Earth
+1.0	doll	cry	Earth open wide
+1.0	doll	cry	Earth wide
+1.0	doll	be sit in	corner
+1.0	he	throw	they
+1.0	he	cut off	they head
+1.0	he	seize	ax
+1.0	sister	turn	round
+1.0	sister	turn	round
+1.0	sister	see	little hut on chicken leg
+1.0	sister	see	little hut
+1.0	sister	see	hut on chicken leg
+1.0	sister	walk	underground
+1.0	sister	see	hut
+1.0	towel	be with	silver
+1.0	inside	sit	maiden
+0.9483208634111833	embroider	towel with	silver
+1.0	inside	sit	lovely maiden
+1.0	my heart	see	you
+1.0	she	receive	she guest
+1.0	I	fondle	you
+1.0	I	will welcome	you
+1.0	my heart	be	glad
+1.0	they	embroider	towel
+1.0	she	sit with	she hostess
+1.0	she	sit at	embroidery frame
+1.0	witch	appear at	door
+1.0	I	smell	bone
+1.0	my	daughter	comely daughter
+1.0	I	smell	russian bone
+1.0	passer-by	drink	water
+1.0	I	get	booty
+1.0	maiden	embroider	towel
+1.0	maiden	sit at	frame
+1.0	she	sniff about in	house
+1.0	she	sniff in	house
+1.0	I	smell	bone
+1.0	my	daughter	comely daughter
+1.0	I	smell	russian bone
+1.0	little old man	warm	they hand
+1.0	old man	warm	they hand
+1.0	I	keep	they
+1.0	little man	warm	they hand
+1.0	man	warm	they hand
+1.0	she	chide	daughter
+1.0	they	hasten	work
+1.0	they	hasten	finish
+1.0	witch	stand in	doorway
+1.0	I	smell	bone
+1.0	my	daughter	comely daughter
+1.0	I	smell	russian bone
+1.0	my	mother	lovely maiden
+0.11834356280871694	maiden	look	fail
+1.0	maiden	fail	she
+1.0	maiden	look at	witch
+1.0	she nose	hit	ceiling
+1.0	she	stand	bony-legged
+1.0	she	stand	Baba Yaga
+0.34918140689127997	she nose	hit ceiling	she stand
+1.0	good hot fire	be in	stove
+1.0	my	daughter	comely daughter
+1.0	flame	blaze from	stove
+1.0	they	make	fire
+1.0	flame	blaze forth from	stove
+1.0	witch	take	shovel
+1.0	witch	take	broad shovel
+1.0	my beauty	sit on	shovel
+1.0	my beauty	now sit on	shovel
+1.0	beauty	sit on	it
+1.0	maiden	put	one leg
+1.0	witch	shove	she
+1.0	witch	shove in	she
+1.0	she	put	one leg
+1.0	witch	pull out again	she
+1.0	witch	pull out	she
+1.0	witch	grow	angry
+1.0	I	do	it
+1.0	maiden	take	towel
+1.0	two maiden	comb with	they
+1.0	maiden	take	embroidered towel
+1.0	two maiden	take	towel
+1.0	maiden	shove	she
+1.0	she	stretch out	she leg
+1.0	two maiden	shove	she
+1.0	maiden	comb with	they
+1.0	she	plump	herself
+1.0	maiden	cover up	she
+1.0	two maiden	take	brush
+1.0	two maiden	take	embroidered towel
+1.0	maiden	lock in	she
+1.0	two maiden	lock in	she
+1.0	two maiden	cover up	she
+1.0	maiden	take	brush
+1.0	she	have wrench	herself free
+1.0	she	catch	sight of they
+1.0	she	catch	sight
+1.0	they	appear	marsh
+1.0	they	appear	marsh thickly overgrow
+1.0	they	appear	marsh thickly overgrow with reed
+1.0	they	appear	marsh overgrow with reed
+1.0	they	throw down	brush
+1.0	they	appear	marsh overgrow
+1.0	she	pluck out	path
+1.0	she	open	she claw
+1.0	they	throw down	comb
+1.0	witch	set	work
+1.0	she	hurl	tree
+1.0	she	hurl tree to	one side
+1.0	she	clear	path
+1.0	they	have lose	strength
+1.0	they	have lose	they strength
+1.0	they	spread	a
+1.0	they	throw down	towel
+1.0	sea	sea of	fire
+1.0	they	throw down	gold-embroidered towel
+1.0	she	want	fly across sea
+1.0	she	fly across	sea
+1.0	she	be	burn
+1.0	she	want	fly
+1.0	she	fall into	fire
+1.0	maiden	little dove without	home
+1.0	maiden	dove without	home
+1.0	they	sit	rest
+1.0	two marvelous beauty	one like	exactly other
+1.0	servant	ask	they
+1.0	servant	come to	they
+1.0	master	see	they
+1.0	master	invite	they
+1.0	he servant	have tell	truth
+1.0	I	strike	you
+1.0	I	will fill	sheep 's bladder
+1.0	I	will come	you speak to you guest
+1.0	sheep	have	bladder
+1.0	I	will come	you speak
+1.0	I	will come near	you
+1.0	you sister	will reveal	herself
+1.0	knife	be in	you side
+1.0	you	speak to	you guest
+1.0	servant	strike	he master
+1.0	my	beloved	dearest
+1.0	she	cry	my beloved
+1.0	she	cry	my dearest
+1.0	sister	embrace	he
+1.0	brother	marry	she
+1.0	brother	embrace	he sister
+1.0	he	marry	she friend
+1.0	brother	jump up	safe

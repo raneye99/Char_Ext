@@ -1,0 +1,396 @@
+1.0	other	follow	path of truth
+1.0	other	follow	path
+1.0	two peasant	have	dispute over manner
+1.0	two peasant	have	dispute over manner of live
+1.0	peasant	have	dispute
+1.0	two peasant	have	dispute
+1.0	peasant	have	dispute over manner of live
+1.0	peasant	have	dispute over manner
+1.0	neither	could convince	other
+1.0	they	settle	they dispute
+1.0	they	go out to	road
+1.0	they	go to	road
+1.0	they	see	serf
+1.0	they	finally see	serf
+1.0	they	approach	he
+1.0	it	be live by	wrong
+1.0	it	be live by	right
+1.0	it	be live in	world
+1.0	it	be	easier
+1.0	it	live by	wrong
+1.0	you	can manage	go
+1.0	we master	constantly take	we day away
+1.0	we master	take	we day away
+1.0	we master	constantly take	we day
+1.0	we master	take	we day
+1.0	I	be	right
+1.0	they	again walk along	road
+1.0	they	again walk	wait
+1.0	they	wait	see
+1.0	they	walk along	road
+1.0	they	walk	wait
+1.0	they	see merchant in	carriage
+1.0	they	see	merchant
+1.0	they	last see merchant in	carriage
+1.0	they	last see	merchant
+1.0	they	approach	he
+1.0	we	ask	you
+1.0	we	ask	something
+1.0	it	be live by	wrong
+1.0	it	be live by	right
+1.0	it	be live in	world
+1.0	it	live by	right
+1.0	it	be	easier
+1.0	it	live by	wrong
+1.0	it	be hard at_time	my boy
+1.0	it	be	hard
+1.0	we	must cheat	other
+1.0	we	must cheat too	other
+1.0	we	be	cheat
+1.0	I	be	right
+1.0	they	walk along	farther road
+1.0	person	tell	they
+1.0	they	wait	see
+1.0	they	walk along	road
+1.0	they	walk	wait
+1.0	third person	tell	they
+1.0	they	see	clerk
+1.0	they	see	clerk drive
+1.0	they	see	clerk drive toward they
+1.0	it	be live by	wrong
+1.0	it	be live by	right
+1.0	it	be live in	world
+1.0	they	approach	he
+1.0	you	right be send to	Siberia
+1.0	you	be	send
+1.0	you	be	right send
+1.0	you	be send to	Siberia
+1.0	righteous man	answer	other
+1.0	God	have command	we
+1.0	man	answer	other
+1.0	God	in	way
+1.0	they	again walk on	road
+1.0	they	walk together on	road
+1.0	they	walk on	road
+1.0	they	again walk together on	road
+1.0	he	even get	cake
+1.0	man	be	feed
+1.0	he	get	cake
+1.0	he	work for	he keep
+1.0	righteous man	be	feed
+1.0	man	make	fun of he
+1.0	man	make	fun
+1.0	wicked man	make	fun of he
+1.0	wicked man	make	fun
+1.0	man	continually make	fun of he
+1.0	wicked man	continually make	fun of he
+1.0	wicked man	continually make	fun
+1.0	man	continually make	fun
+1.0	you	will give	I
+1.0	I	gouge out	one you eye
+1.0	I	gouge out	one of you eye
+1.0	I	shall gouge out	one you eye
+1.0	I	shall gouge out	one of you eye
+1.0	man	give	he
+1.0	man	gouge out	eye
+0.8545244103759765	man	eye of	righteous one
+1.0	wicked man	gouge out	eye of righteous one
+1.0	man	gouge out	eye of righteous one
+1.0	wicked man	gouge out	eye
+1.0	wicked man	give	he
+0.8545244103759765	wicked man	eye of	righteous one
+1.0	righteous man	beg	wicked one
+1.0	man	beg	wicked one
+1.0	I	will give	piece
+1.0	I	gouge out	you other eye
+1.0	wicked one	make	fun
+1.0	wicked one	make	fun of he
+1.0	I	gouge out	you eye
+1.0	I	will give	you
+1.0	brother	ah have	pity
+1.0	brother	have	pity
+1.0	brother	have pity on	I
+1.0	brother	ah have pity on	I
+1.0	I	be	blind
+1.0	I	be blind	you do
+1.0	righteous man	implore	he
+1.0	man	implore	he
+1.0	man	tell	he
+1.0	wicked man	tell	he
+1.0	righteous man	say to	wicked one
+0.9969095430474074	nothing	be	do
+1.0	man	say to	wicked one
+1.0	wicked one	gouge out	he eye
+1.0	wicked one	give	little bread
+1.0	wicked one	gouge out	he other eye
+1.0	wicked one	leave	he
+1.0	wicked one	give	he
+1.0	wicked one	give	bread
+1.0	blind man	go	grope with he stick
+1.0	blind man	eat	he piece of bread
+1.0	blind man	eat	he little piece
+1.0	blind man	go on	slowly
+1.0	man	go	grope with he stick
+1.0	blind man	eat	he piece
+1.0	man	go	grope
+1.0	man	go on	slowly
+1.0	blind man	go	grope
+1.0	blind man	eat	he little piece of bread
+1.0	man	eat	he little piece of bread
+1.0	man	eat	he piece of bread
+1.0	man	eat	he little piece
+1.0	man	eat	he piece
+1.0	he	hear	voice say
+1.0	he	hear	voice
+1.0	you	will find wood on	right
+1.0	you	will find	wood
+1.0	you	come to	wood
+1.0	you	find	path
+1.0	you	will come to	spring
+1.0	you	will recover	you sight
+1.0	wet you eye	be with	it
+1.0	wash	be with	water
+0.799588098242294	it	wash	yourself
+1.0	you	come to	spring
+1.0	you	will see	oak
+1.0	you	will see	big oak
+1.0	you	find	oak
+0.13382134206666407	night	listen	evil spirit say under oak
+1.0	night	come	listen
+0.13382134206666407	night	listen	evil spirit say
+0.13382134206666407	night	listen	spirit say
+0.13382134206666407	spirit	say under	oak
+0.13382134206666407	evil spirit	say under	oak
+0.13382134206666407	night	listen	spirit say under oak
+1.0	he	reach	wood
+1.0	he	reach	spring
+1.0	he	reach	wood
+1.0	he	plod through	it
+1.0	he	walk along	path
+1.0	he	wash	himself
+1.0	he	drink	water
+1.0	he	wet	he eye
+1.0	he	have recover	he sight
+1.0	God	have	world
+1.0	he	see	God 's world
+1.0	ground	be trample	flat
+1.0	he	walk upstream along	spring
+1.0	ground	be	trample
+1.0	he	walk along	spring
+1.0	he	climb up into	oak
+1.0	he	await at_time	night
+1.0	devil	come from	direction
+1.0	devil	assemble under	oak
+1.0	each	begin	tell
+1.0	I	be	such
+1.0	he	can drive out	I
+1.0	he	only can drive out	I
+1.0	he	go	search
+1.0	he	find	he
+1.0	he	search for	he
+1.0	he	ask	merchant
+1.0	he	work for	he
+1.0	I	work at_time	year
+1.0	I	work for	you
+1.0	I	work at_time	whole year
+1.0	I	want for	wages
+1.0	merchant	hire	he
+1.0	he	so work with	strength for whole year round
+1.0	he	so work with	he strength for whole year round
+1.0	he	work with	he strength for whole year round
+1.0	he	work with	strength for whole year round
+1.0	he	ask for	image
+1.0	I	will give	it
+1.0	work	will give	it
+1.0	diligent	be	he
+1.0	he	again ask for	image of mother of God
+1.0	he	ask for	image
+1.0	he	ask for	image on gate
+1.0	he	ask for	image of mother of God
+1.0	he	ask for	image of mother of God on gate
+1.0	he	ask for	image of mother
+1.0	he	again ask for	image of mother of God on gate
+1.0	he	again ask for	image of mother on gate
+1.0	he	ask for	image of mother on gate
+1.0	he	again ask for	image on gate
+1.0	he	again ask for	image of mother
+1.0	he	again ask for	image
+1.0	merchant	give	he
+1.0	merchant	give	image he
+1.0	merchant	be	loath
+0.8602651150432997	release	image	he
+1.0	I	give	you
+1.0	I	give	image
+1.0	merchant	give	release
+1.0	you	want	work
+1.0	merchant	give	image
+1.0	merchant	be	again loath
+1.0	he	work for	third year
+1.0	he	work for	year
+1.0	he	begin	work
+1.0	he	begin	work for third year
+1.0	he	begin	work for year
+1.0	he	be	such
+1.0	he	be	worker
+1.0	everyone	marvel at	he
+1.0	he	be	hard worker
+1.0	he	be	such hard worker
+1.0	he	be	hard
+1.0	he	be	such worker
+1.0	he	ask for	image
+1.0	he	work at_time	third year
+1.0	he	thus work at_time	third year
+1.0	he	thus work at_time	year
+1.0	he	work at_time	year
+1.0	merchant	take	image
+1.0	merchant	take image from	gate
+1.0	image	give	it
+1.0	God	speed	you
+1.0	he	give	he
+1.0	he	give	food
+1.0	he	reward	he
+1.0	he	give	drink
+1.0	he	go to	king
+1.0	he	take	image
+1.0	he	go to	king of country
+0.6948353507220895	he	image of	Smolensk Mother of God
+1.0	he	hang	it
+1.0	he	take	image of Smolensk Mother
+0.6948353507220895	he	image of	Smolensk Mother
+1.0	he	take	image of Smolensk Mother of God
+1.0	he	walk	he come to palace
+1.0	he	come to	palace
+1.0	he	walk	he come
+1.0	he	say to	king
+1.0	he	so be admit to	king 's private chamber
+1.0	he	so be admit to	king 's chamber
+1.0	he	be	admit
+1.0	he	show	suffering princess
+1.0	king	to	private chamber
+1.0	he	be admit to	king 's private chamber
+1.0	he	be	so admit
+1.0	he	be admit to	king 's chamber
+1.0	he	ask for	water
+1.0	he	remove	image of mother
+1.0	he	remove	image
+1.0	he prayer	immerse	it
+1.0	she	wash in	same water
+1.0	he prayer	immerse it in	water
+1.0	he	bow	three time
+1.0	he	remove image from	he body
+0.9480501836972182	he	image of	mother of God
+1.0	he	pray to	God
+1.0	he	tell	she
+1.0	he prayer	immerse it	three time
+1.0	he	remove	image of mother of God
+0.9480501836972182	he	image of	mother
+0.01016508474643607	he	remove from	he body
+1.0	she	wash in	water
+1.0	she	put	image
+0.9675723740866532	she	be whole as	before
+1.0	spirit	be fly out of	she
+1.0	evil spirit	be fly out of	she
+0.9675723740866532	she	be	as whole
+1.0	she	wash in	water
+1.0	she	put image on	she
+0.9675723740866532	she	be as whole as	before
+1.0	whole	be fly out of	she
+0.9675723740866532	she	be	whole
+1.0	they	offer	he land
+1.0	princess	say to	king
+1.0	royal garment	eat like	just rest of king 's family
+1.0	garment	eat like	just rest of king 's family
+1.0	we peasant	wear	garment
+1.0	we peasant	wear	royal garment
+1.0	royal garment	eat like	just rest
+1.0	royal garment	live in	apartment
+1.0	garment	live in	apartment
+1.0	garment	eat like	rest
+1.0	garment	eat like	just rest
+1.0	king	of	family
+1.0	royal garment	eat like	rest
+1.0	royal garment	eat like	rest of king 's family
+1.0	royal garment	live in	royal apartment
+1.0	garment	eat like	rest of king 's family
+1.0	garment	live in	royal apartment
+1.0	he	live like	this
+1.0	he	live for	long while
+1.0	he	live for	while
+1.0	he	become	accustomed
+1.0	he	become	accustomed to they manners
+1.0	I	go to	my native village
+1.0	I	go to	my village
+1.0	princess	wife	he
+1.0	they horse	be	royal
+1.0	they	approach	peasant 's native village
+1.0	they	finally approach	peasant 's native village
+1.0	peasant	have	native village
+1.0	they	finally approach	peasant 's village
+1.0	they	approach	peasant 's village
+1.0	they	happen on	road
+1.0	it	be as	better live by wrong by right
+1.0	it	be as	better live by right
+1.0	it	be as	better live
+0.9883881170068789	it	live by	wrong
+0.9883881170068789	it	live by	right
+1.0	it	be as	better live by wrong
+1.0	carriage	approach	fellow
+1.0	man	be	amaze
+1.0	magnificent nobleman	be in	carriage
+1.0	I	be	same man
+1.0	I	be	man
+1.0	he	have	just have instruct by God
+1.0	he	have	just have instruct
+1.0	he	have	have instruct
+1.0	he	instruct	he
+1.0	he	have	have instruct by God
+1.0	you	will see	path
+1.0	you	will see path in	wood
+1.0	you	will see	oak
+1.0	you	will see	big oak
+1.0	you	will reach	spring
+1.0	you	go along	spring
+1.0	you	go upstream along	spring
+1.0	spirit	gather under	it
+1.0	evil spirit	gather under	it
+1.0	you	will hear	you fate
+1.0	wicked man	follow instruction to	letter
+1.0	man	follow	instruction
+1.0	wicked man	follow	instruction
+1.0	man	follow instruction to	letter
+1.0	he	find	path
+1.0	he	find	wood
+1.0	he	go along	path
+1.0	he	drink of	it
+1.0	he	come to	spring
+1.0	he	see	big oak
+0.6499725355440705	all	trample	flat
+0.6499725355440705	all	trample under	it
+1.0	he	see	oak
+1.0	he	see	ground
+1.0	he	climb up into	oak
+1.0	he	await at_time	night
+1.0	evil spirit	come from	direction
+1.0	spirit	come from	direction
+1.0	he	hear	he
+1.0	they	tear	he
+1.0	he breathing	be in	oak
+1.0	king	have	son-in-law
+1.0	righteous man	become	king 's son-in-law
+1.0	righteous man	become	put by devil
+1.0	man	be put to	death
+1.0	man	become	king 's son-in-law
+1.0	man	become	put to death
+1.0	righteous man	be put to	death
+1.0	righteous man	become	put to death
+1.0	man	become	put by devil
+1.0	righteous man	be put by	devil
+1.0	man	be put by	devil
+1.0	righteous man	be	put to death by devil
+1.0	man	be	put to death by devil
+1.0	righteous man	be	put
+1.0	righteous man	become	put
+1.0	man	become	put
+1.0	righteous man	become	put to death by devil
+1.0	man	become	put to death by devil
+1.0	man	be	put

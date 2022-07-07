@@ -1,0 +1,418 @@
+1.0	pillar three ring	one of	gold
+1.0	pillar	be in	he courtyard
+1.0	horse	be tie to	golden ring
+1.0	hair	be moon on	he brow
+1.0	horse	be	tie
+1.0	hair	be glistening moon on	he brow
+1.0	hair	be	glistening
+1.0	horse	be tie to	ring
+1.0	meaning	get horse for	he
+1.0	king	send	call
+1.0	king	send	call proclaim
+1.0	meaning	get	horse
+1.0	king	send forth	call proclaim
+1.0	he	give	he daughter
+1.0	king	send forth	call
+1.0	king	to	summons
+1.0	it	be report at	last
+1.0	it	be report to	king
+1.0	it	be	at last report to king
+1.0	it	be	report
+1.0	king	send for	Ivan
+1.0	king	ask	he
+1.0	you	get	horse
+1.0	golden ring	be in	my courtyard
+1.0	twelve-headed dragon	come to	you kingdom
+1.0	dragon	come on	horse
+1.0	twelve-headed dragon	come for	night
+1.0	dragon	come for	last night
+1.0	twelve-headed dragon	come on	horse
+1.0	dragon	come to	you kingdom
+1.0	twelve-headed dragon	come for	last night
+1.0	dragon	come for	night
+1.0	you	can get	horse
+1.0	Ivan	be old at	time
+1.0	Ivan	be	at time only twelve year old
+1.0	Ivan	be old	only twelve year
+1.0	Ivan	be	old
+1.0	king	give	he
+0.596277555758903	drink	food	he reach
+1.0	king	take	he
+1.0	king	give	food he reach
+0.788045606128928	he	reach at_time	he fifteenth year
+1.0	king	give	drink
+1.0	king	give	food he reach he fifteenth year
+0.596277555758903	drink	food	he reach he fifteenth year
+1.0	king	so take	he
+1.0	he	say to	king
+1.0	king	show	he horse
+1.0	king	lead	he
+1.0	king	show	horse
+1.0	horse	would fall to	ground
+1.0	he	put	he mighty hand
+1.0	he	put	he hand
+1.0	Ivan	say to	king
+1.0	Ivan peasant 's son	look for	three year
+1.0	he	nowhere could find	horse
+1.0	he	could find	horse
+0.5354479333960162	you	be weep	young fellow
+0.5354479333960162	you	be weep	fellow
+1.0	he	be return to	king
+1.0	he	be return in	tear
+1.0	Ivan	chase	man
+1.0	Ivan	chase	old man
+1.0	Ivan	answer rudely	question
+1.0	Ivan	chase away	old man
+1.0	Ivan	chase away	man
+1.0	Ivan	answer	question
+1.0	Ivan	think to	himself
+1.0	Ivan	walk away from	old man
+0.6172512551437559	I	do offend	he
+1.0	Ivan	walk for	little distance
+1.0	Ivan	walk away from	man
+1.0	Ivan	walk for	distance
+1.0	old people	know	great deal
+1.0	people	know	great deal
+1.0	old people	know	deal
+1.0	people	know	deal
+1.0	he	catch up with	man
+1.0	he	fall at	he foot
+1.0	he	catch up with	old man
+1.0	I	have travel through	drove of horse
+1.0	I	can find	horse strong enough for I
+0.938347514773443	horse	strong enough for	I
+1.0	I	nowhere can find	horse
+1.0	I	can find	horse
+1.0	I	nowhere can find	horse strong enough for I
+1.0	I	nowhere can find	horse strong for I
+1.0	I	nowhere can find	horse strong enough
+1.0	I	can find	horse strong
+0.938347514773443	horse	strong for	I
+1.0	I	nowhere can find	horse strong
+1.0	I	have travel through	many drove of horse
+1.0	I	can find	horse strong for I
+1.0	I	can find	horse strong enough
+1.0	mare	have give birth to	colt
+1.0	mare	have give birth to	mangy colt
+1.0	mare	have give	birth
+1.0	colt	feed	he
+1.0	he	will	will suit
+1.0	he	will	will suit to you strength
+1.0	he	will	soon will suit to you strength
+1.0	he	will	soon will suit
+1.0	Ivan	bow to	old man
+1.0	Ivan	bow deeply to	old man
+1.0	Ivan	bow to	man
+1.0	Ivan	bow deeply to	man
+1.0	Ivan	go to	village
+1.0	he	go straight to	peasant 's stable
+1.0	he	see mare with	colt
+1.0	he	see mare with	mangy colt
+1.0	he	put	he hand
+1.0	he	go to	peasant 's stable
+1.0	he	see	mare
+1.0	Ivan	take	he
+1.0	he	begin	make
+1.0	he	make	ready
+1.0	you	need	many man
+1.0	you	need	man
+1.0	you	need	how many man
+1.0	king	ask	he
+1.0	I	need	man
+1.0	I	can get	horse
+1.0	I	can get horse by	myself
+1.0	you	carry back and forth	message
+1.0	you	carry back	message
+1.0	you	might give	I
+1.0	you	might give	half dozen man
+1.0	you	carry	message
+1.0	you	might give	dozen man
+1.0	they	make	ready
+1.0	they	come to	river
+1.0	they	come to	river of fire
+1.0	they	pitch	tent in forest
+1.0	they	pitch	tent
+1.0	they	begin	eat
+1.0	tent	be in	forest
+1.0	we stand guard night	be in	turn
+1.0	Ivan peasant 's son	say to	he companion
+1.0	watch	get	drunk
+1.0	Ivan	of	companion
+1.0	one enemy	son 's	peasant
+1.0	Ivan peasant 's son	spring out from	from bridge
+1.0	we	join in	combat
+1.0	Ivan	take swing with	he saber
+1.0	dragon	ride on	horseback
+1.0	dragon	ride on	horseback against Ivan
+1.0	Ivan	take	swing
+1.0	Ivan	advance on	foot
+1.0	dragon	of	head
+1.0	Ivan	tie	he
+1.0	Ivan	take	he horse
+1.0	twelve-headed dragon	come to	he
+1.0	dragon	come to	he
+1.0	he	go to	bridge
+1.0	he	go on	night
+1.0	he	go on	fourth night
+1.0	he	do slay	my son
+1.0	he	meet	I
+1.0	he	meet forthwith	I
+1.0	Ivan	run to	he companion
+1.0	it	be	when fill with blood
+1.0	it	be	when fill
+1.0	it	be fill with	blood
+0.8655590490598284	it	come to	I
+1.0	it	be	fill
+1.0	himself	sink into	earth
+1.0	Ivan	cut off	four of dragon 's head
+1.0	dragon	of	head
+1.0	himself	sink up	up he knee
+1.0	Ivan	cut off	four dragon 's head
+1.0	he	return	dragon
+1.0	they	sink to	he waist
+1.0	they	clash	time
+1.0	Ivan	cut off	three head
+1.0	Ivan	cut off	three dragon head
+1.0	they	sink into	earth
+1.0	they	clash	second time
+1.0	they	clash	time
+1.0	he	cut off	three more head
+1.0	he	cut off	three head
+1.0	they	sink into	earth
+1.0	they	sink up	up he breast
+1.0	they	clash	third time
+1.0	he	sink up	up he neck
+1.0	he	cut off	one more head
+1.0	he	finally cut off	one more head
+1.0	he	cut off	one head
+1.0	he	finally cut off	one head
+1.0	he	sink into	earth
+1.0	blood	overflow	its brim
+1.0	they	look into	bowl
+1.0	they	cut off	last head
+1.0	they	cut off	head of dragon
+1.0	they	pull ivan out of	earth
+1.0	they	pull	Ivan
+1.0	they	cut off	last head of dragon
+1.0	they	cut off	head
+1.0	Ivan peasant 's son	lead	he
+1.0	Ivan peasant 's son	take	dragon 's horse
+1.0	dragon	have	horse
+1.0	youth	begin	eat
+1.0	brave youth	begin	eat
+1.0	Ivan	rise from	merrymaking
+1.0	Ivan	say to	he companion
+1.0	he	come to	house
+1.0	he	make friend with	cat there
+1.0	he	make friend with	cat
+1.0	he	make	friend
+1.0	he	come to	house of dragon
+1.0	he	change	himself
+1.0	he	cross bridge over	river of fire
+1.0	he	cross bridge over	river
+1.0	he	cross	bridge
+1.0	dragon	have	wife
+1.0	she three daughters-in-law	remain	alive
+1.0	she three daughters-in-law	remain in	whole house
+1.0	she three daughters-in-law	remain in	house
+1.0	she daughters-in-law	remain	alive
+1.0	she daughters-in-law	remain in	house
+1.0	she daughters-in-law	remain in	whole house
+1.0	we	destroy	scoundrel
+1.0	they	sit in	chamber
+1.0	they	speak among	themselves
+1.0	peasant	have	son
+1.0	he	try	drink
+1.0	Ivan peasant 's son	say to	they
+1.0	Ivan peasant 's son	come to	he companion
+1.0	Ivan peasant 's son	come back to	he companion
+1.0	they	make	ready
+1.0	terrible hunger	once come to	they
+1.0	hunger	once come to	they
+1.0	terrible hunger	come to	they
+1.0	hunger	come to	they
+1.0	they	have	nothing eat
+1.0	Ivan 's companion	pluck	apple
+1.0	Ivan	forbid	they
+1.0	Ivan	have	companion
+1.0	he	cut down	it
+1.0	blood	spurt out of	its trunk
+1.0	they	soon afterward be overwhelm by	thirst
+1.0	they	afterward be overwhelm by	thirst
+1.0	they	be	overwhelm
+1.0	they	be overwhelm by	thirst
+1.0	they	be	afterward overwhelm
+1.0	they	be	soon afterward overwhelm
+1.0	blood	flow from	well
+1.0	he companion	drink from	it
+1.0	Ivan	forbid	he companion
+1.0	bed	stand on	road
+1.0	Ivan	slash too through	it
+1.0	Ivan	slash through	it
+1.0	they	come to	mouth open from earth
+1.0	they	come to	mouth open from earth to sky
+1.0	they	last come to	mouth
+1.0	they	come to	mouth open
+1.0	they	last come to	mouth open
+1.0	they	last come to	mouth open from earth
+1.0	they	come to	mouth open to sky
+1.0	they	come to	mouth
+1.0	they	last come to	mouth open from earth to sky
+1.0	they	last come to	mouth open to sky
+1.0	they	jump over	it
+1.0	they	jump on	run
+1.0	he	be rescue from	predicament
+1.0	whose brow	bear	moon
+1.0	whose brow	bear	glistening moon
+1.0	he	be	rescue
+1.0	he	meet	little man as big
+1.0	he	meet	little man
+0.5815439783569778	little man	big as	thumb
+1.0	he	meet	man big
+1.0	he	meet	man as big as thumb
+1.0	he	meet	little man as big as thumb
+1.0	he	meet	man
+1.0	he	meet	little man big as thumb
+0.5815439783569778	man	as big as	thumb
+1.0	he	meet	man big as thumb
+0.5815439783569778	little man	as big as	thumb
+0.5815439783569778	man	big as	thumb
+1.0	he	meet	little man big
+1.0	he	meet	man as big
+1.0	little man big	be with	mustache seven verst long
+1.0	Ivan	grieve for	he horse
+1.0	Ivan	grieve greatly for	he horse
+1.0	Ivan	enter	hut
+1.0	footless man	be lie in	hut
+1.0	man	be lie on	stove
+1.0	man	be lie in	hut
+1.0	footless man	be lie on	stove
+1.0	he	say to	Ivan
+1.0	I	be	greater
+1.0	he	eat off	my hand
+1.0	he	yet eat off	my hand
+1.0	he	recover	he horse
+1.0	Ivan	ask	man
+1.0	man	say to	he
+1.0	footless man	say to	he
+1.0	Ivan	take	ferry boat
+1.0	Ivan	bow deeply to	he
+1.0	Ivan	bow to	he
+1.0	they	offer	he
+1.0	they	offer	money
+1.0	he	refuse	it
+1.0	I	row ferry for	three year
+1.0	man	tell	I
+1.0	I	row	ferry
+1.0	good man	tell	I
+1.0	peasant	have	son
+1.0	magician	draw	picture
+1.0	magician	draw	picture of boat
+0.5249172882554555	draw	picture of	boat on sand
+1.0	magician	draw	picture of boat on sand
+0.5249172882554555	draw	picture of	boat
+1.0	magician	step on	shore
+1.0	we	see	it
+1.0	boat	suddenly rise in	air
+1.0	boat	rise like	arrow shot from bow
+1.0	boat	rise in	trice
+1.0	boat	rise like	arrow shot
+1.0	boat	suddenly rise like	arrow shot from bow
+1.0	boat	rise in	air
+1.0	boat	suddenly rise like	arrow shot
+1.0	boat	suddenly rise in	trice
+1.0	house	live man with	mustache seven verst long
+0.23894290573990895	house	live in	house
+1.0	house	live	little man
+0.23894290573990895	house	live with	mustache seven verst long
+1.0	house	live	man
+0.23894290573990895	house	live with	mustache seven verst
+1.0	house	live man in	house
+1.0	house	live man with	mustache seven verst
+1.0	old man	send	Ivan
+1.0	Ivan	ask for	horse
+1.0	man	send	Ivan
+1.0	little man big	be with	mustache seven verst long
+1.0	king	have	daughter
+1.0	king 's daughter	bring	she
+1.0	I	will return	you horse
+1.0	they	leave	he
+1.0	they	go to	king
+1.0	Ivan	tell to	he companion
+1.0	king	order	he servant
+1.0	he servant	heat	bath hot
+1.0	he servant	heat	bath red hot
+1.0	they	thank	he
+1.0	he guest	go into	bath
+1.0	magician	order	freezer
+1.0	they	wash	themselves
+1.0	freezer	cool	it
+1.0	they	come before	king
+1.0	great feast	be	serve
+1.0	array	be place on	table
+1.0	vast array	be	place
+1.0	vast array	be place on	table
+1.0	feast	be	serve
+1.0	array	be	place
+1.0	Glutton	eat	everything
+1.0	three guest	make preparation at	night
+1.0	three guest	make	preparation
+1.0	three guest	bring	she
+1.0	three guest	steal	princess
+1.0	three guest	get	horse
+1.0	guest	make preparation at	night
+1.0	guest	make	secret preparation
+1.0	three guest	get horse in	exchange
+1.0	guest	get horse in	exchange
+1.0	guest	steal	princess
+1.0	guest	make	preparation
+1.0	three guest	make	secret preparation
+1.0	guest	get	horse
+1.0	guest	bring	she
+1.0	Ivan peasant 's son	start on	he journey back to king
+1.0	Ivan peasant 's son	bow deeply to	man
+1.0	Ivan peasant 's son	bow to	old man
+1.0	Ivan peasant 's son	bow to	man
+1.0	Ivan peasant 's son	bow deeply to	old man
+1.0	Ivan peasant 's son	start on	he journey back
+1.0	Ivan peasant 's son	start on	he journey
+1.0	Ivan peasant 's son	bestride	horse
+1.0	he	stop in	field
+1.0	he	stop in	open field
+1.0	he	pitch	he tent
+1.0	he	discover	princess lie
+1.0	he	discover	princess lie beside he
+1.0	he	discover	princess
+1.0	he	be	overjoyed
+1.0	Ivan peasant 's son	stick	she
+1.0	youth	tell	he
+1.0	brave youth	tell	he
+1.0	I	have bring	she back
+1.0	he	go in	he collar
+1.0	he	go into	room
+1.0	he	go into	next room
+1.0	Ivan	take	she
+1.0	Ivan	lead	she
+1.0	king	be	more overjoyed
+1.0	king	take	horse
+1.0	king	take horse for	himself
+1.0	king	give	he daughter
+1.0	peasant	have	son in marriage
+1.0	peasant 's son	be in	marriage
+1.0	king	give	peasant 's son in marriage
+1.0	king	be	even more overjoyed
+1.0	king	be	even overjoyed
+1.0	king	be	overjoyed
+1.0	king	give	peasant 's son
+1.0	Ivan	even now be live with	he wife
+1.0	Ivan	now be live happily with	he wife
+1.0	Ivan	be live with	he young wife
+1.0	Ivan	be live with	he wife
+1.0	Ivan	even now be live happily with	he young wife
+1.0	Ivan	be live happily with	he wife
+1.0	Ivan	even now be live with	he young wife
+1.0	Ivan	now be live happily with	he young wife
+1.0	Ivan	even now be live happily with	he wife
+1.0	Ivan	now be live with	he wife
+1.0	Ivan	be live happily with	he young wife
+1.0	Ivan	now be live with	he young wife

@@ -1,0 +1,215 @@
+1.0	they	be of	fond he
+1.0	they	be of	how fond he
+1.0	they	be of	he
+1.0	Ivashko	say to	he father
+1.0	Ivashko	say at_time	one day
+1.0	he mother	put	shirt
+1.0	he mother	tie	red girdle round he
+1.0	he mother	so put shirt on	he
+1.0	he mother	so put	white shirt
+1.0	he mother	put	white shirt
+1.0	he mother	tie	girdle round he
+1.0	he mother	put shirt on	he
+1.0	he mother	tie	red girdle round
+1.0	he mother	tie	girdle round
+1.0	he mother	so put	shirt
+1.0	canoe	float on	farther
+1.0	Ivashko	begin to	fish
+1.0	I	bring	thee
+1.0	woman	call to	she son
+1.0	old woman	hobble down to	river side
+1.0	old woman	call to	she son
+1.0	Ivashechko	boy	my
+1.0	woman	hobble down to	river side
+1.0	canoe	float to	waterside
+0.6203338320969196	that	call	I
+0.9767935485375699	my mother	call	I
+1.0	woman	change	he shirt
+1.0	woman	give	drink
+1.0	woman	give	she boy food
+1.0	woman	take	fish
+1.0	woman	send	he
+1.0	woman	send back	he
+1.0	he	again sit in	he boat
+1.0	he	sit in	he boat
+1.0	canoe	float on	farther
+1.0	Ivashko	begin to	fish
+1.0	Ivashechko	boy	my
+1.0	canoe	float to	waterside
+0.6203338320969196	that	call	I
+0.9767935485375699	my father	call	I
+1.0	canoe	float to	shore
+1.0	old man	send	he
+1.0	old man	give	he boy food
+1.0	man	send	he
+1.0	old man	change	he shirt
+1.0	old man	give	drink
+1.0	man	change	he shirt
+1.0	old man	take	fish
+1.0	man	send back	he
+1.0	man	give	drink
+1.0	man	give	he boy food
+1.0	man	take	fish
+1.0	old man	send back	he
+1.0	she	get	hold
+1.0	she	get	hold of boy
+1.0	Ivashko	have	parent
+1.0	she	cry with	voice
+1.0	she	cry with	hoarse voice
+1.0	Ivashechko	boy	my
+1.0	Ivashko	perceive	that
+1.0	she	call	Ivashko
+1.0	she	say to	he
+1.0	Ivashko	have	mother
+1.0	she	hasten to	smith
+1.0	smith	forge	voice like Ivashko 's mother 's
+1.0	smith	forge	she
+1.0	smith	forge	little voice just like Ivashko 's mother 's
+1.0	smith	forge	voice just like Ivashko 's mother 's
+1.0	smith	forge	little voice like Ivashko 's mother 's
+1.0	smith	forge	voice
+1.0	smith	forge	little voice
+1.0	witch	go to	shore
+1.0	witch	go down to	shore
+1.0	I	bring	thee
+0.8314667717487534	Ivashechko	unto	waterside
+1.0	Ivashechko	boy	my
+1.0	boy	carry home with	she
+1.0	Ivashko	seize	boy
+1.0	boy	carry	home
+1.0	she	take	fish
+1.0	boy	carry	he
+1.0	she	say to	she daughter Alenka
+0.40698801184380096	I	go for	feast
+1.0	I	go	my friend
+1.0	Alenka	heat so hot	stove hot
+1.0	Alenka	heat	stove hot
+1.0	Alenka	so heat ever so hot	stove hot
+1.0	Alenka	so heat hot	stove hot
+1.0	Alenka	heat ever hot	stove hot
+1.0	Alenka	so heat so hot	stove hot
+1.0	Alenka	heat hot	stove hot
+1.0	Alenka	say to	Ivashko
+1.0	Alenka	heat ever so hot	stove hot
+1.0	Alenka	so heat	stove hot
+1.0	Alenka	so heat ever hot	stove hot
+1.0	I	be	still very young
+1.0	I	be	very young
+1.0	I	be	young
+1.0	I	be	still young
+1.0	Ivashko	instantly pitch	she
+1.0	Ivashko	pitch	she
+1.0	witch	presently arrive with	she guest
+1.0	witch	knock at	door of hut
+1.0	witch	arrive with	she guest
+1.0	witch	knock at	door
+1.0	nobody	open	it
+1.0	that	curse	Alenka
+1.0	she	slip in through	window
+1.0	she	let in	she guest
+1.0	she	open	door
+1.0	they	take out	Alenka 's body
+1.0	they	serve up	it
+1.0	witch	open	oven
+1.0	they	sit to	to table
+1.0	they	take out	Alenka 's baked body
+1.0	Alenka	have	baked body
+1.0	they	eat	they fill
+1.0	they	begin	roll
+1.0	they	go into	courtyard
+1.0	they	begin	roll about
+1.0	they	begin	roll about on grass
+1.0	they	drink	they fill
+1.0	they	go out into	courtyard
+1.0	they	begin	roll on grass
+1.0	Ivashko	on	flesh
+1.0	I	feed on	Ivashko 's flesh
+1.0	Ivashko	on	flesh
+1.0	I	feed on	Ivashko 's flesh
+1.0	Ivashko	call out to	she
+1.0	Ivashko	call out from	top of oak
+1.0	Ivashko	call out	turn
+1.0	Alenka	on	flesh
+1.0	Ivashko	call out from	top
+1.0	Ivashko	call out	turn about
+1.0	I	do hear	something
+0.5347858317853666	it	be only noise of	leaf
+0.5347858317853666	it	be	only noise
+0.5347858317853666	it	be noise of	leaf
+0.5347858317853666	it	be	noise
+1.0	Ivashko	on	flesh
+1.0	I	feed on	Ivashko 's flesh
+1.0	I	turn about	have feed on Ivashko 's flesh
+1.0	I	turn about	have feed
+1.0	Ivashko	repeat	turn about
+1.0	Ivashko	repeat	turn
+1.0	Alenka	on	flesh
+1.0	witch	begin	gnaw at it
+1.0	witch	begin	gnaw
+1.0	Ivashko	be	seat
+1.0	witch	begin	gnaw away at it
+1.0	witch	see	Ivashko
+1.0	witch	begin	gnaw away
+1.0	she	last smash	two tooth
+1.0	she	smash	two front tooth
+1.0	she	smash	two tooth
+1.0	she	last smash	two front tooth
+1.0	she	run to	forge
+1.0	she	reach	it
+1.0	she	cry	Smith
+1.0	she	cry	smith
+1.0	smith	forge	two iron tooth
+1.0	smith	so forge	two iron tooth
+1.0	she	be on	point of gnawing
+1.0	she	be on	just point of gnawing
+1.0	she	be on	point
+1.0	she	be on	just point
+1.0	she	gnash	she tooth
+1.0	she	set	work
+1.0	witch	have gnaw	then she see
+1.0	witch	fall down to	ground
+1.0	she	set	work afresh
+1.0	witch	fall to	ground
+1.0	witch	have gnaw	she see
+1.0	smith	forge	two more iron tooth
+1.0	smith	forge	two iron tooth
+1.0	my swan	take	I
+1.0	he	call to	they
+1.0	goose	live in	comfort
+1.0	goose	take	I
+1.0	he	call imploringly to	they
+1.0	goose	bear	I
+1.0	those	carry	you
+1.0	I	bear	I
+1.0	I	live in	comfort
+1.0	those	carry	you
+1.0	I	bear	I
+1.0	swan	take	hold
+1.0	goose	take	hold of he
+1.0	goose	drop	he
+1.0	goose	take	hold
+0.967887836512221	fly	up to	cottage
+1.0	swan	take	hold of he
+1.0	goose	carry	he
+1.0	goose	carry back	he
+1.0	they	fall	think
+1.0	baked they	think about	she boy
+1.0	he mother	set	work
+1.0	baked they	fall	think
+1.0	they	think about	she boy
+1.0	father	be for	you
+1.0	she	bake	pancake
+1.0	's	divide	cake
+1.0	father	be for	you
+1.0	father	climb into	upper room
+1.0	father	climb into	room
+1.0	he	there find	Ivashko
+1.0	he	find	Ivashko
+1.0	people	ask	they boy
+1.0	old people	ask	they boy
+1.0	people	be	delighted
+1.0	old people	be	delighted
+1.0	they	live on	together
+1.0	he	live on	happily together
+1.0	he	live on	together
+1.0	they	live on	happily together

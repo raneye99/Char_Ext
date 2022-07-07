@@ -1,0 +1,527 @@
+1.0	certain kingdom	be in	certain land
+1.0	Prince Ivan	succeed to	throne
+1.0	king	grow	old
+1.0	neighbor king	gather together troops	learn
+1.0	neighbor king	gather together	innumerable troops
+1.0	neighbor king	gather together	troops
+1.0	king	wage war against	he
+1.0	king	gather	innumerable troops
+1.0	neighbor king	gather	innumerable troops
+1.0	king	wage	war
+1.0	king	gather together	innumerable troops
+1.0	neighbor king	gather troops	learn
+1.0	neighbor king	gather	troops
+1.0	king	gather troops	learn
+1.0	king	gather together	troops
+1.0	neighbor king	wage	war
+1.0	king	gather together troops	learn
+1.0	neighbor king	wage war against	he
+1.0	king	gather	troops
+1.0	he	ask	they
+1.0	he	come to	he sister
+1.0	king	be wage	war
+1.0	king	be wage war against	I
+1.0	moment	without	respite
+1.0	you	be	afraid
+0.010717726303177022	you	be afraid	have see
+1.0	you	see	anything
+1.0	Prince Ivan straightway	take	steel sword
+1.0	Prince Ivan straightway	saddle	he good steed
+1.0	Prince Ivan straightway	pray to	God
+1.0	Prince Ivan straightway	take	spear
+1.0	Prince Ivan straightway	take	silken ride crop
+1.0	Prince Ivan straightway	take	long spear
+1.0	Prince Ivan straightway	take	ride crop
+1.0	Prince Ivan straightway	saddle	he steed
+1.0	Prince Ivan straightway	don	he armor
+1.0	he	sleep	awaken
+1.0	he	sleep for	three day
+1.0	he	lay down	sleep
+1.0	he	return to	he capital
+1.0	he	slew	enemy troops
+1.0	other king	gather	even more troops than before
+1.0	king	again approach	very wall of he town
+1.0	other king	approach	very wall
+1.0	other king	again approach	very wall
+1.0	other king	approach	very wall of he town
+0.8180686684884833	other king	more troops than	before
+0.8180686684884833	king	even more troops than	before
+1.0	king	again approach	wall
+1.0	king	approach	very wall
+1.0	king	gather	more troops than before
+1.0	king	gather	troops than before
+0.8180686684884833	king	troops than	before
+1.0	other king	gather	more troops than before
+1.0	king	approach	wall of he town
+1.0	king	again approach	wall of he town
+1.0	king	again approach	very wall
+1.0	king	gather	even more troops than before
+1.0	other king	again approach	wall of he town
+1.0	other king	gather	troops than before
+1.0	other king	approach	wall of he town
+1.0	other king	approach	wall
+1.0	other king	again approach	wall
+1.0	king	approach	wall
+0.8180686684884833	other king	troops than	before
+0.8180686684884833	other king	even more troops than	before
+1.0	other king	again approach	very wall of he town
+1.0	king	approach	very wall of he town
+0.8180686684884833	king	more troops than	before
+1.0	prince	be	grieve
+1.0	prince	go to	he sister
+1.0	you	sleep at_time	three day
+1.0	you	sleep	awaken
+1.0	moment	without	respite
+1.0	Byely Polyanin	war	golden-legged
+1.0	silken ride crop	be in	other
+1.0	Prince Ivan	take	spear
+1.0	Prince Ivan	take spear in	one hand
+1.0	Prince Ivan	gird on	he steel sword
+1.0	Prince Ivan	saddle	mighty steed
+1.0	Prince Ivan	run to	white stone stable
+1.0	Prince Ivan	don	he armor
+1.0	Prince Ivan	run to	stone stable
+1.0	Prince Ivan	run to	stone
+1.0	Prince Ivan	pray to	God
+1.0	Prince Ivan	saddle	steed
+1.0	Prince Ivan	take	long spear
+1.0	Prince Ivan	run to	white stone
+1.0	he	return	home
+1.0	he	defeat	great host of troops
+1.0	he	sleep	awaken
+1.0	he	defeat	great host
+1.0	he	defeat	host
+1.0	he	lay down	sleep
+1.0	he	defeat	host of troops
+1.0	he	sleep	awaken for six day
+0.41279263864061316	he	host of	troops
+0.41279263864061316	he	great host of	troops
+1.0	other king	gather	army
+1.0	other king	gather together	even greater army
+1.0	other king	gather together	army than before
+1.0	other king	surround	entire town
+1.0	other king	again surround	entire town
+1.0	king	surround	entire town
+1.0	other king	gather	even greater army
+1.0	other king	surround	town
+1.0	king	again surround	entire town
+1.0	king	gather together	even greater army
+0.871754754437723	king	even greater army than	before
+1.0	other king	gather together	even greater army than before
+1.0	king	gather	even greater army than before
+1.0	other king	gather together	greater army than before
+1.0	king	gather	army
+1.0	king	gather together	army than before
+1.0	king	gather together	greater army
+0.871754754437723	other king	army than	before
+1.0	king	again surround	town
+1.0	king	gather	even greater army
+1.0	king	gather together	army
+0.871754754437723	other king	even greater army than	before
+1.0	other king	gather	army than before
+0.871754754437723	other king	greater army than	before
+1.0	other king	gather	greater army
+1.0	other king	gather	greater army than before
+1.0	other king	gather together	greater army
+1.0	king	gather together	greater army than before
+1.0	other king	gather together	army
+1.0	king	surround	town
+1.0	other king	again surround	town
+1.0	king	gather	greater army than before
+0.871754754437723	king	greater army than	before
+0.871754754437723	king	army than	before
+1.0	king	gather	army than before
+1.0	king	gather together	even greater army than before
+1.0	king	gather	greater army
+1.0	other king	gather	even greater army than before
+1.0	Prince Ivan	go to	he sister
+1.0	I	have destroy	two army
+1.0	you	sleep	awaken
+1.0	you	sleep for	six day
+1.0	moment	without	respite
+1.0	silken ride crop	be in	other
+1.0	he	take	long spear
+1.0	he	saddle	he steed
+1.0	he	take	spear
+1.0	he	saddle	he good steed
+1.0	he	pray to	God
+1.0	he	take spear in	one hand
+1.0	he	gird on	he steel sword
+1.0	he	don	he armor
+1.0	bright falcon	swoop down on	flock
+1.0	falcon	swoop down on	flock of goose
+1.0	falcon	swoop down on	flock
+1.0	bright falcon	swoop down on	flock of goose
+1.0	he	defeat	great host of troops
+1.0	he	return	home
+1.0	he	sleep for	ten day
+1.0	he	sleep	awaken
+1.0	he	defeat	great host
+1.0	he	defeat	host
+1.0	he	lay down	sleep
+1.0	he	defeat	host of troops
+0.41279263864061316	he	host of	troops
+0.41279263864061316	he	great host of	troops
+1.0	I	charge	you
+1.0	I	have decide	go to land
+1.0	I	have decide	go
+1.0	I	go to	foreign land
+1.0	I	go to	land
+1.0	I	have decide	go to foreign land
+1.0	he	set out on	he way
+1.0	he	take	leave
+1.0	he	take	leave of he sister
+1.0	he	mount	he horse
+1.0	he	enter forest after	time
+1.0	he	enter forest after	long time
+1.0	he	enter	forest
+1.0	he	enter	dark forest
+1.0	Prince Ivan	see	he
+1.0	God	be take	you
+1.0	Whither	be take	you
+1.0	I	ask	they
+1.0	I	shall assemble	my faithful servant
+1.0	man	go out on	porch
+1.0	bird	suddenly begin	fly toward he from side
+1.0	man	blow on	silver trumpet
+1.0	bird	begin	fly from side
+1.0	old man	blow on	silver trumpet
+1.0	bird	fly from	side
+1.0	bird	begin	fly toward he from side
+1.0	bird	suddenly begin	fly from side
+1.0	old man	go out on	porch
+1.0	host	cover	sky
+1.0	host	cover sky like	black cloud
+1.0	host	cover sky like	cloud
+1.0	numberless host	cover sky like	black cloud
+1.0	host	cover	whole sky
+1.0	numberless host	cover	sky
+1.0	numberless host	cover	whole sky
+1.0	numberless host	cover sky like	cloud
+1.0	my	servant	bird of passage
+1.0	man	whistle with	mighty whistle
+0.6472920284352414	you	have ever hear	anything
+0.6472920284352414	you	have hear	anything about Byely Polyanin
+1.0	old man	whistle with	whistle
+0.5959499100901307	you	anything about	Byely Polyanin
+1.0	man	cry in	voice
+1.0	man	whistle with	whistle
+1.0	old man	cry in	loud voice
+1.0	man	cry in	loud voice
+1.0	old man	cry in	voice
+0.6472920284352414	you	have ever hear	anything about Byely Polyanin
+0.6472920284352414	you	have hear	anything
+1.0	my faithful servant	bird of	passage
+1.0	old man	whistle with	mighty whistle
+1.0	we	hear with	we ear
+1.0	we	hear of	he
+1.0	ball roll	direct	you horse
+1.0	it	roll before	you
+1.0	Prince Ivan	mount	he good steed
+1.0	Prince Ivan	ride after	it
+1.0	Prince Ivan	roll	he ball
+1.0	forest	grow	darker
+1.0	Prince Ivan	mount	he steed
+0.4820437207276388	man	hoary with	age
+1.0	prince	enter	it
+0.4820437207276388	old man	hoary with	age
+1.0	I	ask	they
+1.0	I	shall assemble	my faithful servant
+1.0	man	blow on	silver trumpet
+1.0	man	suddenly kind of	beast gather around he
+1.0	old man	blow on	silver trumpet
+1.0	man	kind of	beast gather around he
+1.0	old man	suddenly kind of	beast gather around he
+1.0	old man	kind of	beast gather around he
+1.0	he	cry to	they
+1.0	my	servant	roving beast
+1.0	he	whistle with	whistle
+1.0	he	cry in	loud voice
+1.0	he	cry in	voice
+1.0	he	whistle with	mighty whistle
+1.0	we	hear with	we ear
+1.0	we	hear about	he
+1.0	beast	take count among	themselves
+1.0	beast	take	count
+1.0	they	bring	she
+1.0	they	soon bring	she
+1.0	I	know	he
+1.0	I	be with	always he
+1.0	I	be with	he
+1.0	I	feed on	they carrion
+1.0	he	defeat	army
+1.0	he	lay down	sleep for twelve day
+1.0	he	lay down	sleep
+1.0	he	sleep for	twelve day
+1.0	he	battle	golden-legged
+1.0	prince	gallop after	she
+1.0	he	come to	high mound
+1.0	he	come to	mound
+1.0	he	enter	tent
+1.0	he	say to	himself
+1.0	Prince Ivan	lay down beside	Byely Polyanin
+1.0	little bird	come at	moment
+1.0	bird	circle around	head
+1.0	little bird	circle around	head
+1.0	bird	come at	moment
+1.0	little bird	fly into	tent
+1.0	bird	come	fly
+1.0	bird	fly into	tent
+1.0	little bird	come	fly
+1.0	bird	circle around	head of bed
+1.0	little bird	circle around	head of bed
+1.0	he	slay	you
+1.0	Prince Ivan	throw	she
+1.0	Prince Ivan	catch	bird
+1.0	Prince Ivan	tear off	she right leg
+1.0	Prince Ivan	lay down beside	Byely Polyanin
+1.0	Prince Ivan	tear off	she leg
+1.0	Prince Ivan	again lay down beside	Byely Polyanin
+1.0	he	slay	you
+1.0	Prince Ivan	lay down in	place
+1.0	Prince Ivan	throw	she
+1.0	Prince Ivan	catch	bird
+1.0	Prince Ivan	tear off	she right wing
+1.0	Prince Ivan	lay down in	same place
+1.0	Prince Ivan	tear off	she wing
+1.0	third bird	circle around	head of bed
+1.0	bird	circle around	head
+1.0	little bird	circle around	head
+1.0	third little bird	circle around	head
+1.0	third bird	circle around	head
+1.0	third little bird	circle around	head of bed
+1.0	little bird	circle around	head of bed
+1.0	bird	circle around	head of bed
+1.0	he	slay	you
+1.0	he	fall	sound
+1.0	Prince Ivan	catch	bird
+1.0	he	fall	sound asleep
+1.0	Prince Ivan	tear off	she beak
+1.0	he	throw out	bird
+1.0	he	seize	he sharp sword
+1.0	he	have set for	himself
+1.0	Byely Polyanin	see	knight lie beside he
+1.0	Byely Polyanin	see	unknown knight lie beside he
+1.0	Byely Polyanin	see	unknown knight lie
+1.0	he	have set at	time
+1.0	Byely Polyanin	see	knight lie
+1.0	he	restrain	himself
+1.0	Byely Polyanin	see	unknown knight
+1.0	Byely Polyanin	see	knight
+1.0	he	seize	he sword
+1.0	man	be	dead
+1.0	sleep man	be like	man
+1.0	man	be like	man
+1.0	man	be like	dead man
+1.0	sleep man	be like	dead man
+1.0	I	instead will awaken	he
+1.0	I	will awaken	he
+0.9729701971708572	you	be	good man
+0.9729701971708572	you	be	man
+1.0	he	rouse	Prince Ivan
+1.0	he	ask	he
+1.0	you	be	good
+0.8269245039452524	my name	try	you strength
+1.0	I	see	you
+1.0	you	sleep beside	I
+1.0	you	go	sleep beside I
+1.0	I	could put	you
+1.0	you	go	sleep
+1.0	you	announce	yourself
+1.0	you	have jump	ditch
+1.0	they spear	be	shatter
+1.0	shatter	fall to	ground
+1.0	they spear	be shatter into	smithereens
+1.0	they	mount	they mighty steed
+1.0	shatter	violently fall to	ground
+1.0	shatter	so violently fall to	ground
+1.0	they	mount	they steed
+1.0	Prince Ivan	raise	he sharp sword
+1.0	Prince Ivan	raise	he sword
+1.0	Prince Ivan	unhorse	Byely Polyanin
+0.4391876009186974	death	give	life
+0.4391876009186974	death	give	I
+1.0	I	honor	you
+1.0	I	shall call	myself you younger brother
+1.0	I	shall call	myself you brother
+1.0	Prince Ivan	take	he
+1.0	I	win	she
+1.0	she	marry	she
+1.0	we	be	friend
+0.8920167786705183	I	will help	you
+1.0	we	go together to	war
+1.0	we	go to	war
+1.0	Baba Yaga	leg bring forth	innumerable host
+1.0	Baba Yaga	leg bring	host of troops
+0.8323563859303083	Baba Yaga	innumerable host of	troops
+1.0	they	ride into	open field
+1.0	Baba Yaga	leg bring forth	host of troops
+1.0	Baba Yaga	leg bring	innumerable host of troops
+1.0	Baba Yaga	leg bring	innumerable host
+1.0	Baba Yaga	leg bring forth	innumerable host of troops
+1.0	they	ride into	field
+1.0	Baba Yaga	leg bring	host
+0.8323563859303083	Baba Yaga	host of	troops
+1.0	Baba Yaga	leg bring forth	host
+1.0	they	cut thousand upon	thousand
+1.0	they	indeed cut	thousand
+1.0	they	cut	thousand
+1.0	they	cut down	they
+1.0	they	indeed cut thousand upon	thousand
+1.0	they	cut down less	they
+1.0	Baba Yaga	take to	she heel
+1.0	she	run to	edge of precipice
+1.0	he	have almost catch up with	she
+1.0	he	pull up	cast-iron trap door
+1.0	she	run to	edge
+1.0	he	have catch up with	she
+1.0	she	run to	edge of sharp precipice
+1.0	he	vanish	underground
+1.0	Prince Ivan	buy	great multitude of oxen
+1.0	Prince Ivan	buy	multitude of oxen
+1.0	Byely Polyanin	buy	great multitude of oxen
+1.0	Byely Polyanin	skin	they
+1.0	Prince Ivan	buy	multitude
+1.0	Byely Polyanin	buy	great multitude
+1.0	Byely Polyanin	buy	multitude of oxen
+1.0	Byely Polyanin	buy	multitude
+1.0	Byely Polyanin	cut	skin
+1.0	they	wind so long	cable
+1.0	Byely Polyanin	cut skin into	thong
+1.0	they	wind	cable
+1.0	Prince Ivan	buy	great multitude
+0.48255452492072	Byely Polyanin	great multitude of	oxen
+1.0	Byely Polyanin	slaughter	they
+1.0	they	wind long	cable
+0.48255452492072	Byely Polyanin	multitude of	oxen
+1.0	polyanin	lower	he
+1.0	Prince Ivan	go	search
+1.0	Prince Ivan	look about	he
+1.0	Prince Ivan	go	search for Baba Yaga
+1.0	he	see	tailor sit
+1.0	he	see	tailor sit behind grate
+1.0	he	see	tailor
+0.6773810885659127	we	army for	Baba Yaga
+1.0	you	do do	it
+1.0	I	will show	you
+1.0	eh	stand in	row
+1.0	Prince Ivan	swing	he sword
+1.0	he	go on	farther
+1.0	he	slay	tailor
+1.0	he	see	cobbler sit behind grate
+1.0	he	see	cobbler
+1.0	he	see	cobbler sit
+0.8036623351274146	we	army for	Baba Yaga
+1.0	you	do prepare	brother
+1.0	you	do prepare	army
+1.0	soldier	mount	horse
+1.0	prick	be with	awl
+1.0	we	set out to	Byely polyanin
+1.0	soldier	be with	gun
+0.7368936688805772	horse	soldier with	gun
+1.0	prick	stand in	line
+1.0	we	set out to	war-against Byely polyanin
+1.0	you	do	it
+1.0	I	stand in	row
+1.0	I	will show	you
+1.0	you	do better	it
+1.0	he	slay	cobbler
+1.0	he	go on	farther
+0.48595738915318	royal castle	sit in	castle
+1.0	castle	be in	city
+1.0	royal castle	sit	maiden
+1.0	castle	sit	maiden of beauty
+1.0	castle	sit	maiden
+1.0	castle	sit maiden in	castle
+1.0	royal castle	sit maiden in	castle
+1.0	castle	sit	maiden of indescribable beauty
+1.0	royal castle	sit	maiden of beauty
+1.0	he	reach	city
+1.0	he	reach	great city
+0.48595738915318	castle	sit in	castle
+1.0	royal castle	sit	maiden of indescribable beauty
+1.0	royal castle	be in	city
+1.0	curl	with gait be	he
+1.0	she	fall with	he gait
+1.0	he	curl	heroic gait
+1.0	she	fall in	love
+1.0	she	fall with	he heroic gait
+1.0	she	fall with	he curl
+1.0	she	fall with	he black curl
+1.0	she	question	he
+1.0	she	invite	prince
+1.0	she	invite prince to	she room
+1.0	he	tell	she
+1.0	I	be	she daughter
+1.0	she	lay down	rest for twelve day
+1.0	she	rest for	twelve day
+1.0	she	lay down	rest
+1.0	maiden	show	way
+1.0	Prince Ivan	strike	she
+1.0	maiden	show	he
+1.0	Prince Ivan	cut off	she head
+1.0	Prince Ivan	go to	Baba Yaga
+1.0	head	roll	strike again
+1.0	head	roll	strike
+1.0	head	roll	Prince Ivan
+1.0	head	roll	word
+1.0	he	sit down with	maiden
+1.0	he	sit down at	oaken table
+1.0	oaken table	be with	checkered cloth
+1.0	he	return to	castle
+1.0	he	sit down at	oaken table with cloth
+1.0	he	sit down at	oaken table with checkered cloth
+1.0	he	sit down with	lovely maiden
+1.0	he	ask	she
+1.0	Prince Ivan	sort of	beauty
+1.0	Prince Ivan	be	I
+1.0	Beyond thrice land	live	princess
+0.10003620100646804	Beyond thrice nine land	live in	thrice tenth kingdom
+1.0	Beyond thrice nine land	live	princess in dragon king 's palace
+1.0	Beyond thrice land	live princess in	thrice tenth kingdom
+1.0	princess	be in	dragon king 's palace
+1.0	Beyond thrice land	live	princess in dragon king 's palace
+1.0	Beyond thrice nine land	live princess in	thrice tenth kingdom
+1.0	dragon king	in	palace
+0.10003620100646804	Beyond thrice land	live in	thrice tenth kingdom
+1.0	Beyond thrice nine land	live	princess
+1.0	I	be	good enough
+1.0	I	be	only good enough
+1.0	I	be	good
+1.0	she	be	indescribable
+1.0	I	be	only good
+1.0	she	have wash	she foot
+1.0	I	wash	myself
+1.0	Prince Ivan	lead	she
+0.6062787982845129	give	sign to	Byely Polyanin
+1.0	Prince Ivan	take maiden by	she hand
+1.0	Prince Ivan	give	sign
+1.0	Prince Ivan	take	lovely maiden
+1.0	Prince Ivan	give	sign to Byely Polyanin
+1.0	Prince Ivan	take	maiden
+1.0	Prince Ivan	take maiden by	she white hand
+1.0	warrior	pull out	cable
+1.0	I	be go to	dragon 's kingdom
+1.0	I	be go as for	I
+1.0	dragon	to	kingdom
+1.0	he	mount	he steed
+0.8287025418998746	gallop	farewell to	Byely Polyanin
+1.0	he	mount	he good steed
+0.950147165966122	slew dragon king	rescue	beautiful princess
+1.0	tale	less speed	deed
+1.0	long time	after done-he be	slew dragon king rescue from captivity
+0.950147165966122	slew dragon king	rescue beautiful princess from	captivity
+0.6497600670726196	tale	be	spin
+1.0	tale	speed	deed
+0.950147165966122	slew dragon king	rescue	princess
+1.0	tale	much less speed	deed
+1.0	dragon	to	kingdom
+0.950147165966122	slew dragon king	rescue princess from	captivity
+0.6497600670726196	tale	be	speedily spin
+1.0	he	begin	live with he young wife
+1.0	he	begin	live in happiness
+1.0	he	begin	live with he wife
+1.0	he	begin	live
+1.0	he	begin	live with he young wife in happiness
+1.0	he	return	home
+1.0	he	begin	live with he wife in happiness

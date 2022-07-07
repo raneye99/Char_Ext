@@ -1,0 +1,817 @@
+1.0	certain kingdom	be in	certain land
+1.0	he	be	take
+1.0	time	come	take
+1.0	time	come	take as soldier
+1.0	he	be take as	soldier
+1.0	he wife	be	pregnant
+1.0	I	may	with help may retire
+1.0	I	may	with help of God may retire
+1.0	we house	manage wisely	it
+1.0	house	manage	it
+1.0	we house	manage	it
+1.0	house	manage wisely	it
+1.0	I	may	may retire
+1.0	it	await	my return
+1.0	I	return	home
+1.0	you	give	birth
+0.43322743489378096	you	keep	money
+1.0	child	be of	age
+1.0	you	give birth to	daughter
+0.9487152963383674	birth	keep	money
+0.43322743489378096	you	keep money of	age
+0.9487152963383674	birth	keep money of	age
+1.0	God	give	son
+1.0	you	marry	you daughter
+1.0	God	give	we
+1.0	he	be	order
+1.0	he	say	farewell
+1.0	he	say	farewell to he wife
+1.0	he wife	bear	boy
+1.0	he wife	later bear	boy
+1.0	he wife	later bear	twin boy
+1.0	he wife	bear	twin boy
+1.0	he wife	name	they Ivan
+1.0	boy	begin	grow
+1.0	they	stand	higher
+1.0	they	be	old
+1.0	they	be old	ten year
+1.0	they	be	when old
+1.0	they	be	when ten year old
+1.0	boyar ' son	envy	twin
+1.0	boyar		son
+1.0	we comrade	tear to	shred
+1.0	we	show	they
+1.0	they	agree	stand
+1.0	boyar		son
+1.0	boyar ' son	provoke	they
+1.0	boyar ' son	tear off	hand
+1.0	boyar ' son	tear off	hand of another
+1.0	boyar ' son	knock off	head of third
+0.6152028039176128	they	eye of	one
+1.0	they	smash	eye of one
+1.0	boyar ' son	knock off	head
+1.0	they	smash	eye
+0.9042886610142575	they	bear	it
+0.9042886610142575	they	bear patiently	it
+1.0	they	beat all	they
+1.0	they	beat	they
+1.0	two youth	throw	they
+1.0	two good youth	throw	they
+1.0	affair	question	they
+1.0	affair	order	release
+1.0	affair	be	bring
+1.0	we	will go to	town
+1.0	we	buy	good horse
+1.0	we	have	it
+1.0	we	will go to	fair
+1.0	they mother	give	twenty-five to each
+1.0	they mother	give	they
+1.0	they mother	give	fifty ruble
+1.0	fifty ruble	twenty-five to	each
+1.0	you	travel to	town
+1.0	none	be strong for	youth
+1.0	none	be	strong
+1.0	brother	see	horse
+1.0	none	be strong enough for	good youth
+1.0	none	be strong enough for	youth
+1.0	brother	go to	town
+1.0	none	be	strong enough
+1.0	none	be strong for	good youth
+1.0	brother	see	many horse
+1.0	oaken posts-one	be with	six chain
+1.0	they	see	two colt fasten with chain to oaken posts-one
+1.0	they	see	two colt fasten with chain
+1.0	they	see	two colt fasten with chain to posts-one
+1.0	six chain	other with	twelve
+1.0	they	make	they way
+1.0	they	see	two colt fasten with chain to posts-one with six chain
+1.0	they	see	two colt
+1.0	they	see	two colt fasten with chain to oaken posts-one with six chain
+1.0	they	see	two colt fasten
+1.0	horse	paw ground with	they hoof
+1.0	horse	tug at	they chain
+1.0	horse	gnaw	they bit
+1.0	horse	paw	ground
+1.0	you	do talk	know
+1.0	I	them-only first look at	they tooth
+1.0	I	look at	they tooth
+1.0	I	first look at	they tooth
+1.0	you	lose	you head
+1.0	you	lose	head
+1.0	colt	rear up on	they hind leg
+1.0	colt	rear up on	they leg
+1.0	they	look at	horse ' tooth
+1.0	colt	fall with	they leg
+1.0	colt	fall with	they leg up
+1.0	brother	strike	they
+1.0	crowd	gasp at	champion of strength
+1.0	crowd	gasp at	champion of such strength
+1.0	crowd	gasp with	amazement
+1.0	crowd	gasp at	champion
+1.0	he colt	begin	run all over open field
+1.0	he colt	begin	run over open field
+1.0	he colt	have gallop beyond	town
+1.0	colt	stand	root
+1.0	Ivans	be sorry for	owner
+1.0	two Ivans	be	sorry
+1.0	two Ivans	be sorry for	owner
+1.0	Ivans	be	sorry
+1.0	colt	stand	root to spot
+1.0	two good youth	put	iron chain
+1.0	good youth	put iron chain on	they
+1.0	two good youth	put iron chain on	they
+1.0	good youth	put	iron chain
+1.0	good youth	lead	they
+1.0	two good youth	lead	they
+1.0	they	meet	gray man
+1.0	they	meet	old man
+1.0	they	meet	man
+1.0	they	pass	he
+1.0	they	greet	he
+1.0	they	meet man	they walk
+1.0	they	meet	gray old man
+1.0	they	meet man	they walk along road
+1.0	they	walk along	road
+1.0	they mother	tell	they
+1.0	we	run after	he
+1.0	they	doff	they cap
+1.0	they	catch up with	old man
+1.0	they	bow to	waist
+1.0	they	catch up with	man
+1.0	we mother	pay	honor
+1.0	we mother	enjoin upon	we
+1.0	we mother	enjoin strictly upon	we
+1.0	God	be take	you
+1.0	Whither	be take	you
+1.0	I	give	little horse
+1.0	Shall	give	little horse
+1.0	we	shall always pray	you do
+1.0	we	shall pray	you do
+1.0	we	shall pray to	God
+1.0	we	shall always pray to	God
+1.0	we	shall always pray for	you
+1.0	we	shall pray for	you
+1.0	old man	bring out	two mighty steed
+1.0	man	lead	they
+1.0	old man	lead	they
+1.0	old man	bring out	two steed
+1.0	old man	open	cast-iron door
+1.0	man	open	door
+1.0	old man	open	door
+1.0	man	bring out	two steed
+1.0	man	open	cast-iron door
+1.0	man	bring out	two mighty steed
+1.0	you	horse	good youth
+1.0	you	keep	they
+1.0	you	enjoy	they
+1.0	they	gallop	home
+1.0	they	tie steed to	post
+1.0	they	mount	steed
+1.0	they	tie	steed
+1.0	they	reach	they house
+1.0	my child	get	you horse
+1.0	you	get	you horse
+1.0	they mother	ask	they
+1.0	we	receive	they free
+1.0	you	have put	they
+1.0	my child	might take	they
+1.0	someone	might take	they
+1.0	my child	might take away	they
+1.0	someone	might take away	they
+1.0	mother	look at	horse
+1.0	mother	go to	yard
+1.0	mother	go out to	yard
+1.0	mother	burst into	tear
+1.0	my dear son	be	support
+1.0	my son	be	support
+1.0	my dear son	be	my support
+1.0	my son	be	my support
+1.0	mother	have	leave
+1.0	son	ask	they mother 's leave
+1.0	they mother 's leave	go to	town
+1.0	they	make	ready
+1.0	they	go to	smithy
+1.0	they	say to	master
+1.0	I	should make	they
+1.0	I	have	they ready
+0.06547772389957607	we	need at_time	friend
+1.0	good youth	go	home
+1.0	good youth	hang	they head
+1.0	they	meet	same man
+1.0	they	meet	old man
+1.0	they	meet	man
+1.0	youth	hang	they head
+1.0	youth	go	home
+1.0	they	meet	same old man
+1.0	young man	say at_time	good day
+1.0	man	say at_time	good day
+1.0	he	say at_time	good day
+1.0	man	say at_time	day
+1.0	young man	say at_time	day
+1.0	he	say at_time	day
+1.0	smithy	be in	town
+1.0	we	buy	sword for each
+1.0	we	buy	sword
+1.0	we	buy	sword for each of we
+1.0	that	be	bad
+1.0	Shall	give	sword
+1.0	I	give	sword
+1.0	we	shall always pray	you do
+1.0	we	shall pray	you do
+1.0	we	shall pray to	God
+1.0	we	shall always pray to	God
+1.0	we	shall always pray for	you
+1.0	we	shall pray for	you
+1.0	old man	bring out	two sword
+1.0	old man	lead	they
+1.0	man	lead	they
+1.0	man	bring out	two sword
+1.0	old man	bring out	two mighty sword
+1.0	old man	open	cast-iron door
+1.0	man	open	door
+1.0	man	bring out	two mighty sword
+1.0	old man	open	door
+1.0	man	open	cast-iron door
+1.0	they heart	be	full
+1.0	they	thank	man
+1.0	they heart	be full of	joy
+1.0	they	take	sword
+1.0	they	thank	old man
+1.0	my child	buy	sword
+1.0	they mother	ask	they
+1.0	you	buy	sword
+1.0	we	get	they free
+1.0	you	have put	they
+1.0	someone	might take	they
+1.0	mother	see	two huge sword
+1.0	mother	see	two heavy sword
+1.0	mother	go	little hut remain
+1.0	mother	see	two sword
+1.0	mother	see	two huge heavy sword lean
+1.0	mother	go	hut barely remain
+1.0	mother	go out	little hut barely remain
+1.0	little hut	barely remain	upright
+1.0	mother	go	little hut barely remain
+1.0	mother	go to	yard
+1.0	mother	see	two huge heavy sword
+1.0	little hut	remain	upright
+1.0	hut	barely remain	upright
+1.0	mother	see	two huge sword lean against wall
+1.0	hut	remain	upright
+1.0	mother	go	hut remain
+1.0	mother	go out	hut barely remain
+1.0	mother	see	two sword lean
+1.0	mother	see	two heavy sword lean
+1.0	mother	see	two huge heavy sword lean against wall
+1.0	mother	go out to	yard
+1.0	mother	go out	hut remain
+1.0	mother	see	two huge sword lean
+1.0	mother	see	two sword lean against wall
+1.0	mother	see	two heavy sword lean against wall
+1.0	mother	go out	little hut remain
+1.0	she	burst into	tear
+1.0	ivan	say	farewell to they mother
+1.0	ivan	say	farewell
+1.0	ivan	saddle	they steed
+1.0	ivan	pray to	God
+0.4375900537528432	say	farewell to	they mother
+1.0	two ivan	saddle	they good steed
+1.0	two ivan	say	farewell to they mother
+1.0	ivan	saddle	they good steed
+1.0	two ivan	saddle	they steed
+1.0	two ivan	say	farewell
+1.0	two ivan	pray to	God
+1.0	they	say for	we distant journey
+1.0	you	blessing	mother
+1.0	they	say for	we journey
+1.0	yourselve	see	people
+1.0	I	be	when force
+1.0	I	be force	fight
+1.0	we	have	motto
+1.0	I	be	force
+1.0	good youth	mount	they steed
+1.0	youth	mount	they steed
+0.926719177696969	distance	short time-for	spin
+1.0	they	have go	short distance
+1.0	they	have go	distance
+0.815544201200138	they	time-for	spin
+1.0	deed	be	do
+1.0	they	have go	long time
+0.470582313678367	they	come	they have go
+0.815544201200138	they	short time-for	spin
+1.0	they	have go	time
+0.926719177696969	distance	time-for	spin
+0.926719177696969	long distance	short time-for	spin
+1.0	tale	be	spin
+0.926719177696969	long distance	time-for	spin
+1.0	one post	bear	inscription
+1.0	post	bear	inscription
+1.0	post	bear	inscription
+1.0	other post	bear	inscription
+1.0	brother	read inscription on	post
+1.0	brother	read	inscription
+0.559697596867188	it	honor to	mighty strength
+1.0	both	take	right
+0.559697596867188	it	honor to	they mighty strength
+1.0	one	go to	left
+1.0	one brother	say to	other
+1.0	that	cause	my death
+1.0	I	will go to	left
+1.0	brother	say to	other
+1.0	God	will help	you
+1.0	God	perhaps will help	you
+1.0	you	will become	king
+1.0	he	set out in	search
+0.5355802722929589	blood	appear on	handkerchief
+1.0	brother	with	handkerchief
+1.0	he	set out in	search of dead
+1.0	death	befall	he brother
+1.0	daughter	be	Princess Nastasya
+1.0	soldier	have	son
+1.0	it	give	he daughter to wife
+1.0	it	give	he
+1.0	he	love	he
+1.0	it	give	he daughter
+1.0	king	see	Ivan
+1.0	Prince Ivan	order to	kingdom
+1.0	Prince Ivan	give	law
+1.0	Prince Ivan	amuse	himself
+1.0	Prince Ivan	feast	he eye
+1.0	phial	sew up in	saddle
+1.0	one	contain	healing water
+1.0	one	contain	other
+1.0	two phial	sew up in	saddle
+1.0	he	look at	phial
+1.0	he	put	they
+1.0	he	put back	they
+1.0	they	may	may need
+1.0	they	may	day may need
+1.0	he	arrive in	unknown kingdom
+1.0	he	arrive in	center of its capital
+1.0	road	day without	rest
+1.0	month	pass	third month
+1.0	month	pass	month
+1.0	he	arrive in	center
+1.0	he	arrive in	kingdom
+1.0	people	stagger	as sleep
+1.0	people	stagger	sleep
+1.0	people	stagger	about as sleep
+1.0	people	stagger	about sleep
+1.0	he	hire quarter at	poor woman 's house
+1.0	he	hire quarter at	woman 's house
+1.0	poor old woman	at	house
+1.0	he	hire	wretched quarter
+1.0	he	hire	quarter
+1.0	he	hire quarter at	poor old woman 's house
+1.0	he	hire quarter at	old woman 's house
+1.0	it	be turn of	king 's family
+1.0	it	be	turn
+1.0	twelve-headed dragon	come forth at_time	day
+1.0	it	be	now turn
+1.0	dragon	come at_time	day
+1.0	twelve-headed dragon	come at_time	day
+1.0	dragon	come forth at_time	day
+1.0	twelve-headed dragon	devour	man
+1.0	dragon	devour	man
+1.0	it	now be turn of	king 's family
+1.0	king	of	family
+1.0	oldest	have	just now have take
+1.0	oldest	have	just now have take to shore
+1.0	oldest	have	have take
+1.0	oldest	be devour by	dragon
+1.0	oldest	have	have take to shore
+1.0	oldest	have	now have take
+1.0	oldest	have	now have take to shore
+1.0	oldest	be	devour
+1.0	soldier	have	son
+1.0	Ivan	gallop to	blue sea
+0.4444363418878984	princess	bind by	iron chain
+0.4444363418878984	beautiful princess	bind by	iron chain
+1.0	Ivan	son 's	soldier
+1.0	Ivan	gallop to	sea
+1.0	she	see	knight
+1.0	she	say to	he
+1.0	dragon	will devour	you
+1.0	cruel dragon	will devour	you
+1.0	lovely maiden	on	knee
+1.0	it	be	rotten
+1.0	it	be	rope
+1.0	Ivan	seize chain with	he hand
+1.0	it	be	rotten rope
+1.0	Ivan	seize chain with	he mighty hand
+1.0	Ivan	seize	chain
+1.0	Ivan	tear	it
+1.0	he	lay	he head
+1.0	she	more watch	sea
+1.0	she	watch	sea
+1.0	dragon	emerge from	blue sea
+1.0	dragon	rear up in	air
+1.0	dragon	emerge from	sea
+1.0	he	mount	he steed
+1.0	this	be	my place
+0.13382134206666407	say	will	will easier for you
+0.13382134206666407	hasten	will	will easier
+1.0	hasten	will	will easier
+1.0	hasten	will	will easier for you
+0.13382134206666407	hasten	will	will easier for you
+0.13382134206666407	say	will	will easier
+0.48525861707490975	you	lie	dragon
+0.48525861707490975	you	lie	accursed dragon
+1.0	you	will choke on	I
+1.0	he	sleep for	three day
+1.0	he	lift	stone
+1.0	he	throw	trunk
+1.0	he	put head under	it
+1.0	he	return	home
+1.0	he	return home to	woman
+0.24511853840911302	he	return to	woman
+1.0	he	lay down	sleep
+1.0	he	cut off	twelve head of dragon
+1.0	he	put	head
+1.0	he	drink	he fill
+1.0	he	return home to	old woman
+0.24511853840911302	he	return to	old woman
+1.0	he	throw trunk into	sea
+1.0	he	take	swing
+1.0	king	meanwhile have call	he water carrier
+1.0	king	have call	he water carrier
+1.0	king	say to	he
+1.0	water carrier	go to	sea
+1.0	princess	be	alive
+1.0	water carrier	go to	blue sea
+1.0	he	drive into	forest
+1.0	he	put	she
+1.0	he	drive into	thick forest
+1.0	he	whet	he knife
+1.0	you	be go	do
+1.0	princess	ask	he
+1.0	my knife	slay	you
+1.0	I	whet	my knife
+1.0	princess	begin to	weep
+1.0	I	rescue	you
+1.0	I	will spare	you
+1.0	they	go to	palace
+1.0	king	make	water carrier colonel
+1.0	king	be	overjoyed
+1.0	he	say to	she
+1.0	he	give	she money
+1.0	woman	buy	various provision
+1.0	woman	buy	provision
+1.0	woman	go to	market
+1.0	old woman	listen to	people 's talk
+1.0	old woman	go to	market
+1.0	old woman	buy	provision
+1.0	woman	listen to	people 's talk
+1.0	people	to	talk
+1.0	old woman	buy	various provision
+1.0	iron arrow	fall in	middle
+1.0	iron arrow	fly through	window
+1.0	iron arrow	fall in	middle of chamber
+1.0	king	at	palace
+1.0	I	scatter	its ash
+1.0	they	take maiden to	gray stone
+1.0	they	take	maiden
+1.0	they	take maiden to	sea
+1.0	they	take maiden to	stone
+1.0	they	take maiden to	blue sea
+1.0	they	take	poor maiden
+1.0	Ivan straightway	gallop to	seashore
+1.0	Ivan straightway	saddle	he steed
+1.0	Ivan straightway	saddle	he good steed
+1.0	Ivan straightway	mount	he
+1.0	princess	say to	he
+1.0	my turn	have come	die
+1.0	God	may save	you
+1.0	dragon	threaten	he
+1.0	dragon	breathe	flame
+1.0	cruel dragon	breathe	flame
+1.0	cruel dragon	threaten	he
+1.0	he	lay down	sleep for three day
+1.0	champion	cut off	all of he twelve head
+1.0	he	again lay down	sleep for three day
+1.0	he	again lay down	sleep
+1.0	champion	cut off	all he twelve head
+1.0	he	throw	trunk
+1.0	he	lay down	sleep
+1.0	champion	cut off	all twelve head
+1.0	he	put	head
+1.0	he	drink	he fill
+1.0	champion	cut off	all of twelve head
+1.0	he	put head under	stone
+1.0	he	throw trunk into	sea
+1.0	princess	be	alive
+1.0	water carrier	put	she
+1.0	water carrier	drive to	forest
+1.0	water carrier	drive to	thick forest
+1.0	princess	ask	he
+1.0	you	whet	you knife
+1.0	I	slay	you
+1.0	he	say	I be go
+1.0	I	ask	you
+1.0	I	will spare	you
+1.0	you	tell	he
+1.0	you	tell	you father
+1.0	he	bring	she
+1.0	king	make	water carrier general
+1.0	king	be	overjoyed
+1.0	Ivan	awake on	day
+1.0	Ivan	awake on	fourth day
+1.0	Ivan	tell	old woman
+1.0	old woman	go to	market
+1.0	Ivan	tell	woman
+1.0	woman	go to	market
+1.0	he	be	devour
+1.0	third princess	be send	he
+1.0	princess	be send	he
+1.0	he	send	letter
+1.0	he	send	king
+1.0	he	send	letter demand
+1.0	Ivan	gallop to	blue sea
+1.0	Ivan	saddle	he good steed
+1.0	Ivan	saddle	he steed
+1.0	Ivan	mount	he
+1.0	Ivan	gallop to	sea
+1.0	champion	shake	it
+1.0	it	be	rotten
+1.0	it	be	rope
+1.0	it	be	rotten rope
+1.0	lovely maiden	on	knee
+1.0	champion	break	it
+1.0	do much pick	be in	my hair
+1.0	he	lay	he head
+1.0	princess	pick in	he hair
+1.0	princess	begin	pick
+1.0	princess	begin	pick in he hair
+1.0	wind	begin to	roar
+1.0	dragon	rear up	himself
+1.0	she	nudge	he
+1.0	princess	rouse	Ivan
+1.0	tear	drop on	he cheek
+1.0	she	burst into	tear
+1.0	burn tear	drop on	he cheek
+1.0	he	run to	he steed
+1.0	dragon	breathe	flame
+1.0	twelve-headed dragon	breathe	flame
+1.0	twelve-headed dragon	fly toward	they
+1.0	dragon	fly toward	they
+1.0	I	will devour down	you
+1.0	I	will devour	you
+0.48525861707490975	you	lie	dragon
+0.48525861707490975	you	lie	accursed dragon
+1.0	Ivan	answer	he
+1.0	you	will choke on	I
+1.0	they	instantly be lock in	combat Ivan
+1.0	they	be lock in	combat Ivan
+1.0	they	be	instantly lock
+1.0	lock	swing so fast and mightily	he sword
+1.0	lock	swing so fast	he sword
+1.0	they	be	lock
+1.0	they	be lock in	mortal combat Ivan
+1.0	lock	swing fast	he sword
+1.0	lock	swing fast and mightily	he sword
+1.0	lock	swing	he sword
+1.0	they	instantly be lock in	mortal combat Ivan
+1.0	he	beg	princess
+1.0	you precious kerchief	give	it
+1.0	you kerchief	give	it
+1.0	he	lay down	sleep for three day
+1.0	he	lay down	sleep
+1.0	he	fall at	dragon
+1.0	he	cut off	twelve head of monster
+1.0	he	drink	he fill
+1.0	he	throw	trunk
+1.0	he	fall to	hacking
+1.0	he	put	they
+1.0	he	throw trunk into	sea
+1.0	king	again send water carrier to	seashore
+1.0	king	again send	water carrier
+1.0	king	send water carrier to	seashore
+1.0	king	send	water carrier
+1.0	water carrier	take princess to	thick forest
+1.0	water carrier	draw out	he knife
+1.0	water carrier	take princess to	forest
+1.0	water carrier	take	princess
+1.0	my knife	slay	you
+1.0	I	whet	my knife
+1.0	he	terrify	lovely maiden
+1.0	he	terrify	maiden
+1.0	he	see	she
+1.0	he	see	she alive
+1.0	he	be	even more overjoyed
+1.0	he	be	even overjoyed
+1.0	he	be	more overjoyed
+1.0	he	be even more overjoyed than	before
+1.0	he	be	overjoyed
+1.0	he	be more overjoyed than	before
+1.0	he	reward	water carrier
+1.0	he	be overjoyed than	before
+1.0	he	be even overjoyed than	before
+1.0	rumor	go through	whole kingdom
+1.0	rumor	go through	kingdom
+0.5084261723455384	king	preparation for	wedding
+1.0	king	make	preparation
+1.0	king	make	preparation for wedding
+1.0	feast	divert	themselves
+1.0	feast	be in	swing
+1.0	feast	be in	full swing
+1.0	youngest princess	bring	he
+1.0	princess	recognize	she kerchief
+1.0	princess	recognize	she precious kerchief
+1.0	youngest princess	recognize	she kerchief
+1.0	youngest princess	see	Ivan
+1.0	princess	take	he
+1.0	youngest princess	recognize	she precious kerchief
+1.0	princess	see	Ivan
+1.0	princess	bring	he
+1.0	youngest princess	take	he
+1.0	soldier	have	son
+1.0	king	be	furious
+1.0	king	order	hang
+1.0	king	order	hang on spot
+1.0	king	marry princess to	Ivan
+1.0	king	marry	soldier 's son
+1.0	king	marry	princess
+1.0	young people	begin	live
+1.0	people	begin	live happily
+1.0	people	begin	live
+1.0	young people	begin	live together
+1.0	young people	begin	live together happily
+1.0	young people	begin	live happily
+1.0	people	begin	live together
+1.0	people	begin	live together happily
+1.0	he	go hunting at_time	one day
+1.0	he	come upon	stag
+1.0	he	come upon	fleet-footed stag
+1.0	he	go	hunting
+0.5624514432690371	he	go at_time	one day
+1.0	he	pursue	stag
+1.0	he	come to	meadow
+1.0	he	come to	broad meadow
+1.0	he	see	little stream flow in meadow
+1.0	he	see	stream flow
+1.0	he	see	stream flow in meadow
+1.0	he	swim on	water two duck
+1.0	he	swim on	water two gray duck
+1.0	he	see	little stream flow
+1.0	he	see	little stream
+1.0	he	see	stream
+1.0	he	kill	pair of duck
+0.5249172882554555	kill	pair of	duck
+1.0	he	fire	it
+1.0	he	kill	pair
+1.0	he	drag	they
+1.0	he	go on	farther
+1.0	he	put	they
+1.0	he	see	white stone palace
+1.0	he	go into	chamber
+1.0	he	see	stone palace
+1.0	he	tie	it
+1.0	they	be	empty
+1.0	they	be	all empty
+1.0	table	be	set
+1.0	fire	be in	one room
+1.0	duck	be	when roasted
+0.6912004410765137	Prince Ivan	put	they
+1.0	Prince Ivan	shove	pan
+1.0	he	put	they
+1.0	Prince Ivan	shove pan into	oven
+1.0	duck	be	roasted
+1.0	I	be	afraid
+1.0	you	have	horse
+1.0	you	have	magic horse
+1.0	I	have come on	ordinary horse
+1.0	I	have come on	horse
+1.0	she	open	she jaw
+1.0	she	swallow	prince whole
+1.0	whole handkerchief	be drench with	blood
+1.0	handkerchief	be	drench
+1.0	Ivan champion	lo	drench
+1.0	Ivan champion	recall	he brother
+1.0	handkerchief	be drench with	blood
+1.0	Ivan champion	lo	drench with blood
+1.0	whole handkerchief	be	drench
+1.0	he	have meet	he death
+1.0	he	go on	he mighty steed
+1.0	he	take	leave of he wife
+1.0	he	take	leave
+1.0	he	go on	he steed
+1.0	he	come for	time
+1.0	he	have journey	short distance
+1.0	he	have journey	distance
+0.020589187890003968	he	come	he have journey
+1.0	he	have journey	distance
+1.0	he	have journey	long distance
+1.0	he	come for	long time
+1.0	he	make	inquiry
+1.0	prince	go	hunting
+1.0	prince	vanish without	trace
+1.0	Ivan champion	go hunting in	same forest
+1.0	he	see	stag
+1.0	Ivan champion	go hunting in	forest
+0.5624514432690371	Ivan champion	go in	same forest
+1.0	Ivan champion	start in	pursuit of it
+0.5624514432690371	Ivan champion	go in	forest
+1.0	Ivan champion	go	hunting
+1.0	he	too see	fleet-footed stag
+1.0	Ivan champion	start in	pursuit
+1.0	he	too see	stag
+1.0	he	see	fleet-footed stag
+1.0	he	see	stream flow
+1.0	he	see	little stream flow through meadow
+1.0	he	see	little stream flow through meadow swim on water
+1.0	he	see	little stream flow
+1.0	he	see	little stream
+1.0	he	see	stream flow through meadow swim
+1.0	he	see	stream flow through meadow
+1.0	he	see	little stream flow through meadow swim
+1.0	he	see	stream
+1.0	he	see	stream flow through meadow swim on water
+1.0	Ivan champion	shoot	duck
+1.0	Ivan champion	come to	white stone palace
+1.0	Ivan champion	enter	chamber
+1.0	Ivan champion	come to	stone palace
+1.0	it	be	empty
+1.0	fire	be in	one room
+1.0	pan	stand on	hearth
+1.0	fire	be in	stove
+1.0	it	be	empty everywhere
+1.0	he	roasted	duck
+1.0	he	carve	they
+1.0	he	sit in	yard
+1.0	he	take out	they
+1.0	he	sit there in	yard
+1.0	lovely maiden	appear before	he
+1.0	maiden	appear before	he
+1.0	maiden	suddenly appear before	he
+1.0	lovely maiden	suddenly appear before	he
+1.0	I	be afraid of	you magic horse
+1.0	I	be	afraid
+1.0	I	be afraid of	you horse
+1.0	I	have come on	ordinary horse
+1.0	I	have come on	horse
+1.0	he magic steed	come	run
+1.0	he magic steed	take	hold
+1.0	he steed	come	run
+1.0	he steed	take hold with	he mighty leg
+1.0	she	become	lioness
+1.0	he magic steed	take hold with	he mighty leg
+1.0	he steed	take	hold
+1.0	he magic steed	take	hold of she
+1.0	he steed	take hold with	he leg
+1.0	he magic steed	take hold with	he leg
+1.0	he steed	take	hold of she
+1.0	she	become	terrible lioness
+1.0	Ivan champion	bare	he sharp sword
+1.0	Ivan champion	bare	he sword
+1.0	he sharp sword	wait	accursed one
+1.0	he sword	wait	accursed one
+1.0	Ivan champion	cry in	loud voice
+1.0	Ivan champion	cry in	voice
+1.0	you	swallow	Prince Ivan
+1.0	my	brother	Prince Ivan
+1.0	you	swallow	my brother
+1.0	I	shall cut	you
+1.0	he	begin to	rot
+1.0	he	be	dead
+1.0	he	sprinkle	he
+1.0	he	sprinkle	he brother
+1.0	he	take	he sword
+1.0	she	turn into	maiden
+1.0	tear	beg for	mercy
+1.0	she	turn into	exquisite maiden
+1.0	Ivan champion	look on	she indescribable beauty
+1.0	Ivan champion	take	pity
+1.0	she	go	free
+1.0	Ivan champion	look on	she beauty
+1.0	Ivan champion	take pity on	she
+1.0	brother	go to	palace
+1.0	brother	feast for	three day
+1.0	Prince Ivan	remain in	he kingdom
+1.0	champion	join	he wife
+1.0	Prince Ivan	ivan	champion go
+1.0	walk	be in	open field
+1.0	boy	turn into	lion
+1.0	boy	tear champion into	little bit
+1.0	good youth	draw	coin
+1.0	youth	draw	golden coin
+1.0	youth	give	it
+1.0	good youth	draw coin from	he pocket
+1.0	youth	draw coin from	he pocket
+1.0	youth	draw	coin
+1.0	boy	take	alms
+1.0	boy	tear champion into	bit
+1.0	good youth	draw	golden coin
+1.0	good youth	give	it
+1.0	boy	tear	champion
+1.0	he	go	walk
+1.0	he	go	walk in he garden
+1.0	he	walk in	he garden
+1.0	prince	give	gold piece
+1.0	prince	give	he
+1.0	man	turn into	lion
+1.0	Prince Ivan	tear	he
+1.0	man	take	coin
+1.0	old man	turn into	lion
+1.0	old man	take	coin
+1.0	two mighty champion	son 's	soldier
+1.0	soldier	have	son
