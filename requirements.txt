@@ -1,6 +1,6 @@
 #note that cudatoolkit 11.6 requires conda-forge to also be installed
 #when creating a new environment you can run the below:
-#conda create -n char_ext python=3.8 pytorch torchvision torchaudio numpy pandas scipy scikit-image matplotlib ipykernel cudatoolkit=11.6 -c pytorch -c conda-forge absl-py
+#conda create -n char_ext python=3.8 pytorch torchvision torchaudio numpy pandas scipy scikit-learn scikit-image matplotlib ipykernel cudatoolkit=11.6 -c pytorch -c conda-forge absl-py
 
 pytorch = 1.12.0
 numpy = 1.23.0
@@ -10,6 +10,7 @@ cudatoolkit=11.6
 pandas = 1.4.2
 ipykernel = 6.9.1 #for jypter notebooks
 spacy
+sklearn
 
 #the below needs to pip install
 allennlp-models
