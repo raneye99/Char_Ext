@@ -26,7 +26,8 @@ def semantic_subj(storypath):
     f.close()
 
     #remove newlines
-    new = doc.replace('\n', ' ').replace("\'", '"')
+    # new = doc.replace('\n', ' ').replace("\'", '"')
+    new = doc.replace('\n', ' ')
     # print(new)
 
     #split doc into sentences using spacy 
@@ -84,7 +85,7 @@ def ner_person(storypath):
     f.close()
 
     #remove newlines
-    new = doc.replace('\n', ' ').replace("\'", '"')
+    new = doc.replace('\n', ' ')
     # print(new)
 
     #split doc into sentences using spacy 
@@ -138,7 +139,7 @@ def dep_link(storypath):
     f.close()
 
     #remove newlines
-    new = doc.replace('\n', ' ').replace("\'", '"')
+    new = doc.replace('\n', ' ')
     # print(new)
 
     #split doc into sentences using spacy 
@@ -188,7 +189,7 @@ def triple(storypath):
     f.close()
 
     #remove newlines
-    new = doc.replace('\n', ' ').replace("\'", '"')
+    new = doc.replace('\n', ' ')
     # print(new)
 
     #split doc into sentences using spacy 
