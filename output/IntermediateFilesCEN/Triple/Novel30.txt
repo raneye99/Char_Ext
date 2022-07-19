@@ -1,0 +1,914 @@
+1.0	Corona	retire into	country
+1.0	Giovanni	choose	retire into country
+1.0	they wedding-trip	be in	Switzerland
+1.0	Giovanni	choose	travel to France
+1.0	Giovanni	choose	retire
+1.0	Corona	retire for	they honeymoon
+1.0	Corona	end	they wedding-trip
+1.0	Corona	choose	retire into country
+1.0	Corona	choose	travel
+1.0	Giovanni	choose	retire for they honeymoon
+1.0	Corona	travel to	France
+1.0	Corona	choose	travel to France
+1.0	Giovanni	choose	retire into country for they honeymoon
+1.0	Giovanni	choose	travel
+1.0	Corona	choose	retire for they honeymoon
+1.0	Corona	end	they wedding-trip in Switzerland
+1.0	Corona	choose	retire
+1.0	Corona	choose	retire into country for they honeymoon
+1.0	hill	be cold at	early season
+1.0	hill	be so very cold at	early season
+1.0	hill	be so cold at	early season
+1.0	hill	be cold at	season
+1.0	hill	be	so cold
+1.0	hill	be so cold at	season
+1.0	hill	be	very cold
+1.0	hill	be	so very cold
+1.0	hill	be so very cold at	season
+1.0	hill	be very cold at	season
+1.0	hill	be	cold
+1.0	hill	be very cold at	early season
+1.0	people	indemnify	herself
+1.0	Corona	mix at	once
+1.0	Corona	mix at	once with world
+1.0	those	belong	remnant of last generation
+1.0	those	belong	still flourish remnant of generation
+0.36017140764587197	those	belong to	class
+1.0	those	belong remnant to	patriarchal class
+1.0	it	use	call
+0.36017140764587197	those	belong to	old class
+1.0	people	of class be	drive
+1.0	moral	pride	themselves
+1.0	those	belong	still flourish remnant
+1.0	those	belong	flourish remnant of generation
+0.36017140764587197	those	belong to	old patriarchal class
+1.0	good moral	pride	themselves
+1.0	those	belong remnant to	old patriarchal class
+1.0	ascetic living	pride	themselves
+1.0	those	belong	remnant
+1.0	those	belong remnant to	class
+1.0	those	belong remnant to	old class
+1.0	those	belong	still flourish remnant of last generation
+1.0	wife	have	meat twice a-day
+1.0	it	be stipulate	except on fast day
+0.36017140764587197	those	belong to	patriarchal class
+1.0	those	belong	remnant of generation
+1.0	people	be in	whose marriage-contract
+1.0	it	be	call
+1.0	wife	have	meat
+1.0	those	belong	flourish remnant
+1.0	living	pride	themselves
+1.0	it	except on	fast day
+1.0	wife	have	meat a-day
+1.0	those	belong	flourish remnant of last generation
+1.0	clause	be	even in we time often introduce in first half of century
+1.0	most	be	when dead
+1.0	clause	be	even in we time often introduce in half of century
+1.0	clause	be	even in we time introduce in first half of century
+1.0	clause	be introduce in	half
+1.0	clause	be	in we time often introduce in half
+1.0	clause	be	often introduce
+1.0	clause	be often introduce in	we time
+1.0	most	be	dead
+1.0	clause	be often introduce in	half of century
+1.0	clause	be	in we time introduce in half of century
+1.0	clause	be	even in we time introduce in first half
+1.0	clause	be	in we time introduce in first half of century
+1.0	clause	be introduce in	we time
+1.0	clause	be	in we time often introduce in half of century
+1.0	clause	be	even in we time often introduce in half
+1.0	clause	be often introduce in	half
+1.0	they	be	universal
+1.0	clause	be often introduce in	even we time
+1.0	clause	be often introduce in	first half
+1.0	clause	be introduce in	first half
+1.0	clause	be	even in we time introduce in half
+1.0	clause	be often introduce in	first half of century
+1.0	clause	be	in we time introduce in first half
+1.0	clause	be	even in we time often introduce in first half
+1.0	clause	be	in we time often introduce in first half of century
+1.0	clause	be	even in we time introduce in half of century
+1.0	clause	be	introduce
+1.0	clause	be	in we time often introduce in first half
+1.0	clause	be introduce in	half of century
+1.0	clause	be	in we time introduce in half
+1.0	clause	be introduce in	first half of century
+1.0	clause	be introduce in	even we time
+1.0	generation	be	old
+1.0	generation	be	fine
+1.0	they	want	leave
+1.0	they	be	leave alone
+1.0	they	want	leave alone
+1.0	they	be	leave
+1.0	they	get	they wish
+1.0	change	be in	castle
+1.0	sunny room	be fit up with	more refined luxury
+1.0	small sunny room	be fit up with	luxury
+1.0	sunny room	be fit up with	luxury
+1.0	room	be fit up with	refined luxury
+1.0	small sunny room	be fit up with	more refined luxury
+1.0	sunny room	be fit up in	style suit to antiquity of fortress
+1.0	sunny room	be fit up in	style
+1.0	small sunny room	be fit up in	style suit to antiquity
+1.0	sunny room	be fit up in	style suit to antiquity
+1.0	small room	be fit up in	style suit
+1.0	small room	be fit up with	more refined luxury
+1.0	hall	be	have decorate
+1.0	small room	be fit up with	refined luxury
+1.0	small room	be fit up in	style suit to antiquity
+1.0	room	be fit up with	more refined luxury
+1.0	small room	be fit up in	style suit to antiquity of fortress
+1.0	small sunny room	be fit up in	style suit to antiquity of fortress
+1.0	small sunny room	be fit up in	style suit
+1.0	small sunny room	be fit up with	refined luxury
+1.0	small room	be fit up in	style
+1.0	room	be fit up in	style suit to antiquity of fortress
+1.0	vast hall	be	have decorate
+1.0	room	be fit up in	style suit to antiquity
+1.0	small room	be fit up with	luxury
+1.0	room	be fit up with	luxury
+1.0	sunny room	be fit up in	style suit
+1.0	sunny room	be fit up with	refined luxury
+1.0	small sunny room	be fit up in	style
+1.0	room	be fit up in	style suit
+1.0	room	be fit up in	style
+0.9159830623220028	fountain	now play in	court
+1.0	aqueduct fountain	now play in	court
+1.0	aqueduct	have	have complete
+1.0	aqueduct fountain	play in	court
+0.9159830623220028	fountain	play in	court
+1.0	aqueduct	have	have complete successfully
+1.0	fireplace log	burn upon	fire-dog hall
+1.0	fireplace log	shed ruddy glow upon	trophy old armour
+1.0	old-fashioned fireplace log	shed ruddy glow upon	trophy
+1.0	old-fashioned fireplace log	shed glow upon	trophy armour
+1.0	fireplace log	shed glow upon	trophy
+1.0	old-fashioned fireplace log	shed ruddy glow upon	trophy armour
+1.0	fireplace log	burn upon	huge fire-dog hall
+1.0	fireplace log	shed ruddy glow upon	trophy
+1.0	old-fashioned fireplace log	shed	ruddy glow
+1.0	fireplace	have	have put
+1.0	old-fashioned fireplace log	shed glow upon	trophy
+1.0	old-fashioned fireplace log	shed ruddy glow upon	trophy old armour
+1.0	fireplace log	shed	ruddy glow
+1.0	old-fashioned fireplace log	shed glow upon	trophy old armour
+1.0	fireplace log	shed glow upon	trophy old armour
+1.0	old-fashioned fireplace log	burn upon	huge fire-dog
+1.0	old-fashioned fireplace log	burn upon	huge fire-dog hall
+1.0	old-fashioned fireplace log	burn upon	fire-dog hall
+1.0	old-fashioned fireplace log	burn upon	fire-dog
+1.0	fireplace log	shed glow upon	trophy armour
+1.0	fireplace log	burn upon	fire-dog
+1.0	fireplace log	shed ruddy glow upon	trophy armour
+1.0	fireplace log	shed	glow
+1.0	old-fashioned fireplace log	shed	glow
+1.0	fireplace log	burn upon	huge fire-dog
+1.0	huge fire-dog	be in	hall
+1.0	quantity	be	now hang
+1.0	quantity	be	hang upon stair in corridor
+1.0	quantity	be hang upon	stair
+1.0	quantity	be	hang
+1.0	quantity	be	now hang upon stair in corridor
+1.0	quantity	be hang in	corridor
+1.0	quantity	be now hang in	corridor
+1.0	quantity	be now hang upon	stair
+1.0	same bearing	appear in	window of staircase
+1.0	bearing	appear in	window of grand staircase
+1.0	same bearing	appear in	window of grand staircase
+1.0	armorial bearing	appear in	window of grand staircase
+1.0	bearing	appear in	window of staircase
+1.0	bearing	appear in	rich stain glass
+1.0	armorial bearing	appear in	window of staircase
+1.0	same armorial bearing	appear in	glass
+1.0	bearing	appear in	window
+1.0	bearing	appear in	glass
+1.0	bearing	appear in	rich glass
+1.0	same armorial bearing	appear in	stain glass
+1.0	same armorial bearing	appear in	window of grand staircase
+1.0	armorial bearing	appear in	glass
+1.0	same armorial bearing	appear in	window
+1.0	same bearing	appear in	glass
+1.0	same armorial bearing	appear in	window of staircase
+1.0	same bearing	appear in	rich glass
+1.0	same bearing	appear in	rich stain glass
+1.0	armorial bearing	appear in	rich stain glass
+1.0	same armorial bearing	appear in	rich glass
+1.0	bearing	appear in	stain glass
+1.0	same armorial bearing	appear in	rich stain glass
+1.0	_ baldacchino _	be	drape
+1.0	same bearing	appear in	stain glass
+1.0	armorial bearing	appear in	rich glass
+1.0	same bearing	appear in	window
+1.0	armorial bearing	appear in	window
+1.0	armorial bearing	appear in	stain glass
+1.0	strength	grow	even more impose under decoration of age
+1.0	strength	grow	more impose
+1.0	strength	grow	more impose under decoration of age
+1.0	rare strength	grow	more impose
+1.0	strength	grow	impose under decoration
+1.0	strength	grow	even more impose under decoration of later age
+1.0	justice	be do to	splendour
+1.0	strength	seem	grow
+1.0	solidity	seem	grow
+1.0	justice	be do to	splendour of he ancestral home
+1.0	rare strength	grow	more impose under decoration
+1.0	rare strength	grow	more impose under decoration of age
+1.0	strength	grow	even more impose
+1.0	strength	grow	even more impose under decoration
+1.0	rare strength	seem	grow
+1.0	rare strength	grow	even more impose under decoration
+1.0	strength	grow	more impose under decoration
+1.0	rare strength	grow	more impose under decoration of later age
+1.0	justice	be	do
+1.0	justice	be do to	splendour of he home
+1.0	rare strength	grow	even more impose under decoration of later age
+1.0	rare strength	grow	even more impose under decoration of age
+1.0	rare strength	grow	impose
+1.0	strength	grow	more impose under decoration of later age
+1.0	rare strength	grow	impose under decoration
+1.0	strength	grow	impose
+1.0	rare strength	grow	impose under decoration of later age
+1.0	strength	grow	impose under decoration of later age
+1.0	strength	grow	impose under decoration of age
+1.0	rare strength	grow	impose under decoration of age
+1.0	rare strength	grow	even more impose
+1.0	two	ride	they come
+1.0	Corona	have catch	sight
+1.0	Corona	have first catch	sight of Saracinesca
+1.0	two	mount	they horse
+1.0	Corona	have first catch	sight
+1.0	two	ride along	level stretch
+1.0	two	ride	they come to turn
+1.0	Corona	have catch	sight of Saracinesca
+1.0	two	ride along	level stretch towards Aquaviva
+1.0	they	come to	turn
+0.7459440095693178	Corona	sight of	Saracinesca
+1.0	construction	be so far advance	gentle grade wind backwards
+1.0	mile	be	serviceable
+1.0	construction	be so far advance	gentle grade
+1.0	construction	be far advance	gentle grade wind
+1.0	construction	be advance	gentle grade wind backwards
+1.0	construction	be advance	gentle grade wind
+1.0	construction	be far advance	grade wind
+1.0	construction	be far advance	grade
+1.0	construction	be far advance	grade wind backwards
+1.0	two mile	be	already serviceable
+1.0	construction	be advance	grade wind backwards
+1.0	construction	be so far advance	grade wind
+1.0	construction	be so far advance	grade wind backwards
+1.0	mile	be	already serviceable
+1.0	construction	be advance	gentle grade
+1.0	it	descend below to	valley
+1.0	two mile	be	serviceable
+1.0	it	descend to	valley
+1.0	construction	be so far advance	grade
+1.0	construction	be advance	grade
+1.0	construction	be advance	grade wind
+1.0	construction	be far advance	gentle grade wind backwards
+1.0	construction	be far advance	gentle grade
+1.0	construction	be so far advance	gentle grade wind
+1.0	they carriage	should roll from	Saracinesca
+1.0	they carriage	make	vast detour
+1.0	they carriage	should roll for	time
+1.0	they carriage	should roll to	Astrardente
+1.0	they carriage	should roll for	first time
+1.0	they carriage	make	detour
+1.0	it	skirt	mountain
+1.0	they	work together for	good
+1.0	they	unite	they village
+1.0	they	so unite	they village
+1.0	pleasure	watch	growth of work
+1.0	they	work for	good
+1.0	pleasure	watch	growth
+1.0	they	have	long contemplate
+1.0	they	so long contemplate	speculate on advantage
+1.0	they	contemplate	speculate on advantage
+1.0	they	so unite	they respective village
+1.0	they	long contemplate	speculate
+1.0	they	work at	last one
+1.0	they	have	so long contemplate
+1.0	they	so long contemplate	speculate
+1.0	they	work together for	good of they people
+1.0	they	unite	they respective village
+1.0	they	have	contemplate
+1.0	they	work together at	last one
+1.0	they	work for	good of they people
+1.0	they	long contemplate	speculate on advantage
+1.0	they	contemplate	speculate
+1.0	they	use	watch for come as anxiously
+1.0	they	watch for	come of gran principessa _ anxiously
+1.0	they	watch for	come of gran principessa _ as anxiously
+1.0	they	watch for	come anxiously
+1.0	they	use	watch for come of gran principessa _ as anxiously
+1.0	they	watch for	come as anxiously
+1.0	they	use	watch for come of gran principessa _
+1.0	they	use	watch for come of gran principessa _ anxiously
+1.0	they	watch for	come
+1.0	they	use	watch for come
+1.0	they	use	watch for come anxiously
+1.0	they	watch for	come of gran principessa _
+1.0	they	use	watch
+1.0	wife	would bring	man
+1.0	they	carry away	they food
+1.0	he	now have arrive with	detachment
+1.0	he	however have arrive with	small detachment of half-a-dozen man
+1.0	he	now have arrive with	small detachment of half-a-dozen man
+1.0	he	have arrive with	detachment of half-a-dozen man
+1.0	he	now however have arrive with	detachment of half-a-dozen man
+1.0	he	now however have arrive with	small detachment of half-a-dozen man
+1.0	he	have arrive with	small detachment
+1.0	he	however have arrive with	detachment
+1.0	he	have arrive with	small detachment of half-a-dozen man
+1.0	he	now have arrive with	detachment of half-a-dozen man
+1.0	he	however have arrive with	detachment of half-a-dozen man
+1.0	he	have arrive with	detachment
+1.0	he	now however have arrive with	small detachment
+1.0	he	now have arrive with	small detachment
+1.0	he	now however have arrive with	detachment
+1.0	he	however have arrive with	small detachment
+1.0	he	be	send
+1.0	country	be	around think
+1.0	extraordinary	be near	frontier
+1.0	country	around be think	particularly liable to disturbance
+1.0	country	be think	liable to disturbance
+1.0	country	be think	liable
+1.0	country	around be think	liable to disturbance
+1.0	country	around be think	liable
+1.0	country	be	think
+1.0	he	be send in	direction
+1.0	country	be think	particularly liable
+1.0	extraordinary	be near	very frontier
+1.0	country	around be think	particularly liable
+1.0	country	be think	particularly liable to disturbance
+1.0	great deal	carry on through	pass
+1.0	deal	carry on through	pass
+1.0	Gouache	be	receive very well
+1.0	Gouache	be	receive well
+1.0	Gouache	be receive by	Giovanni
+1.0	Gouache	be receive very well by	Giovanni
+1.0	Gouache	be receive well by	Giovanni
+1.0	Gouache	be	receive
+0.6033147929245538	notice	stripe on	young man 's sleeve
+0.8889567457102894	Giovanni	notice	stripe
+0.6033147929245538	notice	stripe on	man 's sleeve
+0.8889567457102894	Giovanni	notice	stripe on man 's sleeve
+1.0	young man	on	sleeve
+0.8889567457102894	Giovanni	notice	stripe on young man 's sleeve
+1.0	I	hold	important command of six man
+1.0	I	hold	important command
+1.0	I	hold	command of six man
+1.0	I	hold	command
+1.0	I	study	strategy of cond
+1.0	I	spend	time
+1.0	I	study	strategy
+1.0	I	spend	much time
+1.0	I	be here on	mission
+1.0	I	be here on	by bye mission
+1.0	I	be on	very important mission
+1.0	I	be on	important mission
+1.0	I	be	important
+1.0	I	be here on	important mission
+1.0	I	be here on	by bye very important mission
+1.0	I	be on	by bye mission
+1.0	I	be on	mission
+1.0	I	be on	by bye important mission
+1.0	I	be here on	by bye important mission
+1.0	I	be here on	very important mission
+1.0	I	be on	by bye very important mission
+1.0	Cardinal	attempt at_time	day
+1.0	you	have hear	that
+1.0	Cardinal	attempt before	yesterday
+1.0	Cardinal	arrest	we friend Del Ferice
+1.0	they tone	be	different
+1.0	Giovanni	be	disgust
+1.0	Giovanni	be disgust at	idea
+1.0	Giovanni	have anticipate	news
+1.0	Corona	be	surprise
+1.0	Corona	be	merely surprise
+1.0	I	be	he try
+1.0	I	be here	he try
+1.0	he	try	get to Serra di Sant ' Antonio
+1.0	I	cut off	he
+1.0	he	get to	Serra di Sant ' Antonio
+1.0	he	try	get
+1.0	he	may do	anything
+1.0	he	be	fellow
+1.0	he	be	slippery fellow
+1.0	he	be	slippery
+1.0	Gouache	tell	all
+1.0	he	know of	circumstance
+1.0	we	go after	pause
+1.0	we	go after	then pause
+1.0	we	visit	we road
+1.0	my husband	will give	you
+1.0	my husband	will give	horse
+1.0	Gouache	be	charm
+1.0	Corona	at	face
+1.0	patrolling hill	be in	search of Del Ferice
+1.0	three	ride along	level stretch
+1.0	three	ride along	level stretch towards work
+1.0	three	be mount in	minute
+1.0	three	ride slowly along	level stretch
+1.0	three	ride slowly along	level stretch towards work
+1.0	three	be	mount
+1.0	three	be mount in	few minute
+1.0	Corona	unconsciously fall as	usual
+1.0	new road Giovanni	unconsciously fall as	usual
+1.0	Corona	fall as	usual
+1.0	road Giovanni	unconsciously fall into	conversation
+1.0	new road Giovanni	unconsciously fall into	conversation
+1.0	Corona	fall into	conversation
+1.0	road Giovanni	fall as	usual
+1.0	road Giovanni	unconsciously fall as	usual
+1.0	road Giovanni	fall into	conversation
+1.0	Corona	unconsciously fall into	conversation
+1.0	new road Giovanni	fall into	conversation
+1.0	new road Giovanni	fall as	usual
+1.0	pair	admire	they
+1.0	he eye	rest with	pleasure on rider
+1.0	he	have	perfect appointment
+1.0	he eye	rest with	unmitigated pleasure
+1.0	he	have	appointment
+1.0	he eye	rest with	unmitigated pleasure on rider
+1.0	Parisian	have	love
+1.0	artist	have	love of beauty
+1.0	he eye	rest with	pleasure
+1.0	he	see	range on range of hill rise
+0.6384290737259057	he	range on	range of purple hill rise
+1.0	he attention	look down	valley
+0.6384290737259057	he	range on	range of purple hill
+1.0	he attention	be	attract
+1.0	he	see	range on range of hill rise in deep perspective
+1.0	he	see	range on range of purple hill rise
+1.0	he	see	range on range of hill
+0.6384290737259057	he	range on	range
+1.0	he	see	range on range of purple hill rise in perspective
+0.6384290737259057	he	range on	range of hill rise
+1.0	he attention	be attract at	turn
+1.0	he attention	look down	valley towards Astrardente
+1.0	he attention	be attract at	turn of grade
+0.6384290737259057	he	range on	range of hill rise in perspective
+1.0	ruddy	be in	lower sun
+1.0	he	see	range on range
+1.0	he	see	range on range of purple hill
+1.0	he	see	range on range of hill rise in perspective
+0.6384290737259057	he	range on	range of hill rise in deep perspective
+0.6384290737259057	he	range on	range of hill
+1.0	he	see	range
+0.6384290737259057	he	range on	range of purple hill rise in perspective
+1.0	he	see	range on range of purple hill rise in deep perspective
+0.6384290737259057	he	range on	range of purple hill rise in deep perspective
+1.0	he	sit	drinking in loveliness
+1.0	he	sit	drinking before he
+1.0	he	sit	motionless
+1.0	drinking	be in	loveliness
+1.0	he	stop	he horse
+1.0	he	sit	drinking in loveliness before he
+1.0	he	sit	drinking
+0.2933093781273988	accident	accident in	nature
+1.0	accident	make accident in	life
+1.0	accident	make	accident
+1.0	accident	be in	nature
+1.0	accident	make accident in	life of man
+1.0	Corona	talking of	work
+1.0	they	turn	curve of grade Corona
+1.0	Gouache	of	motionless figure
+1.0	they	again turn	curve of grade Corona
+1.0	they	again turn	curve
+1.0	they	turn	curve
+1.0	Giovanni	look straight before	he
+1.0	Giovanni	look before	he
+1.0	toiling	be with	downcast eye
+1.0	Gouache	study	geography
+1.0	he	seize	he wife 's arm
+1.0	wife	have	arm
+1.0	they	ride slowly by	side
+1.0	they	ride by	side
+1.0	she	be close to	he
+1.0	they	ride slowly along	side
+1.0	they	ride along	side
+1.0	Corona	be	Del Ferice
+1.0	it	be	Del Ferice
+1.0	Corona	look at	monk
+1.0	Corona	look quickly at	monk
+1.0	he cowl	show	he feature
+1.0	Del Ferice	have recognise	they
+1.0	Del Ferice	have recognise too	they
+1.0	he	have misunderstand	peasant
+1.0	he	have take	turn from main road below
+1.0	he	have take	wrong turn from main road below
+1.0	he	have take	turn from main road
+1.0	he	have take	wrong turn from road
+1.0	he	have take	turn from road below
+1.0	he	have take	turn from road
+1.0	he	have take	wrong turn from main road
+1.0	he	have take	wrong turn
+1.0	he	have take	wrong turn from road below
+1.0	he	have take	turn
+1.0	Gouache	descend	road
+1.0	Gouache	slowly descend	road
+1.0	he	take	he chance
+1.0	he	look	so miserable
+1.0	he	look	miserable
+1.0	she	be pale with	excitement
+1.0	she	be	pale
+0.510653896585187	it	be	cold
+0.510653896585187	it	be cold in	valley
+1.0	I	will save	he
+1.0	he	go back with	you
+1.0	he	go with	you
+1.0	you	wish	it
+1.0	Corona	wheel	she horse
+1.0	Corona	canter up again	hill
+1.0	Corona	canter up	hill
+1.0	monk	be at	Giovanni 's saddle-bow
+1.0	monk	be at	now almost Giovanni 's saddle-bow
+1.0	monk	have continue	he walk
+1.0	monk	be at	now Giovanni 's saddle-bow
+1.0	monk	be at	almost Giovanni 's saddle-bow
+1.0	monk	have continue	he slow walk
+1.0	latter	stare hard at	feature under cowl
+1.0	latter	draw	rein
+1.0	latter	stare hard at	pale feature under cowl
+1.0	latter	stare at	feature under cowl
+1.0	latter	stare hard at	feature
+1.0	latter	stare at	feature
+1.0	latter	stare at	pale feature
+1.0	latter	stare at	pale feature under cowl
+1.0	latter	stare hard at	pale feature
+0.49456666372803193	you	go on	you
+1.0	he	exclaim	monk attempt
+1.0	Giovanni	seize	he arm
+1.0	Giovanni	hold tightly	he
+1.0	Giovanni	hold	he
+1.0	I	harm	you
+1.0	you	have	pity
+1.0	God	bless	she
+1.0	saint	bless	she
+1.0	God	render	she kindness
+1.0	you	ever have	chance
+1.0	you	have	chance
+0.660552009784399	I	round	hill
+0.660552009784399	I	round hill with	you
+1.0	you	get	you can
+1.0	you	get	best you can
+1.0	you	get over	Serra
+1.0	you	must sleep at	Trevi
+1.0	he	run	he arm
+1.0	enemy	by	side
+0.005153942488911989	he	run through	bridle of he horse
+1.0	he	walk by	he enemy 's side
+0.005153942488911989	he	run through	bridle
+1.0	I	be	so tired
+1.0	I	be	tired
+1.0	wolf	make	meal of you
+1.0	wolf	make meal for	all I care
+0.698764840265759	wolf	meal of	you
+1.0	wolf	make meal for	I care
+1.0	wolf	make	meal
+1.0	I	give	you
+1.0	you	will stop	whining
+1.0	you	behave like	man
+1.0	I	will send	you
+1.0	I	will send safely	you
+1.0	I	give	my word
+1.0	fellow	have	neck
+1.0	Giovanni	be	brutal
+1.0	he	give up	he
+1.0	he	wring	fellow 's neck
+1.0	Giovanni	be brutal for	once
+1.0	tone	remind	he
+1.0	Ugo	of	voice
+1.0	wrath	promise much	he wife
+1.0	wrath	promise	he wife
+1.0	he wife	save	wretch
+1.0	he wrath	promise much	he wife
+1.0	he wrath	promise	he wife
+1.0	they	reach	work
+1.0	Del Ferice	remember in	he life
+1.0	hour	of quarter be	longest quarter
+1.0	it	be	quarter
+1.0	it	be quarter of	hour
+1.0	quarter	quarter of	hour
+1.0	Del Ferice	remember in	he whole life
+1.0	neither	speak	word
+1.0	Giovanni	hail	fellow
+1.0	Giovanni	hail	sturdy-looking fellow
+1.0	monk	have lose	he way
+1.0	good monk	have lose	he way
+1.0	you	show	road to Trevi
+1.0	you	show	road
+1.0	you	must take above	Ponza
+1.0	he	round	mountain
+1.0	you	show	he
+1.0	you	must take above	Ponza to Arcinazzo
+1.0	it	be	long
+1.0	Carluccio	start up with	alacrity
+1.0	he	prefer	roam
+1.0	he	prefer	roam about hill
+1.0	he	greatly prefer	roam
+1.0	he	roam about	hill
+1.0	he	be pay for	it
+1.0	he	greatly prefer	roam about hill
+1.0	he	be	pay
+1.0	he	set	he hat
+1.0	he	throw	it
+1.0	he	set	he battered hat
+1.0	he	set jauntily	he hat
+1.0	he	set jauntily	he battered hat
+1.0	he	pick up	he jacket
+1.0	he	pick up	he torn jacket
+1.0	it	be	off walk
+1.0	it	off be walk to	Trevi
+1.0	it	be walk to	Trevi
+1.0	it	off be good walk to	Trevi
+1.0	it	be	walk
+1.0	it	be good walk to	Trevi
+1.0	it	be	good walk
+1.0	it	be	off good walk
+1.0	it	be	good
+1.0	he	even have wish	speak
+1.0	he	be	able
+1.0	he	have wish	speak
+1.0	he	be	scarcely able
+1.0	he	control	he voice
+1.0	Giovanni	cut short	situation
+1.0	Giovanni	cut	situation
+1.0	Giovanni	cut situation short	turn
+1.0	Giovanni	cut situation short	turn on he heel
+1.0	Giovanni	turn on	he heel
+1.0	Giovanni	cut situation	turn
+1.0	Giovanni	cut situation	turn on he heel
+0.25758348955089394	he	be canter up to	considerable astonishment
+1.0	he	be canter up road again to	considerable astonishment
+0.25758348955089394	he	be canter up to	astonishment of labourer
+1.0	he	be canter up road to	astonishment
+0.25758348955089394	he	later be canter up again to	considerable astonishment
+0.25758348955089394	he	later be canter up to	considerable astonishment of labourer
+1.0	he	later be canter up road again to	considerable astonishment
+1.0	he	later be canter up road to	astonishment
+1.0	he	later be canter up road again to	astonishment of labourer
+1.0	he	be canter up road again to	astonishment
+1.0	he	later be canter up road to	astonishment of labourer
+0.25758348955089394	he	later be canter up to	astonishment
+0.25758348955089394	he	be canter up to	astonishment
+1.0	he	later be canter up road to	considerable astonishment
+1.0	he	be canter up road again to	astonishment of labourer
+1.0	he	later be canter up road again to	considerable astonishment of labourer
+0.25758348955089394	he	later be canter up again to	astonishment
+1.0	he	spend at_time	half hour
+1.0	he	later be canter up road again to	astonishment
+1.0	he	be canter up road to	considerable astonishment
+1.0	he	be canter up road again to	considerable astonishment of labourer
+0.25758348955089394	he	later be canter up to	astonishment of labourer
+1.0	he	be canter up	road
+0.25758348955089394	he	be canter up again to	astonishment
+1.0	he	be canter up road to	considerable astonishment of labourer
+0.25758348955089394	he	later be canter up again to	considerable astonishment of labourer
+0.25758348955089394	he	be canter up again to	considerable astonishment of labourer
+1.0	he	be canter up road to	astonishment of labourer
+1.0	he	spend	examine
+1.0	he	later be canter up again	road
+1.0	he	later be canter up road to	considerable astonishment of labourer
+0.25758348955089394	he	be canter up again to	considerable astonishment
+1.0	he	spend at_time	at least half hour
+0.25758348955089394	he	later be canter up to	considerable astonishment
+0.25758348955089394	he	later be canter up again to	astonishment of labourer
+0.25758348955089394	he	be canter up again to	astonishment of labourer
+0.25758348955089394	he	be canter up to	considerable astonishment of labourer
+1.0	he	later be canter up	road
+1.0	he	be canter up again	road
+1.0	he	have spend	quarter of hour
+1.0	he	have spend	horrible quarter
+1.0	he	have spend quarter between	he desire see
+1.0	he	have spend	horrible quarter of hour
+1.0	he	have spend	quarter
+1.0	he	feel	little sure of himself
+1.0	he	should	should tempt
+1.0	fugitive	deliver up	he
+1.0	he	feel	sure of himself
+1.0	he	feel	sure
+1.0	he	send	man
+1.0	he	send	second man
+1.0	fugitive	deliver	he
+1.0	he	feel	so little sure
+1.0	he	feel	so little sure of himself
+1.0	he	feel	little sure
+1.0	he heart	be full of	bitter curse
+1.0	he heart	be	full
+1.0	he heart	be full of	curse
+1.0	he	grind	he tooth
+1.0	he	grind together	he tooth
+1.0	he	ride up	hill
+1.0	wittingly	help	traitor escape
+1.0	he	have in	eye
+1.0	he	have in	eye of law
+1.0	he	destroy	Del Ferice
+1.0	he	have follow	he impulse
+0.7817303935652509	he	deal of	trouble
+1.0	he	give up	he
+0.7817303935652509	he	vast deal of	trouble
+1.0	he	regret bitterly	very much Shakespeare 's murderer complain to he companion
+1.0	he	regret	very much Shakespeare 's murderer complain
+1.0	impulse	arise from	deep-rooted desire for revenge
+1.0	impulse	really arise from	deep-rooted desire
+1.0	Shakespeare 's murderer	complain to	he companion
+1.0	he	regret	much Shakespeare 's murderer complain to he companion
+1.0	impulse	arise from	desire for revenge
+1.0	he	regret bitterly	much Shakespeare 's murderer complain
+1.0	he	regret bitterly	much Shakespeare 's murderer complain to he companion
+1.0	impulse	arise from	deep-rooted desire
+1.0	impulse	really arise from	desire
+1.0	he	regret	much Shakespeare 's murderer complain
+1.0	impulse	really arise from	deep-rooted desire for revenge
+1.0	impulse	arise from	desire
+1.0	Shakespeare 's murderer	very much complain to	he companion
+1.0	he	regret bitterly	Shakespeare 's murderer complain
+1.0	he	regret	Shakespeare 's murderer complain to he companion
+1.0	he	regret	very much Shakespeare 's murderer complain to he companion
+1.0	he	regret	Shakespeare 's murderer complain
+1.0	Shakespeare	have	murderer
+1.0	he	regret bitterly	very much Shakespeare 's murderer complain
+1.0	impulse	really arise from	desire for revenge
+1.0	he	regret bitterly	Shakespeare 's murderer complain to he companion
+1.0	Shakespeare 's murderer	much complain to	he companion
+1.0	Giovanni	please	he wife
+1.0	Giovanni	spare	he enemy
+1.0	Giovanni	spare solely	he enemy
+1.0	Gouache	have halt	wait
+1.0	Gouache	have halt at	top
+1.0	Corona	have halt at	top
+1.0	Corona	have halt	wait
+1.0	Gouache	wait for	he
+1.0	Corona	have halt at	top of road
+1.0	Gouache	have halt at	top of road
+1.0	Corona	have halt	wait for he
+1.0	Gouache	have halt	wait for he
+1.0	Giovanni	inform	he wife
+1.0	Del Ferice	be	safe
+0.47318217566553156	my wife	find	it chilly in valley
+0.784859565554356	it	chilly in	valley
+0.47318217566553156	my wife	find	it
+0.47318217566553156	my wife	find	it chilly
+1.0	anything	be	wrong
+1.0	Giovanni	at	pale face
+1.0	Anastase	look curiously at	Giovanni 's face
+1.0	Anastase	look at	Giovanni 's pale face
+1.0	Anastase	look curiously at	Giovanni 's pale face
+1.0	Anastase	look at	Giovanni 's face
+1.0	Corona	seem	agitate
+1.0	Corona	seem	strangely agitate
+1.0	mountain air	be	with he gentle smile cold
+1.0	mountain air	be still cold with	he gentle smile
+1.0	mountain air	be cold with	he gentle smile
+1.0	answer Gouache	be cold with	he smile
+1.0	mountain air	be cold with	he smile
+1.0	mountain air	be	with he smile cold
+1.0	Gouache	be	still cold
+1.0	mountain air	be still cold with	he smile
+1.0	answer Gouache	be still cold with	he smile
+1.0	mountain air	be	cold
+1.0	answer Gouache	be cold with	he gentle smile
+1.0	answer Gouache	be	cold
+1.0	Gouache	be still cold with	he smile
+1.0	mountain air	be	still cold
+1.0	answer Gouache	be	still cold
+1.0	mountain air	be	with he gentle smile still cold
+1.0	mountain air	be	with he smile still cold
+1.0	Gouache	be cold with	he gentle smile
+1.0	Gouache	be still cold with	he gentle smile
+1.0	Gouache	be cold with	he smile
+1.0	Gouache	be	cold
+1.0	answer Gouache	be still cold with	he gentle smile
+1.0	Corona	gaze into	he eye
+1.0	Corona	gaze long into	he eye
+1.0	Corona	gaze into	he angry eye
+1.0	Corona	gaze long into	he angry eye
+1.0	Giovanni	upon	shoulder
+1.0	Corona	lay	she hand
+1.0	she	throw	she arm
+1.0	he neck	draw	he
+1.0	I	be	all think
+1.0	you	be	think
+1.0	I	be	think
+1.0	you	be	all think
+1.0	she	kiss	he
+1.0	old Saracinesca	arrive without	warning
+1.0	Saracinesca	arrive without	warning
+1.0	old Saracinesca	be	greet
+1.0	old Saracinesca	be	warmly greet
+1.0	Saracinesca	be	warmly greet
+1.0	Saracinesca	be	greet
+1.0	dinner Giovanni	tell	he
+1.0	Del Ferice	of	escape
+1.0	dinner Giovanni	tell	story
+1.0	dinner Giovanni	tell	story of Del Ferice 's escape
+1.0	Giovanni	be	marry
+1.0	Giovanni	be	happily marry
+1.0	Del Ferice	be	safe across frontier among he friend in Naples
+1.0	Del Ferice	be safe among	he friend
+1.0	Donna Tullia	be wait in	year
+1.0	Donna Tullia	be wait in	last day of Lent
+1.0	Donna Tullia	be wait for	news of he
+1.0	Donna Tullia	be wait in	day
+1.0	Donna Tullia	be wait in	day of Lent
+1.0	Donna Tullia	be wait still for	news of he
+1.0	Donna Tullia	be wait still in	day
+1.0	Del Ferice	be	safe
+1.0	Donna Tullia	be wait still for	news
+1.0	Donna Tullia	be wait still in	last day
+1.0	Donna Tullia	be wait for	news
+1.0	Donna Tullia	be wait still in	day of Lent
+1.0	Del Ferice	be safe across	frontier
+1.0	Del Ferice	be	safe across frontier among he friend
+1.0	Donna Tullia	be wait in	last day
+1.0	Donna Tullia	be wait still in	last day of Lent
+1.0	Del Ferice	be safe among	he friend in Naples
+1.0	he friend	be in	Naples
+1.0	Donna Tullia	be wait still in	year
+1.0	carry	enter upon	series
+1.0	carry	enter upon	series more interesting than those
+1.0	carry	enter upon	series interesting than those herein detail
+1.0	carry	enter upon	new series interesting
+1.0	carry	enter upon	series interesting than those detail
+1.0	carry	enter upon	new series
+1.0	carry	enter upon	new series more interesting perhaps than those
+1.0	carry	enter upon	new series interesting perhaps than those
+1.0	carry	enter upon	series more interesting than those herein detail
+1.0	carry	enter upon	new series more interesting perhaps than those herein detail
+1.0	carry	enter upon	series interesting perhaps
+1.0	carry	enter upon	new series interesting than those
+1.0	carry	enter upon	new series more interesting
+1.0	carry	enter upon	series interesting perhaps than those
+1.0	carry	enter upon	new series more interesting perhaps
+1.0	carry	enter upon	new series interesting than those detail
+1.0	carry	enter upon	new series more interesting than those detail
+1.0	carry	enter upon	new series more interesting than those
+1.0	carry	enter upon	new series interesting perhaps than those detail
+1.0	carry	enter upon	series interesting than those
+1.0	carry	enter upon	series interesting
+1.0	carry	enter upon	series interesting perhaps than those herein detail
+1.0	carry	enter upon	series more interesting perhaps than those herein detail
+1.0	carry	enter upon	series more interesting perhaps
+1.0	carry	enter upon	series more interesting perhaps than those detail
+1.0	carry	enter upon	new series more interesting perhaps than those detail
+1.0	carry	enter upon	series more interesting
+1.0	carry	enter upon	new series more interesting than those herein detail
+1.0	carry	enter upon	series more interesting perhaps than those
+1.0	carry	enter upon	new series interesting perhaps
+1.0	carry	enter upon	new series interesting than those herein detail
+1.0	of importance	be in	history of Saracinesca family
+1.0	carry	enter upon	new series interesting perhaps than those herein detail
+1.0	carry	enter upon	series interesting perhaps than those detail
+1.0	carry	enter upon	series more interesting than those detail
+1.0	he	comprehend	story
+1.0	I	be	content
+1.0	I	have far acquaint	reader
+1.0	I	have acquaint reader with	character
+1.0	he	comprehend	story of they life
+1.0	he	comprehend	story of they subsequent life
+1.0	I	have so far acquaint	reader
+1.0	I	have far acquaint reader with	character
+1.0	I	enable	he
+1.0	I	have far acquaint reader in	foregoing page
+1.0	I	have so far acquaint reader in	page
+1.0	I	have acquaint reader in	page
+1.0	I	have far acquaint reader in	page
+1.0	I	regard	they
+1.0	I	have acquaint reader in	foregoing page
+1.0	I	have so far acquaint reader with	character
+1.0	I	have acquaint	reader
+1.0	I	have so far acquaint reader in	foregoing page
+1.0	indulgence	be in	matter political
+1.0	I	ask for	indulgence in matter
+1.0	I	especially ask for	indulgence in matter
+1.0	I	especially ask for	indulgence in matter political
+1.0	I	ask for	indulgence
+1.0	I	especially ask for	indulgence
+1.0	I	ask for	indulgence in matter political
+1.0	piece	be with	artillery of poetic justice
+1.0	I	do	nothing
+1.0	I	carefully construct	villain
+1.0	I	do	nothing of kind
+1.0	I	construct	villain
+0.5517023860548909	I	nothing of	kind
+1.0	liberal	be wait in	1866
+1.0	honest liberal	be wait in	1866
+1.0	they	do	it
+1.0	they	do from	they country
+1.0	they	do boldly	it
+1.0	they	do from	they own country
+1.0	more affinity	be with	Massimo D'Azeglio
+1.0	Cavour	with	great enemy Giuseppe Mazzini
+1.0	honourable	appear in	sequel to veracious tale
+1.0	honourable	sufficiently appear in	sequel
+1.0	man	appear in	sequel to tale
+1.0	man	sufficiently appear in	sequel to tale
+1.0	honourable	sufficiently appear in	sequel to veracious tale
+1.0	honourable	appear in	sequel
+1.0	man	appear in	sequel
+1.0	man	sufficiently appear in	sequel
+1.0	honourable	appear in	sequel to tale
+1.0	man	appear in	sequel to veracious tale
+1.0	honourable	sufficiently appear in	sequel to tale
+1.0	man	sufficiently appear in	sequel to veracious tale

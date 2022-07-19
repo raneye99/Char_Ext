@@ -1,0 +1,754 @@
+1.0	I	be	dead
+1.0	I	be	dead man
+1.0	I	be	man
+1.0	they	will tell	you
+1.0	prime	make	eye of mine keen
+1.0	prime	make	eye
+1.0	I	feel	blood
+1.0	prime	invigorate	I
+1.0	well-knit form	proud of	bearing
+1.0	form	proud of	bearing
+1.0	prime	make	eye of keen
+1.0	I	be alive	declare
+1.0	distinguish mark	save	one
+1.0	few distinguish mark	save	one
+1.0	I	declare	dead
+1.0	sorrow	have leave	few distinguish mark
+1.0	I	be	alive
+1.0	sorrow	have leave	distinguish mark
+1.0	my hair	be white	thick
+1.0	its clustering curl	be	thick
+1.0	my	hair	once ebony-black
+1.0	its clustering curl	be thick as	ever
+1.0	my hair	be white as	wreath
+1.0	my hair	be white as	wreath of snow
+1.0	my hair	be white as	wreath of alpine snow
+1.0	my hair	be	white
+1.0	I	answer	none
+1.0	I	answer	none of they
+1.0	I	meet by	chance
+1.0	I	tell	my story
+1.0	he	hint at	possibility of madness
+1.0	he	hint at	possibility
+1.0	he	hear	I
+1.0	I	can dip pen in	my own blood
+1.0	I	can dip pen	I choose
+1.0	I	can dip pen in	my blood
+1.0	I	can dip	pen
+1.0	none	shall gainsay	I
+1.0	man	of	civilization
+1.0	I	dwell within	charmed circle
+1.0	I	dwell here within	circle of rest
+1.0	I	dwell within	circle
+1.0	I	dwell within	charmed circle of rest
+1.0	I	dwell here within	charmed circle of rest
+1.0	I	dwell here within	charmed circle
+1.0	I	lift up	my overburdened heart
+1.0	I	dwell here within	circle
+1.0	I	lift up	my heart
+1.0	I	dwell within	circle of rest
+1.0	world	shall know	my history
+1.0	you	seek	rid of you relation for certainty
+1.0	you	seek	rid of you dead relation for certainty
+1.0	you	seek	rid of you dead relation
+1.0	you	should have	you seek
+1.0	you	seek	rid of you relation
+1.0	you	seek	rid
+1.0	Cremation	be	way
+1.0	Cremation	be	best way
+1.0	it	be	clean
+1.0	there	be	why should prejudice against it
+1.0	there	be	should prejudice against it
+1.0	it	be	better
+1.0	it	be	surely better
+1.0	creature	be with	blind eye
+1.0	its vault	be in	ground
+1.0	we	have wear	garb
+1.0	we	have lower	narrow strong box
+1.0	we	have wear	garb of woe
+1.0	we	have lower	box
+0.8305221455085162	we	garb of	woe
+1.0	we	have lower	strong box
+1.0	we	have lower	narrow box
+1.0	we	have wear	seemly garb
+1.0	we	have wear	seemly garb of woe
+1.0	reasonable precaution	insure	safety
+0.8305221455085162	we	seemly garb of	woe
+1.0	we	especially have benefit by	goods
+1.0	we	especially have benefit by	worldly goods
+1.0	we	have benefit by	goods
+1.0	we	have benefit by	worldly goods
+0.8186092348392863	few	be	sorry
+1.0	we	be	self-deceiving hypocrite
+0.8186092348392863	few	be	really sorry
+1.0	we	be	hypocrite
+0.8186092348392863	few	be really sorry for	dead
+0.8186092348392863	few	be sorry for	dead
+1.0	I	be about	event
+1.0	year	be compress	agony
+1.0	year	be compress	agony of life-time
+1.0	Fabio Romani	be about	event of one year
+1.0	year	be in	which
+1.0	I	be about	event of one year
+1.0	I	be about	event of one short year
+1.0	Fabio Romani	be about	event
+0.8086607525695988	year	agony of	long life-time
+1.0	Fabio Romani	be about	event of one short year
+1.0	year	be compress	agony of long life-time
+0.8086607525695988	year	agony of	life-time
+1.0	my heart	be	taint
+1.0	I	be	bear
+1.0	I	be bear	rich
+1.0	my father	die	lad
+1.0	my father	leave	I
+1.0	my father	die	then lad of seventeen
+1.0	my father	die	lad of seventeen
+1.0	my	father	Count Filippo Romani
+1.0	lad	heir to	he enormous possession
+1.0	my father	die	then lad
+1.0	my father	die	heir
+0.4582831049909908	they	be	estimable person
+0.4582831049909908	they	be	person too
+0.4582831049909908	they	be	estimable person too
+0.4582831049909908	they	be	person
+1.0	they	be	connect
+1.0	I	be	for time object of they fear
+1.0	I	be	for time object of they maliciously pious fear
+1.0	I	be object of	they fear
+1.0	they	be	respectably connect
+1.0	I	be	object
+1.0	I	be	for time object of they pious fear
+1.0	I	be object for	time
+0.7815328423763584	they word	carry	weight
+1.0	I	be object of	they pious fear
+1.0	I	be object of	they maliciously pious fear
+1.0	I	be destine	roue of most abandoned character
+1.0	I	be destine	incurable roue of most abandoned character
+1.0	I	be destine	roue
+1.0	I	be destine	incurable roue of character
+1.0	I	be destine	roue of abandoned character
+1.0	I	be destine	gambler
+1.0	I	be destine	incurable roue
+1.0	I	be destine	spendthrift
+1.0	I	be destine	roue of character
+1.0	I	be destine accord to	they calculation
+1.0	I	be	gambler
+1.0	I	be	destine
+1.0	I	be destine	incurable roue of abandoned character
+1.0	gambler	roue of	most abandoned character
+1.0	I	be destine	drunkard
+1.0	I	become	none of thing
+1.0	I	yet become	none
+1.0	I	become	none
+1.0	I	yet become	none of thing
+1.0	I	none of	thing
+1.0	I	have	innate scorn for contemptible vice of unthinking vulgar
+0.8433813503094892	I	innate scorn for	contemptible vice of vulgar
+0.8433813503094892	I	scorn for	vice of vulgar
+1.0	I	have	innate scorn
+0.8433813503094892	I	scorn for	contemptible vice of unthinking vulgar
+1.0	I	have	scorn
+1.0	I	have	innate scorn for vice of vulgar
+1.0	I	have	innate scorn for contemptible vice of vulgar
+0.8433813503094892	I	innate scorn for	contemptible vice of unthinking vulgar
+0.8433813503094892	I	innate scorn for	vice of unthinking vulgar
+1.0	I	have	scorn for vice
+1.0	I	have	innate scorn for contemptible vice
+1.0	I	have	scorn for contemptible vice of vulgar
+0.8433813503094892	I	innate scorn for	vice of vulgar
+0.8433813503094892	I	scorn for	contemptible vice
+0.8433813503094892	I	scorn for	vice
+1.0	Neapolitan	be with	fiery passion
+1.0	I	have	scorn for contemptible vice
+1.0	I	have	scorn for vice of vulgar
+1.0	I	have	scorn for contemptible vice of unthinking vulgar
+1.0	I	have	scorn for vice of unthinking vulgar
+1.0	I	have	innate scorn for vice
+0.8433813503094892	I	scorn for	vice of unthinking vulgar
+0.8433813503094892	I	innate scorn for	vice
+1.0	I	have	innate scorn for vice of unthinking vulgar
+0.8433813503094892	I	innate scorn for	contemptible vice
+0.8433813503094892	I	scorn for	contemptible vice of vulgar
+1.0	drink	destroyer of	health
+1.0	gambling	seem extravagance to	I
+1.0	gambling	seem	folly
+1.0	gambling	seem	extravagance
+0.48337193769480685	licentious extravagance	outrage on	poor
+0.48337193769480685	extravagance	outrage on	poor
+1.0	gambling	seem	delirious folly
+1.0	gambling	seem	licentious extravagance
+0.9724821574742569	drink	destroyer of	health
+1.0	gambling	seem folly to	I
+1.0	home-like peace	be with	gayety of sympathetic social intercourse
+1.0	I	choose	my way
+0.959669377723617	overlook	bay of	Naples
+1.0	I	dwell in	my father 's villa
+1.0	father	in	villa
+1.0	my pleasure-grounds	be	fringe
+1.0	my pleasure-grounds	be fringe with	fragrant grove of orange
+1.0	my pleasure-grounds	be fringe with	grove of orange
+1.0	my pleasure-grounds	be fringe with	grove
+1.0	my pleasure-grounds	be fringe with	fragrant grove
+1.0	Sparkling fountain	fall in	huge stone basin carve with many quaint design
+1.0	they murmurous splash	refresh	burning silence of summer air
+1.0	they splash	refresh	burning silence of hottest summer air
+1.0	they cool murmurous splash	refresh	burning silence of hottest summer air
+1.0	Sparkling fountain	fall in	stone basin carve with many quaint design
+1.0	they murmurous splash	refresh	burning silence of hottest summer air
+1.0	they murmurous splash	refresh	burning silence
+1.0	they cool murmurous splash	refresh	burning silence of summer air
+1.0	they cool murmurous splash	refresh	burning silence
+1.0	they cool splash	refresh	burning silence of summer air
+1.0	they cool splash	refresh	burning silence of hottest summer air
+1.0	Sparkling fountain	fall in	stone basin
+1.0	they splash	refresh	burning silence of summer air
+1.0	they splash	refresh	burning silence
+1.0	Sparkling fountain	fall in	huge stone basin
+1.0	Sparkling fountain	fall in	huge stone basin carve with quaint design
+1.0	they cool splash	refresh	burning silence
+1.0	Sparkling fountain	fall in	stone basin carve with quaint design
+1.0	taste	be like	my own
+0.23894290573990895	I	live at	peace
+1.0	I	visit frequently by	friend
+1.0	I	visit by	friend
+0.23894290573990895	I	live in	retreat
+0.23894290573990895	I	live for	year
+0.23894290573990895	I	live for	happy year
+1.0	taste	be like	more my own
+1.0	I	see nothing of	woman
+1.0	I	see	little
+1.0	I	see	nothing
+1.0	I	instinctively avoid	they
+1.0	I	avoid	they
+0.5247443063039406	marriageable daughter	invite i frequently to	they house
+0.5247443063039406	marriageable daughter	invite i to	they house
+0.5247443063039406	daughter	invite	I
+0.5247443063039406	marriageable daughter	invite	I
+0.5247443063039406	daughter	invite i to	they house
+0.5247443063039406	daughter	invite frequently	I
+0.5247443063039406	marriageable daughter	invite frequently	I
+0.5247443063039406	daughter	invite i frequently to	they house
+1.0	parent	be with	marriageable daughter invite frequently to they house
+1.0	I	believe	warning
+1.0	my best book	warn	I
+1.0	my book	warn	I
+1.0	I	have	friend
+1.0	I	trust in	friendship
+1.0	I	bring down upon	myself
+1.0	he	join occasionally in	good natured mockery
+1.0	I	bring down by	my dislike
+1.0	he	join occasionally in	natured mockery
+1.0	he	also join in	good mockery
+1.0	he	join occasionally in	good mockery
+1.0	he	also join in	good natured mockery
+1.0	he	join occasionally with	other
+1.0	he	also join with	other
+1.0	he	join with	other
+1.0	he	also join occasionally in	good natured mockery
+1.0	he	also join in	natured mockery
+1.0	he	join in	natured mockery
+1.0	he	join in	mockery
+1.0	he	join occasionally in	mockery
+1.0	he	also join in	mockery
+1.0	he	also join occasionally in	natured mockery
+1.0	he	join in	good mockery
+1.0	he	also join occasionally with	other
+1.0	he	also join occasionally in	mockery
+1.0	he	join in	good natured mockery
+1.0	I	bring down by	my dislike of woman
+1.0	he	also join occasionally in	good mockery
+1.0	I	bring down by	my shrink dislike of woman
+1.0	I	bring down by	my shrink dislike
+1.0	thou	hast gaze into	fathomless glory
+1.0	thou	round	waist
+1.0	thou	round	coy waist
+1.0	thou	hear beating against	thine own
+1.0	thou	hast	gaze deep down
+1.0	thou	hast gaze down into	glory
+1.0	thou	hast gaze down into	glory of maiden 's eye
+1.0	thou	hast gaze deep down into	fathomless glory
+1.0	thou	hear	beating of passionate heart
+1.0	thou	hast gaze into	glory
+1.0	thou	hast gaze into	fathomless glory of maiden 's eye
+1.0	thou	hear	beating of heart
+1.0	thou	hast gaze down into	fathomless glory of maiden 's eye
+0.7781872158396891	thou	riddle of	star
+1.0	thou	hast gaze deep down into	glory
+1.0	thou	hast gaze deep down into	fathomless glory of maiden 's eye
+1.0	thou	hast gaze into	glory of maiden 's eye
+1.0	thou	hear	beating
+1.0	thou	hast gaze deep down into	glory of maiden 's eye
+1.0	thou	hast	gaze
+1.0	thou	hast	gaze down
+1.0	maiden	of	eye
+1.0	thou	hast gaze down into	fathomless glory
+1.0	they blood	be	water
+1.0	my friend	answer	nothing
+1.0	he argument	convince	I
+1.0	I	love	hear
+1.0	he voice	be mellow as	note
+0.5125055035807072	eloquence	greater than	speech
+1.0	he eye	have	eloquence
+1.0	he eye	have	eloquence greater than speech
+1.0	he voice	be mellow as	note of thrush
+1.0	he voice	be	mellow
+1.0	I	love	he
+1.0	I	be happy	he indeed appear
+1.0	I	be happy	he appear
+1.0	I	be	happy
+1.0	he	indeed appear	mine
+1.0	I	be happy in	he society
+1.0	he	be in	mine
+1.0	he	appear	mine
+1.0	we	pass	most
+1.0	we	pass together	most
+1.0	he	choose art as	profession
+1.0	he	choose	art
+1.0	various way	be with	due forethought
+1.0	I	remedy neglect in	various way
+1.0	I	wound	he pride
+1.0	I	remedy	neglect of fortune
+1.0	I	remedy neglect in	various way with due forethought
+1.0	I	remedy neglect in	various way with forethought
+1.0	I	remedy neglect in	way with due forethought
+1.0	I	remedy neglect in	way
+1.0	I	remedy neglect for	he
+1.0	I	remedy neglect in	way with forethought
+1.0	I	remedy	neglect
+1.0	he	possess	strong attraction for I
+0.6492243927570271	he	strong attraction for	I
+1.0	he	possess	attraction for I
+1.0	we	share	same sympathy
+1.0	we	have	much same taste
+1.0	we	have	much taste
+1.0	we	share sympathy in	short
+0.6492243927570271	he	attraction for	I
+1.0	I	desire	nothing better
+0.5315555910334894	nothing	better than	he confidence
+1.0	he	possess	attraction
+1.0	I	desire	nothing better than he confidence
+1.0	we	share	sympathy
+1.0	I	desire	nothing
+1.0	we	have	same taste
+1.0	he	possess	strong attraction
+1.0	we	have	taste
+1.0	association	long chain of be	asunder
+1.0	long chain	peace	we deem
+1.0	chain	be	asunder
+1.0	association	long chain of be	broken asunder
+1.0	chain	peace	we deem
+1.0	old association	chain of be	broken asunder
+1.0	association	chain of be	broken asunder
+1.0	we	deem	deep
+1.0	long chain	be	asunder
+1.0	we	deem	so deep
+1.0	we	deem	so deep in finally interrupted
+1.0	chain	be	broken asunder
+1.0	association	chain of be	asunder
+1.0	long chain	be	broken asunder
+1.0	we	deem	deep in interrupted
+1.0	we	deem	so deep in interrupted
+1.0	old association	chain of be	asunder
+1.0	old association	long chain of be	asunder
+1.0	we	deem	deep in finally interrupted
+1.0	old association	long chain of be	broken asunder
+1.0	change	come surely to	I
+1.0	change	come as surely to	I
+1.0	change	come to	I
+1.0	I	be in	Naples
+1.0	I	have pass	afternoon
+1.0	I	have pass	idly sailing
+1.0	I	have pass sailing in	my yacht
+1.0	I	have pass	sailing over bay
+1.0	I	have pass	sailing
+1.0	I	avail	myself
+1.0	I	have pass	idly sailing over bay
+1.0	I	have pass afternoon in	my yacht
+1.0	my light craft	run into	harbor
+1.0	Guido	have	absence
+0.6032674432865298	he	have go to	Rome
+1.0	I	find	myself
+0.6032674432865298	he	have go on	visit of week ' duration
+1.0	my craft	run into	harbor
+0.6032674432865298	he	have go on	visit
+0.9894289228660189	I	be	amuse
+0.9894289228660189	I	be	easily amuse
+1.0	I	care	little
+1.0	I	care	little for such entertainment
+1.0	they	could offer	I
+1.0	I	care	little for entertainment
+1.0	I	stroll	consider
+1.0	I	hear	sound
+1.0	I	perceive glimmer in	distance
+1.0	I	hear sound	I stroll along
+1.0	I	stroll along	consider
+1.0	I	return to	my dwelling on height
+1.0	I	perceive	glimmer
+1.0	I	return to	my own dwelling
+1.0	I	hear sound	I stroll
+1.0	I	return to	my own dwelling on height
+1.0	I	return on	foot
+1.0	I	perceive	glimmer of white robe
+1.0	I	return to	my dwelling
+1.0	I	perceive	glimmer of robe
+1.0	this	be	approach
+1.0	it	be month of	Mary
+1.0	it	be	Month
+1.0	half	be in	idleness
+1.0	idleness	half in	curiosity
+1.0	half	be in	curiosity
+1.0	I	see	snowy veil of child
+1.0	priest	veil of	child
+1.0	I	see	flare candle
+1.0	picturesque beauty	then suddenly dance in	blur
+1.0	picturesque beauty	suddenly dance in	whirling blur
+1.0	beauty	suddenly dance before	my eye
+1.0	picturesque beauty	dance in	blur
+1.0	picturesque beauty	suddenly dance in	blur
+1.0	I	see	veil of child
+1.0	picturesque beauty	dance before	my eye
+1.0	I	see	veil
+1.0	picturesque beauty	then suddenly dance before	my eye
+1.0	beauty	then suddenly dance before	my eye
+1.0	beauty	dance before	my eye
+1.0	picturesque beauty	suddenly dance before	my eye
+1.0	I	see	candle
+1.0	picturesque beauty	dance in	whirling blur
+1.0	beauty	then suddenly dance in	blur
+1.0	beauty	then suddenly dance in	whirling blur
+1.0	beauty	dance in	blur
+1.0	I	see	priest
+1.0	picturesque beauty	then suddenly dance in	whirling blur
+1.0	beauty	dance in	whirling blur
+1.0	beauty	suddenly dance in	blur
+1.0	beauty	suddenly dance in	whirling blur
+1.0	I	see	snowy veil
+0.7023324298191438	beauty	such fool of	we
+1.0	beauty	make all	fool
+1.0	beauty	make all	such fool of we
+1.0	beauty	make	fool of we
+1.0	beauty	make	such fool of we
+0.7023324298191438	beauty	fool of	we
+1.0	beauty	make all	such fool
+1.0	beauty	make all	fool of we
+1.0	beauty	make	fool
+1.0	beauty	make	such fool
+1.0	woman	girl of	fifteen
+1.0	earliest spring	in woman be	girl of fifteen at utmost
+1.0	woman	girl at	utmost
+1.0	woman	be in	earliest spring of she youth
+1.0	I	drink in	soul-tempting glance
+1.0	I	drink in	glance
+1.0	I	marry	she
+1.0	ours	rush swiftly through	we vein
+1.0	ours	rush swiftly unlike	calm blood of Englishmen
+1.0	ours	rush swiftly unlike	blood
+1.0	ours	rush unlike	blood of Englishmen
+1.0	ours	rush through	we vein
+1.0	ours	rush unlike	calm blood
+1.0	ours	rush swiftly unlike	blood of Englishmen
+1.0	ours	rush unlike	calm blood of Englishmen
+1.0	it	be warm as	wine
+1.0	ours	rush swiftly unlike	calm blood
+1.0	ours	rush unlike	blood
+1.0	it	be	warm
+1.0	southern race	be	so fickle
+1.0	southern race	be	fickle
+1.0	race	be	fickle
+1.0	race	be	so fickle
+1.0	they secret ennui	be with	they fat wife
+1.0	they	be	too cautious
+1.0	they	be	cautious
+1.0	it	be	brief
+1.0	it	be brief	song sing perfectly
+1.0	it	be brief	song sing
+1.0	girl	be only daughter of	ruin florentine noble of dissolute character
+1.0	girl	be daughter of	ruin florentine noble of dissolute character
+1.0	girl	be only daughter of	florentine noble of character
+1.0	girl	be	only daughter
+1.0	girl	be daughter of	florentine noble of character
+1.0	girl	be	daughter
+1.0	girl	be only daughter of	ruin florentine
+1.0	girl	be daughter of	ruin florentine noble of character
+1.0	girl	be only daughter of	ruin florentine noble of character
+1.0	girl	be daughter of	florentine noble
+1.0	girl	be only daughter of	ruin florentine noble
+1.0	girl	be daughter of	florentine
+1.0	girl	be daughter of	ruin florentine
+1.0	girl	be only daughter of	florentine noble of dissolute character
+1.0	girl	be daughter of	ruin florentine noble
+1.0	girl	be only daughter of	florentine
+1.0	girl	be only daughter of	florentine noble
+1.0	girl	be daughter of	florentine noble of dissolute character
+1.0	she	know	nothing of world
+0.5067338942891678	she	nothing of	world
+1.0	she	know	nothing
+1.0	he	assure	I
+1.0	maudlin tear	be in	he eye
+1.0	I	believe	he
+1.0	I	gather	so fair
+1.0	I	gather	fair
+1.0	I	be	eager
+1.0	we	be	marry
+1.0	we	be marry at	end
+1.0	Guido Ferrari	grace	we bridal
+1.0	we	be marry at	end of June
+1.0	he	exclaim to	I
+1.0	my	teaching	fabio
+1.0	thou	profit by	fabio
+1.0	thou	profit by	my teaching
+1.0	quiet rogue	be	often most cunning
+1.0	rogue	be	most cunning
+1.0	quiet rogue	be	often cunning
+1.0	rogue	be	often most cunning
+1.0	rogue	be	often cunning
+1.0	quiet rogue	be	most cunning
+1.0	rogue	be	cunning
+1.0	quiet rogue	be	cunning
+1.0	thou	hast secure maiden in	two Sicilies
+1.0	casket	steal	she fairest jewel
+1.0	thou	hast secure	loveliest maiden
+1.0	casket	steal	she jewel
+1.0	thou	hast secure	maiden
+1.0	I	press	he hand
+1.0	touch	steal	first
+1.0	touch	steal	first in my affection
+1.0	touch	steal over	I
+1.0	I	almost regret	it
+1.0	I	regret	it
+1.0	I	glance	my wife
+0.494927506687999	I	glance at	Nina
+1.0	it	be	enough
+1.0	she beauty	overcome	I
+1.0	I	forget	she
+1.0	melting languor	steal into	my vein
+1.0	love	seem	keynote
+1.0	love	seem	keynote
+0.750045419857229	love	keynote of	creation
+1.0	I	be in	delirium of passion
+1.0	love	seem	keynote of creation
+1.0	love	seem	keynote of creation
+1.0	I	be in	delirium
+1.0	I	be in	high delirium of passion
+1.0	I	be in	high delirium
+1.0	fairy-land	of feast be	night
+1.0	I	touch	topmost peak of height
+1.0	I	touch	peak
+1.0	I	touch	topmost peak
+1.0	I	touch	peak of height
+1.0	I	touch	peak of height of joy
+1.0	I	touch	topmost peak of height of joy
+1.0	she	grow fairer with	day of possession
+1.0	wife	have	beauty
+1.0	she	grow with	day of possession
+1.0	she	have probe	depths of my nature
+0.722284162870283	she	otherwise than	attractive
+1.0	she	have probe	depths of nature
+1.0	she	measure	my weakness with she power
+1.0	my weakness	be with	she own power
+1.0	she	measure	my weakness
+1.0	sweet look	draw	I
+1.0	look	draw	I
+0.6152446619241054	I	how certain look of	hers
+0.6152446619241054	I	certain look of	hers
+1.0	certain sweet look	draw	I
+1.0	she	side	willing slave
+0.6152446619241054	I	look of	hers
+0.6152446619241054	I	sweet look of	hers
+1.0	she	measure	my weakness with she own power
+0.6152446619241054	I	certain sweet look of	hers
+0.6152446619241054	I	how certain sweet look of	hers
+1.0	certain look	draw	I
+1.0	I	torture	myself
+1.0	will	sap	force of strongest hero
+1.0	will	sap	force
+1.0	will	sap	force of hero
+0.8568229474124254	sap	force of	strongest hero
+0.8568229474124254	sap	force of	hero
+1.0	she	love	I
+1.0	I	look on	day
+1.0	I	look back on	day
+1.0	I	grudge	she nothing
+1.0	folly	fault	she
+1.0	I	idolize	she
+1.0	low level	on folly be	she fault
+1.0	my	folly	fault
+1.0	we	keep	house
+1.0	we	keep	open house
+1.0	we villa	be place for	member of best society
+1.0	we villa	be	place of rendezvous for member of society
+1.0	we villa	be	place of rendezvous for lead member of best society
+1.0	we villa	be	place of rendezvous for member of best society
+1.0	we villa	be place for	lead member in Naples
+1.0	we villa	be place for	lead member of best society
+1.0	we villa	be place for	member in Naples
+1.0	we villa	be	place of rendezvous for lead member of society in Naples
+1.0	we villa	be	place
+1.0	we villa	be place for	member of society
+1.0	we villa	be	place of rendezvous for member
+1.0	we villa	be place for	lead member of best society in Naples
+1.0	we villa	be place for	member of society in Naples
+1.0	we villa	be	place of rendezvous for lead member of society
+1.0	we villa	be place for	lead member
+1.0	we villa	be	place of rendezvous for member of society in Naples
+1.0	we villa	be	place of rendezvous for lead member of best society in Naples
+1.0	we villa	be	place of rendezvous for member of best society in Naples
+1.0	we villa	be place for	lead member of society
+1.0	lead member	be in	Naples
+1.0	we villa	be place for	lead member of society in Naples
+1.0	we villa	be	place of rendezvous for member in Naples
+1.0	we villa	be place of	rendezvous
+1.0	we villa	be	place of rendezvous for lead member in Naples
+1.0	we villa	be place for	member of best society in Naples
+1.0	we villa	be	place of rendezvous for lead member
+1.0	we villa	be place for	member
+1.0	manners	be	theme of conversation throughout neighborhood
+1.0	my wife	be	universally admire
+1.0	graceful manners	be	theme
+1.0	she lovely face	be	theme
+1.0	she lovely face	be theme throughout	whole neighborhood
+1.0	manners	be theme of	conversation
+1.0	she face	be	theme of conversation
+1.0	she lovely face	be	theme of conversation throughout neighborhood
+1.0	she lovely face	be	theme throughout neighborhood
+1.0	manners	be theme throughout	neighborhood
+1.0	she lovely face	be	theme of conversation throughout whole neighborhood
+1.0	she lovely face	be	theme throughout whole neighborhood
+1.0	she face	be theme throughout	neighborhood
+1.0	she face	be theme of	conversation
+1.0	graceful manners	be theme throughout	whole neighborhood
+1.0	manners	be	theme
+1.0	graceful manners	be theme throughout	neighborhood
+1.0	she face	be	theme of conversation throughout whole neighborhood
+1.0	she face	be	theme
+1.0	she face	be	theme throughout neighborhood
+1.0	she lovely face	be theme throughout	neighborhood
+1.0	manners	be	theme of conversation throughout whole neighborhood
+1.0	she lovely face	be	theme of conversation
+1.0	graceful manners	be	theme of conversation throughout whole neighborhood
+1.0	she face	be	theme of conversation throughout neighborhood
+1.0	she lovely face	be theme of	conversation
+1.0	graceful manners	be theme of	conversation
+1.0	manners	be theme throughout	whole neighborhood
+1.0	she face	be theme throughout	whole neighborhood
+1.0	my wife	be	admire
+1.0	she face	be	theme throughout whole neighborhood
+1.0	graceful manners	be	theme of conversation throughout neighborhood
+1.0	Guido Ferrari	homage	he display
+1.0	she	endear	he
+1.0	she	doubly endear	he
+1.0	Guido Ferrari	chivalrous homage	he display
+0.7701212007791801	he	adapt to	she taste
+1.0	he	bring	Nina gift of flower
+1.0	he	go as	he
+1.0	he	go as	pleased he
+1.0	he	bring	Nina gift
+0.7503093061148249	Nina gift	adapt to	she taste
+1.0	I	trust	he
+1.0	I	deem	my happiness perfect
+0.308421633671098	we child	be bear on	morning
+1.0	we child	be bear	girl-babe
+1.0	we child	be bear girl-babe on	morning of May 1882
+1.0	we child	be bear girl-babe on	morning
+1.0	we child	be bear girl-babe on	first morning of May 1882
+0.308421633671098	we child	be bear on	morning of May 1882
+0.308421633671098	we child	be bear on	first morning of May 1882
+1.0	we child	be bear girl-babe on	first morning of May
+1.0	we child	be bear	girl-babe fair
+1.0	we child	be bear girl-babe on	first morning
+0.308421633671098	we child	be bear on	first morning
+0.308421633671098	we child	be bear on	first morning of May
+1.0	we child	be bear girl-babe on	morning of May
+0.308421633671098	we child	be	bear
+0.308421633671098	we child	be bear on	morning of May
+1.0	they	bring	little one
+1.0	I	sit at	breakfast
+1.0	I	sit with	Guido
+1.0	light	linger in	they pure depths
+1.0	light	linger in	they depths
+1.0	I	take	thing
+1.0	it	open	its eye
+1.0	light	seem	linger in they pure depths
+1.0	I	take thing with	tender reverence
+1.0	light	seem still	linger in they pure depths
+1.0	light	seem	linger in they depths
+1.0	light	seem still	linger
+1.0	light	seem	linger
+1.0	light	seem still	linger in they depths
+1.0	they	be large 's	Nina 's
+1.0	they	be	large
+1.0	eye	regard	we
+1.0	quiet eye	regard	we
+1.0	I	kiss	little face
+1.0	I	kiss	face
+1.0	Guido	do	same
+1.0	bird	break into	low song
+1.0	petal	rise at	we foot
+0.5389377871905505	bird	perch on	bough jasmine
+1.0	bird	break into	low sweet song
+0.5389377871905505	bird	perch on	bough
+1.0	bird	break into	song
+1.0	bird	break into	sweet song
+1.0	I	give	infant
+1.0	I	say with	smile
+1.0	I	give back	infant
+1.0	Guido	lay	he hand
+1.0	he face	be	unusually pale
+1.0	he face	be	pale
+0.48525861707490975	thou	art	fellow
+0.48525861707490975	thou	art	fabio
+0.48525861707490975	thou	art	good fellow
+1.0	you	be suspicious than	majority
+0.781140528015093	he	turn away from	I
+1.0	you	be less suspicious than	majority
+1.0	you	be	suspicious
+0.781140528015093	he	turn from	I
+1.0	you	be	less suspicious
+1.0	I	glance in	surprise
+1.0	I	glance at	he
+1.0	he	laugh	he seat
+1.0	he	laugh	he seat at breakfast-table
+1.0	he	answer with	look
+1.0	he	answer with	frank look
+1.0	child	be learn in	way of vice
+1.0	child	be	learn
+1.0	air	be pregnant in	Naples
+1.0	jealousy	have	dagger
+1.0	very child	be learn in	way of vice
+1.0	very child	be	learn
+1.0	child	be learn with	suspicion
+1.0	very child	be	with suspicion learn in way of vice
+1.0	child	be	with suspicion learn in way of vice
+1.0	very child	be learn with	suspicion
+1.0	air	be	pregnant
+1.0	child	be learn in	way
+1.0	child	be	with suspicion learn in way
+1.0	very child	be learn in	way
+1.0	very child	be	with suspicion learn in way
+1.0	penitent	confess to	priest
+1.0	conjugal fidelity	be	where farce
+1.0	he	pause	moment
+1.0	fidelity	be	where farce
+1.0	fidelity	be	farce
+1.0	conjugal fidelity	be	farce
+0.608272261605687	Nina	be innocent as	little child
+0.608272261605687	Nina	be	innocent
+0.608272261605687	Nina	be as innocent as	child
+0.608272261605687	Nina	be innocent as	child
+0.608272261605687	Nina	be	as innocent
+0.608272261605687	Nina	be as innocent as	little child
+0.625020403124704	he	look in	eye
+1.0	he	look	I
+0.625020403124704	he	look with	smile
+1.0	he	look full	I
+0.625020403124704	he	look full in	eye
+0.625020403124704	he	look full with	smile
+0.7276035419476928	I	something in	he manner
+1.0	I	assent with	gravity
+1.0	I	assent with	certain gravity
+1.0	something	be in	he manner
+1.0	something	puzzle	I
+1.0	we conversation	soon turn on	different topic
+1.0	we conversation	turn on	different topic
+1.0	we conversation	turn on	topic
+1.0	we conversation	soon turn on	topic

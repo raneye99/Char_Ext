@@ -1,0 +1,305 @@
+1.0	I	be	quartermaster along of my timber leg
+1.0	I	be	quartermaster
+1.0	I	be	quartermaster along
+1.0	same broadside	lose	he deadlight
+1.0	old Pew	lose	he deadlight
+1.0	broadside	lose	he deadlight
+1.0	I	lose	my leg
+1.0	Pew	lose	he deadlight
+1.0	college	out of surgeon be	he
+1.0	it	be with	WALRUS
+1.0	England	take	viceroy of Indies
+1.0	it	be with	so CASSANDRA
+1.0	it	be with	old WALRUS
+1.0	England	take	viceroy
+0.660460668196303	England	viceroy of	Indies
+1.0	it	bring	safe home from Malabar
+1.0	it	be with	CASSANDRA
+1.0	Flint	have	old ship
+1.0	voice	that of	youngest hand on board
+1.0	he	be flower of	flock
+1.0	he	be	flower
+1.0	my story	be in	manner of speaking
+1.0	my story	be with	then Flint
+1.0	I	lay by	nine hundred safe from England
+1.0	I	lay by	nine hundred safe
+1.0	you	lay to	that
+1.0	lord	be in	Parliament
+1.0	Old Pew	have lose	he sight
+1.0	Old Pew	spend	twelve hundred pound
+1.0	Old Pew	think	shame
+1.0	Old Pew	as have lose	he sight
+1.0	he	cut	throat
+1.0	he	starve at	that
+1.0	he	steal by	power
+1.0	you	may lay to	it
+1.0	I	see	that
+0.4800549923932638	old rogue	address another in	same word
+0.4800549923932638	rogue	address another in	same word flattery
+0.4800549923932638	old rogue	address another in	same word flattery
+0.4800549923932638	abominable old rogue	address another in	same word flattery
+0.4800549923932638	abominable rogue	address another in	very same word
+0.4800549923932638	abominable old rogue	address another in	same word
+0.4800549923932638	old rogue	address another in	very same word
+0.4800549923932638	abominable rogue	address another in	word
+0.4800549923932638	old rogue	address another in	word
+0.4800549923932638	old rogue	address	another
+0.4800549923932638	abominable old rogue	address another in	very same word flattery
+0.4800549923932638	abominable old rogue	address another in	word
+0.4800549923932638	rogue	address another in	same word
+0.4800549923932638	abominable rogue	address	another
+1.0	he	have use to	myself
+0.4800549923932638	abominable rogue	address another in	word flattery
+1.0	I	hear rogue	he have use
+0.4800549923932638	rogue	address another in	very same word
+0.4800549923932638	abominable old rogue	address	another
+0.4800549923932638	rogue	address another in	word
+0.4800549923932638	abominable old rogue	address another in	word flattery
+0.4800549923932638	abominable rogue	address another in	same word flattery
+0.4800549923932638	old rogue	address another in	very same word flattery
+0.4800549923932638	abominable rogue	address another in	same word
+0.4800549923932638	abominable rogue	address another in	very same word flattery
+0.4800549923932638	rogue	address	another
+1.0	I	hear	old rogue
+1.0	I	hear	abominable old rogue
+0.4800549923932638	abominable old rogue	address another in	very same word
+1.0	I	hear	rogue
+1.0	I	hear	abominable rogue
+0.4800549923932638	rogue	address another in	word flattery
+1.0	I	hear rogue	he have use to myself
+0.4800549923932638	old rogue	address another in	word flattery
+0.4800549923932638	rogue	address another in	very same word flattery
+1.0	I	have	have able
+1.0	I	think	have able
+1.0	he	run	little suppose
+1.0	he	run	suppose
+1.0	he	run on	suppose
+1.0	he	meantime run on	little suppose
+1.0	he	meantime run on	suppose
+1.0	he	meantime run	little suppose
+1.0	he	meantime run	suppose
+1.0	he	run on	little suppose
+0.49069743305044494	it	be about	here gentleman
+0.49069743305044494	it	be about	here gentleman of fortune
+0.49069743305044494	it	be about	gentleman
+0.49069743305044494	it	be about	gentleman of fortune
+1.0	sea	be in	they shirt
+1.0	I	put away	it
+1.0	I	put all away	some
+1.0	I	none	much anywhere
+1.0	I	put	it
+1.0	I	put	some there
+1.0	I	put all away	it
+1.0	I	none	too much anywhere
+1.0	I	none	anywhere
+1.0	I	none anywhere by	reason of suspicion
+1.0	I	put	some
+1.0	I	put away	some there
+1.0	I	none anywhere by	reason
+1.0	I	put away	some
+1.0	I	put all away	some there
+1.0	I	back set up gentleman in	earnest
+1.0	I	once back set up	gentleman
+1.0	I	set up gentleman in	earnest
+1.0	I	set up	gentleman
+1.0	I	back set up	gentleman
+1.0	I	once back set up gentleman in	earnest
+1.0	spy-glass	be	sell
+1.0	I	would tell	you
+1.0	you	can trust	you missis
+0.7115399364180348	trust	gentleman of	fortune
+1.0	I	have	way with I
+1.0	way	be with	I
+1.0	I	have	way
+1.0	mate	bring	slip on he cable
+1.0	will same world	be with	old John
+1.0	mate	bring	slip
+1.0	devil	go with	they
+1.0	they	be	crew
+1.0	devil	would	would have fear
+1.0	they	be	crew afloat
+1.0	they	be	roughest crew
+1.0	devil	go to	sea
+1.0	they	be	roughest crew afloat
+1.0	Flint	for	old buccaneer
+1.0	I	be	when quartermaster
+1.0	I	be	quartermaster
+1.0	I	keep	company
+1.0	you	may	ah may sure of yourself in John 's ship
+1.0	you	may	may sure
+1.0	you	may	may sure of yourself in old John 's ship
+1.0	you	may	may sure of yourself in John 's ship
+1.0	you	may	ah may sure of yourself
+1.0	you	may	ah may sure of yourself in old John 's ship
+1.0	you	may	ah may sure
+1.0	you	may	may sure of yourself
+1.0	I	tell now	you
+1.0	I	tell	you
+1.0	I	understand	meaning
+1.0	I	understand	meaning of they term
+1.0	I	have begin by	time
+1.0	last act	be in	corruption honest hand
+1.0	I	be	relieve
+1.0	I	be	soon
+1.0	little	sit down by	party
+1.0	I	be relieve for	silver give
+1.0	I	be soon on	point
+1.0	I	be relieve for	silver
+1.0	Dick	have	square
+1.0	Dick 's square	say	Silver
+1.0	Dick	be	square
+1.0	he	turn	spat
+1.0	he	turn	he quid
+1.0	he	go on	be
+0.03191106735239502	I	want	know
+1.0	he	go on	here be
+1.0	I	have have	enough o Cap'n Smollett
+1.0	he	be haze enough	I
+1.0	he	be haze long enough	I
+1.0	I	have have	o Cap'n Smollett
+1.0	he	be haze	I
+1.0	I	have have	most enough o Cap'n Smollett
+1.0	I	want	go
+1.0	I	go into	cabin
+1.0	I	want	go into cabin
+1.0	I	want	wine
+1.0	I	want	they pickle
+1.0	you	be	able
+1.0	leastway	be	big enough
+1.0	leastway	be	big
+1.0	you	lay to	that
+0.8188158226282389	I	do	I
+1.0	I	will tell	you
+1.0	I	well now will tell	you
+1.0	I	now will tell	you
+1.0	you	want	know
+1.0	Cap'n Smollett	sail	bless ship
+1.0	Cap'n Smollett	sail	ship for we
+1.0	Cap'n Smollett	sail	bless ship for we
+1.0	Cap'n Smollett	sail	ship
+0.6239129386773943	I	do	I
+1.0	we	get	it
+1.0	squire	find	stuff
+1.0	doctor	help	we
+1.0	doctor	find	stuff
+1.0	we	get aboard	it
+1.0	I	son of	Dutchmen
+1.0	I	be	sure
+1.0	I	be sure of	you
+1.0	I	would have	sure of you
+1.0	I	son of	double Dutchmen
+1.0	Cap'n Smollett	navigate back	we
+1.0	Cap'n Smollett	navigate half-way back	we
+1.0	Cap'n Smollett	navigate	we
+1.0	Cap'n Smollett	navigate half-way back again	we
+1.0	I	would have	sure
+1.0	Cap'n Smollett	navigate again	we
+1.0	Cap'n Smollett	navigate back again	we
+0.8893552683634806	we	spoonful of	water
+1.0	Cap'n Smollett	work back	we
+1.0	I	have	my way
+1.0	Cap'n Smollett	work	we
+1.0	Cap'n Smollett	work back least	we
+1.0	Cap'n Smollett	work least	we
+1.0	I	know	sort
+1.0	I	will finish soon with	'em
+1.0	I	will finish as soon at	island
+1.0	I	will finish soon at	island
+1.0	I	will finish with	'em
+1.0	I	will finish as soon with	'em
+1.0	I	will finish at	island
+1.0	you	be	drunk
+1.0	I	have	heart sail with likes
+1.0	I	have	sick heart sail with likes of you
+1.0	I	have	sick heart sail
+1.0	I	have	heart sail
+1.0	I	have	heart sail with likes of you
+1.0	I	split	my side
+1.0	I	have	sick heart sail with likes
+1.0	brisk lad	dry in	sun
+1.0	many brisk lad	dry in	sun
+1.0	brisk lad	dry at	Execution Dock
+1.0	many brisk lad	dry at	Execution Dock
+1.0	you	hear	I
+0.010717726303177022	I	see at	sea
+1.0	I	see thing at	sea
+1.0	I	see	thing
+1.0	I	see	two
+1.0	you	would ride in	carriage
+1.0	you	would ride	you would on y lay you course
+1.0	you	would ride	you would on you course
+1.0	you	would ride	you would on lay you course
+1.0	you	would ride	you would on y you course
+1.0	you	would ride	you would
+1.0	I	know	you
+1.0	you	go	hang
+1.0	you	will have	you mouthful of rum
+1.0	you	will have	you mouthful
+1.0	they	like	bit o fun
+1.0	he	die	beggar-man
+1.0	he	die of	rum
+1.0	he	die at	Savannah
+1.0	they	be	sweet crew
+1.0	they	be	sweet
+1.0	they	be	crew
+1.0	that	would	would have England 's way
+1.0	it	be billy	hand come to port
+1.0	he	know now	long on it
+1.0	he	know	long
+1.0	he	be	well dead now hisself
+1.0	rough hand	come to	port
+1.0	he	be	well dead
+1.0	he	know now	short
+1.0	he	know now	long
+1.0	it	be billy	ever hand come to port
+1.0	he	be	dead now
+1.0	he	be	dead
+1.0	he	know	long on it
+1.0	he	be	dead hisself
+1.0	it	be billy	hand come
+1.0	it	be billy	ever hand come
+1.0	he	be	well dead hisself
+1.0	hand	come to	port
+1.0	it	be billy	rough hand come to port
+1.0	he	be	well dead now
+1.0	it	be billy	ever rough hand come to port
+1.0	he	be	dead now hisself
+1.0	he	know	short
+1.0	it	be	Billy
+1.0	it	be billy	rough hand come
+1.0	it	be billy	ever rough hand come
+1.0	it	be	serious
+1.0	I	be	easy
+1.0	I	time	serious
+0.9823646347627072	I	be	man
+0.9823646347627072	I	be	easy man
+1.0	Dooty	be	dooty
+1.0	I	give	my vote
+1.0	you	be	man
+0.6022040726964056	I	claim	Trelawney
+1.0	I	will wring	he calf 's head
+1.0	he body	be with	hand
+1.0	calf	have	head
+1.0	he	body	Dick
+1.0	you	get	apple
+1.0	you	get	I
+1.0	you	may fancy	terror
+1.0	I	run for	it
+1.0	someone	seemingly stop	he
+1.0	Dick	begin	rise
+1.0	someone	stop	he
+1.0	you	suck of	bilge
+1.0	's	have	go of rum
+1.0	's	have	go
+0.5175846712011892	's	go of	rum
+0.7158198901086921	I	trust	you
+1.0	I	have	gauge
+1.0	I	have	gauge on keg
+1.0	you	bring up	it
+1.0	you	fill	pannikin
+1.0	you	luff	prize of duff
+1.0	you luff	prize of	duff
+1.0	moon	silver	shine
+1.0	brightness	fall in	barrel
+1.0	moon	silver	mizzen-top
+1.0	brightness	fall upon	I

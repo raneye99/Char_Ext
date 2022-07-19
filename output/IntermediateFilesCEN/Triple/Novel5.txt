@@ -1,0 +1,881 @@
+1.0	accomplished Prince Florizel	gain	affection of class
+1.0	he residence	be in	London
+1.0	Prince Florizel	gain	affection of class
+1.0	he	be	remarkable
+1.0	he	prepare	himself
+1.0	season	be unsuitable to	field sport
+1.0	he	excel	competitor
+1.0	season	be	unsuitable
+1.0	season	be	when unsuitable to field sport
+1.0	he	fall into	low humour
+1.0	he	fall into	humour
+1.0	season	be	when unsuitable
+1.0	master	be young officer of	a
+1.0	horse	master of be	officer
+1.0	horse	master of be	young officer
+1.0	master	be	young officer
+1.0	master	be	officer
+1.0	master	be officer of	a
+1.0	master	be	young
+1.0	he	greet	news
+1.0	he	greet news with	delight
+1.0	he	hasten	make
+1.0	long practice	have give	he
+1.0	practice	have give	he
+0.2968165266293327	he voice	bearing	almost he thought
+0.2968165266293327	voice	bearing	almost he thought
+1.0	acquaintance	have give	he
+0.2968165266293327	voice	bearing	almost thought
+0.2968165266293327	he voice	bearing	almost thought
+1.0	singular facility	be in	disguise
+1.0	varied acquaintance	have give	he
+1.0	imperturbable courage	have bring	they
+1.0	they	grow in	confidence
+1.0	courage	have bring	they
+1.0	they	be	drive by sharp fall into Oyster Bar in immediate neighbourhood
+1.0	they	be	drive by sharp fall into Oyster Bar in neighbourhood
+1.0	they	be	drive by fall of sleet into Oyster Bar in neighbourhood
+1.0	they	be	drive by sharp fall into Oyster Bar in neighbourhood of Leicester Square
+1.0	they	be	drive by fall into Oyster Bar
+1.0	they	be	drive by fall into Oyster Bar in immediate neighbourhood of Leicester Square
+1.0	they	be	drive by fall of sleet into Oyster Bar in neighbourhood of Leicester Square
+1.0	Oyster Bar	be in	immediate neighbourhood of Leicester Square
+1.0	they	be	drive by sharp fall of sleet into Oyster Bar
+1.0	they	be	drive by fall into Oyster Bar in immediate neighbourhood
+1.0	they	be drive by	fall
+1.0	they	be	drive by fall of sleet into Oyster Bar in immediate neighbourhood
+1.0	they	be drive by	sharp fall
+1.0	they	be drive into	Oyster Bar in immediate neighbourhood of Leicester Square
+1.0	they	be	drive by sharp fall into Oyster Bar in immediate neighbourhood of Leicester Square
+1.0	they	be drive by	fall of sleet
+1.0	they	be drive into	Oyster Bar in immediate neighbourhood
+1.0	they	be	drive
+1.0	they	be	drive by sharp fall of sleet into Oyster Bar in neighbourhood of Leicester Square
+1.0	they	be	drive by sharp fall of sleet into Oyster Bar in neighbourhood
+1.0	they	be drive by	sharp fall of sleet
+1.0	they	be drive into	Oyster Bar in neighbourhood of Leicester Square
+1.0	they	be	drive by fall into Oyster Bar in neighbourhood
+1.0	they	be	drive by sharp fall of sleet into Oyster Bar in immediate neighbourhood of Leicester Square
+1.0	they	be drive into	Oyster Bar in neighbourhood
+1.0	they	be	drive by fall into Oyster Bar in neighbourhood of Leicester Square
+1.0	they	be	drive by fall of sleet into Oyster Bar
+1.0	they	be	drive by fall of sleet into Oyster Bar in immediate neighbourhood of Leicester Square
+1.0	they	be	drive by sharp fall into Oyster Bar
+1.0	one evening	be in	March
+1.0	they	be	drive by sharp fall of sleet into Oyster Bar in immediate neighbourhood
+1.0	they	be drive into	Oyster Bar
+1.0	Colonel Geraldine	be	dress
+1.0	commander	sip soda in	security
+1.0	he satellite	sip	soda
+1.0	he satellite	sip soda in	security
+1.0	he satellite	sip	they brandy
+1.0	commander	sip	they brandy
+1.0	commander	sip	soda
+1.0	talk	be with	we adventurer
+1.0	swing door	be push	open
+1.0	swing door	be	push
+1.0	man	enter	bar
+1.0	swing door	be	when push
+1.0	swing door	be push	violently open
+1.0	young man	enter	bar
+0.535908533618052	young man	round of	company
+1.0	young man	make	round
+1.0	one 's acceptance	be with	exaggerated courtesy
+0.535908533618052	man	round of	company
+1.0	one	upon	acceptance with exaggerated courtesy
+1.0	man	make	round
+1.0	man	make	round of company
+1.0	young man	make	round of company
+1.0	it	be	reject
+1.0	he offer	be	accept
+1.0	it	be	sometimes reject
+1.0	it	be	firmly reject
+1.0	he offer	be	sometimes accept
+1.0	he offer	be	laughingly accept
+1.0	it	be	sometimes firmly reject
+1.0	he offer	be	sometimes laughingly accept
+1.0	he	last accost	Prince Florizel
+1.0	he	accost	Prince Florizel
+1.0	I	can answer for	quality
+1.0	I	eat	two dozen
+1.0	I	can answer for	quality of pastry
+1.0	spirit	return	man
+1.0	spirit	return	young man
+1.0	you	do propose to	mock
+1.0	I	hope	I mention
+1.0	I	heartily include	myself
+1.0	I	include	myself
+1.0	you	consider	satisfied
+1.0	you	consider	honour satisfied
+1.0	I	own	weary
+1.0	I	own	weary of exercise
+1.0	I	eat	my twenty-eighth
+1.0	you	will constrain	I
+1.0	we	have	natural inclination
+1.0	I	eat	you cake
+1.0	my friend	eat	you cake
+1.0	we	shall expect	you
+1.0	you	join	we
+1.0	man	seem	reflect
+1.0	young man	seem	reflect
+1.0	I	visit	several bar
+1.0	my affair	be	conclude
+1.0	my great affair	be	conclude
+1.0	he	say at	last
+1.0	I	visit	bar
+1.0	I	visit bar	conclude
+1.0	I	visit	several more bar
+1.0	I	visit	more bar
+1.0	Prince	interrupt	he
+1.0	you	be	hungry
+1.0	we have deep interest	be in	you very agreeable mode pass
+1.0	preliminary	be	settle
+1.0	preliminary	be	now settle
+1.0	I	sign	treaty
+1.0	I	sign treaty for	both
+1.0	Prince	swallow	tart
+1.0	you	be	connoisseur
+1.0	young man	be with	cream tart
+1.0	Colonel Geraldine	do honour to	pastry
+1.0	young man	lead	way
+1.0	Colonel Geraldine	likewise do honour to	pastry
+1.0	Colonel Geraldine	do	honour
+1.0	Colonel Geraldine	likewise do	honour
+1.0	man	lead	way
+1.0	Colonel	bring up	rear
+1.0	Colonel	bring up	arm in arm
+1.0	Colonel	smile	they go
+1.0	Colonel	bring up	arm
+1.0	Prince	bring up	arm in arm
+1.0	Prince	bring up	rear
+1.0	arm	be in	arm
+1.0	Prince	bring up	arm
+1.0	rear	arm in	arm
+1.0	young man	reject	tart
+1.0	favour	reject	tart
+1.0	scene	be enact of	nature
+1.0	man	reject	tart
+1.0	company	visit	two tavern
+1.0	company	visit	two other tavern
+1.0	scene	be enact of	like nature
+0.7649541946273265	young man	eat	each
+1.0	refusing	reject	tart
+1.0	scene	be	where enact of nature
+1.0	scene	be	enact
+1.0	scene	be	where enact of like nature
+0.7649541946273265	man	eat	each
+1.0	scene	be	where enact
+1.0	I	delay	you supper
+1.0	gentleman	address	himself
+1.0	I	be	unwilling
+1.0	you	be	hungry
+1.0	I	be	positively sure
+1.0	I	be	sure
+1.0	I	owe	you
+1.0	I	owe	special consideration
+1.0	I	owe	consideration
+1.0	I	wish	behave handsomely
+1.0	I	be close career by	my most conspicuously silly action
+0.8280777816683583	I	career of	folly
+1.0	I	be close	career of folly
+1.0	I	wish	behave to all
+1.0	I	wish	behave
+1.0	I	behave handsomely to	all
+1.0	I	behave to	all
+1.0	I	wish	behave handsomely to all
+1.0	I	be close career by	my action
+1.0	I	be close career by	my conspicuously silly action
+1.0	I	be close	career
+1.0	I	be close career by	my silly action
+1.0	my constitution	be shatter by	previous excess
+1.0	my constitution	be shatter by	excess
+1.0	my constitution	be	shatter
+1.0	he	crush	nine tart
+1.0	he	crush	nine remain tart
+1.0	he	swallow	they
+1.0	he	turn to	commissionaire
+1.0	he	give	they
+1.0	he	dismiss	they
+1.0	he	stand for	seconds
+1.0	he	stand	look at purse then with laugh
+1.0	he	stand	look
+1.0	he	have just pay	he assistant
+1.0	he	stand	look then
+1.0	he	look at	purse
+1.0	he	toss	it
+1.0	he	stand	look at purse
+1.0	he	stand	look at purse then
+1.0	he	look with	laugh
+1.0	he	have pay	he assistant
+1.0	he	stand	look with laugh
+1.0	he	stand	look then with laugh
+1.0	he	stand	look at purse with laugh
+1.0	small french restaurant	be in	Soho
+1.0	three companion	make	very elegant supper
+1.0	he voice	take	sudden inflection
+1.0	he voice	take	inflection
+1.0	Prince	address	he
+1.0	dessert	have	have clear away
+1.0	dessert	have	have clear
+0.010717726303177022	I	have see of	you
+1.0	I	should	should loth
+1.0	my friend	be	person well worthy
+1.0	I	be	person worthy
+1.0	I	be	person
+1.0	my friend	be	person worthy
+1.0	I	be	person very well worthy
+1.0	I	be	person well worthy
+1.0	I	seem	indiscreet
+1.0	my friend	be	person
+1.0	my friend	be	person very well worthy
+1.0	I	must tell	you
+1.0	we	have	many
+1.0	we	have	many of we own
+1.0	story	be	silly
+1.0	such	be name	he choose
+1.0	my friend	be	major Alfred Hammersmith
+1.0	he	choose	know
+1.0	such	be	name
+1.0	my name	be	Godall
+1.0	he	be	know
+1.0	we	pass entirely	we life
+1.0	we	pass	we life
+1.0	I	like	you
+1.0	you	inspire	I
+1.0	young man	go on in	animated manner
+1.0	young man	go on in	manner
+1.0	man	go on in	manner
+1.0	Colonel	smile to	perfection of he art
+1.0	man	go on in	animated manner
+1.0	young man	go on in	more animated manner
+1.0	man	go on in	more animated manner
+1.0	Colonel	smile at	compliment
+1.0	Colonel	smile to	perfection
+1.0	I	be go	do so
+1.0	I	be go	do
+1.0	you	seem	so well prepare
+1.0	you	seem	prepare
+1.0	you	seem	well prepare
+1.0	I	shall keep in spite of	you example
+1.0	my name	shall keep in spite of	you example
+1.0	my name	shall keep to	myself
+1.0	I	shall keep to	myself
+1.0	I	inherit tenement from	they
+1.0	I	be descend from	my ancestor
+1.0	I	inherit	human tenement
+1.0	I	be descend by	generation
+1.0	I	be	descend
+1.0	I	inherit	tenement
+1.0	I	inherit	very eligible tenement
+1.0	I	be descend by	ordinary generation
+1.0	I	inherit	eligible human tenement
+1.0	I	be	descend from my ancestor by generation
+1.0	I	inherit	very eligible human tenement
+1.0	I	fortune of	three hundred pound year
+1.0	I	fortune of	three hundred pound
+1.0	I	be	descend from my ancestor by ordinary generation
+1.0	I	inherit	eligible tenement
+1.0	I	receive	good education
+1.0	I	receive	education
+1.0	I	can play	violin
+1.0	remark	apply to	flute
+1.0	same remark	apply to	flute
+1.0	I	learn enough	lose at scientific game
+1.0	I	learn	lose about hundred year
+1.0	I	learn	lose at game
+1.0	I	lose at	game
+1.0	I	learn	lose about hundred year at game
+1.0	I	lose at_time	about hundred year
+1.0	I	lose at	scientific game
+1.0	I	learn	lose about hundred year at scientific game
+1.0	I	learn	lose
+1.0	I	learn enough	lose
+1.0	I	learn enough	lose at game
+1.0	I	learn enough	lose about hundred year
+1.0	I	learn	lose at scientific game
+1.0	I	learn enough	lose about hundred year at scientific game
+1.0	I	learn enough	lose about hundred year at game
+1.0	my acquaintance	be with	French
+1.0	same facility	be in	as London
+1.0	I	squander money with	same facility
+1.0	my acquaintance	be	sufficient
+1.0	my acquaintance	enable	I
+1.0	I	squander money with	same facility as in London
+1.0	I	squander money with	facility
+1.0	I	squander	money
+1.0	I	squander money with	almost same facility as in London
+1.0	I	squander money with	facility as in London
+1.0	I	squander money with	almost facility
+1.0	I	squander money with	almost facility as in London
+1.0	I	squander money in	Paris
+1.0	I	squander money with	almost same facility
+1.0	I	be	person full
+1.0	I	be	person
+1.0	I	be person full in	short
+1.0	I	be	full
+1.0	I	be person in	short
+1.0	I	be	person full of manly accomplishment
+1.0	I	be	person full of accomplishment
+1.0	I	have have	sort of adventure include duel about nothing
+1.0	I	meet	young lady
+1.0	young lady	exactly suit to	my taste in mind
+1.0	I	come upon	my fate
+1.0	my taste	be in	mind
+1.0	I	come at	last
+1.0	I	meet	lady
+1.0	lady	suit to	my taste
+1.0	lady	exactly suit to	my taste
+1.0	I	ago meet	lady
+1.0	young lady	exactly suit to	my taste
+1.0	young lady	suit to	my taste in mind
+1.0	I	be in	way fall
+1.0	I	ago meet	young lady
+1.0	lady	suit to	my taste in mind
+1.0	I	be in	way fall in love
+1.0	lady	exactly suit to	my taste in mind
+1.0	young lady	suit to	my taste
+1.0	it	amount to	something
+1.0	I	ask	you
+1.0	I	ask fairly	you
+1.0	presence	accelerate	my rate of expenditure
+1.0	presence	accelerate	my rate
+0.9691173236634324	presence	come to	my eighty pound
+0.9691173236634324	presence	come to	my last eighty pound
+1.0	presence	accelerate	my usual rate
+1.0	presence	slightly accelerate	my rate of expenditure
+0.9691173236634324	presence	come at_time	morning
+1.0	presence	slightly accelerate	my usual rate
+1.0	presence	slightly accelerate	my usual rate of expenditure
+1.0	presence	accelerate	my usual rate of expenditure
+1.0	presence	slightly accelerate	my rate
+1.0	I	divide into	two part
+1.0	I	divide into	two equal part
+1.0	I	tell	you
+1.0	I	bring	career
+1.0	I	bring career to	foolish conclusion
+1.0	I	bring career to	conclusion
+1.0	I	bring career to	still foolish conclusion
+1.0	forty pound	be at	end
+1.0	I	be	determine
+1.0	I	bring career to	more foolish conclusion
+1.0	I	throw	my purse
+1.0	I	bring	foolish career
+1.0	I	bring career to	still more foolish conclusion
+1.0	pound	be at	end
+1.0	I	will ask	whimperer
+1.0	I	will ask	you
+1.0	I	know	myself
+1.0	you	know	I
+1.0	I	will ask	coward
+1.0	young man	of	statement
+1.0	it	be	plain
+1.0	it	be plain from	whole tone of young man 's statement
+1.0	it	be plain from	tone
+0.5280642678171727	he	very bitter and contemptuous thought about	himself
+0.5280642678171727	he	bitter thought about	himself
+1.0	he	harbour	bitter thought about himself
+1.0	he	harbour	thought about himself
+0.5280642678171727	he	bitter and contemptuous thought about	himself
+1.0	he	harbour	very bitter thought about himself
+1.0	he	harbour	bitter thought
+1.0	it	be plain from	tone of young man 's statement
+0.5280642678171727	he	thought about	himself
+1.0	he	harbour	very bitter thought
+1.0	it	be plain from	whole tone
+1.0	it	be plain from	tone of man 's statement
+0.5280642678171727	he	very bitter thought about	himself
+1.0	he	harbour	thought
+1.0	it	be plain from	whole tone of man 's statement
+1.0	he auditor	be lead	imagine
+1.0	he	have design on	he life
+1.0	he	have design on	he own life
+1.0	he love affair	be nearer	he heart
+1.0	he auditor	be	lead
+1.0	he	have	design
+1.0	farce	have	much air in disguise
+1.0	farce	have	air in disguise
+1.0	farce	have	very much air of tragedy
+1.0	farce	have	much air of tragedy
+1.0	farce	have	much air
+1.0	farce	have	air
+1.0	farce	have	air of tragedy
+1.0	farce	have	very much air of tragedy in disguise
+1.0	farce	have	very much air
+1.0	air	be in	disguise
+1.0	farce	have	very much air in disguise
+1.0	farce	have	air of tragedy in disguise
+1.0	farce	have	much air of tragedy in disguise
+1.0	fellow	be in	condition
+1.0	three fellow	be in	nearly condition
+1.0	three fellow	be in	condition
+1.0	fellow	be in	same condition
+1.0	three fellow	be in	nearly same condition
+1.0	fellow	be in	nearly same condition
+1.0	three fellow	be in	so nearly condition
+1.0	fellow	be in	so nearly same condition
+1.0	fellow	be in	nearly condition
+1.0	fellow	be in	so nearly condition
+1.0	three fellow	be in	so nearly same condition
+1.0	three fellow	be in	same condition
+1.0	you	be	too ruin
+1.0	you	be	ruin
+1.0	supper	be folly like	my cream tart
+1.0	supper	be	folly
+1.0	devil	have bring together	three of he own
+1.0	devil	have bring together	three he own
+1.0	devil	have bring	three he own
+1.0	devil	have bring	three of he own
+1.0	I	put end to	disparity
+1.0	I	be so much touch by	coincidence
+1.0	I	put	end
+1.0	I	be touch by	coincidence
+1.0	I	be	much touch
+1.0	I	be	so much touch
+1.0	devil	depend upon	it
+1.0	I	be much touch by	coincidence
+1.0	I	be	touch
+1.0	you heroic treatment	be	my example
+1.0	cream tart	heroic treatment of be	my example
+1.0	you treatment	be	my example
+1.0	cream tart	treatment of be	my example
+1.0	last cream tart	heroic treatment of be	my example
+1.0	last cream tart	treatment of be	my example
+1.0	Prince	take bundle from	it
+1.0	Prince	draw out	he purse
+1.0	Prince	take	small bundle of bank-note
+1.0	Prince	take	small bundle
+1.0	Prince	take	bundle of bank-note
+1.0	Prince	take	bundle
+1.0	he	toss	they
+1.0	they	go in	blaze
+1.0	they	go up	chimney
+1.0	they	go in	single blaze
+1.0	young man	catch	he arm
+1.0	man	catch	he arm
+1.0	heaven	in	name
+1.0	rule	be	strict
+1.0	Colonel	exchange	glance
+1.0	Prince	exchange	glance
+1.0	you	must tell	we
+1.0	you	must certainly tell	we
+1.0	he	look from	one to other
+1.0	man	seem	awaken
+1.0	he	look uneasily from	one to other
+1.0	young man	seem	awaken
+0.7393327631157398	you	be indeed ruin	man
+0.7393327631157398	you	be ruin	man
+0.7393327631157398	you	be ruin	man like I
+0.7393327631157398	you	be indeed ruin	man like I
+0.6937554393550117	you	man like	I
+1.0	I	be for	indeed my part
+1.0	I	be for	my part
+1.0	Prince	say for	mine
+1.0	ruin man	would throw	he note
+1.0	man	would throw	he note
+1.0	action	speak for	itself
+1.0	you	be come after	life
+1.0	you	only indulge	yourself
+1.0	you	indulge	yourself
+1.0	you	be come after	life of indulgence
+1.0	he	lower	he voice
+1.0	you	avoid	consequence
+1.0	you	avoid	consequence by one infallible path
+1.0	you	avoid	consequence of you folly by one path
+1.0	you	avoid	consequence of you folly
+1.0	you	avoid	consequence by one path
+1.0	you	avoid	consequence of you folly by one infallible path
+1.0	you	give slip to	sheriff 's officer of conscience
+1.0	you	give	slip
+1.0	you	give slip by	one door
+1.0	you	give slip to	sheriff 's officer
+1.0	sheriff	to	officer of conscience
+1.0	you	give slip by	one open door
+1.0	he	attempt to	laugh
+1.0	my merry	ruin	man
+1.0	he glass	night to	you
+1.0	he glass	good night to	you
+1.0	my merry	empty	he glass
+1.0	Colonel Geraldine	catch	he
+1.0	you	be	wrong
+1.0	we	be determine	die
+1.0	we	have have enough like	yourself
+1.0	we	too have have like	yourself
+1.0	we	too have have enough like	yourself
+1.0	we	have have like	yourself
+1.0	we	be	determine
+1.0	we	seek out	beard
+1.0	he	lie	ready
+1.0	you case	be	pressing
+1.0	you case	be	more pressing
+1.0	we	have meet	you
+1.0	it	be	to-night
+1.0	some	countenance among	shades
+1.0	Geraldine	have hit on	manners
+1.0	intonation	part	he be play
+1.0	Geraldine	have hit exactly on	manners
+1.0	intonation	become	part
+1.0	Prince	look over at	he confidant
+1.0	Prince	look over with	shade
+1.0	Prince	be	disturb
+1.0	Prince	look over with	shade of doubt
+1.0	flush	come as for	young man
+1.0	flush	come back into	he cheek
+0.7139021192201392	he eye	spark of	light
+1.0	flush	come as for	man
+1.0	flush	come into	he cheek
+1.0	flush	come darkly into	he cheek
+1.0	flush	come back as for	man
+1.0	flush	come back darkly as for	young man
+1.0	flush	come back as for	young man
+1.0	flush	come back darkly as for	man
+1.0	flush	come darkly as for	young man
+1.0	flush	come darkly as for	man
+1.0	he eye	throw out	spark of light
+1.0	flush	come back darkly into	he cheek
+1.0	he eye	throw out	spark
+0.7648952201432874	you	be man for	I
+0.7648952201432874	you	be	man
+1.0	he	cry with	terrible gaiety
+1.0	he	cry with	almost terrible gaiety
+1.0	he	cry with	gaiety
+1.0	he hand	be	cold
+1.0	death	have	private door
+1.0	I	know	death 's door
+1.0	I	know	death 's private door
+1.0	I	show	you
+1.0	they	explain	he meaning
+1.0	they	call eagerly upon	he
+1.0	they	call upon	he
+1.0	Geraldine	reply in	affirmative
+1.0	Geraldine	consult	he pocket-book
+1.0	Geraldine	ostentatiously consult	he pocket-book
+0.6060731278495218	pound	be	entry money
+0.6060731278495218	forty pound	be	entry money
+0.6060731278495218	forty pound	be	entry money of Suicide Club
+0.6060731278495218	pound	be	entry money of Suicide Club
+1.0	Suicide Club	say	Prince
+1.0	I	tell	you
+1.0	we	have	affair
+1.0	we	have	affair in place
+1.0	railway	be	hence invent
+1.0	railway	be	invent
+1.0	affair	be in	different place
+1.0	we	have	affair in different place
+1.0	telegraph	be	so make
+1.0	telegraph	be	make
+1.0	we	communicate at	great distance
+1.0	railway	separate	we
+0.05598825210594094	railway	separate from	we friend
+1.0	we	communicate at	distance
+1.0	we	communicate speedier at	distance
+1.0	railway	separate infallibly	we
+1.0	we	communicate speedier at	great distance
+0.05598825210594094	railway	separate infallibly from	we friend
+1.0	life	play fool upon	as long
+1.0	part	amuse	we
+1.0	life	play	fool
+1.0	life	be	stage
+1.0	life	play fool upon	long
+1.0	life	be	only stage
+1.0	death	have	private door
+1.0	my fellow-rebel	be	supply
+1.0	my fellow-rebel	be supply by	Suicide Club
+1.0	my two fellow-rebel	be	supply
+1.0	my two fellow-rebel	be supply by	Suicide Club
+1.0	number	be	only keep
+1.0	large number	be	keep
+1.0	large number	be	only keep
+1.0	number	be	keep
+1.0	other	have	weakness at heart from circumstance of death
+1.0	other	have	weakness at heart
+0.9155957406414413	other	weakness from	circumstance
+1.0	other	have	weakness from circumstance
+1.0	other	have	weakness from circumstance of death
+1.0	matter	become	public
+1.0	some	have family	matter become
+0.9155957406414413	other	weakness at	heart
+0.9155957406414413	other	weakness from	circumstance of death
+1.0	other	have	weakness
+1.0	other	have	weakness at heart from circumstance
+1.0	some	have	family
+1.0	my experience	be to	extent
+1.0	my own experience	be to	extent
+1.0	I	draw	trigger
+1.0	I have strength	be in	my body
+1.0	myself	withhold	act
+1.0	Suicide Club	be	for all have inaugurate
+1.0	Suicide Club	be	have inaugurate
+1.0	I	be	uninformed
+1.0	may its ramification	be in	other land
+1.0	myself	be	uninformed
+1.0	I	be at	you service
+1.0	I	be at	to extent however you service
+1.0	I	be at	to extent you service
+1.0	I	be at	however you service
+1.0	I	will introduce	truly tired of life
+1.0	I	will introduce	tired
+1.0	you	be tired of	life
+1.0	you	to-night to	meeting
+1.0	you	be	tired
+1.0	you	be truly tired of	life
+1.0	I	will introduce	tired of life
+1.0	I	will introduce	truly tired
+1.0	you	be	truly tired
+1.0	it	be now consult	eleven
+1.0	it	be consult eleven by	half-past at latest
+1.0	we	must leave	place
+1.0	you	have	half-an-hour
+1.0	it	be now consult eleven by	half-past at latest
+1.0	it	be consult eleven by	half-past
+1.0	it	be consult	eleven
+0.07149773898788192	you	have half-an-hour	you consider
+1.0	you	consider	my proposal
+1.0	it	be now consult eleven by	half-past
+1.0	I	suspect	palatable
+1.0	it	be	serious
+1.0	it	be more serious than	cream tart
+1.0	it	be serious than	cream tart
+1.0	it	be	more serious
+1.0	he	add with	smile
+1.0	I	suspect	more palatable
+1.0	you	will allow	I
+0.14059619431790493	you	will allow	much more
+1.0	you	will allow	five minute ' speech in private with my friend
+0.14059619431790493	you	will allow	more so
+0.14059619431790493	you	will allow	so much more so
+0.14059619431790493	you	will allow	so more
+1.0	you	will allow	five minute ' speech
+1.0	you	will allow	five minute ' speech in private
+0.14059619431790493	you	will allow	so much more
+1.0	five minute ' speech	be with	my friend
+0.14059619431790493	you	will allow	so more so
+0.14059619431790493	you	will allow	much more so
+1.0	you	will allow	five minute ' speech with my friend
+1.0	five minute ' speech	be in	private
+0.14059619431790493	you	will allow	more
+1.0	it	be	only fair
+1.0	it	be	fair
+1.0	I	will retire	you will permit
+1.0	I	will see	end of this
+1.0	I	will see	end
+1.0	Colonel	turn	pale
+1.0	you	consider	importance of you life
+1.0	you	consider	importance
+1.0	I	ask	you
+0.012959611411341942	Prince	have	Colonel Geraldine
+1.0	I	see	end
+0.012959611411341942	Prince	have	kindness remember
+1.0	Prince	have	Colonel Geraldine
+0.5582350100133853	I	end of	this
+1.0	I	see	end of this
+0.012959611411341942	Prince	have	kindness remember as gentleman
+1.0	you	call for	bill
+1.0	I	ask	you
+1.0	Prince	preserve	he undisturbed demeanour
+1.0	Prince	describe palais royal farce with	great humour
+1.0	Prince	preserve	he demeanour
+1.0	Prince	describe palais royal farce with	humour
+1.0	Prince	describe	Palais Royal farce
+1.0	Prince	describe palais royal farce to	suicide
+1.0	Prince	describe palais royal farce to	young suicide
+1.0	Colonel	have	appealing look
+1.0	he	avoid	Colonel 's appealing look
+1.0	he	avoid	Colonel 's look
+1.0	he	indeed be only man of	party
+1.0	he	be now only man of	party
+1.0	he	be	indeed now only man
+1.0	he	indeed be now only man of	party
+1.0	he	be	indeed man
+1.0	he	be	indeed only man
+1.0	he	be	indeed now man
+1.0	he	indeed be now man of	party
+1.0	he	be only man of	party
+1.0	he	be	now only man
+1.0	he	be	now man
+1.0	he	be man of	party
+1.0	he	be now man of	party
+1.0	he	be	man
+1.0	he	indeed be man of	party
+1.0	he	be	only man
+0.7170828648039138	give	whole change of	note
+1.0	bill	be discharge	Prince
+1.0	three	drive in	four wheeler
+1.0	bill	be discharge	Prince to waiter
+1.0	three	drive off in	four wheeler
+1.0	bill	be discharge	Prince to astonished waiter
+0.7170828648039138	give	change of	note
+0.7792405880040242	it	make	you escape
+0.7792405880040242	it	make	good you escape
+1.0	Geraldine	have pay	fare
+1.0	man	address	Prince Florizel
+1.0	young man	address prince florizel	follow
+1.0	man	address prince florizel	follow
+1.0	young man	address	Prince Florizel
+1.0	you coolness	do	I good
+1.0	young man	wave	he hand
+1.0	man	turn into	court
+1.0	young man	turn into	court
+1.0	man	wave	he hand
+1.0	I	beseech	you highness
+1.0	myself	push	a little farther
+1.0	myself	push	a farther
+1.0	consequence	be	dark
+1.0	myself	push	a
+1.0	consequence	be	so dark
+1.0	Colonel Geraldine	be	afraid
+1.0	he Highness	look keenly into	other 's face
+1.0	he Highness	take	he cheroot
+1.0	other	into	face
+1.0	he Highness	look into	other 's face
+1.0	you highness	may rest	assure
+1.0	you highness	may rest	well assure
+1.0	Prince	be with	undisturbed good humour
+1.0	he	see	Geraldine about apologise
+1.0	you	stand	excuse
+1.0	he	smoke placidly	lean
+1.0	he	lean against	railing
+1.0	he	smoke	lean against railing
+1.0	he	smoke	young man return
+1.0	he	smoke placidly	lean against railing
+1.0	he	smoke placidly	man return
+1.0	he	smoke placidly	young man return
+1.0	he	smoke	man return
+1.0	he	smoke	lean
+1.0	we reception	be	arrange
+1.0	I	warn	you
+1.0	Geraldine	put together	they head
+1.0	Prince	put	they head
+1.0	Prince	put together	they head
+1.0	Geraldine	put	they head
+1.0	they	boldly take up	character of man
+1.0	they	have come to	agreement in twinkling
+1.0	President	into	cabinet
+1.0	they	take up	character
+1.0	they	take up	character of man
+1.0	both	be	acquaint
+1.0	they	boldly take up	character
+1.0	they	have come to	agreement
+1.0	Bear I	bear out	I
+1.0	agreement	be in	twinkling
+1.0	door	stand	open
+1.0	outer door	stand	open
+1.0	he	say with	nod
+1.0	he	say	he disappear
+1.0	noise	now and then intervene among	sound of conversation
+1.0	noise	intervene among	sound of conversation
+1.0	voice	be audible through	folding door
+1.0	voice	be audible through	door
+1.0	noise	intervene among	sound
+1.0	noise	now intervene among	sound
+1.0	noise	now and then intervene among	sound
+1.0	voice	be	audible
+1.0	noise	now intervene among	sound of conversation
+1.0	they	judge	themselves
+1.0	single tall window	look out upon	river
+1.0	window	look out upon	river
+1.0	tall window	look out upon	river
+1.0	single window	look out upon	river
+1.0	hat	hang	round wall on peg
+1.0	coat	hang	wall
+1.0	furniture	be	movable except hand-bell in centre of round table
+0.6173648645284083	coat	hat of	party
+1.0	furniture	be	nothing movable except hand-bell in centre of round table
+0.8126220812146515	wall	hat of	party
+1.0	hat	hang	round wall
+1.0	coat	hang	round wall
+1.0	coat	hang	wall on peg
+1.0	furniture	be	scanty
+0.8126220812146515	wall	hat of	considerable party
+1.0	hat	hang	wall on peg
+0.801645276123268	coat	wall on	peg
+0.6173648645284083	coat	hat of	considerable party
+1.0	coat	hang	round wall on peg
+0.801645276123268	coat	round wall on	peg
+1.0	furniture covering	wear to	thread
+1.0	hat	hang	wall
+0.4735073641878579	I	come	see
+1.0	they	keep	live devil
+1.0	thing	may grow	amusing
+1.0	they	keep	devil
+1.0	they	keep devil on	premise
+1.0	door	redoubtable president of	Suicide Club
+1.0	door	enter at	moment
+1.0	folding door	redoubtable president of	Suicide Club
+1.0	door	president of	Suicide Club
+1.0	folding door	enter at	moment
+1.0	door	enter at	same moment
+1.0	folding door	enter at	same moment
+1.0	folding door	president of	Suicide Club
+1.0	President	be	man
+1.0	he	continually screw	side to side
+1.0	he	keep	he look
+1.0	he mouth	keep	he look
+1.0	he	keep	he look sagaciously
+1.0	he	screw	side
+1.0	he	continually screw	round
+1.0	he	continually screw	round
+1.0	he	screw	side to side
+1.0	he	screw	round
+1.0	he	screw	round
+1.0	he mouth	keep	he look sagaciously
+1.0	he	continually screw	side
+1.0	he	be dress with	he neck in striped shirt collar
+1.0	he	be	dress in light tweeds with he neck open
+1.0	he	be dress with	he neck very open in striped shirt collar
+1.0	he	be	dress in tweeds with he neck very open in shirt collar
+1.0	he	be	dress in tweeds with he neck open in shirt collar
+1.0	he	be	dress in light tweeds with he neck very open
+1.0	he	be	dress in tweeds with he neck open in striped shirt collar
+1.0	he	be	dress in tweeds with he neck very open in striped shirt collar
+1.0	he	be	dress in tweeds with he neck
+1.0	he	be dress with	he neck
+1.0	he	be	dress in tweeds with he neck in striped shirt collar
+1.0	he	be	dress in tweeds with he neck very open
+1.0	he	be	dress
+1.0	he	be dress with	he neck very open in shirt collar
+1.0	he	be	dress in light tweeds with he neck very open in striped shirt collar
+1.0	he	be	dress in light tweeds with he neck open in shirt collar
+1.0	he neck	be in	striped shirt collar
+1.0	he	be dress with	he neck open in striped shirt collar
+1.0	he	be dress in	tweeds
+1.0	he	be	dress in light tweeds with he neck in shirt collar
+1.0	he	be	dress in light tweeds with he neck
+1.0	he	be	dress in tweeds with he neck in shirt collar
+1.0	he	be dress with	he neck open in shirt collar
+1.0	he	be	dress in tweeds with he neck open
+1.0	he	carry	minute book
+1.0	he	be	dress in light tweeds with he neck very open in shirt collar
+1.0	he	be dress with	he neck in shirt collar
+1.0	he	be dress with	he neck open
+1.0	he	carry minute book under	one arm
+1.0	he	be dress in	light tweeds
+1.0	he	be dress with	he neck very open
+1.0	he	be	dress in light tweeds with he neck in striped shirt collar
+1.0	he	be	dress in light tweeds with he neck open in striped shirt collar
+1.0	we	have	sir
+1.0	President	roll	he cigar
+1.0	President	roll about	he cigar
+1.0	you	make	mistake
+1.0	you	must leave instantly	it
+1.0	you	must leave	it
+1.0	this	be	private
+1.0	he	have doubtless inform	you
+1.0	he	have inform	you
+1.0	I	remind	you
+1.0	person	be in	my circumstance
+1.0	you	ever admit	I
+1.0	you	be	aware
+1.0	you	admit	I
+1.0	I	be quiet man as	usual thing
+1.0	I	be man as	usual thing
+1.0	I	be	man
+1.0	you	oblige	I
+1.0	I	be very quiet man as	thing
+0.08453415743209902	you	ever admit to	you ante-chamber
+1.0	I	be man as	thing
+0.08453415743209902	you	admit to	you ante-chamber
+1.0	I	be quiet man as	thing
+1.0	I	be	quiet
+1.0	I	be	very quiet man
+1.0	I	be very quiet man as	usual thing
+1.0	I	be	quiet man

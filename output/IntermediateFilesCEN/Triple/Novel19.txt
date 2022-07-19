@@ -1,0 +1,536 @@
+1.0	reason	be with	detective
+1.0	he	go towards	study
+1.0	Mr. Ambrose	undertake to	reason
+1.0	Mr. Ambrose	undertake to	reason with detective
+1.0	he	go directly towards	study
+1.0	doctor	speak	squire have promise
+1.0	doctor	speak with	he
+1.0	Mr. Juxon	enter from	opposite end
+1.0	Doctor Longstreet	enter from	end of long room
+1.0	Mr. Juxon	enter from	end
+1.0	Doctor Longstreet	enter from	opposite end
+1.0	Mr. Juxon	enter from	opposite end of long room
+1.0	Doctor Longstreet	enter from	opposite end of long room
+1.0	Mr. Ambrose	come towards	he
+1.0	Mr. Juxon	enter from	end of long room
+1.0	Doctor Longstreet	enter from	end of room
+1.0	Mr. Juxon	enter from	end of room
+1.0	he	open	door
+1.0	Mr. Juxon	enter from	opposite end of room
+1.0	Doctor Longstreet	enter from	opposite end of room
+1.0	Doctor Longstreet	enter from	end
+1.0	cheerful physician	be talk in	tone
+1.0	physician	be talk in	excited tone
+1.0	physician	be talk in	rather excited tone
+1.0	physician	be talk in	tone
+1.0	cheerful physician	be talk in	rather excited tone
+1.0	cheerful physician	be talk in	excited tone
+1.0	I	must see again	he
+1.0	I	must see	he
+1.0	thing	look quite differently by	daylight
+1.0	hour	may make	change in world
+1.0	thing	look differently by	daylight
+1.0	thing	look by	daylight
+1.0	say	be	absurd
+1.0	I	will stake	my reputation
+1.0	exclamation	be	elicit
+1.0	exclamation	be elicit by	Mr. Booley
+1.0	this	be	Mr. Booley
+1.0	he	tell	I
+1.0	he	turn to	detective
+1.0	doctor Longstreet	will tell	you
+1.0	I	assure	you
+1.0	I	must see man at	once
+1.0	I	must see	man
+1.0	it	be	absolutely necessary
+1.0	it	identify	he
+1.0	it	be	necessary
+1.0	Doctor Longstreet	be with	equal firmness
+1.0	Mr. Booley	be with	more haste than logic
+0.9816938365405161	Doctor Longstreet	grow red in	face
+0.9816938365405161	Doctor Longstreet	red in	face
+1.0	detective	attempt	push
+1.0	detective	push past	he
+1.0	detective	attempt	push past he
+1.0	John Short	leave	room
+1.0	John Short	hastily leave room at	moment
+1.0	John Short	hastily leave	room
+1.0	John Short	leave room at	moment
+1.0	this	be	very unwarrantable
+1.0	I	have	warrant in my pocket
+1.0	I	have	warrant
+1.0	warrant	be in	my pocket
+1.0	Mr. Juxon	plant	he square
+1.0	Mr. Juxon	plant	sturdy form
+1.0	Mr. Juxon	plant form between	door
+1.0	Mr. Juxon	plant	form
+1.0	he	be	most unobtrusive
+1.0	he	be generally most unobtrusive of	man
+1.0	Charles Juxon	command other for	part
+1.0	Charles Juxon	have	have accustom
+1.0	Charles Juxon	command other for	part of he life
+1.0	Charles Juxon	command	other
+1.0	he	be unobtrusive of	man
+1.0	he	be	unobtrusive
+1.0	he	be most unobtrusive of	man
+1.0	he	be	generally unobtrusive
+1.0	he	be	generally most unobtrusive
+1.0	he	be generally unobtrusive of	man
+1.0	Charles Juxon	command other for	greater part
+1.0	Charles Juxon	command other for	greater part of he life
+1.0	he	raise	he voice
+0.7154030292984912	he word	carry	weight
+0.9759110794097282	something	impose in	even smoothness
+0.9759110794097282	something	impose in	smoothness of he brown hair
+0.9759110794097282	something	impose in	even smoothness of he brown hair
+0.9759110794097282	something	impose in	even smoothness of he hair
+1.0	he blue eye	stare at	Mr. Booley
+0.9759110794097282	something	impose in	even unruffled smoothness
+0.9759110794097282	something	impose in	smoothness of he hair
+0.9759110794097282	something	impose in	even unruffled smoothness of he brown hair
+1.0	he blue eye	stare hard at	Mr. Booley
+0.9759110794097282	something	impose in	unruffled smoothness
+0.9759110794097282	something	impose in	unruffled smoothness of he hair
+0.9759110794097282	something	impose in	even unruffled smoothness of he hair
+0.9759110794097282	something	impose in	he head
+0.9759110794097282	something	impose in	smoothness
+1.0	he eye	stare hard at	Mr. Booley
+0.9759110794097282	something	impose in	unruffled smoothness of he brown hair
+1.0	he eye	stare at	Mr. Booley
+0.9759110794097282	something	impose in	he square head
+1.0	Mr. Booley	pause	he hand
+0.07470657823758098	Mr. Booley	pause into	he pocket
+1.0	Doctor Longstreet	go in	look
+1.0	you	may wait with	I
+1.0	Doctor Longstreet	look at	patient
+1.0	Doctor Longstreet	go in	look at patient
+1.0	you	see	he
+1.0	you	may go	unconscious
+1.0	man	be	unconscious
+1.0	you	may go in	unconscious
+1.0	he	be	unconscious again
+1.0	you	must wait	he chance
+1.0	you	must wait	unconscious again
+1.0	he	be	lucid
+1.0	he	be	unconscious
+1.0	he	be in	interval
+1.0	he	be in	lucid interval
+1.0	he	chance	lucid interval
+1.0	you	must wait	unconscious
+1.0	he	chance	interval
+1.0	that	be	perfectly reasonable
+1.0	nobody	trifle with	you
+1.0	he	lead	way
+1.0	he	forthwith lead	way
+1.0	he	forthwith lead	way follow by Mr. Booley
+1.0	he	lead	way follow
+1.0	he	lead	way follow by Mr. Booley
+1.0	he	forthwith lead	way follow
+1.0	he	forthwith lead	physician
+1.0	he	lead	physician
+1.0	they	reach	door
+1.0	Mr. Juxon	by	determine manner
+1.0	I	should like	know
+1.0	you	frighten	man
+1.0	I	will go in with	you
+1.0	I	tell	you
+1.0	you	go without	my permission
+1.0	you	go into	room
+1.0	he	say in	loud voice
+1.0	he	say in	voice
+1.0	man	die of	fright
+1.0	I	be in	my house
+1.0	I	be justice of	peace here
+1.0	I	be in	my own house
+1.0	I	be	justice
+1.0	I	be justice of	peace
+1.0	Mr. Juxon	have	authoritative tone
+1.0	Mr. Juxon 's tone	again check	detective
+1.0	Mr. Juxon 's tone	check	detective
+1.0	Mr. Juxon 's authoritative tone	again check	detective
+1.0	Mr. Juxon 's authoritative tone	check	detective
+1.0	squire	try	door
+1.0	squire	have	voice
+1.0	Mrs. Ambrose	be stand on	side of sick man
+1.0	Mrs. Ambrose	meanwhile be stand on	side of sick man
+1.0	Mary Goddard	meanwhile be stand on	side of sick man
+1.0	Mary Goddard	be stand on	side of sick man
+1.0	they	convey	impression to he brain
+1.0	they	convey	impression
+0.47529628223363024	they	impression to	he brain
+1.0	I	shall catch	he
+1.0	I	shall just catch	he
+1.0	he	go by	ugh
+1.0	wretched man	spring up with	wild shriek
+1.0	wretched man	spring up upon	he eye
+1.0	wretched man	spring up with	shriek
+1.0	man	spring up upon	he knee
+1.0	man	spring up with	wild shriek
+1.0	man	spring up upon	he eye
+1.0	he face	transfigure with	horror
+1.0	wretched man	spring up upon	he knee
+1.0	man	spring up with	shriek
+1.0	he	knee	eye
+1.0	doctor Longstreet	run to	he side
+1.0	doctor Longstreet	enter at	moment
+1.0	he	see	he
+1.0	Mary Goddard	stare down at	she husband
+1.0	she hand	grip convulsively	coverlet
+1.0	Mrs. Ambrose	be white with	horror
+1.0	she hand	grip convulsively	disorder coverlet
+1.0	Mary Goddard	stand	motionless
+1.0	she hand	grip	disorder coverlet
+1.0	Mrs. Ambrose	be	white
+1.0	she hand	grip	coverlet
+1.0	Mr. Juxon	have enter	Mr. Ambrose remain with detective
+1.0	Mr. Juxon	have enter	Mr. Ambrose remain
+1.0	physician	by	last threat
+1.0	Mr. Ambrose	remain	outside
+1.0	Mr. Juxon	have enter too	Mr. Ambrose remain with detective
+1.0	Mr. Ambrose	remain with	detective
+1.0	Mr. Juxon	have enter too	Mr. Ambrose remain
+1.0	squire	bite	he lip
+1.0	squire	pace room in	agitation
+1.0	squire	wring	he hand
+1.0	squire	pace	room
+1.0	squire	pace room in	greatest agitation
+1.0	squire	wring together	he hand
+1.0	John	have close	door
+1.0	John	come to	foot of bed
+1.0	Goddard	at	face
+1.0	John	come to	foot
+1.0	John	look at	Goddard 's face
+1.0	Doctor Longstreet	speak after	pause
+1.0	she	add in	tone
+1.0	she	add quickly in	broken tone
+1.0	she	add quickly in	tone
+1.0	she	add in	broken tone
+1.0	physician	look hard at	unhappy woman
+1.0	Goddard	have	stare eye
+1.0	Goddard 's stare eye	be	glaze
+1.0	Goddard 's eye	be	glaze
+1.0	he	gasp for	breath
+1.0	he	gasp at_time	three time
+1.0	it	be	over
+1.0	Mary	gaze at	he face
+1.0	smile	part	she lip
+1.0	faint smile	part	she lip
+1.0	Mary	gaze at	he dead face
+1.0	she	raise	one hand
+1.0	Mary	gaze for	one instant
+1.0	he	be	safe now
+1.0	he	be	safe
+1.0	Charles Juxon	catch	she
+1.0	he	bear	she
+1.0	he	bear swiftly	she
+1.0	he burden	be in	he arm
+1.0	Mr. Ambrose	be with	he burden in he arm
+1.0	Mr. Ambrose	be in	passage
+1.0	few step	meet	Holmes butler
+1.0	step	farther meet	Holmes butler
+1.0	step	meet	Holmes butler
+1.0	he	meet	Holmes butler
+1.0	few step	farther meet	Holmes butler
+1.0	he	farther meet	Holmes butler
+1.0	vicar	have enter	room
+1.0	detective	have already enter	room
+1.0	vicar	have already enter	room
+1.0	detective	have enter	room
+1.0	all	gaze	he lay
+1.0	all	stand	gaze
+1.0	all	stand around	bed
+1.0	all	stand	gaze at he pale face
+1.0	all	gaze at	he face
+1.0	all	stand	gaze at he face
+1.0	all	gaze at	he pale face
+1.0	John	take	despatch
+1.0	butler	from	hand
+1.0	John	take despatch from	butler 's hand
+1.0	he	tear	it open
+1.0	he	thrust	it
+1.0	he	hastily tear	it open
+1.0	he	glance at	contents
+1.0	I	be in	first Tripos
+1.0	I	be in	Tripos
+1.0	he	have look through	month of untiring labour
+1.0	he	have look forward through	month of untiring labour
+1.0	he	have	little guess
+1.0	news	reach	he
+0.8580719050865161	he	news of	victory
+1.0	he	have	guess
+1.0	he	stand with	group of spectator
+1.0	he	feel	indeed he stand by man 's bed
+1.0	he	feel	indeed he stand
+1.0	he	stand with	group
+1.0	he	indeed stand with	group
+1.0	thing	be as	nothing
+1.0	he	stand with	group of pale spectator
+1.0	he	feel	he stand by dead man 's bed
+1.0	he	stand by	man 's bed
+1.0	he	indeed stand by	dead man 's bed
+1.0	it	be	nothing
+1.0	greatest thing	be as	nothing
+1.0	he	feel	he stand by man 's bed
+1.0	he	feel	indeed he stand by dead man 's bed
+1.0	he	have witness	act
+1.0	he	indeed stand by	man 's bed
+1.0	he	have witness	last act
+1.0	he	feel	he stand
+1.0	he	indeed stand with	group of pale spectator
+1.0	dead man	by	bed
+1.0	he	indeed stand with	group of spectator
+1.0	he	stand by	dead man 's bed
+1.0	it	be	over
+1.0	convict	have escape law at	very moment
+1.0	convict	have escape	law
+1.0	hand	be upon	when he
+1.0	convict	have escape law in	end
+1.0	hand	be upon	he
+1.0	convict	have escape law at	moment
+1.0	simple stone cross	mark	he grave
+1.0	simple stone cross	mark	he nameless grave
+1.0	stone cross	mark	he grave
+1.0	stone cross	mark	he nameless grave
+1.0	it	stand in	churchyard in shadow of ancient abbey
+1.0	it	there stand in	churchyard of Billingsfield in shadow of abbey
+1.0	it	stand in	churchyard in shadow of abbey
+1.0	it	stand in	churchyard in shadow
+1.0	it	there stand in	churchyard of Billingsfield
+1.0	it	there stand to	day
+1.0	it	stand in	churchyard of Billingsfield in shadow
+1.0	churchyard	be in	shadow of ancient abbey
+1.0	it	stand to	day
+1.0	it	stand in	churchyard of Billingsfield in shadow of abbey
+1.0	it	there stand in	churchyard in shadow of ancient abbey
+1.0	it	there stand in	churchyard in shadow of abbey
+1.0	it	there stand in	churchyard of Billingsfield in shadow of ancient abbey
+1.0	it	there stand in	churchyard of Billingsfield in shadow
+1.0	it	stand in	churchyard of Billingsfield
+1.0	it	there stand in	churchyard in shadow
+1.0	it	stand in	churchyard
+1.0	it	stand in	churchyard of Billingsfield in shadow of ancient abbey
+1.0	it	there stand in	churchyard
+1.0	he	have always show in	matter
+1.0	it	may	may believe
+1.0	story	be tell by	villager
+1.0	story	be	tell
+1.0	Mr. Gall	be in	good cheer
+1.0	Mr. Gall	be in	once good cheer
+1.0	he	have show in	matter
+1.0	it	may	may well believe
+1.0	Mr. Gall	be in	once cheer
+1.0	Mr. Gall	be in	cheer
+1.0	Mr. Gall 's memory	fail in	regard
+1.0	Mr. Gall	have	memory
+1.0	Mr. Gall 's memory	already fail in	regard to event
+1.0	Mr. Gall 's memory	fail in	regard to event
+0.862508163127749	Mr. Reid	bury	poor tramp
+1.0	it	be	possible
+0.862508163127749	Mr. Reid	bury	tramp
+1.0	Mr. Gall 's memory	already fail in	regard
+0.951232237148001	it	life at	vicarage
+1.0	it	agitate	life of quiet people
+1.0	it	agitate	life of quiet people at vicarage
+1.0	it	reach violently	its termination
+1.0	it	agitate	life
+1.0	it	reach	its termination
+0.951232237148001	it	life of	quiet people
+1.0	it	reach as violently	its termination
+1.0	it	agitate	life of people
+1.0	it	agitate	life at vicarage
+1.0	it	agitate	life of people at vicarage
+0.951232237148001	it	life of	people
+1.0	it	be long before	those
+1.0	it	be	long
+1.0	it	be long too before	those
+1.0	it	be	long too
+1.0	Goddard	of	death
+1.0	he	be	alive
+1.0	Goddard	of	memory
+1.0	she	be	herself again
+1.0	she	bloom out into	second youth
+1.0	she	be	herself
+1.0	she	bloom out into	youth
+1.0	she sorrow	be	forget
+1.0	Charles Juxon	once ask	she
+1.0	it	come	pass
+1.0	Charles Juxon	ask	she
+1.0	more	ask	she
+1.0	she	be	he wife
+1.0	more	once ask	she
+1.0	he blue eye	be	little moistened
+1.0	he eye	be	little moistened
+1.0	he eye	be	moistened
+1.0	Charles James Juxon	smooth	he hair
+1.0	eye	be	little
+1.0	he blue eye	be	moistened
+1.0	that	be	all
+1.0	New Year	have	day
+1.0	wedding-party	consist of	Mrs. Ambrose
+1.0	Reverend Augustin Ambrose	marry	they
+1.0	John Short	fellow of	Trinity College
+1.0	John	grow in	reputation
+1.0	man	be in	Billingsfield Hall
+1.0	Nellie	grow	John grow
+1.0	Nellie	have	sister
+1.0	Nellie	have	brother
+1.0	Nellie	grow in	beauty
+1.0	Nellie	grow	John grow in reputation
+1.0	its place	be	perhaps take
+1.0	its place	be	better take
+1.0	its place	be	perhaps better take
+1.0	its place	be	take
+1.0	he	refresh	himself
+1.0	hard work	be with	breath of country air
+0.5937307392657369	John Short	come	think
+1.0	he	be	so simple
+1.0	he	be	so very simple
+1.0	it	be doubtless	simple
+1.0	he	be	simple
+1.0	it	be	doubtless
+1.0	it	be doubtless	so very simple
+1.0	he	be	very simple
+1.0	it	be doubtless	very simple
+1.0	it	be doubtless	so simple
+1.0	he interview	be with	Mr. Juxon
+1.0	he interview	be	characteristic
+1.0	he	call	he John
+1.0	he	always call	he John now
+1.0	he	call	he John now
+1.0	he	always call	he John
+0.5366322611063062	you	marry	she mother
+1.0	you	know	all
+0.04584657021521499	you	know about	it
+1.0	I	know	all
+1.0	I	marry	herself
+1.0	I	know	all about it
+1.0	Charles Juxon	so give	he consent
+1.0	Charles Juxon	give	he consent
+1.0	first time	be in	many year
+1.0	I	think so of	course
+1.0	I	think of	course
+1.0	you	reputation	success
+1.0	whole world	with reputation be	you success
+1.0	you reputation	be with	whole world at you foot
+1.0	I	assure	you
+1.0	you	be	generous
+1.0	she	look to	he face
+1.0	you	be	very generous
+1.0	she	answer	look
+0.3021974963164926	I	nothing	say
+1.0	you	must do	you think best
+1.0	you	must do	you think
+1.0	you	may tell	she
+1.0	you	be	kind
+0.3239295221123589	I	be sure	I have know for ten year
+1.0	you	be kind to	Nellie
+0.3239295221123589	I	have know for	ten year
+0.3239295221123589	I	be sure	I have know
+1.0	I	be	sure
+1.0	I	be	very glad
+1.0	I	have know	you
+1.0	I	be	glad
+1.0	Mary Juxon	brush tear from	she eye
+1.0	Mary Juxon	brush	tear
+1.0	it	be	just here too
+1.0	it	be	just here
+1.0	it	be	here
+1.0	it	be	here too
+1.0	it	be	all settle
+1.0	it	be	settle
+1.0	it	be	so all settle
+1.0	it	be	so settle
+1.0	Reverend Augustin Ambrose	unite	two loving heart
+1.0	Reverend Augustin Ambrose	once more unite	two loving heart
+1.0	Reverend Augustin Ambrose	more unite	two loving heart
+1.0	Reverend Augustin Ambrose	more unite	two heart
+1.0	Reverend Augustin Ambrose	once more unite	two heart
+1.0	Reverend Augustin Ambrose	unite	two heart
+1.0	he hair	be	white
+1.0	he	be	stricken
+1.0	he hair	be	very white
+1.0	beard	be	very white
+1.0	beard	be	white
+1.0	he	be stricken in	year
+1.0	he	be	well stricken
+1.0	he	be well stricken in	year
+1.0	Mrs. Ambrose	more impose with	succeed season
+1.0	Mrs. Ambrose	impose with	succeed season
+1.0	deep affection	have spring	all
+1.0	affection	have spring	all
+1.0	Mary Juxon	be	she daughter
+1.0	she	cheer in	recovery
+1.0	she	have stand in	moment of trial
+1.0	old lady	feel	she daughter
+1.0	she	have stand in	moment of direst trial
+1.0	good lady	feel	she daughter
+1.0	good old lady	feel	she daughter
+1.0	lady	feel	she daughter
+1.0	she	have tend in	illness
+1.0	she	have stand in	moment
+1.0	woman 's heart	have go out	feel
+1.0	younger woman 's heart	have go out towards	she
+1.0	it	find	friend
+1.0	woman 's heart	have go out towards	she
+1.0	she	have find in	she adversity
+1.0	younger woman	have	heart
+1.0	it	find friend in	need
+1.0	younger woman 's heart	have go out	feel
+1.0	they	be like	one family now
+1.0	they	be like	one family
+1.0	man	may meet day for	very reason
+1.0	woman	join	exchange greeting
+1.0	man	may meet day for	reason
+1.0	honest man	may meet day after	day
+1.0	man	may meet day after	day
+1.0	woman	join hand	become
+1.0	honest man	may meet day for	reason
+1.0	honest man	may meet	day
+1.0	woman	join	hand
+1.0	honest man	may meet day for	very reason
+1.0	man	may meet	day
+1.0	woman	join exchange greeting	become
+1.0	tempest	be past	flower of friendship spring up
+1.0	tempest	be past	when flower of friendship spring up
+1.0	tempest	be past	when sweet flower up
+1.0	tempest	be past	when flower up
+1.0	tempest	be past	flower of friendship spring up in moistened
+1.0	tempest	be past	flower up
+1.0	tempest	be past	when sweet flower
+1.0	tempest	be past	sweet flower of friendship spring
+1.0	tempest	be past	when flower of friendship spring up in moistened
+1.0	tempest	be past	sweet flower
+1.0	tempest	be past	when flower up in moistened
+1.0	tempest	be past	sweet flower up in moistened
+1.0	tempest	be past	sweet flower up
+1.0	tempest	be past	when sweet flower of friendship spring up
+1.0	tempest	be past	when sweet flower of friendship spring up in moistened
+1.0	tempest	be past	when sweet flower up in moistened
+1.0	tempest	be past	when flower
+1.0	tempest	be past	flower
+1.0	tempest	be past	when flower of friendship spring
+1.0	tempest	be past	sweet flower of friendship spring up in moistened
+0.8284547733113409	tempest	furrow of	they life
+1.0	tempest	be past	flower of friendship spring
+1.0	tempest	be past	when sweet flower of friendship spring
+1.0	tempest	be past	sweet flower of friendship spring up
+1.0	tempest	be past	flower up in moistened
+0.8925913017659342	it	may	long may long indeed
+1.0	people	gather	Mary Goddard
+1.0	good people	be in	lonely parish of Billingsfield
+1.0	they	call	she then
+1.0	other	into	face
+1.0	they	call	she
+0.8925913017659342	it	may	may long indeed
+0.8925913017659342	it	may	may long
+1.0	people	gather mary goddard	they call
+0.8925913017659342	it	may	so long may long indeed
+1.0	they	be become as	brother
+1.0	they	be	become
+0.8925913017659342	it	may	long may long
+0.8925913017659342	it	may	so long may long
+1.0	she voice	be	less severe
+1.0	she voice	be	severe
+1.0	Mrs. Ambrose	have	face
+1.0	Mary Juxon	be	happiest
+1.0	little child	be with	face

@@ -21,7 +21,11 @@ def semantic_subj(storypath):
     '''
 
     #load in raw texts
-    f = open(storypath, 'r')
+    # try:
+    #     f = open(storypath, 'r')
+    # except:
+    #     f = open(storypath, 'r', encoding='ISO-8859-1')
+    f = open(storypath, 'r', encoding='ISO-8859-1')
     doc = f.read()
     f.close()
 
@@ -45,7 +49,7 @@ def semantic_subj(storypath):
 
     for n in range(len(sent_list)):
     # for n in range(1):
-        # print(n)
+        # print(sent_list[n])
 
         labels = predictor.predict(
             sentence = sent_list[n]
@@ -80,7 +84,11 @@ def ner_person(storypath):
     '''
 
     #load in raw texts
-    f = open(storypath, 'r')
+    # try:
+    #     f = open(storypath, 'r')
+    # except:
+    #     f = open(storypath, 'r', encoding='ISO-8859-1')
+    f = open(storypath, 'r', encoding='ISO-8859-1')
     doc = f.read()
     f.close()
 
@@ -134,7 +142,11 @@ def dep_link(storypath):
     '''
 
     #load in raw texts
-    f = open(storypath, 'r')
+    # try:
+    #     f = open(storypath, 'r')
+    # except:
+    #     f = open(storypath, 'r', encoding='ISO-8859-1')
+    f = open(storypath, 'r', encoding='ISO-8859-1')
     doc = f.read()
     f.close()
 
@@ -184,7 +196,11 @@ def triple(storypath):
     '''
 
     #load in raw texts
-    f = open(storypath, 'r')
+    # try:
+    #     f = open(storypath, 'r')
+    # except:
+    #     f = open(storypath, 'r', encoding='ISO-8859-1')
+    f = open(storypath, 'r', encoding='ISO-8859-1')
     doc = f.read()
     f.close()
 

@@ -1,0 +1,357 @@
+1.0	child	trudge up to	farm
+1.0	child	trudge up early to	farm
+1.0	child	trudge up on	Friday morning
+1.0	child	trudge up very early on	Friday morning
+0.6502317383943335	they father	news of	Becky
+1.0	child	trudge up very early to	farm
+1.0	child	trudge up early on	Friday morning
+1.0	she	know	she father
+1.0	she	know	she father quite well
+1.0	she	have ask for	Tiza
+1.0	she	have ask twice for	Tiza
+1.0	she	know	she father well
+1.0	she	know	mother
+1.0	they	find	she
+1.0	they	find	she as merry
+1.0	they	find	she almost as merry
+1.0	Olly	take out	she
+1.0	they	be very kind to	she
+1.0	they	be	kind
+1.0	they	be	very kind
+1.0	they	be kind to	she
+0.6721058326200562	they	porridge for	breakfast
+1.0	he	be always dirty	hisself
+1.0	he	be dirty	hisself
+1.0	he	sticky	just all
+1.0	he	sticky	all
+1.0	he	sticky hisself	all
+1.0	he	sticky hisself	just all
+1.0	he	sticky	all over morning
+1.0	he	sticky	just all over morning
+1.0	he	sticky hisself	all over morning
+1.0	he	sticky hisself	just all over morning
+1.0	she	be good on	whole
+1.0	she	be	however as good
+1.0	she	however be good on	whole
+1.0	she	be as good on	whole
+1.0	she	have	capital time together
+1.0	she	have	capital time
+1.0	child	have	capital time together
+1.0	child	have	capital time
+1.0	she	however be as good on	whole
+1.0	she	be	however good
+1.0	she	be	good
+1.0	she	be	as good
+1.0	Tiza	make	she contented
+1.0	they	gather	currant
+1.0	they	make	delightful piece of work
+1.0	they	make	piece of work
+1.0	they	make	jam
+1.0	they	gather	strawberry
+1.0	jam	piece of	work
+1.0	they	make	delightful piece
+1.0	they	make	piece
+1.0	doctor	say at	last
+1.0	doctor	say after	three day
+1.0	Tiza	slip	white-faced little creature low among pillow
+1.0	Tiza	slip	white-faced little creature low down among pillow
+1.0	Tiza	so slip	white-faced feverish little creature low down among pillow
+1.0	Tiza	so slip	little creature
+1.0	Tiza	slip creature into	farmhouse
+1.0	Tiza	so slip	white-faced little creature low
+1.0	Tiza	slip	creature
+1.0	Tiza	so slip	white-faced creature low down among pillow
+1.0	Tiza	slip	creature low down among pillow
+1.0	Tiza	slip	creature low among pillow
+1.0	Tiza	slip	white-faced feverish little creature low
+1.0	Tiza	so slip	white-faced feverish creature low down
+1.0	Tiza	so slip	white-faced feverish creature low among pillow
+1.0	Tiza	so slip	feverish creature low down among pillow
+1.0	Tiza	slip	feverish creature low down
+1.0	Tiza	so slip	little creature low down
+1.0	Tiza	so slip	white-faced feverish creature low down among pillow
+1.0	Tiza	so slip	white-faced creature low among pillow
+1.0	Tiza	slip	white-faced little creature
+1.0	Tiza	so slip	white-faced little creature low down among pillow
+1.0	Tiza	slip	little creature low down among pillow
+1.0	Tiza	slip	feverish little creature low among pillow
+1.0	Tiza	slip	white-faced feverish creature
+1.0	Tiza	so slip creature at_time	one evening
+1.0	Tiza	so slip	white-faced creature
+1.0	Tiza	slip	white-faced creature
+1.0	Tiza	slip	little creature low among pillow
+1.0	Tiza	slip	feverish little creature low down among pillow
+1.0	Tiza	so slip	white-faced feverish creature low
+1.0	Tiza	slip	white-faced feverish little creature low down
+1.0	Tiza	so slip	white-faced feverish little creature
+1.0	Tiza	so slip	feverish little creature low
+1.0	Tiza	so slip	feverish creature low down
+1.0	Tiza	slip	creature low
+1.0	Tiza	squeeze in to	little room
+1.0	Tiza	so slip	feverish little creature low down
+1.0	Tiza	so slip	white-faced feverish little creature low
+1.0	Tiza	slip	white-faced creature low down
+1.0	Tiza	squeeze in after	she mother
+1.0	Tiza	slip	creature low down
+1.0	Tiza	so slip	white-faced creature low down
+1.0	Tiza	slip	feverish little creature
+1.0	Tiza	so slip	creature low down among pillow
+1.0	Tiza	so slip creature into	farmhouse
+1.0	Tiza	so slip	feverish little creature
+1.0	Tiza	slip	feverish creature low among pillow
+1.0	Tiza	slip	white-faced creature low down among pillow
+1.0	Tiza	slip	white-faced creature low
+1.0	Tiza	slip	feverish creature
+1.0	Tiza	so slip	white-faced little creature
+1.0	Tiza	so slip	feverish little creature low down among pillow
+1.0	Tiza	so slip creature at_time	one bright evening
+1.0	Tiza	so slip	little creature low down among pillow
+1.0	Tiza	slip	white-faced little creature low
+1.0	Tiza	so slip	white-faced feverish little creature low down
+1.0	Tiza	slip creature at_time	one evening
+1.0	Tiza	so slip	feverish creature low among pillow
+1.0	Tiza	slip	white-faced feverish little creature
+1.0	Tiza	slip	white-faced feverish creature low down
+1.0	Tiza	so slip	feverish creature
+1.0	Tiza	so slip	little creature low
+1.0	Tiza	so slip	creature low
+1.0	Tiza	slip	feverish creature low
+1.0	Tiza	slip	feverish little creature low down
+1.0	Tiza	so slip	white-faced creature low
+1.0	Tiza	so slip	white-faced feverish little creature low among pillow
+1.0	Tiza	so slip	feverish little creature low among pillow
+1.0	Tiza	so slip	little creature low among pillow
+1.0	Tiza	so slip	feverish creature low
+1.0	Tiza	squeeze in to	room
+1.0	Tiza	slip	white-faced creature low among pillow
+1.0	Tiza	slip	feverish creature low down among pillow
+1.0	Tiza	slip	white-faced little creature low down
+1.0	Tiza	so slip	white-faced feverish creature
+1.0	Tiza	slip	white-faced feverish creature low among pillow
+1.0	Tiza	slip	white-faced feverish little creature low among pillow
+1.0	Tiza	slip	little creature
+1.0	Tiza	slip	little creature low down
+1.0	Tiza	so slip	creature
+1.0	Tiza	slip	little creature low
+1.0	Tiza	slip	white-faced feverish creature low down among pillow
+1.0	Tiza	slip creature at_time	one bright evening
+1.0	Tiza	slip	feverish little creature low
+1.0	Tiza	slip	white-faced feverish little creature low down among pillow
+1.0	Tiza	so slip	white-faced little creature low down
+1.0	Tiza	so slip	creature low down
+1.0	Tiza	so slip	white-faced little creature low among pillow
+1.0	Tiza	slip	white-faced feverish creature low
+1.0	Tiza	so slip	creature low among pillow
+1.0	Becky	sit down beside	she sister
+1.0	strawberry	here be	nothing have happen
+1.0	strawberry	be	nothing have happen
+1.0	Wheeler	give	some
+1.0	Wheeler	give	I
+1.0	you	can have	some
+1.0	Tiza	stuff	one
+1.0	Tiza	kneel on	bed
+1.0	Tiza	stuff softly	one
+1.0	mother	under	foot terrible
+1.0	Baby	scream certainly	good deal
+1.0	it	be	impossible
+1.0	it	be impossible	Tiza keep altogether
+1.0	it	be impossible of	course
+1.0	Tiza	keep altogether out of	mischief
+1.0	Baby	scream	good deal
+1.0	it	be quite impossible of	course
+1.0	it	be quite impossible	Tiza keep
+1.0	Tiza	keep out of	mischief
+1.0	it	be	quite impossible
+1.0	it	be quite impossible	Tiza keep altogether
+1.0	Baby	scream	deal
+1.0	it	be impossible	Tiza keep
+1.0	Baby	scream certainly	deal
+1.0	she	nurse	he
+1.0	she	be	still help
+1.0	she	be	help
+1.0	she	be help on	whole
+1.0	Tiza	be out of	house
+1.0	she	still be help to	she mother
+1.0	Tiza	be out of	when house
+1.0	she	still be help on	whole
+1.0	she	be	still on whole help to she mother
+1.0	she	be	on whole help to she mother
+1.0	she	be help to	she mother
+1.0	she	love	Tiza
+0.8769496530034155	Tiza	best of	anybody
+1.0	Becky	have	way of loving everybody about she
+1.0	Becky	have	way
+1.0	Becky	have	way of everybody
+1.0	Becky	have	way of loving everybody
+1.0	she	love	Tiza best
+1.0	Becky	have way next to	she mother
+1.0	she	love	Tiza best of anybody
+1.0	Becky	have way like	Milly
+1.0	Becky	have	way of everybody about she
+1.0	child	say	good-bye
+1.0	child	be	able
+1.0	child	be able after	all
+1.0	child	say	good-bye to Becky
+1.0	Mr. Backhouse	come down	say
+1.0	they	be	go
+1.0	Mr. Backhouse	come	say
+1.0	they	be	go away
+1.0	Olly	very curious	see
+1.0	Olly	curious	see
+1.0	Mr. Backhouse	take in	they
+1.0	Aunt Emma	have send	she
+1.0	arm	cover up in	red flannel dressing-gown
+1.0	she shoulder	cover up in	flannel dressing-gown
+1.0	she shoulder	cover up in	red flannel dressing-gown
+1.0	arm	cover up in	flannel dressing-gown
+1.0	Olly	shake	she hand
+1.0	you	be	better
+1.0	you	be	back better
+1.0	doctor	do give	medicine
+1.0	doctor	do give	you
+1.0	doctor	do give	nasty medicine
+1.0	I	now may have	raspberry
+1.0	I	now may have	strawberry
+1.0	I	may have	raspberry
+1.0	I	may have	strawberry
+1.0	Olly	be with	he eye fasten on Becky 's plate of strawberry
+1.0	Becky	on	plate of strawberry
+1.0	you	be tell	secret
+1.0	you	be always tell	secret
+1.0	it	be like	something burning
+1.0	it	be like	just something burning inside my mouth
+1.0	it	be like	something burning inside my mouth
+1.0	it	be like	just something burning
+1.0	you	something	we get
+1.0	we	make	you something
+1.0	we	be go	make
+1.0	we	make	Becky
+1.0	you	something	when we get
+1.0	we	get	home
+1.0	something	be	ootiful
+1.0	it	will come by	Becky
+1.0	it	will come by	post
+1.0	we	make	it
+1.0	Mother	go	help
+1.0	you	will like	it
+1.0	it	be	picture-book
+1.0	secret	be with	you
+0.5414188713632841	I	secret with	you
+1.0	I	will send christmas card at	Christmas
+1.0	I	will send	Christmas card
+1.0	time	come	go away
+1.0	time	come	go
+1.0	I	will send	you
+1.0	I	will ride on	you horse
+1.0	I	will ride on	you big horse
+1.0	Olly	go away	poor little Becky look
+1.0	Olly	go	poor Becky look
+1.0	Olly	go away	poor Becky look after they
+1.0	Becky	look	very _
+1.0	poor little Becky	look	very _
+1.0	Olly	go away	poor little Becky look after they
+1.0	Olly	go	Becky look
+1.0	Becky	look after	they
+1.0	Olly	go	little Becky look
+1.0	poor little Becky	look	_ very _
+1.0	little Becky	look	_
+1.0	Olly	go away	Becky look after they
+1.0	poor Becky	look	very _
+1.0	Olly	go away	poor Becky look
+1.0	poor Becky	look after	they
+1.0	Olly	go	Becky look after they
+1.0	Olly	go	poor little Becky look
+1.0	Becky	look	_ _
+1.0	Olly	go	little Becky look after they
+1.0	she	be	_ _
+1.0	Olly	go away	Becky look
+1.0	poor Becky	look	_ very _
+1.0	poor Becky	look	_
+1.0	Olly	go away	little Becky look
+1.0	poor little Becky	look	_ _
+1.0	she	be	_
+1.0	little Becky	look	very _
+1.0	Milly	kiss	Becky 's face
+1.0	she	be	_ very _
+1.0	little Becky	look after	they
+1.0	Becky	have	pale little face
+1.0	little Becky	look	_ very _
+1.0	she	be	very _
+1.0	poor little Becky	look	_
+1.0	Olly	go	poor little Becky look after they
+1.0	poor Becky	look	_ _
+1.0	Becky	look	_
+1.0	little Becky	look	_ _
+1.0	Olly	go away	little Becky look after they
+1.0	Becky	look	_ very _
+1.0	poor little Becky	look after	they
+1.0	Olly	go	poor Becky look after they
+1.0	she	run away	Tiza be still try
+1.0	she	run away	Olly be still try
+1.0	she	run	Tiza Olly be try
+1.0	she	run	Tiza Olly be still try
+1.0	Milly	cry	bit
+1.0	she	run away	Tiza be try
+1.0	Milly	cry	little bit
+1.0	she	run	Olly be try
+1.0	she	run away	Tiza Olly be try
+1.0	she	run away down	fast hill
+1.0	she	run down	hill
+1.0	she	run	Tiza be try
+1.0	she	run down	fast hill
+1.0	she	run away	Olly be try
+1.0	she	run	Tiza be still try
+1.0	she	run	Olly be still try
+1.0	she	run away down	hill
+1.0	she	run away	Tiza Olly be still try
+1.0	they	do look	beautiful
+1.0	they	do look at_time	evening
+1.0	they	do look at_time	last evening
+1.0	sun	be shine on	they
+0.5963446570267072	you	go	we come
+0.5963446570267072	you	go	we come again
+0.5963446570267072	you	go away	we come back
+0.5963446570267072	you	go away	we come
+0.5963446570267072	you	go	we come back again
+0.5963446570267072	you	go	we come back
+0.5963446570267072	you	go away	we come back again
+0.5963446570267072	you	go away	we come again
+1.0	Aunt Emma nod	wave	smile
+1.0	train	move away from	Windermere station
+1.0	they	be out of	quite sight
+0.721268556889354	Aunt Emma	stand on	platform
+1.0	Aunt Emma nod	wave	she handkerchief
+1.0	they	be out of	sight
+1.0	you	come at	Christmas
+1.0	I	tell so	you old gentleman
+1.0	I	tell	you gentleman
+1.0	I	tell so	you gentleman
+1.0	I	tell	you old gentleman
+1.0	he	say	rain everything
+1.0	he	say	rain spoilt everything
+1.0	fairy	sprinkle dust in	you eye
+1.0	fairy	sprinkle dust too in	you eye
+1.0	fairy	sprinkle	dust
+1.0	curious old fairy	sprinkle dust in	you eye
+1.0	curious old fairy	sprinkle dust too in	you eye
+1.0	old fairy	sprinkle too	dust
+1.0	curious fairy	sprinkle	dust
+1.0	curious fairy	sprinkle dust too in	you eye
+1.0	curious fairy	sprinkle too	dust
+1.0	old fairy	sprinkle dust in	you eye
+1.0	curious fairy	sprinkle dust in	you eye
+1.0	old fairy	sprinkle	dust
+1.0	fairy	sprinkle too	dust
+1.0	curious old fairy	sprinkle	dust
+1.0	old fairy	sprinkle dust too in	you eye
+1.0	curious old fairy	sprinkle too	dust
+0.5230650824416858	young one	open	they heart
+1.0	nothing sweeter	be for to	people
+1.0	nothing	be for to	old people
+0.5230650824416858	one	open	they heart
+0.6361985920342029	nothing	sweeter	see
+1.0	nothing sweeter	be for to	old people
+1.0	nothing	be for to	people
+1.0	joy	give birth to	joy
+1.0	joy	give birth	love
+1.0	joy	give	birth

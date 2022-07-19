@@ -1,0 +1,1358 @@
+1.0	Marzio	continue	work
+1.0	Marzio	work in	solitude
+1.0	Marzio	continue in	ignorance
+1.0	Marzio	continue	work in solitude
+1.0	Marzio	work in	solitude of he studio
+1.0	Marzio	continue	work in solitude of he studio
+1.0	current	flow on in	channel
+1.0	Marzio	continue in	ignorance of all
+1.0	current	flow on in	same channel
+1.0	brother	against	life
+1.0	he	force	he attention
+1.0	he	meditate against	he brother 's life
+1.0	he	have	when have frighten behind he
+1.0	he	have	have frighten
+1.0	he	have	when have frighten
+1.0	he	be examine hole beneath	box
+1.0	he	have	have frighten by sound behind he
+1.0	he	have	have frighten by sound
+1.0	he	be examine	hole
+1.0	he	have	have frighten behind he
+1.0	he	have	when have frighten by sound
+1.0	he	have	when have frighten by sound behind he
+1.0	he	be examine hole beneath	strong box
+1.0	he eye	rest	slight shiver
+0.5193904621532511	slight	run through	he body
+1.0	he eye	more rest	slight shiver
+1.0	he eye	more rest for	several seconds
+1.0	he eye	more rest upon	safe
+1.0	he eye	rest for	several seconds
+1.0	he eye	more rest for	seconds
+1.0	he eye	rest upon	safe
+1.0	he eye	rest for	seconds
+1.0	they	come keen	he eye wander now
+1.0	they	come back	he eye wander now
+1.0	they	come back keen	he eye wander
+1.0	they	come back as keen	he eye wander now
+1.0	they	come	he eye wander now
+1.0	they	come as keen	he eye wander
+1.0	they	come keen	he eye wander
+1.0	they	come as keen	he eye wander now
+1.0	they	come	he eye wander
+1.0	they	come back as keen	he eye wander
+1.0	they	come back	he eye wander
+1.0	they	come back keen	he eye wander now
+1.0	little touch	accentuation of	line
+1.0	steel	with touch be	deepen of shadow
+1.0	one point	at touch be	deepen of shadow
+1.0	one point	at touch be	accentuation of line
+1.0	little touch	be with	steel
+1.0	little touch	deepen of	shadow
+1.0	steel	with touch be	accentuation of line
+1.0	uneasiness	yet grow upon	he
+1.0	uneasiness	grow upon	he
+1.0	he	feel somehow	present in room
+1.0	Paolo	be present in	room with he
+1.0	he	feel	present in room with he
+1.0	he	watch	he
+1.0	Paolo	be present in	room
+1.0	he	feel	present in room
+1.0	improvement	be	make
+1.0	improvement	be make in	voice
+1.0	artist	in	ear
+1.0	he	feel somehow	present in room with he
+1.0	Paolo	be	present
+1.0	improvement	be make in	voice of he
+1.0	room	be with	he
+1.0	he	feel	present
+1.0	he	feel somehow	present
+1.0	he	think of	Paolo standing beside he
+1.0	he	order	he
+1.0	he	think of	Paolo standing
+1.0	Paolo	be	when dead
+1.0	Paolo	be	dead
+1.0	he	feel	thing
+1.0	he	feel	same thing
+1.0	he	look behind	he
+1.0	he	again look behind	he
+1.0	room	be	nevertheless bright brighter indeed in afternoon for window
+1.0	room	be	bright brighter indeed in afternoon for window
+1.0	room	be	bright brighter indeed in afternoon
+1.0	room	be	nevertheless bright
+1.0	room	nevertheless be bright brighter indeed for	window
+1.0	room	be	nevertheless bright brighter in afternoon for window
+1.0	room	be	nevertheless bright brighter
+1.0	room	be	bright brighter in afternoon
+1.0	sun	be in	west
+1.0	room	be	nevertheless bright brighter indeed
+1.0	room	be	nevertheless bright brighter in afternoon
+1.0	building	darken	it
+1.0	ray	reach	it
+1.0	room	be bright for	window
+1.0	room	be	bright brighter
+1.0	room	be bright brighter for	window
+1.0	building	afterwards darken	it
+1.0	first ray	reach	it
+1.0	room	be	nevertheless bright brighter indeed in afternoon
+1.0	building	afterwards darken again	it
+1.0	building	darken again	it
+1.0	room	be	bright brighter in afternoon for window
+0.8790522022111033	it	ray of	sun
+1.0	room	be	bright brighter indeed
+0.8790522022111033	it	first ray of	sun
+1.0	bright	be towards	south
+1.0	room	nevertheless be bright for	window
+1.0	room	nevertheless be bright brighter for	window
+1.0	room	be bright brighter indeed for	window
+1.0	about eleven	be in	morning
+1.0	room	be	bright
+1.0	it	have rain	little about noon
+1.0	weather	have	have changeable
+1.0	it	have rain	little
+1.0	workshop	be light up	light penetrate to cobweb in corner
+1.0	air	gilded old wood of	door opposite with rich gold
+1.0	workshop	be light up	light penetrate even to ancient cobweb in corner
+1.0	light	penetrate to	cobweb in corner
+1.0	air	gilded wood of	door opposite
+1.0	air	touch	wax model
+1.0	air	old wood of	door opposite with rich brown gold
+1.0	light	penetrate to	ancient cobweb
+1.0	air	gilded old wood of	door opposite with gold
+1.0	workshop	be light up	light penetrate to ancient cobweb in corner
+1.0	air	wood of	door
+1.0	air	gilded wood of	door opposite with rich gold
+1.0	workshop	be light up	light penetrate
+1.0	light	penetrate to	even ancient cobweb in corner
+1.0	air	gilded wood of	door opposite with gold
+1.0	air	old wood of	door opposite with gold
+1.0	workshop	be light up	light penetrate even to cobweb
+1.0	air	wood of	door opposite with brown gold
+1.0	air	be	clear
+1.0	workshop	be light up	light penetrate to cobweb
+1.0	air	wood of	door opposite with rich gold
+1.0	air	be	now clear
+1.0	air	gilded old wood of	door opposite with rich brown gold
+1.0	light	penetrate to	even ancient cobweb
+1.0	air	gilded old wood of	door opposite with brown gold
+1.0	light	penetrate to	ancient cobweb in corner
+1.0	air	old wood of	door opposite
+1.0	air	wood of	door opposite with gold
+1.0	light	penetrate to	cobweb
+1.0	air	wood of	door opposite with rich brown gold
+1.0	light	penetrate to	even cobweb in corner
+1.0	workshop	be light up	light penetrate to ancient cobweb
+1.0	air	gilded old wood of	door
+1.0	air	wood of	door opposite
+1.0	air	old wood of	door opposite with rich gold
+1.0	light	penetrate to	even cobweb
+1.0	air	gilded wood of	door opposite with rich brown gold
+1.0	workshop	be light up	light penetrate even to cobweb in corner
+1.0	air	gilded old wood of	door opposite
+1.0	air	old wood of	door opposite with brown gold
+1.0	air	old wood of	door
+1.0	air	gilded wood of	door opposite with brown gold
+1.0	air	gilded wood of	door
+1.0	workshop	be light up	light penetrate even to ancient cobweb
+1.0	ancient cobweb	be in	corner
+1.0	wax model	cast on	shelf
+1.0	Marzio	have	curtain
+1.0	he	draw across	lower part
+1.0	Marzio	have	curtain of dusty linen
+1.0	he	draw across	part
+1.0	Marzio	have	curtain of dusty grey linen
+1.0	he	draw across	part of window
+1.0	he	keep sunshine off	he work
+1.0	Marzio	have	curtain of linen
+1.0	Marzio	have	curtain of grey linen
+1.0	he	draw across	lower part of window
+1.0	he	keep	sunshine
+1.0	he	annoy by	persistency
+1.0	Paolo	be	present
+1.0	Paolo	be present in	way
+1.0	he	be	impatient
+1.0	Paolo	be	in way present in place
+1.0	he	be impatient with	himself
+1.0	he	annoy by	persistency of impression
+1.0	Paolo	be present in	place
+1.0	he	set	himself
+1.0	he	set resolutely	himself
+1.0	purpose	be in	afternoon
+1.0	first quick impulse	be in	morning
+1.0	first quick impulse	have develop to	purpose in afternoon
+1.0	first impulse	have develop to	purpose in afternoon
+1.0	quick impulse	have develop to	purpose in afternoon
+1.0	first impulse	have develop to	purpose
+1.0	impulse	have develop to	purpose in afternoon
+1.0	quick impulse	have develop to	purpose
+1.0	first quick impulse	have develop to	purpose
+1.0	impulse	have develop to	purpose
+1.0	he	do vividly	it
+1.0	he	do	it
+1.0	he	do so vividly	it
+1.0	he	have construct	probable occurrence
+1.0	he intention	be	replace
+1.0	fright	have in	measure
+1.0	he intention	be	now replace
+1.0	he intention	be now replace by	element in he thought
+1.0	he intention	be replace by	new element in he thought
+1.0	deed	be	accomplish
+1.0	he intention	be now replace by	new element
+1.0	he intention	be replace by	new element
+1.0	he intention	be replace by	element
+1.0	new element	be in	he thought
+1.0	he intention	be now replace by	new element in he thought
+1.0	he intention	be now replace by	element
+1.0	he intention	be replace by	element in he thought
+1.0	murder	be	discover
+1.0	he	speculate	what would happen
+1.0	it	could	could trace to he
+1.0	it	could	in case could trace to he
+1.0	it	could	in case could trace
+1.0	it	could	could ever trace
+1.0	it	could	in case could ever trace to he
+1.0	he	begin	speculate
+1.0	it	could	could ever trace to he
+1.0	he	begin	wonder
+1.0	it	could	in case could ever trace
+1.0	he	speculate	what would happen afterwards
+1.0	it	could	could trace
+1.0	he thought	take	different direction
+1.0	Marzio	feel sensation at	suggestion
+1.0	Marzio	feel	cold sensation in he heart
+1.0	Marzio	feel	cold sensation
+0.08250788677896104	Marzio	feel at	suggestion
+1.0	he thought	take	direction
+1.0	cold sensation	be in	he heart
+1.0	Marzio	feel	sensation
+0.08250788677896104	Marzio	feel at	first suggestion
+1.0	Marzio	feel	sensation in he heart
+0.08250788677896104	Marzio	feel at	faint suggestion
+0.2585971500894165	Marzio	sensation in	he heart
+1.0	Marzio	feel sensation at	faint suggestion
+0.2585971500894165	Marzio	cold sensation in	he heart
+1.0	Marzio	feel sensation at	first faint suggestion
+1.0	Marzio	feel sensation at	first suggestion
+0.08250788677896104	Marzio	feel at	first faint suggestion
+1.0	it	be	simple enough
+1.0	it	seem	practicable
+1.0	short three hundred yard	be with	hand-cart
+1.0	it	seem	very practicable
+0.834852110131035	he	policeman under	tree in Piazza de ' Branca
+1.0	low tree	be in	Piazza de ' Branca
+0.834852110131035	he	policeman under	low tree in Piazza de ' Branca
+0.834852110131035	he	policeman under	tree
+1.0	he	should meet policeman by	chance
+0.834852110131035	he	policeman under	low tree
+0.6944390730875585	man	suspicion of	policeman
+1.0	man	be with	hand-cart
+1.0	such man	would excite	suspicion of policeman
+0.6944390730875585	such man	suspicion of	policeman
+1.0	man	be in	dark
+1.0	man	would excite	suspicion
+1.0	such man	would excite	suspicion
+1.0	man	would excite	suspicion of policeman
+1.0	man	hurry towards	river
+1.0	Marzio	might	might stop
+1.0	hand-cart	would	would examine
+0.8161779664300263	wheel	clatter in	silent street
+0.8161779664300263	wheel	terrible clatter in	silent street
+1.0	wheel	make	terrible clatter
+1.0	wheel	make	clatter in silent street
+1.0	wheel	make	clatter
+0.8161779664300263	wheel	clatter in	street
+1.0	terrible clatter	be in	silent street
+1.0	wheel	make clatter at	night
+0.8161779664300263	wheel	terrible clatter in	street
+1.0	wheel	make	clatter in street
+1.0	wheel	make	terrible clatter in street
+1.0	wheel	make	terrible clatter in silent street
+1.0	he	return with	he burden
+1.0	cellar	be after	all
+1.0	he	bury	he brother 's body
+1.0	he	could go down in	night
+1.0	brother	have	body
+1.0	he	could go in	night
+1.0	he	bury there	he brother 's body
+1.0	it	would	would ghastly job
+1.0	it	would	would job
+1.0	it	be	ghastly
+1.0	it	be in	how cold vault
+1.0	it	be in	how damp vault with lantern
+1.0	it	be in	cold vault with lantern
+1.0	it	be in	cold vault
+1.0	would cold damp vault	be with	lantern
+1.0	it	be in	cold damp vault with lantern
+1.0	it	be in	vault with lantern
+1.0	it	be in	how cold damp vault
+1.0	it	be in	how vault with lantern
+1.0	it	be in	damp vault
+1.0	it	be in	damp vault with lantern
+1.0	it	be in	how damp vault
+1.0	it	be in	cold damp vault
+1.0	it	be in	how cold damp vault with lantern
+1.0	it	be in	vault
+1.0	it	be in	how vault
+1.0	it	be in	how cold vault with lantern
+1.0	he	shrink from	thinking
+1.0	he	shrink from	thinking of it
+1.0	it	be	too horrible
+1.0	it	be think	should absolutely necessary
+1.0	it	be	horrible
+1.0	it	should	should necessary
+1.0	it	be	think of
+1.0	it	should	should absolutely necessary
+1.0	it	be think	should necessary
+1.0	it	be	think
+1.0	place	be	good
+1.0	he	serve as	secretary
+1.0	Cardinal	would ask for	man
+1.0	Cardinal	would ask for	miss man
+1.0	he	would	would first
+1.0	it	be	would hard
+1.0	it	sit at_time	day
+1.0	it	sit calmly at_time	day
+1.0	he	would look very often at	iron-bound box
+1.0	he	would look at	iron-bound box
+1.0	he	would look very often at	box
+1.0	he	would probably look often at	box
+1.0	he	would probably look very often at	box
+1.0	he	would probably look very often at	iron-bound box
+1.0	he	would probably look often at	iron-bound box
+1.0	he	would probably look at	iron-bound box
+1.0	he	would probably look at	box
+1.0	he	would look often at	box
+1.0	he	would look at	box
+1.0	he	would look often at	iron-bound box
+1.0	Gianbattista	would notice	that
+1.0	Paolo	be	go
+1.0	it	be	all do
+1.0	Marzio	of unworthy be	strong-minded freethinker
+1.0	it	be	do
+1.0	it	would	would miserable
+1.0	Paolo	be go for	ever
+1.0	boy	be in	scrape
+1.0	chiseller	laugh aloud in	he old way
+1.0	chiseller	laugh in	he way
+1.0	chiseller	laugh in	he old way
+1.0	chiseller	laugh aloud in	he way
+1.0	laugh	be in	he old way
+1.0	he	be force	submit
+1.0	he	be	weak
+1.0	he	be	force
+1.0	he	begin with	scorn
+1.0	he	begin	wonder
+1.0	he	begin with	bitter scorn
+1.0	he	begin with	bitter scorn of he incapacity
+1.0	he	begin with	scorn of he incapacity
+1.0	he	do kill	he
+1.0	question	rise suddenly in	mind
+1.0	question	rise suddenly in	mind of unbeliever
+1.0	question	rise in	mind
+1.0	question	rise in	mind of unbeliever
+1.0	he	have answer often enough at	inn
+1.0	he	have answer over	pint
+1.0	he	have answer with	Gaspare Carnesecchi
+1.0	he	have answer enough with	Gaspare Carnesecchi
+1.0	he	have answer over	pint of wine
+1.0	he	have answer often enough with	Gaspare Carnesecchi
+1.0	he	have answer at	inn
+1.0	he	have answer enough over	pint
+1.0	he	have answer enough over	pint of wine
+1.0	he	have answer often enough over	pint
+1.0	he	have answer often enough over	pint of wine
+1.0	he	have answer enough at	inn
+1.0	he	go to	ground
+1.0	you	might well ask to	weight of many ton
+1.0	you	might ask to	weight of ton in year
+1.0	you	might well ask to	weight of many ton in year
+1.0	you	might as well ask to	weight of many ton
+1.0	you	might ask to	weight of many ton in year
+1.0	you	might ask to	weight of ton
+1.0	you	might well ask to	weight of ton in year
+1.0	you	might well ask to	weight of ton
+1.0	weight	be in	year
+1.0	you	might as ask to	weight of ton in year
+1.0	you	might as ask to	weight of many ton in year
+1.0	you	might as well ask to	weight of ton in year
+1.0	you	might ask to	weight of many ton
+1.0	you	might as well ask to	weight of many ton in year
+1.0	you	might as ask to	weight of ton
+1.0	you	might as well ask to	weight of ton
+1.0	you	might as ask to	weight of many ton
+1.0	break	be	old
+1.0	anything	agglomeration of	matter
+1.0	man	be like	anything else
+1.0	man	be like	anything
+1.0	he	be swallow up by	earth
+1.0	Marzio	be accustom	give
+1.0	Marzio	be	accustom
+1.0	Marzio	give to	question
+1.0	Marzio	be accustom	give to question
+1.0	they	have satisfy	he
+1.0	they	satisfy	small minority of idiot
+1.0	they	satisfy	small minority
+1.0	they	satisfy	minority of idiot
+1.0	they	satisfy	minority
+1.0	they	satisfy	very small minority
+1.0	they	hitherto have satisfy	he
+1.0	they	satisfy	very small minority of idiot
+1.0	Marzio	have kill	he
+1.0	he body	would become	earth
+1.0	he body	well would become in	time
+1.0	he body	would become in	time
+1.0	he body	well would become	earth
+1.0	Marzio	be	conscious
+0.12093069135470202	he	seem	feel
+1.0	Marzio	be conscious	he seem
+1.0	Paolo	be at	would in way he elbow ever afterwards
+1.0	he	feel	he presence afternoon
+1.0	Paolo	be at	would he elbow ever afterwards
+1.0	Paolo	be at	would in way he elbow
+1.0	Paolo	be at	would in way he elbow afterwards
+1.0	he	feel	he presence
+1.0	Paolo	be at	would he elbow afterwards
+1.0	Marzio	be conscious	just he seem
+0.12093069135470202	he	just seem	feel
+1.0	Marzio	be conscious to	certainty
+1.0	he	feel	he presence in workshop
+1.0	he	feel	he presence afternoon in workshop
+1.0	he presence afternoon	be in	workshop
+1.0	Paolo	be at	would he elbow
+1.0	it	oppress	he
+1.0	it	would haunt	he
+1.0	chiseller	be	puzzle
+1.0	conclusion	contradict	fact
+1.0	conclusion	contradict	give fact
+1.0	he	find out	cause
+1.0	he	linger	early tradition
+1.0	he	linger	tradition
+0.10586676687567387	he	linger in	he mind
+1.0	he	ask to	himself
+0.10586676687567387	he	ask	linger in he mind
+0.10586676687567387	he	ask	linger
+1.0	he	linger tradition in	he mind
+0.6279743802629957	themselves	people of	less capacity
+1.0	people	judge case in	they own way
+1.0	people	judge	such case
+0.14059619431790493	it	be	mistake allow of course
+0.6279743802629957	themselves	people of	capacity
+0.14059619431790493	it	be mistake	allow
+1.0	people	would take upon	themselves
+1.0	people	judge	case
+0.6279743802629957	themselves	people of	intellectual capacity
+0.6279743802629957	themselves	people of	less intellectual capacity
+1.0	people	judge case in	they way
+0.9577686023486442	public morality	darling of	real freethinker
+0.9577686023486442	public morality	darling of	freethinker
+0.9577686023486442	morality	darling of	real freethinker
+0.9577686023486442	morality	darling of	freethinker
+1.0	public morality	darling of	real freethinker
+1.0	he death	would	on contrary would benefit to community
+1.0	he death	would	would benefit to community
+1.0	he death	advantage to	Marzio
+1.0	advantage	be in	particular
+1.0	he death	advantage in	particular
+1.0	he death	would	would benefit at large
+1.0	he death	would	on contrary would benefit
+1.0	he death	would	on contrary would benefit at large
+1.0	he death	would	would benefit to community at large
+1.0	he death	would	would benefit
+1.0	he death	would	on contrary would benefit to community at large
+1.0	code	be to	extent
+1.0	code	be to	great extent
+1.0	gentleman	be in	street of ten franc
+1.0	individual	rob	gentleman
+1.0	individual	rob	gentleman in street of ten franc
+1.0	individual	rob	gentleman in street
+1.0	Marzio	in	brain
+1.0	reasoning	develop	itself
+1.0	same reasoning	develop	itself
+1.0	it	would	would have crime
+1.0	he brothel	have	have rich
+1.0	Marzio	say to	himself
+1.0	continuity	be	unfortunately block
+1.0	continuity	be block for	he logic
+1.0	continuity	unfortunately be block for	he logic
+1.0	continuity	be	block
+1.0	consideration	could	could describe as fear
+1.0	it	have	have thrust by fright
+1.0	it	have	have forcibly thrust by fright
+1.0	it	have	have thrust
+1.0	it	have	have thrust upon he by fright
+1.0	consideration	could	could describe
+1.0	it	have	have forcibly thrust upon he
+1.0	consideration	could	could only describe as fear for future
+1.0	consideration	could	could describe as fear for future
+1.0	consideration	could	could only describe
+1.0	it	have	have forcibly thrust upon he by fright
+1.0	consideration	could	could only describe as fear
+1.0	he	be examine	hole
+1.0	it	have	have thrust upon he
+1.0	he	be examine hole in	floor
+1.0	it	have	have forcibly thrust
+1.0	Marzio	neutralise	it
+1.0	Marzio	have try	experiment brave
+0.32468555244207997	he	consider	terror
+0.32468555244207997	he	consider	momentary terror
+1.0	he	intend	execute
+1.0	he	return as	before
+1.0	he	return to	same conclusion
+1.0	he	return to	conclusion
+1.0	he	find to	he surprise
+1.0	he	come back as surely to	unaccountable fear
+1.0	he	come back surely to	fear
+1.0	he	come as surely to	fear
+1.0	he	come as surely to	unaccountable fear
+1.0	he	come back surely to	unaccountable fear
+1.0	he	come back surely to	fear of future
+1.0	he	come surely to	fear
+1.0	he	come surely to	unaccountable fear
+1.0	he	come to	fear
+1.0	he	come back surely to	unaccountable fear of future
+1.0	he	come to	unaccountable fear of future
+1.0	he	come back as surely to	fear of future
+1.0	he	come back to	unaccountable fear
+1.0	he	come as surely to	unaccountable fear of future
+1.0	he	come back as surely to	unaccountable fear of future
+1.0	he	come back to	unaccountable fear of future
+1.0	he	come to	fear of future
+1.0	he	come to	unaccountable fear
+1.0	he	come surely to	unaccountable fear of future
+1.0	he	come surely to	fear of future
+1.0	he	come back to	fear of future
+1.0	he	come back as surely to	fear
+1.0	he	come as surely to	fear of future
+1.0	he	come back to	fear
+1.0	he	go again at_time	three time
+1.0	he	go again twice at_time	three time
+1.0	he	go at_time	twenty time
+1.0	he	go again twice at_time	twenty time
+1.0	he	go again at_time	twenty time
+1.0	he	go twice at_time	three time
+1.0	he	go again twice over	it
+1.0	he	go at_time	three time
+1.0	he	go again over	it
+1.0	he	go twice over	it
+1.0	he	go twice at_time	twenty time
+1.0	he	go over	it
+1.0	he	imagine	same
+1.0	he	imagine	Paolo dead
+1.0	he	reach	stage
+1.0	he	imagine	Paolo
+1.0	living man	be in	full possession of he sens
+1.0	he	face	it
+1.0	difficulty	only increase in	magnitude
+1.0	difficulty	increase in	magnitude
+1.0	dead man	have	face
+1.0	he	should see	man 's face
+1.0	he	should see	dead man 's face
+1.0	develop character	be result of	cautious disposition
+1.0	character	be result of	disposition
+1.0	develop character	be result of	economical disposition
+1.0	character	be	result
+1.0	character	be result of	economical cautious disposition
+1.0	character	be result of	cautious disposition
+1.0	logical accordance	be with	he original nature
+1.0	conclusion	be in	accordance
+1.0	develop character	be result of	economical cautious disposition
+1.0	conclusion	be in	logical accordance
+1.0	forced conclusion	be in	accordance
+1.0	develop character	be result of	disposition
+1.0	character	be result of	economical disposition
+1.0	develop character	be	result
+1.0	he	have raise tool	strike
+1.0	he	have raise	tool
+1.0	he	think of	means dispose
+1.0	he	think of	means dispose of body
+1.0	he	even elude discovery after	crime
+1.0	he	elude	discovery
+1.0	he	elude discovery after	crime
+1.0	dead brother	of	presence
+1.0	he	even elude	discovery
+0.5325694845303275	he	silver figure of	Christ
+1.0	he	look	he hand play upon table
+1.0	he	lay figure before	he
+1.0	he	look intently	he hand play with tool upon table
+1.0	he	look intently	he hand play idly upon table
+1.0	he hand	play upon	table
+1.0	he	look	he hand play idly with tool
+1.0	he	look at	it
+1.0	he hand	play idly with	tool
+1.0	he	look intently at	it
+1.0	he	lay	figure
+1.0	he	look	he hand play idly with tool upon table
+1.0	he	look intently	he hand play idly with tool upon table
+1.0	he	lay	silver figure
+1.0	he	look intently	he hand play
+1.0	he hand	play with	tool
+1.0	he	look	he hand play
+1.0	he	look	he hand play with tool
+0.5325694845303275	he	figure of	Christ
+1.0	he	look	he hand play idly
+1.0	he	look intently	he hand play with tool
+1.0	he	look intently	he hand play idly
+1.0	he	look intently	he hand play upon table
+1.0	he hand	play idly upon	table
+1.0	he	look	he hand play with tool upon table
+1.0	he	lay	silver figure of Christ
+1.0	he	lay figure upon	leathern pad
+1.0	he	lay	figure of Christ
+1.0	he	look intently	he hand play idly with tool
+1.0	he	lay figure before	straight he
+1.0	he	look	he hand play idly upon table
+1.0	he	deep-set gaze at	wonderful face
+1.0	heavy eye	deep-set gaze at	face
+1.0	eye	gaze at	face
+1.0	he	gaze fixedly at	face
+1.0	eye	gaze at	wonderful face
+1.0	he	deep-set gaze at	face
+1.0	heavy eye	deep-set gaze fixedly at	face
+1.0	heavy eye	deep-set gaze fixedly at	wonderful face
+1.0	he	deep-set gaze fixedly at	wonderful face
+1.0	eye	gaze fixedly at	wonderful face
+1.0	he	deep-set gaze fixedly at	face
+1.0	heavy eye	gaze fixedly at	face
+1.0	eye	deep-set gaze at	wonderful face
+1.0	he	gaze at	wonderful face
+1.0	eye	gaze fixedly at	face
+1.0	he	gaze at	face
+1.0	heavy eye	gaze fixedly at	wonderful face
+1.0	heavy eye	gaze at	wonderful face
+1.0	heavy eye	deep-set gaze at	wonderful face
+1.0	heavy eye	gaze at	face
+1.0	eye	deep-set gaze fixedly at	wonderful face
+1.0	eye	deep-set gaze at	face
+1.0	he	gaze fixedly at	wonderful face
+1.0	eye	deep-set gaze fixedly at	face
+1.0	he dark emaciated feature	be	restful
+1.0	he dark feature	be	restful
+1.0	he emaciated feature	be	restful
+1.0	he feature	be	restful
+1.0	he	say aloud after	minute
+1.0	he	say after	minute
+1.0	he	gaze at	he work
+1.0	he	still gaze at	he work
+1.0	he	express	wish
+1.0	he home	be emancipate	he have imagine
+1.0	he home	would	would have hell
+1.0	he home	be	emancipate
+1.0	he home	be emancipate from	tyranny
+1.0	he home	be emancipate	he have first imagine
+1.0	he	contemplate	crucifix
+1.0	he	contemplate crucifix before	just moment
+1.0	he	contemplate crucifix before	moment
+1.0	Paolo	have	word
+1.0	he	remember	Paolo 's word
+1.0	it	have save	I
+1.0	it	be strange for	we man
+1.0	it	be strange for	we salvation
+1.0	it	be very strange for	we salvation
+1.0	it	be strange for	we man for my salvation
+1.0	it	be	strange
+1.0	it	be very strange for	we man for my salvation
+1.0	it	be very strange for	we man
+1.0	it	be	for we man for we salvation very strange
+1.0	it	be	for we man for we salvation strange
+1.0	it	be	for we man for we salvation for my salvation strange
+1.0	it	be	for we man for we salvation for my salvation very strange
+1.0	it	be	very strange
+1.0	he	would	would please
+1.0	he	owe	he life
+1.0	I	have tell	it
+1.0	it	be	true
+1.0	it	be	yet true
+1.0	he	gaze at	figure
+1.0	he	still gaze at	figure
+1.0	he	still gaze for	minute
+1.0	he	gaze for	minute
+1.0	he	rouse	he mind
+1.0	he	take up	he tool
+1.0	he	shake	himself
+1.0	he nervous dislike	seem for	time
+1.0	he nervous dislike	seem	have cease
+1.0	he dislike	seem for	time
+1.0	he nervous dislike	be in	corner
+1.0	he dislike	seem	have cease
+1.0	he	labour with	patient care
+1.0	he	labour	touch
+1.0	he	admit	glow of evening
+1.0	he	admit	last glow of evening
+1.0	he	admit	last glow
+1.0	he	admit	glow
+1.0	he	take down	curtain
+1.0	art	beautify	masterpiece
+1.0	he	stand over	bench
+1.0	he	surpass	he work
+1.0	he	surpass	he greatest work
+1.0	he hand	have impart	something
+1.0	he	polish	its surface
+1.0	he	polish	its smooth surface
+0.5624514432690371	he	go from	shelf
+1.0	he	go	black cross
+1.0	he	polish carefully	its smooth surface
+1.0	he	go cross from	shelf
+1.0	he	polish carefully	its surface
+1.0	he	go	cross
+1.0	he	take figure tenderly in	he hand
+1.0	he	take tenderly	figure
+1.0	he	lay	it
+1.0	he	take	figure
+1.0	he	take figure in	he hand
+1.0	screw	turn in	thread fitting closely into they place
+1.0	screw	turn in	thread fitting into they place
+1.0	screw	turn evenly in	thread fitting into they place
+1.0	small screw	turn in	thread fitting into they well-concealed place
+1.0	screw	turn evenly in	thread fitting closely into they place
+1.0	screw	turn in	thread fitting closely into they well-concealed place
+1.0	screw	turn evenly in	thread fitting closely
+1.0	screw	turn evenly in	thread fitting closely into they well-concealed place
+1.0	small screw	turn evenly in	thread fitting closely into they well-concealed place
+1.0	small screw	turn in	thread fitting closely into they place
+1.0	screw	turn in	thread fitting closely
+1.0	small screw	turn evenly in	thread fitting closely into they place
+1.0	small screw	turn in	thread fitting closely
+1.0	screw	turn evenly in	thread
+1.0	small screw	turn evenly in	thread
+1.0	screw	turn in	thread
+1.0	small screw	turn evenly in	thread fitting closely
+1.0	small screw	turn evenly in	thread fitting into they well-concealed place
+1.0	screw	turn in	thread fitting
+1.0	small screw	turn evenly in	thread fitting into they place
+1.0	small screw	turn evenly in	thread fitting
+1.0	small screw	turn in	thread fitting closely into they well-concealed place
+1.0	screw	turn evenly in	thread fitting
+1.0	small screw	turn in	thread fitting
+1.0	screw	turn evenly in	thread fitting into they well-concealed place
+1.0	work	be	finish
+1.0	small screw	turn in	thread
+1.0	screw	turn in	thread fitting into they well-concealed place
+1.0	small screw	turn in	thread fitting into they place
+1.0	Marzio	place	whole crucifix
+1.0	Marzio	sit down	look
+1.0	Marzio	place	crucifix
+1.0	Marzio	sit down	look at it
+1.0	Marzio	place crucifix upon	bench
+1.0	it	make impression upon	he
+1.0	he	remain	long time
+1.0	it	make	impression
+1.0	he chin	gaze up at	droop lid
+1.0	he chin	gaze up at	lid
+1.0	he	again remain	time
+1.0	it	make	strong impression
+1.0	he	again remain	long time
+1.0	he	remain	time
+0.46082886957384606	it	thing of	he own hand
+0.46082886957384606	it	thing of	he hand
+1.0	it	make thing upon	he
+1.0	it	make	thing
+1.0	shadow	lay so softly on	silver
+1.0	shadow	lay on	model silver
+1.0	shadow	lay softly softly on	silver
+1.0	shadow	lay softly so softly on	model silver
+1.0	shadow	lay so softly on	model silver
+1.0	shadow	lay softly on	model silver
+1.0	shadow	lay softly on	model silver
+1.0	shadow	lay softly on	silver
+1.0	shadow	lay softly on	silver
+1.0	shadow	lay softly softly on	model silver
+1.0	shadow	lay on	silver
+1.0	shadow	lay softly so softly on	silver
+1.0	he	could see outline in	last twilight
+1.0	he	could see	only outline of white head
+1.0	he	could see	outline
+1.0	he	could see	clear outline
+1.0	he	could see outline in	last linger twilight
+1.0	he	could see	only clear outline of head
+1.0	he	could see	only outline
+1.0	he	could see	outline of head
+0.838855634832159	he	only outline of	white head
+1.0	he	could see outline in	linger twilight
+0.838855634832159	he	only clear outline of	white head
+0.838855634832159	he	outline of	white head
+1.0	he	could see	only clear outline of white head
+1.0	he	could see	only clear outline
+0.838855634832159	he	only clear outline of	head
+0.838855634832159	he	clear outline of	white head
+0.838855634832159	he	only outline of	head
+1.0	he	could see	clear outline of head
+0.838855634832159	he	outline of	head
+1.0	he	could see	only outline of head
+1.0	he	could see	clear outline of white head
+1.0	shadow	gradually deepen	more
+1.0	he	could see	outline of white head
+1.0	he	could see outline in	twilight
+1.0	shadow	deepen	more
+0.838855634832159	he	clear outline of	head
+1.0	Marzio	strike	match
+1.0	Marzio	light	he lamp
+0.5321041341862468	they	late would go	return
+0.5321041341862468	they	late would very probably go	return to shop
+1.0	they	have finish	they work
+0.5321041341862468	they	would probably go home	return to shop
+0.5321041341862468	they	late would very probably go home	return
+0.5321041341862468	they	would very probably go home	return
+0.5321041341862468	they	would very probably go	return
+0.5321041341862468	they	late would probably go	return to shop
+0.5321041341862468	they	late would go home	return to shop
+1.0	they	return to	shop
+0.5321041341862468	they	would very probably go home	return to shop
+0.5321041341862468	they	would go home	return
+0.5321041341862468	they	late would very probably go home	return to shop
+0.5321041341862468	they	late would very probably go	return
+0.5321041341862468	they	would probably go	return to shop
+0.5321041341862468	they	late would probably go	return
+0.5321041341862468	they	late would probably go home	return
+0.5321041341862468	they	would very probably go	return to shop
+0.5321041341862468	they	late would probably go home	return to shop
+0.5321041341862468	they	would go home	return to shop
+0.5321041341862468	they	would probably go	return
+0.5321041341862468	they	would probably go home	return
+0.5321041341862468	they	would go	return
+0.5321041341862468	they	would go	return to shop
+0.5321041341862468	they	late would go	return to shop
+0.5321041341862468	they	late would go home	return
+1.0	it	could	could remove
+1.0	cover	put	it
+1.0	it	could	could remove in moment
+1.0	cover	merely put	it
+1.0	he	lay mechanically	he tool
+1.0	he	carry box under	he arm
+1.0	he	extinguish	light
+1.0	he	lay	he tool
+1.0	he	do at_time	evening
+1.0	he	carry	box
+1.0	he	make	he way
+1.0	boy	have light	tallow candle
+1.0	Marzio	lock	heavy outer door
+1.0	Marzio	lock	heavy door
+1.0	Marzio	cross over to	he house
+1.0	boy	whistle down street in	dusk
+1.0	Marzio	lock door	boy go
+1.0	Marzio	lock	door
+1.0	Marzio	lock	outer door
+1.0	boy	whistle down	street
+1.0	artist	slowly mount	stair
+1.0	he	go on	emotion of day
+1.0	he	repeat	he conclusion
+1.0	artist	mount stair	he go on many emotion of day
+1.0	artist	mount stair	he go on emotion of day
+1.0	he	go on	many emotion of day
+1.0	artist	slowly mount stair	he go on emotion of day
+1.0	artist	slowly mount stair	he go on many emotion of day
+1.0	he	last repeat	he conclusion
+1.0	artist	mount	stair
+1.0	he	feel for	time in many year
+1.0	he	feel for	time in year
+1.0	he	see	he brother alive
+1.0	he	be	glad
+1.0	he	feel for	first time in many year
+1.0	he	feel for	first time in year
+1.0	first time	be in	many year
+0.8686668304799128	he	lie on	floor of workshop
+1.0	he	have at_time	day
+0.8686668304799128	he	lie on	floor
+0.9588060434972211	dawn	outline in	room
+1.0	dawn	suddenly touch	outline of familiar object in room
+0.9588060434972211	dawn	outline of	familiar object
+1.0	it	dispel vision in	instant
+1.0	harm	be	still undo
+1.0	it	dispel	vision
+1.0	it	be like	wake from hideous dream
+1.0	dawn	suddenly touch	outline of object in room
+1.0	dawn	touch	outline of object in room
+1.0	it	experience	sense
+0.9588060434972211	dawn	outline of	object
+1.0	dawn	touch	outline
+1.0	it	experience	sense of unutterable relief
+1.0	it	dispel	vision of night
+1.0	dawn	touch	outline of familiar object in room
+1.0	dawn	suddenly touch	outline in room
+1.0	it	be like	wake
+1.0	dawn	suddenly touch	outline of object
+1.0	it	experience	sense of relief
+1.0	dawn	suddenly touch	outline of familiar object
+1.0	dawn	touch	outline of object
+1.0	it	be like	wake from dream of evil
+1.0	dawn	touch	outline in room
+1.0	dawn	touch	outline of familiar object
+1.0	it	be like	wake from dream
+1.0	harm	be	undo
+1.0	dawn	suddenly touch	outline
+1.0	Marzio	have	step
+1.0	he	be at	door
+1.0	Marzio 's step	quicken with	thought
+1.0	door	be in	moment
+1.0	old Assunta	come with	she wrinkled finger raise to she lip
+1.0	it	be open to	he surprise
+1.0	old Assunta	come with	she finger raise to she lip
+1.0	Assunta	come with	she finger raise
+1.0	old Assunta	come forward with	she wrinkled finger raise
+1.0	Assunta	come with	she wrinkled finger raise
+1.0	old Assunta	come with	she finger raise
+1.0	Assunta	come forward with	she wrinkled finger
+1.0	Assunta	come forward with	she wrinkled finger raise to she lip
+1.0	Assunta	come forward with	she finger raise to she lip
+1.0	old Assunta	come with	she wrinkled finger
+1.0	Assunta	come forward with	she finger raise
+1.0	old Assunta	come forward with	she wrinkled finger
+1.0	old Assunta	come with	she wrinkled finger raise
+1.0	old Assunta	come forward with	she wrinkled finger raise to she lip
+1.0	Assunta	come with	she finger raise to she lip
+1.0	Assunta	come with	she wrinkled finger
+1.0	Assunta	come with	she finger
+1.0	old Assunta	come forward with	she finger raise to she lip
+1.0	Assunta	come forward with	she wrinkled finger raise
+1.0	old Assunta	come forward with	she finger
+1.0	it	be open	he could ring
+1.0	old Assunta	come with	she finger
+1.0	it	be	open
+1.0	Assunta	come forward with	she finger
+1.0	Assunta	come with	she wrinkled finger raise to she lip
+1.0	old Assunta	come forward with	she finger raise
+1.0	church	be with	Tista
+1.0	Marzio	hear	more
+1.0	Marzio	enter	passage
+1.0	he wife	look towards	he
+1.0	door	be	open
+1.0	he wife standing	be in	sitting-room
+1.0	she	have hear	he come
+1.0	he wife standing	be in	bright light
+1.0	he wife	standing in	bright light
+1.0	he wife	standing in	light
+1.0	he wife	standing in	sitting-room
+1.0	he wife	anxiously look towards	he
+1.0	God	for	sake
+1.0	he	address	she
+1.0	she	could give way to	she grief
+1.0	she	could give way in	passionate sob
+1.0	she	could give	way
+1.0	she	could frequently give way to	she grief
+1.0	she	could frequently give	way
+1.0	she	could frequently give way in	sob
+1.0	she	could give way in	sob
+1.0	she	could frequently give way in	passionate sob
+1.0	he	be stand	he hand rest upon case
+1.0	he	be stand	he hand rest
+1.0	he	be stand by	table
+1.0	he	be stand	he hand rest upon wooden case
+1.0	he hand	rest upon	wooden case
+1.0	he face	be	very pale
+1.0	he hand	rest upon	case
+1.0	he face	be	pale
+1.0	he	say at	last
+1.0	Tista	be on	ladder
+1.0	it	fall on	he
+1.0	Paolo	catch	it
+1.0	Maria Luisa	nod in	midst
+1.0	Maria Luisa	nod in	midst of fit of weep
+1.0	Maria Luisa	nod in	midst of fit
+1.0	Tista	in	room
+1.0	they	be with	he
+1.0	they	be with	he now
+0.08250788677896104	he face	betray	something he feel
+1.0	he	be under	influence of violent emotion
+1.0	he	be under	influence of emotion
+1.0	he	be under	influence of most violent emotion
+1.0	he	be under	influence
+1.0	idea	have play	tremendous part
+1.0	Paolo	of	death
+1.0	idea	have play part in	he thought
+1.0	idea	have play part in	he thought during whole day
+1.0	idea	be	realise
+1.0	idea	have play part in	he thought during day
+1.0	it	be	all dream
+1.0	it	be	dream
+1.0	idea	have play	part
+1.0	news	fill	he
+1.0	intense wish	have produce	material result
+1.0	wish	have produce	material result
+0.6694431048606438	material result	intense wish for	Paolo 's death
+0.6800988646962844	he	have have	share
+0.6800988646962844	he	have have	real share
+1.0	intense wish	have produce	result
+0.6800988646962844	he	have have share in	he death
+1.0	wish	have produce	result
+1.0	intense wish	have produce result in	way
+1.0	wish	have produce result without	he knowledge
+1.0	Paolo	for	death
+1.0	intense wish	have produce result without	he knowledge
+1.0	wish	have produce result in	way
+0.6694431048606438	material result	wish for	Paolo 's death
+0.6694431048606438	result	wish for	Paolo 's death
+0.6694431048606438	result	intense wish for	Paolo 's death
+1.0	he	have kill	he brother
+1.0	he	could bear	go
+1.0	he	could hardly bear	go
+1.0	strong	be	impression
+1.0	he fancy	picture of	Paolo
+1.0	he fancy	call up	picture
+0.44176314160029834	lie	wound in	bed
+1.0	he	face	sight
+1.0	he fancy	call up	picture of Paolo
+1.0	he	turn away from	table
+1.0	he	turn from	table
+1.0	he foot	strike board in	corner
+1.0	he	have begin to	sketch
+1.0	he	have begin at_time	night
+1.0	he	have begin at_time	night before
+1.0	he foot	strike	board
+1.0	he foot	strike board against	something
+1.0	he foot	strike	draw board
+1.0	Marzio	take up	it
+1.0	Marzio	bring	it
+1.0	indifference	be in	general calamity
+1.0	Maria Luisa	reproach	he
+1.0	Maria Luisa	stare sorrowfully at	he
+1.0	Maria Luisa	stare at	he
+1.0	Marzio	look intently at	drawing
+1.0	Marzio	look at	drawing
+1.0	he	have only reproduce	feature
+0.7155799830915205	he	feature	he have chisel ten year ago
+1.0	he	have reproduce feature with	add beauty of expression
+1.0	he ideal	be	same
+1.0	he	have reproduce feature with	just addition
+1.0	he	have only reproduce feature with	addition
+1.0	he	have reproduce feature with	beauty of expression
+1.0	he ideal	be	still same
+0.7155799830915205	he	feature	he have chisel ago
+1.0	he	have reproduce	feature
+1.0	he	have only reproduce feature with	beauty
+1.0	he	have only reproduce feature with	add beauty of expression
+1.0	he	have reproduce feature with	beauty
+1.0	he	have only reproduce feature with	beauty of expression
+1.0	he	have reproduce feature with	addition
+1.0	he	have reproduce feature with	add beauty
+1.0	he	make upon	original
+1.0	he	have only reproduce feature with	just addition
+1.0	he	have only reproduce feature upon	piece of paper
+1.0	he	have reproduce feature upon	piece of paper
+1.0	he	have reproduce feature upon	piece
+1.0	he	have only reproduce feature upon	piece
+0.7155799830915205	he	feature	he have chisel
+1.0	he	have only reproduce feature with	add beauty
+1.0	he	be sure at_time	moment
+1.0	he	be sure of	fact
+1.0	he	be	sure
+1.0	he	open	case
+1.0	he	open	wooden case
+1.0	he	lay aside	board
+1.0	he	be	moment sure of fact
+1.0	he	lay	board
+1.0	he	take out	beautiful object
+1.0	table	be in	light
+1.0	he	take out	object
+1.0	husband	in	mind
+1.0	he	bet	it
+1.0	she admiration	overcome	she sorrow
+0.5311769217796475	she	see	it
+1.0	Lucia	enter through	door
+1.0	Gianbattista	enter through	door
+1.0	Gianbattista	enter at	moment
+1.0	Gianbattista	enter through	open door
+1.0	Lucia	enter through	open door
+1.0	Lucia	enter at	moment
+1.0	girl	recognise	crucifix
+1.0	young girl	recognise crucifix at	once
+1.0	young girl	recognise	crucifix
+1.0	girl	recognise crucifix at	once
+1.0	she	whisper to	Gianbattista
+0.8536263647660578	he	lift	crucifix
+0.8536263647660578	he	lift crucifix without	word
+0.8536263647660578	he	lift crucifix from	table
+0.8536263647660578	he	lift crucifix without	further word
+1.0	he feature	have	something
+1.0	he feature	have something in	they
+1.0	he face	be	grave
+1.0	he face	be	very grave
+1.0	Gianbattista	follow	he
+1.0	Lucia	follow	he
+1.0	I	will say	Marzio
+1.0	he	hold	she apron
+1.0	he	set crucifix upon	old chest
+1.0	he	set crucifix upon	chest of drawer
+1.0	he	set crucifix upon	old chest of drawer
+1.0	he	set crucifix upon	chest
+1.0	he	put	lamp
+1.0	he	set	crucifix
+1.0	he	put lamp near	it
+1.0	he	remain	standing with he back to bed
+1.0	he	remain	standing with he back
+1.0	he hand	be in	pocket of he blouse
+1.0	he	remain	standing before it with he back
+1.0	he	remain	standing before it
+1.0	standing	be with	he back to bed
+1.0	he	standing with	he back
+1.0	he	standing before	it
+1.0	he	remain	standing before it with he back to bed
+1.0	he	standing with	he back to bed
+1.0	he	remain	standing
+1.0	he	could hear	breathing
+1.0	he	could hear	regular breathing
+1.0	he	look at	crucifix
+1.0	he	will see	it
+1.0	he	be go	die
+1.0	it	will comfort	he
+1.0	he	move to	one side
+1.0	he	move	he think
+1.0	he	look timidly in	direction of man
+1.0	he	look timidly in	direction of sick man
+1.0	he	look timidly in	direction
+1.0	he	fear	sight
+1.0	he	look in	direction of man
+1.0	he	slowly change	he position
+1.0	he	look in	direction of sick man
+1.0	he	change	he position
+1.0	he	fear	horrible sight
+1.0	he	look in	direction
+1.0	he	very slowly change	he position
+1.0	he	last see	pale upturned face
+1.0	he	last see	upturned face
+1.0	he	be	amaze
+1.0	he	see	upturned face
+1.0	little change	be in	feature
+1.0	he	see	pale face
+1.0	he	see	pale upturned face
+1.0	he	see	face
+1.0	he	last see	face
+1.0	he	last see	pale face
+1.0	he	stand beside	bed
+0.9857188816302508	he	prop towards	light
+1.0	he face	be towards	light
+1.0	he	be lie on	he back
+0.9857188816302508	he	prop by	pillow
+1.0	he	seem	be sleep
+1.0	he eyelid	have drop	he seem
+1.0	he	be	pale
+1.0	he	seem	be sleep peacefully
+1.0	he eyelid	have drop	ready
+1.0	Marzio	look at	he
+1.0	he	have nearly kill at_time	morning
+1.0	he	have kill at_time	morning
+1.0	he finger	tremble	he long arm twitch
+1.0	he arm	twitch nervously from	shoulder
+1.0	he long arm	twitch nervously from	shoulder
+1.0	he finger	tremble	he arm twitch nervously from shoulder
+1.0	he finger	tremble	he long arm twitch nervously to elbow
+1.0	he arm	twitch from	shoulder
+1.0	he finger	tremble	he arm twitch nervously from shoulder to elbow
+1.0	he finger	tremble	he long arm twitch nervously from shoulder
+1.0	Marzio 's hand	feel	iron tool
+1.0	Marzio 's right hand	feel	iron tool in pocket
+1.0	he finger	tremble	he long arm twitch from shoulder
+1.0	he	touch	it
+1.0	Marzio	have	right hand
+1.0	he finger	tremble	he long arm twitch from shoulder to elbow
+1.0	he finger	tremble	he long arm twitch nervously
+1.0	he finger	tremble	he arm twitch to elbow
+1.0	Marzio 's hand	feel	iron tool in pocket
+1.0	he finger	tremble	he long arm twitch to elbow
+1.0	he finger	tremble	he arm twitch from shoulder
+1.0	Marzio 's right hand	feel	iron tool
+1.0	he arm	twitch nervously to	elbow
+1.0	iron tool	be in	pocket of he blouse
+1.0	he finger	tremble	he arm twitch nervously to elbow
+1.0	he finger	tremble	he arm twitch
+1.0	he arm	twitch to	elbow
+1.0	Marzio 's hand	feel	iron tool in pocket of he blouse
+1.0	he long arm	twitch nervously to	elbow
+1.0	he long arm	twitch from	shoulder
+1.0	he finger	tremble	he arm twitch nervously
+1.0	he finger	tremble	he arm twitch from shoulder to elbow
+1.0	he finger	tremble	he long arm twitch nervously from shoulder to elbow
+1.0	Marzio 's right hand	feel	iron tool in pocket of he blouse
+1.0	he long arm	twitch to	elbow
+1.0	he	take out	it
+1.0	sick man	at	face
+1.0	he	look at	it
+1.0	he	have mean	it fall
+1.0	it	fall upon	bit of green drugget
+1.0	it	fall upon	bit of drugget
+1.0	he	ask	himself
+1.0	he	have mean	it fall upon bit by bedside
+1.0	he	have mean	it fall upon bit
+1.0	he	have mean	it fall upon bit of green drugget
+1.0	it	fall by	bedside
+1.0	he	have mean	it fall upon bit of green drugget by bedside
+1.0	he	use	it
+1.0	he	have mean	it fall upon bit of drugget by bedside
+1.0	it	fall upon	bit
+1.0	he	have mean	it fall by bedside
+1.0	he	have mean	it fall upon bit of drugget
+1.0	pillow	hold over	he face
+1.0	pillow	hold for	few moment
+1.0	pillow	hold for	moment
+1.0	something	be	consider
+1.0	Paolo	might now die in	he bed
+1.0	Paolo	might die of	he accident
+1.0	Paolo	might now die of	he accident
+1.0	Paolo	might die in	he bed
+1.0	presence	of horror be	discovery fear
+1.0	there would murder	horror of	presence
+0.38252435246246197	Paolo	would	would should dead
+0.38252435246246197	it	would	would when should dead
+0.38252435246246197	Paolo	would	would when should dead
+0.38252435246246197	it	would	would should dead
+1.0	he	well have	he idea
+1.0	he	have	he idea
+1.0	they	be	mistaken idea
+1.0	he	wring money	people do
+1.0	he	wring	money
+1.0	he	wring money out of	Marzio
+1.0	Marzio	still feel	sense of humiliation
+0.08250788677896104	Marzio	feel on	contrary
+0.08250788677896104	Marzio	still feel on	contrary
+1.0	kindness	to brother be	he
+1.0	Marzio	feel sense on	contrary
+1.0	Marzio	feel	sense
+1.0	Marzio	still feel sense on	contrary
+1.0	Marzio	still feel	sense
+1.0	Marzio	feel	sense of humiliation
+1.0	it	press	pillow on unconscious face
+1.0	it	press	pillow
+1.0	it	would be after	all
+1.0	it	press	pillow on face
+1.0	he	look down on	head
+1.0	he	look down on	pale head
+1.0	he	draw back	he
+1.0	he	would put out	he hand
+1.0	he	save	he
+1.0	he	fear for	should ever
+1.0	he	gaze upon	feature
+1.0	he	gaze upon	calm feature
+1.0	he	fear for	should still ever
+0.12093069135470202	he	try	feel
+1.0	it	issue from	lip
+1.0	he fear	grow to	terror
+1.0	life	ebb away from	white face
+1.0	life	ebb away from	face
+1.0	he fear	grow	life seem
+1.0	life	seem	ebb
+1.0	Marzio	inadvertently lay	he hand
+1.0	he hand	unconsciously press	he weight
+1.0	Marzio	lay	he hand
+1.0	he hand	press	he weight
+1.0	priest 's eye	seem	gaze for moment on crucifix standing in bright light
+1.0	priest 's eye	seem	gaze for moment on crucifix standing
+1.0	priest 's eye	seem	gaze for moment on crucifix standing in bright light of lamp
+1.0	priest	have	eye
+1.0	crucifix standing	be in	bright light of lamp
+1.0	priest 's eye	seem	gaze
+1.0	priest 's eye	open with	faint sigh
+1.0	priest 's eye	open with	sigh
+1.0	priest 's eye	seem	gaze for moment
+1.0	priest 's eye	seem	gaze for moment on crucifix standing in light of lamp
+1.0	priest 's eye	seem	gaze for moment on crucifix standing in light
+0.9690186559360894	syllable	audible in	stillness
+0.6399519129670479	word	come faintly from	man 's lip
+1.0	word	come	last syllable scarcely audible in intense stillness
+1.0	word	come	last syllable scarcely audible
+1.0	word	come faintly	last syllable audible in stillness
+1.0	word	come	syllable audible in intense stillness
+0.6399519129670479	word	come from	man 's lip
+1.0	word	come syllable from	man 's lip
+1.0	word	come	last syllable audible
+0.6399519129670479	word	come from	die man 's lip
+0.6399519129670479	word	come faintly from	die man 's lip
+1.0	word	come faintly	syllable scarcely audible in intense stillness
+1.0	word	come	last syllable audible in stillness
+1.0	word	come	syllable audible
+1.0	word	come faintly syllable from	man 's lip
+1.0	word	come	syllable scarcely audible in stillness
+1.0	word	come	syllable scarcely audible
+0.9690186559360894	last syllable	audible in	stillness
+1.0	word	come faintly	last syllable audible
+0.9690186559360894	syllable	audible in	intense stillness
+1.0	word	come	last syllable audible in intense stillness
+1.0	word	come faintly	last syllable scarcely audible in stillness
+0.9690186559360894	last syllable	audible in	intense stillness
+1.0	word	come	syllable audible in stillness
+0.9690186559360894	syllable	scarcely audible in	intense stillness
+1.0	word	come faintly	syllable audible in stillness
+1.0	word	come faintly	syllable audible in intense stillness
+1.0	word	come faintly syllable from	die man 's lip
+1.0	word	come faintly	syllable scarcely audible
+0.9690186559360894	syllable	scarcely audible in	stillness
+1.0	die man	from	lip
+1.0	word	come faintly	syllable audible
+0.9690186559360894	last syllable	scarcely audible in	intense stillness
+1.0	word	come faintly	last syllable
+1.0	word	come	last syllable scarcely audible in stillness
+1.0	word	come faintly	last syllable scarcely audible
+1.0	word	come	syllable scarcely audible in intense stillness
+1.0	word	come faintly	last syllable scarcely audible in intense stillness
+1.0	word	come faintly	syllable scarcely audible in stillness
+0.9690186559360894	last syllable	scarcely audible in	stillness
+1.0	word	come faintly	last syllable audible in intense stillness
+1.0	word	come	syllable
+1.0	word	come syllable from	die man 's lip
+1.0	word	come	last syllable
+1.0	word	come faintly	syllable
+1.0	pallor	creep quickly over	smooth forehead
+1.0	pallor	creep over	forehead
+1.0	pallor	creep over	smooth forehead
+1.0	pallor	creep quickly over	forehead
+1.0	he arm	extend with	loud cry fall upon he knee
+1.0	he long arm	extend across	he brother 's body
+1.0	he long arm	extend with	cry fall by bedside
+1.0	he long arm	extend with	cry fall
+1.0	he arm	extend with	loud cry fall upon he knee by bedside
+1.0	he arm	extend with	cry
+1.0	he long arm	extend with	loud cry fall upon he knee
+1.0	Marzio	look for	one instant
+1.0	he arm	extend with	cry fall upon he knee
+1.0	he arm	extend with	loud cry fall by bedside
+1.0	he arm	extend with	cry fall upon he knee by bedside
+1.0	he arm	extend across	he brother 's body
+1.0	he long arm	extend with	loud cry fall by bedside
+1.0	he long arm	extend with	loud cry fall
+1.0	he long arm	extend with	cry fall upon he knee
+1.0	he arm	extend with	cry fall by bedside
+1.0	he arm	extend with	loud cry fall
+1.0	Marzio	look more for	one instant
+1.0	he arm	extend with	cry fall
+1.0	he arm	extend with	loud cry
+1.0	he long arm	extend with	cry
+1.0	brother	across	body
+1.0	he long arm	extend with	loud cry
+1.0	he long arm	extend with	cry fall upon he knee by bedside
+1.0	he long arm	extend with	loud cry fall upon he knee by bedside
+1.0	strong hot tear	fall upon	bed covering
+1.0	he breast	heave with	sobbing
+1.0	tear	fall upon	bed covering
+1.0	strong tear	fall upon	bed covering
+1.0	he breast	heave with	passionate sobbing
+1.0	hot tear	fall upon	bed covering
+1.0	you	will disturb	he
+1.0	Lucia	be arrange	pillow under Paolo 's head
+1.0	Maria Luisa	be cry with	joy
+1.0	Paolo	under	head
+1.0	Lucia	be arrange	pillow
+1.0	Marzio	spring to	he foot
+1.0	Paolo	turn	he head
+1.0	Paolo	look kindly at	he brother
+1.0	Paolo	look at	he brother
+1.0	Marzio	have	tear
+1.0	he	hug	they
+1.0	they	kiss	they
+1.0	he	clasp	two person nearest
+1.0	he	clasp	two person
+1.0	he	clasp	two person nearest to he
+1.0	two	chance	Lucia
+1.0	two	be	Lucia
+1.0	Marzio	be with	kinder smile
+1.0	you	shall have	you own way
+1.0	you	shall have	you way
+1.0	Paolo	for	sake
+1.0	surgeon	later make	he visit
+1.0	surgeon	make	he visit
+1.0	surgeon	assure	they
+1.0	patient	have	have very badly stunned
+1.0	patient	have	have badly stunned
+1.0	patient	have	have stunned
+1.0	Marzio	remain by	he brother 's side
+1.0	brother	by	side
+1.0	she	spread out	she hand
+1.0	she	spread out	she fat hand
+1.0	she	look	picture of solid contentment
+1.0	she	look	picture of contentment
+1.0	she	look	picture

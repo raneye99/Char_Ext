@@ -1,0 +1,647 @@
+1.0	you	have in	have love
+1.0	you	have in	have love of course
+1.0	love	be like	measles
+1.0	we	have	go
+1.0	we	have	go through it
+1.0	we	go through	it
+1.0	we	take only once	it
+1.0	we	take	it
+1.0	we	take once	it
+1.0	it	go into	place
+1.0	it	go into	dangerous place
+1.0	it	go into	most dangerous place
+1.0	he	can picnic in	shady wood
+1.0	he can picnic	be in	shady wood
+1.0	he	linger on	mossy seat
+1.0	he	linger on	seat
+1.0	he	can picnic in	wood
+1.0	he	ramble through	leafy aisle
+1.0	he	go down	Rhine
+1.0	he	can join	family party
+1.0	he rest	catch	nothing lasting
+1.0	he rest	catch	nothing more lasting than cold
+0.6625737948952171	nothing	lasting than	cold
+1.0	he	can keep	he head
+1.0	he rest	catch	nothing lasting than cold
+1.0	he rest	catch	nothing
+0.6625737948952171	nothing	more lasting than	cold
+1.0	he rest	catch	nothing more lasting
+1.0	he	can brave	twilight
+1.0	he	can brave	moonlight walk adown lane
+1.0	he	can brave	moonlight walk lane
+1.0	he	can brave	moonlight walk adown sweet-scented lane pull
+1.0	he	can brave	moonlight walk adown sweet-scented lane
+1.0	he	can brave	moonlight walk sweet-scented lane pull
+1.0	he	can brave	moonlight walk lane pull
+1.0	he	can brave	moonlight walk lane pull among somber
+1.0	he	can brave	moonlight walk adown sweet-scented lane pull among somber
+1.0	he	can brave	moonlight walk sweet-scented lane pull among somber
+1.0	he	can brave	moonlight walk adown lane pull among somber
+1.0	he	can brave	moonlight walk sweet-scented lane
+1.0	he	can brave	moonlight walk adown lane pull
+0.4735073641878579	he	come down	fall
+1.0	he	come down	path
+1.0	he	come down	slippery path
+1.0	danger	scramble through	tangled hedge
+1.0	he	be	catch
+1.0	he	can get	catch
+1.0	he	can get without	scramble
+1.0	he	can get without	scramble through tangled hedge
+1.0	he	can get without	scramble through hedge
+1.0	he	come down path	fall
+1.0	he	can get over	stile
+1.0	he	can get without	danger
+1.0	he	can look into	sunny eye
+1.0	he	can look into	eye
+1.0	he	listen to	siren voice
+1.0	love 's handmaid	be	we life-long friend
+1.0	love	have	handmaid
+1.0	love 's handmaid	be	we friend
+1.0	we	be	very very fond
+1.0	we	be	fond
+1.0	we	be	very fond
+1.0	we	be	very fond
+1.0	we	be	very very fond of
+1.0	we	be	very fond of
+1.0	we	be	very fond of
+1.0	we	be	fond of
+1.0	man 's heart	be	firework
+1.0	man	have	heart
+1.0	it	blaze for	moment
+1.0	it	blaze with	its glory
+0.61121820290533	case	fall back to	earth
+0.61121820290533	case	fall to	earth
+0.61121820290533	burned-out case	fall back to	earth
+0.61121820290533	burned-out case	fall to	earth
+1.0	burned-out case	lie	useless
+1.0	case	lie	useless
+1.0	we	once dare	old Prometheus dare
+1.0	we	once dare	Prometheus dare
+1.0	mount	snatch	fire
+1.0	we	dare	old Prometheus dare
+1.0	we	dare	mighty Prometheus dare
+1.0	we	once dare	mighty old Prometheus dare
+1.0	we	once dare	mighty Prometheus dare
+1.0	we	scale	olympian mount
+1.0	mount	snatch fire from	Phoebus ' chariot
+1.0	mount	snatch	fire of god
+1.0	we	scale	mount
+1.0	olympian mount	snatch fire from	Phoebus ' chariot
+1.0	olympian mount	snatch	fire of god
+1.0	we	dare	Prometheus dare
+1.0	we	break from	we prison bond
+1.0	we	dare	mighty old Prometheus dare
+1.0	we	break loose from	we prison bond
+1.0	olympian mount	snatch	fire
+1.0	love	should	should fire of mighty temple
+1.0	organ music	be	rolling
+1.0	love	should	should vestal fire of temple
+1.0	love	should	should fire
+1.0	love	should	should vestal fire of mighty temple
+1.0	love	should	should fire of temple
+1.0	love	should	should vestal fire
+1.0	organ music	be rolling of	sphere
+1.0	affection	be fire	can feed
+1.0	affection	be fire	can feed from day to day
+1.0	wintry year	draw	nigh
+1.0	affection	be fire	can feed from day
+1.0	affection	be fire	can feed to day
+1.0	affection	be	fire
+1.0	year	draw	nigh
+1.0	shaggy fido	can toast	they nose
+1.0	man	sit with	they thin hand clasp
+1.0	child	can nestle down in	front
+1.0	man	sit with	they hand
+1.0	woman	sit with	they thin hand clasp
+1.0	woman	sit by	it
+1.0	sleek Titty	can toast	they nose
+1.0	friend	have	he corner
+1.0	friend	have	he welcome corner
+1.0	Titty	can toast	they nose
+1.0	fido	can toast	they nose
+1.0	neighbor	have	he corner
+1.0	woman	sit with	they thin hand
+1.0	old man	sit with	they hand
+1.0	old man	sit with	they thin hand
+1.0	old man	sit with	they thin hand clasp
+1.0	neighbor	have	he welcome corner
+1.0	man	sit by	it
+1.0	old man	sit by	it
+1.0	woman	sit with	they hand
+1.0	man	sit with	they thin hand
+1.0	little child	can nestle down in	front
+1.0	man	sit with	they hand clasp
+1.0	woman	sit with	they hand clasp
+1.0	old man	sit with	they hand clasp
+1.0	we	heap	coal
+0.8558103128443739	we	coal of	kindness
+1.0	we	heap	coal of kindness
+1.0	we	heap coal upon	fire
+1.0	gentle pressure	deed	you
+1.0	you	pressure	thoughtful deed
+1.0	fan	be with	good-humor
+1.0	it	make sunshine without in spite of	cloud
+1.0	you	can let	wind blow unheeded
+1.0	it	make	sunshine
+1.0	it	make sunshine in spite of	cloud
+1.0	you	can let	wind blow rain fall unheeded then
+1.0	you	can let	wind blow rain fall unheeded
+1.0	you	can let	rain fall unheeded
+1.0	you	can let	rain fall unheeded then
+1.0	you	can let	wind blow unheeded then
+1.0	it	make without	sunshine
+0.10199368314675994	you	expect from	love
+1.0	I	be	afraid
+1.0	you	expect	too much
+1.0	you	expect	much
+1.0	it	die out in	anger
+1.0	it	will seem to	each
+1.0	it	be	other
+1.0	it	be other	be grow
+1.0	blush	meet	he
+1.0	Edwin	see with	bitterness
+1.0	Poor Angelina	too shed	silent tear
+1.0	Poor Angelina	shed	tear
+1.0	Poor little Angelina	shed	silent tear
+1.0	Poor Angelina	shed	silent tear
+1.0	Poor little Angelina	too shed	silent tear
+1.0	Poor Angelina	too shed	tear
+1.0	Poor little Angelina	shed	tear
+1.0	Poor little Angelina	too shed	tear
+1.0	they	would look in	quarter
+1.0	they	would look in	littleness of human nature
+1.0	they	would look in	littleness
+1.0	they	would look in	littleness of nature
+1.0	they	would look for	cause
+1.0	they	would look in	littleness of poor human nature
+1.0	they	would look in	littleness of poor nature
+1.0	they	would look in	right quarter
+1.0	we	be	blind
+1.0	we	be	so blind
+1.0	we	be blind to	we shortcoming
+1.0	we	be blind to	we own shortcoming
+1.0	we	be so blind to	we own shortcoming
+1.0	we	be so blind to	we shortcoming
+1.0	everything	be	always person 's fault
+1.0	everything	be	other person 's fault
+1.0	everything	be	person 's fault
+1.0	everything	be	always other person 's fault
+1.0	Angelina	have remain	same
+1.0	Angelina	have only remain	same
+1.0	he	first adore	she
+1.0	he	adore	she
+1.0	you	have	grope about in cold dawn of life
+1.0	you	grope in	cold dawn of life
+1.0	you	have	grope in raw dawn
+1.0	you	grope about in	raw dawn
+1.0	you	have	grope about in raw dawn
+1.0	it	be	hour
+1.0	you	have	grope in cold dawn
+1.0	you	grope in	dawn of life
+1.0	it	be	cheerless
+1.0	you	grope about in	dawn of life
+1.0	you	grope about in	cold dawn
+1.0	you	grope about in	cold dawn of life
+1.0	you	grope in	cold raw dawn of life
+1.0	you	have	grope about in cold raw dawn of life
+1.0	you	have	grope
+1.0	you	have	grope in cold dawn of life
+1.0	you	have	grope about
+1.0	you	have	grope about in dawn
+1.0	you	have	grope in cold raw dawn
+1.0	you	grope in	raw dawn of life
+1.0	you	grope about in	cold raw dawn of life
+1.0	you	have	grope about in dawn of life
+1.0	you	grope about in	dawn
+1.0	you	grope in	raw dawn
+1.0	you	have	grope in raw dawn of life
+1.0	you	grope in	dawn
+1.0	it	be	cheerless hour
+1.0	you	have	grope in cold raw dawn of life
+1.0	you	have	grope about in cold dawn
+1.0	you	have	grope in dawn of life
+1.0	you	have	grope in dawn
+1.0	you	have	grope about in cold raw dawn
+1.0	you	have	grope about in raw dawn of life
+1.0	you	grope in	cold dawn
+1.0	you	grope about in	raw dawn of life
+1.0	you	grope about in	cold raw dawn
+1.0	you	grope in	cold raw dawn
+1.0	day	be	spend
+1.0	it	catch light	spend
+1.0	it	catch light	too far spend
+1.0	day	be	too far spend
+1.0	it	catch	light
+1.0	it	catch light	far spend
+1.0	day	be	far spend
+1.0	many	sit	shiver by dead coal till night come
+1.0	many	sit	shiver till night come
+1.0	many	sit	shiver by dead coal
+1.0	many	shiver by	dead coal
+1.0	many	shiver till	night come
+1.0	many	shiver till	night
+1.0	many	sit	shiver by coal till night
+1.0	many	shiver by	coal
+1.0	many	sit	shiver by dead coal till night
+1.0	many	sit	shiver by coal till night come
+1.0	many	sit	shiver
+1.0	many	sit	shiver till night
+1.0	many	sit	shiver by coal
+1.0	it	seem to	boy of twenty
+1.0	it	seem to	boy
+1.0	he belief	be in	himself
+1.0	he	have join	rank of sneerer
+1.0	he	have join	rank
+0.7475799948404964	he	rank of	sneerer
+1.0	we passion	cease with	we blush
+1.0	we	grieve	we do in we teens
+1.0	we	grieve	we do
+1.0	we	grieve in	we thirty
+1.0	grieve	be in	we thirty
+1.0	we	do in	we teens
+1.0	we	quaff success without	intoxication
+1.0	we	quaff	success
+1.0	we	take thing in	key
+1.0	we	take thing	we grow
+1.0	we	grow	older
+1.0	we	take thing in	minor key
+1.0	we	take	thing
+1.0	few majestic passage	be in	later act of life 's opera
+1.0	ambition	take	ambitious aim
+1.0	ambition	take	aim
+1.0	ambition	take	less ambitious aim
+1.0	honor	conveniently adapt	itself
+1.0	honor	adapt	itself
+1.0	honor	become	reasonable
+1.0	honor	become	more reasonable
+1.0	irreverence	soon creep upon	we heart
+1.0	irreverence	soon creep like	killing frost
+1.0	irreverence	creep like	killing frost
+1.0	irreverence	creep upon	we heart
+1.0	my fair friend	deem heresy	rank
+1.0	my friend	deem	rank
+1.0	my fair friend	deem	rank
+1.0	my friend	deem heresy	rank
+1.0	frankenstein	have	demon
+1.0	Pythagoras		bird
+1.0	lady	take	they notion
+1.0	man	be in	page of nightmare literature
+1.0	chief lover	god of	abstruse mystery
+1.0	he	resemble however	blackguard
+1.0	he	resemble	family of they
+1.0	he	resemble however	family of they
+1.0	he	resemble	whole family of they
+1.0	he	be	blackguard
+1.0	he	resemble	family
+1.0	he	whole family of	they
+1.0	he	resemble	whole family
+1.0	he	family of	they
+1.0	he	resemble however	family
+1.0	he	resemble however	whole family
+1.0	he	resemble however	whole family of they
+1.0	he	resemble	blackguard
+1.0	elderly party	of	emotion for bread-and-butter school-girl
+1.0	_ _ beau	love with	hysterical fervor
+1.0	_ blase _ beau	love with	hysterical fervor
+1.0	_ blase _ beau	love with	fervor
+1.0	_ blase _ old beau	love with	hysterical fervor
+1.0	_ _ old beau	love with	hysterical fervor
+1.0	_ _ old beau	love with	fervor
+1.0	_ _ beau	love with	fervor
+1.0	_ blase _ old beau	love with	fervor
+1.0	it	be well for	we old sinner
+1.0	you	study	only book
+1.0	it	be well for	we sinner
+1.0	we old sinner	for well be	dear lady
+1.0	it	be	well
+1.0	you	study	book
+1.0	lad 's stammer	tell	truer tale
+0.7204632206820121	lad 's stammer	truer tale than	we bold eloquence
+0.7204632206820121	lad 's shy stammer	tale than	we eloquence
+0.7204632206820121	lad 's stammer	truer tale than	we eloquence
+1.0	lad 's shy stammer	tell	truer tale than we bold eloquence
+1.0	lad 's shy stammer	tell	tale than we eloquence
+1.0	lad 's stammer	tell	truer tale than we bold eloquence
+1.0	lad 's stammer	tell	tale
+1.0	lad 's shy stammer	tell	truer tale than we eloquence
+0.7204632206820121	lad 's stammer	tale than	we eloquence
+1.0	you	do read	mankind
+0.7204632206820121	lad 's shy stammer	truer tale than	we bold eloquence
+1.0	lad 's shy stammer	tell	truer tale
+1.0	lad 's stammer	tell	tale than we eloquence
+0.7204632206820121	lad 's stammer	tale than	we bold eloquence
+1.0	lad 's shy stammer	tell	tale
+1.0	lad 's stammer	tell	truer tale than we eloquence
+0.7204632206820121	lad 's shy stammer	truer tale than	we eloquence
+0.7204632206820121	lad 's shy stammer	tale than	we bold eloquence
+1.0	lad 's shy stammer	tell	tale than we bold eloquence
+1.0	lad 's stammer	tell	tale than we bold eloquence
+1.0	man	be	often result
+1.0	man	be	more often result
+1.0	boy 's love	come from	heart
+1.0	man	be often result of	stomach
+1.0	boy 's love	come from	full heart
+1.0	boy	have	love
+1.0	man	be	result
+1.0	man	be often result of	full stomach
+1.0	man	be more often result of	full stomach
+1.0	man	be result of	stomach
+1.0	man	be result of	full stomach
+1.0	man	be more often result of	stomach
+1.0	you	would taste	love
+1.0	you	like	its flavor
+1.0	you	like	its bitter flavor
+1.0	we	must believe	those
+0.9365727695534208	they	crawl about	God 's garden
+1.0	sin	be	sweet
+1.0	they	be do	crawl about God 's garden
+1.0	they	do ever pause	think
+1.0	they	do pause	think
+1.0	they	be do	crawl
+1.0	they	be do	mischief
+1.0	decency	be	ridiculous
+1.0	devil	have	ladyhelp
+1.0	God	about	garden
+1.0	I	wonder	devil 's ladyhelp
+1.0	right	will take	care
+1.0	right	will take care of	itself
+1.0	they picture	be	coarse daub fancy of they imagination
+1.0	they picture	be	coarse daub paint fancy of they own diseased imagination
+1.0	they picture	be	coarse daub fancy of they diseased imagination
+1.0	they picture	be	coarse daub paint from sickly fancy of they diseased imagination
+1.0	they picture	be	daub paint from sickly fancy of they own imagination
+1.0	they picture	be	coarse daub fancy of they own diseased imagination
+1.0	they picture	be	coarse daub paint
+1.0	they picture	be	daub paint from sickly fancy of they imagination
+1.0	they picture	be	coarse daub paint fancy of they imagination
+1.0	they picture	be	coarse daub paint from sickly fancy of they own imagination
+1.0	they picture	be	daub paint from sickly
+1.0	they picture	be	daub paint fancy of they diseased imagination
+1.0	they picture	be	daub fancy of they own imagination
+1.0	they picture	be	coarse daub paint fancy
+1.0	they picture	be	daub paint from sickly fancy
+1.0	they picture	be	daub paint from sickly fancy of they own diseased imagination
+1.0	they picture	be	daub
+1.0	they picture	be	coarse daub paint from sickly fancy
+1.0	they picture	be	coarse daub paint from sickly fancy of they own diseased imagination
+1.0	they picture	be	coarse daub fancy
+1.0	they picture	be	coarse daub
+1.0	they picture	be	daub fancy of they own diseased imagination
+1.0	they picture	be	daub fancy
+1.0	they picture	be	daub paint from sickly fancy of they diseased imagination
+1.0	they picture	be	daub fancy of they diseased imagination
+1.0	they picture	be	coarse daub paint from sickly fancy of they imagination
+1.0	they picture	be	daub paint fancy
+1.0	they picture	be	daub paint fancy of they own imagination
+1.0	they picture	be	coarse daub fancy of they own imagination
+1.0	they picture	be	coarse daub paint fancy of they own imagination
+1.0	they picture	be	coarse daub paint fancy of they diseased imagination
+1.0	they picture	be	daub paint fancy of they imagination
+1.0	they picture	be	daub fancy of they imagination
+1.0	they picture	be	daub paint
+1.0	they picture	be	coarse daub paint from sickly
+1.0	they picture	be	daub paint fancy of they own diseased imagination
+1.0	we	want	think
+1.0	we	think of	woman
+1.0	we	want	think of woman
+1.0	it	be at	just age
+1.0	lass	have	make
+1.0	it	be at	age
+0.8552371721492863	lass	make of	he
+1.0	it	be at	very age
+1.0	lass	have	mar
+0.9922112259493827	mar	make of	he
+1.0	man	have	character
+1.0	he	tumble into	love
+1.0	lass	have	make of he
+1.0	it	be at	just very age
+1.0	he	unconsciously mold	himself
+1.0	she	would have	he
+1.0	he	mold	himself
+1.0	she	would have	he good
+1.0	I	have	ungallant enough
+1.0	I	have	ungallant
+1.0	I	be	sorry
+1.0	world	often be bound within	limit of commonplace
+1.0	world	be	bound
+1.0	female world	often be bound hard and fast within	limit of commonplace
+1.0	female world	often be bound hard within	limit of commonplace
+1.0	female world	too often be bound hard within	limit
+1.0	female world	be	often bound hard
+1.0	world	too often be bound within	limit
+1.0	world	often be bound hard and fast within	limit of commonplace
+1.0	female world	be bound within	limit
+1.0	world	be	too often bound hard
+1.0	world	often be bound hard and fast within	limit
+1.0	female world	be bound hard within	limit
+1.0	world	too often be bound hard and fast within	limit
+1.0	female world	often be bound within	limit of commonplace
+1.0	female world	too often be bound within	limit
+1.0	female world	be	often bound
+1.0	female world	be	too often bound hard
+1.0	female world	be	bound hard
+1.0	world	be bound hard within	limit
+1.0	world	be bound within	limit
+1.0	world	too often be bound within	limit of commonplace
+1.0	world	be	often bound
+1.0	world	be bound hard within	limit of commonplace
+1.0	female world	be	bound
+1.0	female world	be bound hard within	limit of commonplace
+1.0	female world	often be bound within	limit
+1.0	world	often be bound hard within	limit of commonplace
+1.0	female world	too often be bound hard within	limit of commonplace
+1.0	female world	often be bound hard and fast within	limit
+1.0	world	be	often bound hard
+1.0	world	be	bound hard
+1.0	female world	be	too often bound
+1.0	world	often be bound within	limit
+1.0	female world	often be bound hard within	limit
+1.0	world	too often be bound hard within	limit of commonplace
+1.0	world	be	too often bound
+1.0	world	too often be bound hard and fast within	limit of commonplace
+1.0	world	too often be bound hard within	limit
+1.0	female world	be bound hard and fast within	limit of commonplace
+1.0	world	be bound hard and fast within	limit
+1.0	female world	be bound within	limit of commonplace
+1.0	world	often be bound hard within	limit
+1.0	female world	be bound hard and fast within	limit
+1.0	female world	too often be bound within	limit of commonplace
+1.0	world	be bound hard and fast within	limit of commonplace
+1.0	female world	too often be bound hard and fast within	limit of commonplace
+1.0	world	be bound within	limit of commonplace
+1.0	female world	too often be bound hard and fast within	limit
+1.0	they ideal hero	be	prince
+1.0	they hero	be	prince
+1.0	they hero	be prince of	littleness
+1.0	they ideal hero	be prince of	littleness
+1.0	you	could make better	we
+1.0	you	could make much better	we
+1.0	you	yet could make better	we
+1.0	you	could make so much better	we
+1.0	you	could make	we
+1.0	you	yet could make much better	we
+1.0	you	yet could make so much better	we
+1.0	you	yet could make	we
+1.0	it	roll	little nearer heaven
+1.0	it	roll	world
+1.0	it	roll	little
+1.0	it	rest with	you
+1.0	it	want of	work do
+1.0	it	only sleep	want
+1.0	it	sleep	want
+1.0	it	sleep	want of work do
+1.0	it	only sleep	want of work do
+1.0	you	must	must worthy of knightly worship
+1.0	you	must	must worthy of worship
+1.0	you	must	must worthy
+1.0	you	be	must higher
+1.0	you	be	must higher than ourselves
+1.0	Red Cross Knight	do	war
+1.0	it	be for	Una
+1.0	dragon	mince	court dame
+1.0	dragon	have	could have slay
+1.0	lady	be fair in	mind
+1.0	lady fair	be fair in	mind
+1.0	knight	may win glory in	you service
+1.0	lady	be	fair
+1.0	brave knight	may win glory in	you service
+1.0	lady fair	be	fair
+1.0	knight	may win	glory
+1.0	brave knight	may win	glory
+1.0	woman	throw off	you cloak
+1.0	woman	throw off	you disguise cloak
+1.0	woman	throw off	you cloak of selfishness
+1.0	woman	throw off	you disguise cloak of selfishness
+1.0	more queen	be in	you royal robe of simple purity
+1.0	ambition	shall go in	dust
+1.0	Avarice	shall go in	dust
+1.0	fear	shall go down before	you color
+1.0	fear	shall go before	you color
+1.0	pleasure	shall go in	dust
+1.0	pleasure	shall go before	you color
+1.0	ambition	shall go down before	you color
+0.02038138290973901	Sir Rolands	shall lay in	rest
+1.0	Avarice	shall go down in	dust
+1.0	ambition	shall go down in	dust
+1.0	fear	shall go in	dust
+1.0	pleasure	shall go down before	you color
+1.0	Avarice	shall go before	you color
+1.0	pleasure	shall go down in	dust
+1.0	ambition	shall go before	you color
+0.02038138290973901	thousand Sir Rolands	shall lay in	rest
+1.0	fear	shall go down in	dust
+1.0	Avarice	shall go down before	you color
+1.0	we love	be religion	we could have die for
+1.0	we love	be religion	we could have die
+1.0	we love	be	religion
+1.0	it	be	queen
+1.0	we	pay	homage
+1.0	we	madly do	worship
+1.0	we	do	worship
+1.0	we	how madly do	worship
+1.0	it	be to	worship
+1.0	lad	cherish	love 's young dream
+1.0	love	have	young dream
+1.0	lad	cherish	love 's dream
+1.0	it	be wild romantic misery unlike	dull pain of after-sorrow
+1.0	it	be romantic misery unlike	dull worldly pain of after-sorrow
+1.0	it	be	wild romantic misery
+1.0	it	be	romantic misery
+1.0	it	be romantic misery unlike	pain of after-sorrow
+1.0	it	be misery unlike	dull worldly pain of after-sorrow
+1.0	it	be wild romantic misery unlike	worldly pain of after-sorrow
+1.0	it	be	wild misery
+1.0	it	be wild misery unlike	worldly pain
+1.0	it	be misery unlike	pain of after-sorrow
+1.0	it	be misery unlike	dull pain
+1.0	it	be wild romantic misery unlike	dull worldly pain of after-sorrow
+1.0	it	be romantic misery unlike	pain
+1.0	it	be misery unlike	worldly pain of after-sorrow
+1.0	it	be romantic misery unlike	dull pain
+1.0	it	be misery unlike	pain
+1.0	it	be romantic misery unlike	worldly pain of after-sorrow
+1.0	it	be romantic misery unlike	dull worldly pain
+1.0	it	be wild misery unlike	dull pain
+1.0	it	be wild romantic misery unlike	dull worldly pain
+1.0	it	be wild romantic misery unlike	pain
+1.0	it	be wild misery unlike	dull worldly pain of after-sorrow
+1.0	it	be wild misery unlike	dull worldly pain
+1.0	it	be	misery
+1.0	it	be	wild
+1.0	it	be	romantic
+1.0	it	be romantic misery unlike	worldly pain
+1.0	it	bring	misery
+1.0	it	be romantic misery unlike	dull pain of after-sorrow
+1.0	it	be wild misery unlike	pain of after-sorrow
+1.0	it	be misery unlike	dull worldly pain
+1.0	it	be wild misery unlike	dull pain of after-sorrow
+1.0	it	be misery unlike	worldly pain
+1.0	it	be wild romantic misery unlike	dull pain
+1.0	it	be wild misery unlike	pain
+1.0	it	be wild romantic misery unlike	worldly pain
+1.0	it	be wild romantic misery unlike	pain of after-sorrow
+1.0	it	be misery unlike	dull pain of after-sorrow
+1.0	it	be wild misery unlike	worldly pain of after-sorrow
+1.0	light	be go out from	you life
+1.0	you	have lose	she
+1.0	half-enchantment mingle	be with	you despair
+1.0	recollection	thrill	you
+1.0	mere recollection	thrill	you
+1.0	it	tell	she
+1.0	you	love	she
+1.0	you	live for	she
+1.0	you	die for	she
+1.0	you	do rave	sure
+1.0	you	stand of	she
+1.0	you	have offend	she
+1.0	she	snub	you
+1.0	you	look	wretched
+1.0	world	be	she do
+1.0	world	be	she often do
+1.0	you	see	she
+1.0	you	do see	she
+0.25331100359622694	you	stare	say
+1.0	you	stare at	she
+1.0	yourself	opposite	she window
+1.0	yourself	eventually opposite	she window
+1.0	you	save	she
+1.0	it	be	burn
+1.0	it	be	terribly burn
+1.0	house	have only catch	fire
+1.0	house	have catch	fire
+1.0	you	would watch spaniel-like	she
+1.0	you	would watch	she
+1.0	she	anticipate	she slightest wish
+1.0	she	anticipate	she wish
+1.0	you	do	she bidding
+1.0	you	lay	offering at she shrine
+1.0	you	feel	repay
+1.0	you	lay	humble offering
+1.0	you	lay	humble offering at she shrine
+1.0	you	would go without	holiday
+0.02038138290973901	you	would go	lay
+1.0	you	feel	more than repay
+1.0	you	lay	offering
+1.0	she	accept	it
+1.0	you	look at	now
+1.0	she	glove	ribbon
+1.0	she	have	hallowed by she touch
+1.0	she	have	hallowed
+1.0	else	become	plain
+1.0	it	seem	presumption gaze at she
+1.0	it	seem	presumption gaze
+1.0	it	seem	almost presumption gaze
+1.0	it	seem	almost presumption gaze at she
+1.0	you	kiss	she
+1.0	we heart	be	when full
+1.0	we simple heart	be	full
+1.0	we heart	be	full
+1.0	we simple heart	be	when full
+1.0	we simple heart	be full of	truth
+1.0	we heart	be	when full of truth
+1.0	we	be	unselfish
+1.0	we simple heart	be	when full of truth
+1.0	we	be	when unselfish
+1.0	we heart	be full of	truth
+1.0	ah	day of	noble striving
+1.0	ah	day of	noble longing

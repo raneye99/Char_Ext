@@ -1,0 +1,453 @@
+1.0	Lady Theobald	have	errand
+1.0	he	forget	Lady Theobald 's errand
+1.0	he	forget altogether	Lady Theobald 's errand
+1.0	he	finally forget	Lady Theobald 's errand
+1.0	he	watch	game of lawn-tennis
+1.0	he	finally forget altogether	Lady Theobald 's errand
+1.0	he	watch	game
+1.0	Lord Lansdowne	be follow	she delightedly
+1.0	she	be play with	spirit
+1.0	she	be play with	great spirit
+1.0	Barold 's eye	fix upon	she
+1.0	Barold	have	eye
+1.0	you	be at	when liberty
+1.0	you	be at	liberty
+1.0	I	speak to	you
+1.0	he	cover by	greater amount than usual
+1.0	she	seem	unprepared for energy
+1.0	he	strive	cover by greater amount than usual
+1.0	she	seem	unprepared for repress energy of he manner
+1.0	he	cover by	amount than usual
+1.0	he	strive	cover by amount of coldness than usual
+1.0	she	seem	little unprepared for energy
+1.0	he	strive	cover
+1.0	she	seem	unprepared
+1.0	he	strive	cover by greater amount of coldness than usual
+1.0	she	seem	little unprepared for repress energy of he manner
+1.0	he	cover by	amount of coldness than usual
+1.0	she	seem	little unprepared for repress energy
+1.0	she	seem	unprepared for energy of he manner
+1.0	he	strive	cover by amount than usual
+1.0	she	seem	unprepared for repress energy
+1.0	she	seem	little unprepared for energy of he manner
+1.0	she	seem	little unprepared
+1.0	he	cover by	greater amount of coldness than usual
+1.0	game	will	will soon end
+1.0	game	will	will end
+1.0	game	think	moment
+1.0	conservatory	be with	Lord Lansdowne
+1.0	she	finish	she game
+1.0	Barold	make	he way
+1.0	he	have resent	she enjoyment of she surroundings
+1.0	he	leave	Lord Lansdowne rather disconsolate
+1.0	he	leave	Lord Lansdowne disconsolate
+1.0	he	stand near	she
+1.0	he	have resent	she oblivious
+1.0	he	have resent	she remain oblivious
+1.0	he	have resent	she remain oblivious of he presence
+1.0	he	lead	she away
+1.0	he	lead	she
+1.0	he	have resent	she oblivious of he presence
+1.0	all	impress by	he silence
+1.0	he	have resent	she enjoyment
+1.0	you	say to	I
+1.0	I	be	little
+1.0	she	talk about	Lord Lansdowne
+1.0	she	begin	talk
+1.0	she	begin	talk about Lord Lansdowne
+1.0	I	mean	we go back from Europe
+1.0	I	mean	we go from Europe
+1.0	we	go back from	Europe
+1.0	I	mean	we go
+1.0	we	go from	Europe
+1.0	I	mean	we go back
+1.0	it	be	still uncertain
+1.0	it	be	rather uncertain
+1.0	it	be	uncertain
+1.0	it	be	still rather uncertain
+1.0	I	persuade	aunt Belinda
+1.0	I	do tell	you
+1.0	aunt Belinda	travel with	we
+1.0	she	will get	frighten
+1.0	she	be	frighten
+1.0	she	will get	frighten after little while
+1.0	she	will get	frighten after while
+1.0	she	be frighten after	while
+1.0	she	be frighten after	little while
+1.0	she	look at	he
+1.0	it	seem	make
+1.0	puzzling he	be in	she eye
+1.0	excitement	be in	she eye
+1.0	he	be in	she eye
+1.0	delighted excitement	be in	she eye
+1.0	you	be	fond
+1.0	you	be	so fond
+1.0	you	be fond of	you father
+1.0	you	be so fond of	you father
+1.0	yes	be as	of course fond of he
+1.0	yes	be as	fond as all
+1.0	yes	be as	fond
+1.0	yes	be as	fond of he
+1.0	yes	be as	fond of he as all
+1.0	I	be as	of course fond of he as all
+1.0	yes	be as	of course fond as all
+1.0	I	be as	fond as all
+1.0	yes	be as	of course fond of he as all
+1.0	I	be as	fond of he
+1.0	I	be as	fond of he as all
+1.0	I	be as	fond
+1.0	yes	be as	of course fond
+1.0	I	be as	of course fond as all
+1.0	I	be as	of course fond
+1.0	I	be as	of course fond of he
+1.0	it	be	natural
+1.0	it	be	quite natural
+1.0	same degree	be in	young lady of my acquaintance
+0.8946118334709392	I	same degree of	enthusiasm
+1.0	he	think	such rapture disproportionate
+1.0	he	regard	it
+1.0	he	think	rapture disproportionate to cause
+1.0	he	think	such rapture disproportionate to cause
+1.0	such rapture	disproportionate to	cause
+1.0	he	think	rapture disproportionate
+1.0	rapture	disproportionate to	cause
+1.0	he	regard grudgingly	it
+1.0	they	turn into	arbor
+1.0	Octavia	lean forward on	rustic table
+1.0	Octavia	lean on	rustic table
+1.0	Octavia	lean forward on	table
+1.0	Octavia	lean on	table
+1.0	she	look at	vine
+1.0	she	turn up	she face
+0.11982177299755592	she	turn up	look
+0.11982177299755592	she	turn up	look at vine
+1.0	light	fall on	she chin
+1.0	bar	strike on	she eye
+1.0	light	fall bewitchingly on	she chin
+1.0	bar	blonde ring on	she forehead
+1.0	light	fall bewitchingly on	she round little chin
+1.0	bar	strike on	she upturned eye
+1.0	light	fall on	she little chin
+1.0	bar	ring on	she forehead
+1.0	light	fall bewitchingly on	she little chin
+1.0	light	fall on	she round chin
+1.0	light	fall on	she round little chin
+1.0	light	fall bewitchingly on	she round chin
+1.0	she	say	little shiver
+0.9588834340407476	it	be	caterpillar
+1.0	she	say	little shiver unless
+1.0	she	say	little shiver seriously
+1.0	she	say	little shiver unless seriously
+1.0	little	caterpillar	I loathe
+1.0	she	give	she hat
+1.0	it	drop on	it
+1.0	you	now do want	say
+1.0	you	do want	say
+1.0	he	stand	lean against rustic wood-work
+1.0	he	look	pale
+1.0	he	evidently try	cooler
+1.0	he	try	cooler
+1.0	I	ask	you
+0.510695854547324	I	bring here	you
+1.0	I	ask	question
+0.510695854547324	I	bring	you
+1.0	it	be	important
+1.0	you	look	serious
+1.0	you	look	serious enough
+1.0	it	be	important
+1.0	he	respond with	tone of sarcasm
+1.0	he	respond with	tone
+1.0	it	be	important rather
+1.0	he	find	it go
+1.0	he	pause	moment
+1.0	he	find	it go on
+1.0	he	manage	begin
+1.0	he	manage	begin again
+1.0	he	manage at	length
+1.0	I	bring	you
+1.0	you	ask	you
+1.0	I	bring here	you
+1.0	she	have settle	herself
+1.0	she airy manner	have take	flight
+1.0	he	have speak	four word
+1.0	airy manner	have take	flight
+1.0	she	have settle down	herself
+1.0	he	have scarcely speak	four word
+1.0	he	feel	it quite natural
+1.0	he	feel	it natural
+1.0	she	be look into	he face
+1.0	she	be look straight into	he face
+1.0	she eye	be	singularly large
+1.0	she eye	be	large
+1.0	obstacle	be in	way my do so
+1.0	he	draw up	himself
+1.0	you	have	have unfortunate
+1.0	that	be	good
+1.0	she	eye rest	seconds
+1.0	she	think	little
+1.0	she	eye	rest
+1.0	she	eye rest on	table
+1.0	she	eye rest	few seconds
+1.0	you	be in	very much love
+1.0	I	have	consolation know
+1.0	you	be in	love with I
+1.0	you	be in	much love with I
+1.0	must have love	be with	I
+1.0	you	be in	love
+1.0	you	be in	very much love with I
+1.0	you	be in	much love
+1.0	have love	be with	I
+1.0	I	marry	you
+1.0	love	be with	you
+1.0	love	be with	you
+1.0	I	have	have wretched
+1.0	I	have	have wretched for day
+1.0	I	marry	you
+1.0	delicate touch	fire	he
+1.0	delicate touch	be in	she tone
+1.0	touch	fire	he
+0.10640812119574006	it	suggest to	he
+1.0	he	draw	nearer
+1.0	he	stretch out	he hand
+1.0	he	take	hers
+1.0	she	draw back	it
+1.0	I	will tell	you
+1.0	I	suppose	aunt Belinda say
+1.0	he	throw upon	himself
+1.0	nothing	be serious to	I
+1.0	nothing	be so serious to	I
+1.0	they	interfere with	my happiness
+1.0	nothing	be serious	you should let
+1.0	he	bewilder by	she logical manner
+1.0	nothing	be so serious	you should let
+1.0	nothing	be	so serious
+1.0	he	throw back upon	himself
+1.0	he	bewilder by	she manner
+1.0	nothing	be	serious
+1.0	we	forget	they
+1.0	I	be fool	speak
+1.0	you	obey	you
+1.0	you	want	somebody meeker
+1.0	he	begin in	he loftiest manner
+1.0	he	begin in	he manner
+1.0	you	be treat	I
+1.0	you	be treat unfairly	I
+1.0	I	suppose	I _
+0.8215310356192181	I	look in	you way
+0.8215310356192181	I	look at	it
+1.0	I	marry	you
+1.0	I	be	young
+0.27792894616668395	I	should have	live
+0.27792894616668395	I	live with	you
+1.0	I	live	they
+0.27792894616668395	I	should have	live with you
+1.0	that	be	something
+1.0	he	rise with	wrath
+1.0	he	rise from	he seat pale
+1.0	he	wound	feeling
+1.0	you	refuse	I
+1.0	you answer	be	no
+1.0	it	be	no
+0.8021162187249562	I	humiliate	myself
+1.0	it	be	bitter
+1.0	it	be	rather bitter
+1.0	she	pass out of	arbor
+1.0	he	step back with	haughty wave of hand
+1.0	he	step with	haughty wave of hand
+1.0	he	step back with	haughty wave
+1.0	she	pass before	he
+1.0	he	step with	wave
+1.0	he	step with	haughty wave
+1.0	he	step back with	wave of hand
+1.0	he	step with	wave of hand
+1.0	he	step back with	wave
+1.0	I	be engage to	somebody else
+1.0	I	be engage to	somebody
+1.0	I	be	engage
+1.0	person	be	Mr. Dugald Binnie
+1.0	first person	be	Mr. Dugald Binnie
+1.0	they	reach	lawn
+1.0	they	reach	group
+1.0	matter	be with	Mr. Barold
+1.0	Mrs. Burnham	be in	stern reproof of such flippancy
+1.0	she	exchange glance at_time	next moment
+1.0	glance	be with	Miss Pilcher
+1.0	she	exchange	glance with Miss Pilcher
+1.0	she	exchange	glance
+1.0	she	exchange glance at_time	moment
+1.0	it	really look like	very it
+1.0	it	look like	very it
+1.0	Miss Pilcher	say	scarcely
+1.0	it	look like	it
+1.0	it	really look like	it
+1.0	Mrs. Burnham	glance toward	he
+1.0	it	be	observe
+1.0	good-by	hold out	she hand
+1.0	she	add in	under-tone
+1.0	she	add quickly in	under-tone
+1.0	she	be silent	they drive
+1.0	she	be	silent
+1.0	she	be rather silent	they drive
+1.0	she	be	rather silent
+1.0	Miss Belinda	remark	it
+1.0	she	be silent	they drive homeward
+1.0	she	be rather silent	they drive homeward
+1.0	Martin	should come	find
+1.0	I	be	only thinking
+1.0	I	be	thinking
+1.0	it	have	have queer day
+1.0	Miss Belinda	think	inconsistent
+1.0	Miss Belinda	think	rather inconsistent
+1.0	they	grow	restless
+1.0	they	grow	rather restless
+1.0	they	near	house
+1.0	she	shut	door
+0.7004054262023033	she	catch in	embrace of tall young man
+1.0	Miss Belinda	be	horrify
+0.7004054262023033	she	catch in	embrace of young man
+0.7004054262023033	she	catch in	embrace of man
+0.7004054262023033	she	catch in	at once embrace
+0.7004054262023033	she	catch in	embrace of bronzed man
+0.7004054262023033	she	catch in	at once embrace of bronzed young man
+0.7004054262023033	she	catch in	embrace of tall bronzed man
+0.7004054262023033	she	catch in	at once embrace of man
+0.7004054262023033	she	catch in	embrace of bronzed young man
+1.0	Miss Belinda	be horrify	see
+0.7004054262023033	she	catch in	at once embrace of tall bronzed young man
+0.7004054262023033	she	catch in	embrace of tall man
+0.7004054262023033	she	catch in	at once embrace of tall bronzed man
+0.7004054262023033	she	catch in	at once embrace of tall young man
+1.0	Miss Belinda	be	follow she closely horrify
+0.7004054262023033	she	catch in	at once embrace of tall man
+0.7004054262023033	she	catch in	at once embrace of bronzed man
+0.7004054262023033	she	catch in	embrace of tall bronzed young man
+0.7004054262023033	she	catch in	embrace
+1.0	she	be out of	carriage
+0.7004054262023033	she	catch in	at once embrace of young man
+1.0	prosperous-looking	be	big
+1.0	Martin Bassett	lead	she
+1.0	he	be	fellow
+1.0	he	be finest fellow in	West
+1.0	he	be	finest fellow
+1.0	he	be fellow in	West
+1.0	it	be	Jack Belasys
+1.0	finest fellow	be in	West
+1.0	he	be go	we go abroad
+1.0	he	be go	we go
+1.0	he	marry	she
+1.0	Mr. Bassett	answer	he be go
+1.0	it	be day for	party concern
+1.0	it	be	eventful
+1.0	it	be eventful day for	party concern
+1.0	she demoralization	be	due
+1.0	she demoralization	be due to	Mr. Dugald Binnie
+1.0	gentleman	get into	carriage in rather humor
+1.0	gentleman	get into	carriage
+1.0	gentleman	get into	carriage in humor than usual
+1.0	gentleman	get into	carriage in better humor
+1.0	gentleman	get into	carriage in better humor than usual
+1.0	gentleman	get into	carriage in rather humor than usual
+1.0	carriage	be in	rather better humor than usual
+1.0	gentleman	get into	carriage in rather better humor
+1.0	gentleman	get into	carriage in humor
+1.0	gentleman	get into	carriage in rather better humor than usual
+1.0	I	use	know
+1.0	I	know as soon	he
+1.0	I	know	he
+1.0	I	know soon	he
+1.0	long talk	be with	he
+1.0	he	be come	see
+1.0	he	see	you to-morrow
+1.0	he	come	myself
+1.0	he	be take	fancy
+1.0	he	be take	fancy to Lucia
+1.0	Lucia	turn with	expression
+1.0	Lucia	turn with	amaze expression
+1.0	Lady Theobald	have receive	shock
+1.0	she	could scarcely support	herself
+1.0	she	could support	herself
+1.0	Mr. Binnie	strike sharply	he stick
+1.0	Mr. Binnie	strike	he stick
+1.0	I	will have	nothing do with chap
+1.0	I	will have	nothing do
+1.0	I	will have	nothing do with chap like that
+0.39470293901381176	nothing	do with	chap like that
+0.39470293901381176	nothing	do with	chap
+1.0	she	would take up with	he
+1.0	they	reach	oldclough
+1.0	she ladyship	follow lucia to	she room
+1.0	she ladyship	follow	Lucia
+1.0	she	arrange nervously	manacle
+1.0	she	arrange nervously	manacle on she wrist
+1.0	she	arrange	manacle
+1.0	she	arrange	manacle on she wrist
+1.0	she	stand before	she
+1.0	I	be mistake in	my impression
+1.0	Mr. Dugald Binnie	of	taste
+1.0	I	be	mistake
+1.0	I	be mistake in	my impression of Mr. Dugald Binnie 's taste
+1.0	you	marry	Mr. Burmistone
+1.0	I	congratulate	you
+1.0	tear	rise to	Lucia 's eye
+1.0	Lucia	to	eye
+1.0	Lucia	look at	she
+1.0	Lucia	look pathetically at	she
+1.0	I	keep thing from	you
+1.0	I	keep	thing
+1.0	I	be	ashamed
+1.0	it	do	it
+1.0	I	have often tell	myself
+1.0	I	have tell	myself
+0.9689487375477163	it	be	sly
+0.7909849686335807	it	be	observe
+1.0	it	be	Rev. Alfred Poppleton
+1.0	he	be	almost as pale
+0.8761784626147117	observe	rector of	St. James
+1.0	he	be almost as pale as	he surplice
+1.0	observe	marry	Jack Belasys
+1.0	observe	assist	rector
+1.0	he	be pale as	he surplice
+1.0	he	be	as pale
+1.0	he	be	pale
+1.0	observe	marry	Octavia Bassett
+1.0	observe	assist	rector of St. James
+1.0	he	be	almost pale
+1.0	he	be almost pale as	he surplice
+1.0	he	be as pale as	he surplice
+1.0	Jack Belasys	be	singularly handsome fellow
+1.0	Jack Belasys	be	handsome fellow
+1.0	it	have	dashing air
+1.0	it	be	even admit
+1.0	Jack Belasys	be	fellow
+1.0	it	have	dashing adventurous air
+1.0	it	be	admit
+1.0	Belasys	be	handsome
+1.0	rumor	be in	Brazil
+1.0	he	do	something in diamond
+1.0	he	own	silver-mine
+1.0	something	be in	diamond
+1.0	he	do	something
+1.0	he	have spend at_time	two year
+1.0	he	even do	something in diamond
+0.15709945297497913	he	silver-mine	himself
+1.0	he	even do	something
+1.0	he	have spend at_time	last two year
+1.0	he	own	silver-mine himself
+1.0	it	be	at event ascertain beyond doubt
+1.0	it	be ascertain at	event
+1.0	she	be bear by	train
+1.0	she	be bear with	she father
+1.0	she	be	bear
+1.0	he	hold	large bouquet
+1.0	he	hold	bouquet
+1.0	Octavia herself	have give	he
+1.0	he	hold bouquet in	he hand
+1.0	Slowbridge	miss	you
+1.0	Slowbridge	miss	Miss Mrs. Belasys
+0.7903980179748146	I	shall miss	you
+1.0	large drop	appear on	calyx
+1.0	large drop	appear on	calyx of lily
+1.0	drop	appear on	calyx
+1.0	he	stand	train puff
+1.0	drop	appear on	calyx of lily
+1.0	train	puff out of	station

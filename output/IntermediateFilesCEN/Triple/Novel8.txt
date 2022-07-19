@@ -1,0 +1,2321 @@
+1.0	it	be	rainy November night
+1.0	it	be	November night
+1.0	it	be	rainy
+1.0	downpour	be soak	London street
+1.0	continuous downpour	be soak london street	flash
+1.0	soft downpour	however be flash for	brilliance
+1.0	soft continuous downpour	however be flash from	innumerable patch
+1.0	soft downpour	be soak london street	flash from innumerable patch
+1.0	downpour	be	flash
+1.0	continuous downpour	however be flash for	brilliance
+1.0	soft downpour	be soak london street	flash
+1.0	continuous downpour	be flash from	patch of water
+1.0	continuous downpour	be flash from	innumerable patch
+1.0	soft continuous downpour	be soak london street	flash from patch of water
+1.0	downpour	be flash from	innumerable patch
+1.0	downpour	however be flash from	innumerable patch
+1.0	continuous downpour	be flash for	brilliance
+1.0	soft downpour	be	however for brilliance flash from patch of water
+1.0	soft continuous downpour	be	flash
+1.0	downpour	be flash for	brilliance
+1.0	downpour	be	for brilliance flash from patch of water
+1.0	soft downpour	be	however flash
+1.0	soft continuous downpour	be	for brilliance flash from patch
+1.0	continuous downpour	be soak london street	flash from innumerable patch
+1.0	soft downpour	however be flash from	patch of water
+1.0	downpour	be soak london street	flash from patch
+1.0	soft continuous downpour	be flash from	patch
+1.0	downpour	be	however for brilliance flash from innumerable patch of water
+1.0	continuous downpour	be	however flash
+1.0	downpour	be flash from	patch
+1.0	soft downpour	be	for brilliance flash from patch
+1.0	soft downpour	be	for brilliance flash from patch of water
+1.0	soft downpour	be	however for brilliance flash from innumerable patch
+1.0	soft continuous downpour	be	however for brilliance flash from innumerable patch
+1.0	soft continuous downpour	be soak london street	flash
+1.0	continuous downpour	be	for brilliance flash from innumerable patch
+1.0	continuous downpour	be soak london street	flash from patch of water
+1.0	soft continuous downpour	be soak london street	flash from innumerable patch
+1.0	continuous downpour	however be flash from	patch
+1.0	downpour	be	for brilliance flash from patch
+0.8266534348335982	they animation	brightness of	capital
+1.0	soft downpour	however be flash from	patch
+1.0	downpour	be flash from	innumerable patch of water
+1.0	soft downpour	be	however for brilliance flash from patch
+1.0	downpour	however be flash from	patch
+1.0	continuous downpour	be	for brilliance flash from patch
+0.8266534348335982	they animation	nocturnal brightness of	capital
+1.0	downpour	be soak london street	flash from patch of water
+1.0	soft downpour	however be flash from	innumerable patch of water
+1.0	soft continuous downpour	be flash from	patch of water
+1.0	soft downpour	be flash from	innumerable patch
+1.0	continuous downpour	however be flash from	innumerable patch of water
+1.0	soft downpour	be	for brilliance flash from innumerable patch of water
+1.0	continuous downpour	be	however for brilliance flash from innumerable patch
+1.0	downpour	be	however flash
+1.0	soft downpour	be soak	London street
+1.0	soft continuous downpour	be flash from	innumerable patch of water
+1.0	downpour	be soak london street	flash
+1.0	continuous downpour	be	however for brilliance flash from patch
+1.0	continuous downpour	however be flash from	patch of water
+1.0	soft continuous downpour	however be flash from	patch of water
+1.0	soft downpour	be flash from	innumerable patch of water
+1.0	soft continuous downpour	be	for brilliance flash from innumerable patch
+1.0	soft downpour	be flash from	patch of water
+1.0	soft continuous downpour	be	however for brilliance flash from patch
+1.0	soft continuous downpour	be	for brilliance flash from innumerable patch of water
+1.0	soft continuous downpour	be flash from	innumerable patch
+1.0	continuous downpour	be	flash
+1.0	soft continuous downpour	however be flash from	patch
+1.0	continuous downpour	be	for brilliance flash from patch of water
+1.0	soft continuous downpour	be	however for brilliance flash from patch of water
+1.0	soft continuous downpour	be soak london street	flash from patch
+1.0	soft continuous downpour	be soak	London street
+1.0	downpour	however be flash from	innumerable patch of water
+1.0	soft continuous downpour	be	however for brilliance flash from innumerable patch of water
+1.0	downpour	however be flash for	brilliance
+1.0	soft downpour	however be flash from	innumerable patch
+1.0	soft downpour	be flash for	brilliance
+1.0	continuous downpour	be	however for brilliance flash from innumerable patch of water
+1.0	soft downpour	be	for brilliance flash from innumerable patch
+1.0	continuous downpour	be flash from	patch
+1.0	soft continuous downpour	be flash for	brilliance
+1.0	soft continuous downpour	however be flash for	brilliance
+1.0	soft downpour	be soak london street	flash from patch
+1.0	soft continuous downpour	however be flash from	innumerable patch of water
+1.0	continuous downpour	be flash from	innumerable patch of water
+1.0	soft continuous downpour	be	however flash
+1.0	downpour	be soak london street	flash from innumerable patch
+1.0	continuous downpour	however be flash from	innumerable patch
+1.0	continuous downpour	be	however for brilliance flash from patch of water
+1.0	downpour	be flash from	patch of water
+1.0	soft downpour	be	flash
+1.0	downpour	be	however for brilliance flash from innumerable patch
+1.0	soft downpour	be flash from	patch
+1.0	downpour	however be flash from	patch of water
+1.0	soft downpour	be soak london street	flash from patch of water
+1.0	continuous downpour	be	for brilliance flash from innumerable patch of water
+1.0	downpour	be	for brilliance flash from innumerable patch of water
+1.0	continuous downpour	be soak london street	flash from patch
+1.0	soft downpour	be	however for brilliance flash from innumerable patch of water
+1.0	downpour	be	for brilliance flash from innumerable patch
+1.0	continuous downpour	be soak	London street
+1.0	soft continuous downpour	be	for brilliance flash from patch of water
+1.0	downpour	be	however for brilliance flash from patch
+1.0	downpour	be	however for brilliance flash from patch of water
+1.0	stream	be	when meet in great thoroughfare
+1.0	stream	be	when meet in great thoroughfare by stream of theatre-goer
+1.0	stream	be	when meet in great thoroughfare by stream of theatre-goer set
+1.0	stream	be	meet in great thoroughfare by stream
+1.0	stream	be	when meet in great thoroughfare by stream of theatre-goer set eastward
+1.0	it	be	hour
+1.0	stream	be meet in	great thoroughfare
+1.0	it	hurry to	its dinner
+1.0	stream	be	meet in great thoroughfare by stream of theatre-goer set eastward
+1.0	it	be hour in	street
+1.0	stream	be	meet in great thoroughfare by stream of theatre-goer set
+1.0	stream	be	when meet in great thoroughfare by stream
+1.0	stream	be	meet in great thoroughfare by stream of theatre-goer
+1.0	Street	be entrance to	narrow street lead northwards
+1.0	Street	be entrance to	certain narrow street lead northwards from it
+1.0	Street	be entrance to	certain street lead
+1.0	Street	be entrance to	narrow street
+1.0	Street	so be entrance to	certain street lead
+1.0	Street	be entrance to	street lead
+1.0	Street	be entrance to	street lead northwards
+1.0	Street	be entrance to	street
+1.0	Street	so be entrance to	certain narrow street lead northwards
+1.0	Street	so be entrance to	narrow street lead
+1.0	Street	so be entrance to	street lead
+1.0	Street	so be entrance to	street lead northwards
+1.0	Street	be entrance to	certain narrow street lead
+1.0	Street	so be entrance to	street
+1.0	Street	so be entrance to	certain narrow street lead
+1.0	Street	be entrance to	certain narrow street lead from it
+1.0	Street	be entrance to	narrow street lead from it
+1.0	Street	so be entrance to	narrow street lead northwards
+1.0	Street	so be entrance to	narrow street
+1.0	Street	so be entrance to	narrow street lead from it
+1.0	Street	so be entrance to	street lead northwards from it
+1.0	Street	so be entrance to	certain narrow street lead northwards from it
+1.0	Street	be entrance to	certain street lead northwards
+1.0	Street	be entrance to	certain street lead from it
+1.0	Street	be	entrance
+1.0	Street	so be entrance to	certain narrow street
+1.0	Street	be entrance to	certain street lead northwards from it
+1.0	Street	be entrance to	certain narrow street
+1.0	Street	be entrance to	narrow street lead
+1.0	Street	be entrance to	certain narrow street lead northwards
+1.0	Street	be entrance to	street lead from it
+1.0	Street	be	so entrance
+1.0	Street	so be entrance to	certain narrow street lead from it
+1.0	Street	be entrance to	narrow street lead northwards from it
+1.0	Street	so be entrance to	narrow street lead northwards from it
+1.0	Street	so be entrance to	certain street
+1.0	Street	be entrance to	street lead northwards from it
+1.0	Street	so be entrance to	certain street lead northwards from it
+1.0	Street	be entrance to	certain street
+1.0	Street	so be entrance to	certain street lead northwards
+1.0	Street	so be entrance to	street lead from it
+1.0	Street	so be entrance to	certain street lead from it
+1.0	mass	be outside	theatre itself
+1.0	dense mass	waver to	to kaleidoscopic rapidity
+1.0	mass	waver to	to rapidity
+1.0	dense mass	waver to	to rapidity
+1.0	mass	be outside	theatre
+1.0	mass	waver to	to kaleidoscopic rapidity
+1.0	they	face	ordeal of crowd
+1.0	they	surge up	staircase
+1.0	line	run outside	gauntlet
+1.0	line	run	gauntlet of drip multitude
+1.0	they	surge up	double staircase of theatre
+1.0	they	face	sterner ordeal of struggle crowd
+1.0	they	face	sterner ordeal of crowd
+1.0	they	face	ordeal of struggle crowd
+1.0	they	surge up	staircase of theatre
+1.0	they	face	ordeal of struggle well-dressed crowd
+1.0	they	face	sterner ordeal of well-dressed crowd
+1.0	they	face	sterner ordeal of struggle well-dressed crowd
+1.0	line	run gauntlet outside after	those
+1.0	they	face	ordeal
+1.0	they	face	sterner ordeal
+1.0	they	surge up	double staircase of newly-decorated theatre
+1.0	they	face	ordeal of well-dressed crowd
+1.0	they	surge up	staircase of newly-decorated theatre
+1.0	line	run outside	gauntlet of multitude
+1.0	line	run gauntlet after	those
+1.0	line	run outside	gauntlet of drip multitude
+1.0	line	run	gauntlet of multitude
+1.0	they	surge up	double staircase
+1.0	line	run	gauntlet
+1.0	air inside	be full of	hum
+1.0	air inside	be full of	hum of talk
+1.0	crowd	have	a homogeneous
+1.0	whole crowd	have	a
+1.0	crowd	have	a
+1.0	air inside	be	full
+1.0	whole crowd	have	a homogeneous
+1.0	everybody	know	everybody
+1.0	everybody	know	everybody else
+1.0	this	be	first
+1.0	they	be among	multitude pour into _ Calliope _ as man in street panic
+1.0	they	be among	favoured multitude pour into _ Calliope _ as man
+1.0	they	be among	multitude pour as man in street panic
+0.783571277172236	many	have of	device
+1.0	they	be among	favoured multitude pour as man in street panic
+1.0	they	be among	multitude pour
+1.0	they	be among	multitude
+1.0	they	be among	favoured multitude
+1.0	they	be among	multitude pour into _ Calliope _
+1.0	they	be among	multitude pour into _ Calliope _ as man
+1.0	they	be among	multitude pour as man
+1.0	he	have struggle past	barrier
+1.0	man	be in	street panic
+1.0	they	be among	favoured multitude pour into _ Calliope _ as man in street panic
+1.0	they	be among	favoured multitude pour
+1.0	they	be among	favoured multitude pour as man
+1.0	they	be among	favoured multitude pour into _ Calliope _
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number of London circle than generally concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number than concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number than generally concern
+1.0	Miss Bretherton 's appearance	have	have subject for week than generally concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number than generally concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number of London circle than generally concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number of London circle than concern
+1.0	Miss Bretherton 's first appearance	have	have subject than concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number than generally concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number of London circle than generally concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number than concern
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number of London circle than generally concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject for week than generally concern
+1.0	Miss Bretherton 's first appearance	have	have subject for week than concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number than concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number of London circle than concern
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number of London circle than generally concern
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number than concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number of London circle
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week than concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number of London circle than generally concern
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number than concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week than concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number of London circle
+1.0	Miss Bretherton 's appearance	have	have subject of conversation than generally concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week than generally concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number than generally concern
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number than generally concern
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number than generally concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number than generally concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week than concern
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number of London circle than generally concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number than generally concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation than concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number than generally concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number than concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number than generally concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number of London circle than concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number than generally concern
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number than concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number of London circle than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number of London circle than concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number of London circle than concern
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number of London circle than concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number than concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number than concern
+1.0	Miss Bretherton 's first appearance	have	have subject than generally concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number of London circle than generally concern
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number of London circle than generally concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number of London circle than generally concern themselves with theatrical affair
+1.0	concern	be with	theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation than generally concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number of London circle than concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject than concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number than generally concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number than generally concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number than generally concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number than generally concern
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week than concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number than concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation than generally concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number than concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number than concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number of London circle than concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number of London circle than concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number of London circle than generally concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number than generally concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number of London circle than generally concern
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number of London circle than concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number of London circle than concern
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number of London circle than concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject than generally concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject than concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number than generally concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject than generally concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number of London circle than concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number than concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number of London circle than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week than generally concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number than concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject than generally concern
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number of London circle than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number of London circle than generally concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number than concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number than generally concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number than concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number than generally concern
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week than concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number than concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number of London circle than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	be in	_ Elvira _
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number of London circle than generally concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number than concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number of London circle than concern
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week than concern
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number of London circle than concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week than generally concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number than concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number of London circle
+1.0	Miss Bretherton 's first appearance	have	have subject than concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number of London circle than generally concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation than generally concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number of London circle than concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week than concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number of London circle than concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number of London circle than generally concern
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number of London circle than generally concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number of London circle
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number of London circle than concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week than concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number of London circle than concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number than concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week than concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number of London circle than concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number than generally concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number than generally concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number than concern
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number than concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number of London circle than generally concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number of London circle than concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number than concern
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number of London circle than generally concern
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number of London circle than generally concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number of London circle than concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number of London circle than concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number than generally concern
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number of London circle than concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number of London circle than concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number than concern
+1.0	Miss Bretherton 's first appearance	have	have subject than concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number of London circle than concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject for week than concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number than concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number than concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation than concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number than concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject for week than generally concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number than concern
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number of London circle than concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number of London circle
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number of London circle
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number than generally concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number than generally concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number
+1.0	Miss Bretherton 's appearance	have	have subject of conversation than concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number of London circle than concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number than generally concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number of London circle than concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number of London circle than generally concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation than concern
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number of London circle than concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number than concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation than concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number than concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number of London circle than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number of London circle than concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number of London circle
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number than generally concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number of London circle than concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number than concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number than generally concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number of London circle than generally concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number of London circle than concern
+1.0	Miss Bretherton 's appearance	have	have subject for week than generally concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number of London circle than generally concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number of London circle than concern
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number of London circle
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number than concern
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number than generally concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number than generally concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number of London circle than generally concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number
+1.0	Miss Bretherton 's appearance	have	have subject of conversation than concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week than generally concern
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number of London circle than concern
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week than generally concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week than concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number of London circle than concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number than generally concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number than generally concern
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week than concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number of London circle than concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number of London circle than generally concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number of London circle than generally concern
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number of London circle
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number of London circle than concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number than concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number of London circle than concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week than concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number than concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject than generally concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number of London circle than generally concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number of London circle than generally concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number than concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number than generally concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number than generally concern
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week than concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number than concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number than generally concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation than concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number of London circle than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number than generally concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number than concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number than generally concern
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number of London circle than concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject for week than concern
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number of London circle than generally concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number than concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number of London circle than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week than concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject than concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject than generally concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number of London circle than concern
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number than concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number than concern
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number of London circle than generally concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week than concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number than generally concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject than generally concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week than generally concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number than generally concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number of London circle than generally concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number than concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number than concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number than concern
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number of London circle than concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number of London circle than generally concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number than concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number of London circle than concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number of London circle than generally concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number of London circle than generally concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number than generally concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation than concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number of London circle than concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week than concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number of London circle than generally concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation than generally concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number than generally concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week than generally concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week than concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject than concern
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number than concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number than concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number than concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number of London circle
+1.0	Miss Bretherton 's appearance	have	have subject of conversation than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number of London circle than generally concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject than concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation than concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number of London circle than generally concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week than concern
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number of London circle than generally concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation than generally concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number than generally concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number of London circle than generally concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number of London circle than generally concern with affair
+1.0	Miss Bretherton	have	first appearance in _ Elvira _
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number of London circle than concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject for week than concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject than concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation than generally concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number of London circle than concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number than generally concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number of London circle than concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number than concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number than concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number of London circle than generally concern
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number of London circle than concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number than concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number than concern
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number of London circle than generally concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number of London circle than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject than generally concern
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number than concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number of London circle than concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number than generally concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number of London circle than generally concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation than concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number of London circle than concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number than generally concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number than concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number than generally concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject than concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number of London circle than concern
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number than concern
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week than generally concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number than generally concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number of London circle than generally concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number than generally concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number of London circle than generally concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number than concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number than generally concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number of London circle than generally concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject than generally concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week than generally concern
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number of London circle than generally concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among larger number of London circle than concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number of London circle than generally concern
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number of London circle than generally concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation than concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number than concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number than concern
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number of London circle than concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number of London circle than concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation than generally concern
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number than concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number than concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number than concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number of London circle than generally concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject than concern
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number of London circle than concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number of London circle than generally concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number of London circle
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number of London circle than generally concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number of London circle
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number of London circle than concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number than concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week than generally concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number than concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number than concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number of London circle than concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week than generally concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number of London circle than concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number than concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject than concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number than concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number than concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number of London circle than concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number of London circle than concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number of London circle than concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject for week than concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation than generally concern
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number than concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number than generally concern
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number than generally concern
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number of London circle than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number than generally concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number of London circle than concern
+1.0	Miss Bretherton 's first appearance	have	have subject for week than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number of London circle than generally concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number of London circle than concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week than generally concern
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number of London circle than concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number of London circle than concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number than generally concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation than concern
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number than generally concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number of London circle than concern
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number than concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number than concern with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number than generally concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number of London circle than concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number than concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number of London circle than concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject than generally concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number than generally concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number than generally concern with affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number of London circle than concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among larger number of London circle than generally concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number than generally concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number than generally concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number of London circle than generally concern
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number of London circle than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number of London circle than generally concern
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number of London circle than concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week than generally concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among number of London circle than generally concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among number of London circle than concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation than generally concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number than generally concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject for week than generally concern themselves with affair
+1.0	Miss Bretherton 's appearance	have	have subject for week past among larger number of London circle than generally concern
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among number of London circle than generally concern themselves
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number of London circle than generally concern themselves with affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week than generally concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week than generally concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject of conversation for week past among far larger number of London circle than generally concern themselves with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among larger number of London circle than concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week past among far larger number than concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject for week past among number of London circle than generally concern themselves
+1.0	Miss Bretherton 's appearance	have	have subject for week past among far larger number than concern with affair
+1.0	Miss Bretherton 's first appearance	have	have subject of conversation for week past among far larger number than generally concern with theatrical affair
+1.0	Miss Bretherton 's first appearance	have	have subject for week than concern themselves
+1.0	people	be able among	those
+1.0	people	give	definite grounds for interest
+1.0	people	be	able
+1.0	people	give	grounds
+1.0	people	give	definite grounds for public interest
+1.0	people	give	definite grounds
+1.0	people	give	grounds for public interest
+1.0	people	give	grounds for interest
+1.0	progress	have let flood to	effect
+1.0	progress	have let	flood of rumour
+1.0	act	be	great
+1.0	progress	have let	loose flood of rumour
+1.0	Miss Bretherton 's act	be surprise to	public
+0.36632681049637295	progress	have let to	effect
+1.0	progress	have let	loose flood
+1.0	it	be	say
+1.0	Miss Bretherton 's act	be	great surprise
+0.8079822964051115	flood	progress of	rehearsal
+0.8079822964051115	loose flood	progress of	rehearsal
+1.0	play	be	good
+1.0	Miss Bretherton 's act	be great surprise to	public
+1.0	Miss Bretherton 's act	be	surprise
+1.0	progress	have let	flood
+1.0	famous beauty	return to	scene of she triumph
+1.0	it	be	only know
+1.0	it	be	know
+1.0	beauty	return to	scene
+1.0	beauty	return to	scene of she triumph
+1.0	famous beauty	return to	scene
+1.0	it	be nearly quarter to	eight
+1.0	it	be	quarter
+1.0	it	be	nearly quarter
+1.0	it	be quarter to	eight
+1.0	orchestra	have take	they place
+1.0	seat	be	full
+1.0	three people	have for	time
+1.0	they	be	Eustace Kendal
+1.0	rising	be with	eagerness
+0.9113331045062425	they	have expend	they effort into critical world
+1.0	it	be	but
+1.0	parent	feel	responsibility
+0.9113331045062425	they	have expend	they effort
+1.0	they	be feel on	night something
+1.0	they	be feel on	night something of anxiety
+1.0	they	launch	child
+1.0	they	be feel on	first night something of anxiety
+1.0	Isabel Bretherton	be in	Paris
+0.9113331045062425	they	have expend	they best effort
+0.9113331045062425	they	have expend	they effort into world
+0.9113331045062425	they	have expend	they best effort into world
+0.9113331045062425	they	have expend	they best effort into critical world
+1.0	they	be feel on	first night something
+1.0	final _ coup _	be	deliver
+1.0	he	lengthen out	it
+1.0	final _ coup _	be	deliver
+1.0	he	miss	preparation for _ Elvira _
+1.0	aged relative	be in	North
+1.0	_ coup _	be	deliver
+1.0	he	so lengthen out	it
+1.0	_ coup _	be	deliver
+1.0	he	arrive at	only moment
+1.0	he	arrive at	moment
+1.0	he	arrive upon	scene
+1.0	herself	contain	order for first night come
+0.6599791624324904	herself	note of	invitation
+1.0	herself	send	he
+1.0	herself	contain	order for night come
+1.0	herself	contain	order come
+1.0	herself	send	note of invitation
+1.0	herself	send	warm note of invitation
+1.0	herself	contain	appeal to he
+0.6599791624324904	herself	warm note of	invitation
+1.0	herself	send	note
+1.0	herself	contain	appeal
+1.0	herself	send	warm note
+1.0	would he place	be in	_ Calliope _
+1.0	he	be in	he place in _ Calliope _
+1.0	he	be in	he place
+1.0	she that	be in	he place in _ Calliope _ on night of 20th
+1.0	he	be in	he place in _ Calliope _ on night of 20th
+1.0	she that	be in	he place on night of 20th of November
+1.0	she that	be in	he place on night of 20th
+1.0	he	be in	he place in _ Calliope _ on night
+1.0	he	be in	he place on night of 20th
+1.0	she that	be in	he place in _ Calliope _ on night
+1.0	she that	be in	he place
+1.0	he	be in	he place on night
+1.0	she that	be in	he place in _ Calliope _
+1.0	she that	be in	he place on night
+1.0	he	be in	he place in _ Calliope _ on night of 20th of November
+1.0	he	be in	he place on night of 20th of November
+1.0	she that	be in	he place in _ Calliope _ on night of 20th of November
+1.0	human being	be in	vast theatre
+1.0	life	bear	mark
+1.0	life	bear	mark of it
+0.8920771636319461	mark	life on	side
+0.8920771636319461	mark	life on	other side
+0.8920771636319461	mark	life on	other side of it
+1.0	life	bear mark for	ever
+0.8920771636319461	mark	life on	side of it
+1.0	she	know	it
+1.0	he sister	suspect	nothing
+1.0	it	be burden to	he
+1.0	it	be	burden
+0.5119577193926867	he sister	nothing of	he state of feeling
+1.0	he sister	suspect	nothing of he state of feeling
+1.0	he sister	suspect	nothing of he state
+0.5119577193926867	he sister	nothing of	he state
+1.0	he	bend down to	she
+1.0	orchestra	strike up in	box to left
+1.0	orchestra	strike up in	box
+1.0	Forbes	will join	they
+1.0	I	be	tell
+1.0	time	have	have short
+1.0	time	have	have exceptionally short
+1.0	she	do refuse	begin
+1.0	she	begin again with	_ White Lady _
+1.0	she	give	time
+1.0	she	do refuse	begin again
+1.0	she	do refuse	begin again with _ White Lady _
+1.0	she	give	more time
+1.0	she	begin with	_ White Lady _
+1.0	she	do refuse	begin with _ White Lady _
+1.0	she association	be with	play
+1.0	she	be	wise
+1.0	Poor Wallace	throw	himself
+1.0	himself	look far	picture
+1.0	himself	look far	picture of misery
+1.0	himself	look	picture of misery
+1.0	himself	look so far	picture of misery
+1.0	himself	look so far	picture
+1.0	himself	look	picture
+1.0	man	be in	moon
+1.0	Miss Bretherton	be	angel
+1.0	that	be about all	I know
+1.0	sketch	have	have find among papers of italian
+1.0	sketch	have	have find among papers of young penniless italian
+1.0	sketch	have	have find among papers
+1.0	poet	grow on	hedge
+1.0	sketch	have	have find
+1.0	sketch	have	have find among papers of young italian
+1.0	sketch	have	have find among papers of penniless italian
+1.0	sketch	have appear in	little privately-printed volume
+1.0	sketch	have appear in	little volume
+1.0	sketch	have appear in	volume
+1.0	sketch	have appear in	privately-printed volume
+1.0	Edward Wallace	have pick up by	chance
+1.0	Edward Wallace	have pick up by	chance on Paris quay
+1.0	idle hour	be in	railway
+1.0	he	see	its capability
+1.0	he	have read	it
+1.0	he	forthwith set	work
+1.0	he	set	work
+1.0	he	have carefully preserve	character
+1.0	he	have preserve	character
+1.0	he	have carefully preserve	character of original conception
+1.0	he	have preserve	character of original conception
+1.0	he	develop	it
+1.0	he	have preserve	character of conception
+1.0	he	have carefully preserve	character of conception
+1.0	execution	present	very little of variety
+1.0	execution	present	very little of variety of tone
+1.0	execution	present	little of variety
+0.8625689318352974	little	execution of	it
+1.0	it	be	conception
+1.0	execution	present	little of variety of tone
+1.0	execution	present	little
+1.0	it	be	conception strictly of romantic time
+1.0	it	be	conception strictly of time
+1.0	execution	present	very little
+1.0	it	be	conception strictly
+1.0	play	tell	one story
+1.0	play	tell	one breathless story of love
+1.0	play	tell	one rapid breathless story of love
+1.0	play	tell	one story of love
+1.0	play	tell	one rapid story
+1.0	play	tell	one rapid story of love
+1.0	play	tell	one rapid breathless story
+1.0	play	tell	one breathless story
+1.0	adapter	have trust to	tragic force
+1.0	author	have trust to	force of situation
+1.0	author	have trust to	tragic force of situation
+1.0	universality	appeal	to
+1.0	author	have trust entirely to	tragic force of situation
+1.0	author	have trust to	tragic force
+1.0	author	have trust entirely to	force
+1.0	adapter	have trust entirely to	force of situation
+1.0	author	have trust to	force
+1.0	adapter	have trust to	force of situation
+1.0	adapter	have trust to	force
+1.0	adapter	have trust entirely to	force
+1.0	adapter	have trust entirely to	tragic force
+1.0	author	have trust entirely to	force of situation
+1.0	adapter	have trust to	tragic force of situation
+1.0	author	have trust entirely to	tragic force
+1.0	adapter	have trust entirely to	tragic force of situation
+1.0	diction	be	diction of Alfred de Vigny of school of Victor Hugo
+1.0	piece	diction of be	diction of Alfred de Vigny of school of Victor Hugo
+1.0	diction	be diction of	school of Victor Hugo
+1.0	diction	be	diction of Alfred de Vigny of school
+1.0	piece	diction of be	diction of Alfred de Vigny of school
+1.0	piece	diction of be	diction
+1.0	diction	be	diction
+1.0	diction	be diction of	school
+1.0	diction	be diction of	Alfred de Vigny
+1.0	italian author	inspire	many spanish poet
+1.0	author	have make	use of traditional spanish type
+1.0	author	devise	character of Macias
+1.0	italian author	have make	use of traditional spanish type
+1.0	author	devise	character
+1.0	author	inspire	spanish poet
+1.0	italian author	have make	use of spanish type
+1.0	italian author	inspire	spanish poet
+1.0	italian author	devise	character of Macias
+1.0	italian author	have make	use of type
+1.0	author	inspire	many spanish poet
+1.0	italian author	devise	character
+1.0	author	have make	use
+1.0	author	have make	use of spanish type
+1.0	author	have make	use of type
+1.0	italian author	have make	use of traditional type
+1.0	author	have make	use of traditional type
+1.0	italian author	have make	use
+1.0	Macias	be	knight
+1.0	man	be	treacherous
+1.0	Macias	be in	love
+1.0	Elvira	be embody	virtue
+1.0	Elvira	daughter of	Nuno Fernandez
+1.0	Elvira	be embody	gentleness
+1.0	it	have	have bring with two interest
+1.0	it	have	have bring into antagonism with two oppose interest
+1.0	it	have	have bring with two oppose interest
+1.0	it	have	have bring into antagonism
+1.0	certain Fernan Perez	tool of	powerful Duke
+1.0	it	have	have bring into antagonism with two interest
+1.0	it	have	have bring
+1.0	she father	be	determine
+1.0	she father	sweep macias out of	path of he political advancement
+1.0	she father	sweep macias out of	path
+1.0	Perez	marry	she
+1.0	she father	sweep macias out of	path of he own advancement
+1.0	she father	sweep macias out of	path of he advancement
+1.0	she father	sweep macias out of	path of he own political advancement
+1.0	she father	sweep	Macias
+1.0	Perez	be	determine
+1.0	intrigue	devise between	two
+1.0	intrigue devise	be	perfectly successful
+1.0	intrigue devise	be	successful
+1.0	marriage	be with	Perez
+1.0	Macias	be	entice away
+1.0	Macias	be	entice
+1.0	Elvira	force	believe
+1.0	subject	be	have handle
+1.0	subject	be	have handle in sketch with delicacy
+1.0	fortune	have to	have it
+1.0	subject	be	have already handle in italian sketch
+1.0	subject	be	have already handle in sketch
+1.0	subject	be	have already handle in italian sketch with delicacy
+1.0	subject	be	have already handle in sketch with delicacy
+1.0	subject	be	have already handle with delicacy
+1.0	subject	be	have already handle
+1.0	subject	be	have handle in italian sketch with delicacy
+1.0	Edward Wallace	bear upon	he task
+1.0	subject	be	have handle in sketch
+1.0	subject	be	have handle with delicacy
+1.0	subject	be	have handle in italian sketch
+1.0	he	be attract by	subject
+1.0	he	be	attract
+1.0	curtain	draw up on	great hall of Villena Palace
+1.0	curtain	draw up on	hall
+1.0	curtain	draw up on	hall of Villena Palace
+1.0	curtain	draw up on	great hall
+1.0	knowledge	be	bring
+0.8572368421455481	tapestry	tilework of	palace
+1.0	antiquarian knowledge	bear upon	surroundings
+1.0	delicate tilework	have	have copy with magnificence
+1.0	antiquarian knowledge	be	bring
+1.0	tilework	have	have copy
+0.1448874864707259	expectant house	divide during	first scene between beauty of its setting
+0.1448874864707259	expectant house	divide during	first scene
+1.0	antiquarian knowledge	be bring	bear
+0.8572368421455481	tapestry	tilework of	wall
+0.1448874864707259	crowded house	divide during	scene between beauty
+0.1448874864707259	crowded expectant house	divide during	first scene between beauty of its setting
+0.8572368421455481	tapestry	delicate tilework of	spanish palace of fifteenth century
+1.0	antiquarian knowledge	be bring	bear upon surroundings
+0.8572368421455481	tapestry	delicate tilework of	wall
+0.1448874864707259	house	divide during	scene between beauty
+0.1448874864707259	crowded expectant house	divide during	scene between beauty of its setting
+1.0	knowledge	bear upon	surroundings
+0.8572368421455481	tapestry	delicate tilework of	palace
+0.8572368421455481	tapestry	tilework of	spanish palace of century
+1.0	tilework	have	have copy with magnificence
+1.0	delicate tilework	have	have copy
+0.1448874864707259	crowded house	divide during	scene between beauty of its setting
+0.8572368421455481	tapestry	tilework of	palace of century
+0.8572368421455481	tapestry	delicate tilework of	spanish palace
+1.0	Elvira	have	father
+1.0	antiquarian knowledge	bear upon	surroundings of scene
+0.8572368421455481	tapestry	tilework of	spanish palace
+0.1448874864707259	crowded house	divide during	first scene
+0.1448874864707259	crowded expectant house	divide during	first scene between beauty
+0.8572368421455481	tapestry	delicate tilework of	palace of fifteenth century
+1.0	knowledge	be bring	bear upon surroundings of scene
+0.1448874864707259	house	divide during	first scene between beauty
+0.1448874864707259	house	divide during	scene
+1.0	delicate tilework	have	have copy with lavish magnificence
+1.0	knowledge	be bring	bear upon surroundings
+0.1448874864707259	crowded expectant house	divide during	scene
+0.1448874864707259	house	divide during	first scene between beauty of its setting
+0.1448874864707259	house	divide during	first scene
+0.8572368421455481	tapestry	delicate tilework of	palace of century
+1.0	tilework	have	have copy with lavish magnificence
+0.1448874864707259	crowded expectant house	divide during	first scene
+0.1448874864707259	expectant house	divide during	first scene between beauty
+0.1448874864707259	expectant house	divide during	scene between beauty
+1.0	antiquarian knowledge	be bring	bear upon surroundings of scene
+0.8572368421455481	tapestry	delicate tilework of	spanish palace of century
+1.0	knowledge	bear upon	surroundings of scene
+0.1448874864707259	crowded house	divide during	first scene between beauty
+0.1448874864707259	expectant house	divide during	scene
+0.1448874864707259	house	divide during	scene between beauty of its setting
+0.1448874864707259	expectant house	divide during	scene between beauty of its setting
+0.8572368421455481	tapestry	tilework of	palace of fifteenth century
+0.1448874864707259	crowded house	divide during	first scene between beauty of its setting
+1.0	knowledge	be bring	bear
+0.8572368421455481	tapestry	tilework of	spanish palace of fifteenth century
+0.1448874864707259	crowded expectant house	divide during	scene between beauty
+0.1448874864707259	crowded house	divide during	scene
+1.0	Wallace	touch	Madame Ch teauvieux 's arm
+1.0	Wallace	touch	Madame de Ch teauvieux 's arm
+1.0	Fernan Perez	have set	intrigue
+1.0	Fernan Perez	have set	intrigue on foot
+1.0	Kendal	rise from	he seat behind Madame de Ch teauvieux
+1.0	Kendal	rise from	he seat behind Madame Ch teauvieux
+1.0	Kendal	rise from	he seat
+1.0	Kendal	catch	signal
+0.7685780147085625	hand	follow by	she maid beatriz
+1.0	door	glide through	it
+0.7685780147085625	hand	follow by	she little maid beatriz
+1.0	great door	glide through	it
+1.0	she	be thrill	pulse
+1.0	she	be thrill	pulse of habitu _
+1.0	she	be thrill	pulse of oldest habitu _
+1.0	she	be thrill pulse in	theatre
+1.0	tear	come to	Madame de Ch teauvieux 's eye
+1.0	she	look up at	she brother
+1.0	Madame de Ch teauvieux	to	eye
+1.0	tear	come to	Madame Ch teauvieux 's eye
+1.0	it	be	much
+1.0	it	be too much for	she
+1.0	it	be	too much
+1.0	it	be much for	she
+1.0	he soul	be in	he eye
+1.0	she _	be	there
+1.0	separation	of oh be	ache intolerable sense
+1.0	irremediable need	of oh be	ache intolerable sense
+1.0	tone	be in	it
+0.3868739843097428	outstretched hand	lain clasp in	he own
+0.3868739843097428	white hand	lain close clasp in	he own
+0.3868739843097428	outstretched hand	lain close clasp in	he own
+0.3868739843097428	white hand	close clasp in	he own
+1.0	eye	have look with	passionate trouble into he
+1.0	eye	have look with	passionate trouble
+0.3868739843097428	white outstretched hand	clasp in	he own
+1.0	eye	have once look with	passionate trouble into he
+0.3868739843097428	white hand	once lain clasp in	he own
+0.3868739843097428	white hand	once lain close clasp in	he own
+0.3868739843097428	outstretched hand	close clasp in	he own
+0.3868739843097428	white outstretched hand	once lain close clasp in	he own
+0.3868739843097428	hand	lain close clasp in	he own
+1.0	eye	have once look with	trouble into he
+0.3868739843097428	white outstretched hand	lain close clasp in	he own
+0.3868739843097428	hand	clasp in	he own
+0.3868739843097428	white hand	lain clasp in	he own
+1.0	eye	have look with	trouble into he
+0.3868739843097428	white outstretched hand	lain clasp in	he own
+0.3868739843097428	white hand	clasp in	he own
+1.0	eye	have once look with	passionate trouble
+0.3868739843097428	hand	close clasp in	he own
+1.0	eye	have once look with	trouble
+0.3868739843097428	outstretched hand	once lain clasp in	he own
+1.0	eye	have look with	trouble
+0.3868739843097428	outstretched hand	once lain close clasp in	he own
+0.3868739843097428	outstretched hand	clasp in	he own
+0.3868739843097428	hand	once lain close clasp in	he own
+0.3868739843097428	white outstretched hand	once lain clasp in	he own
+0.3868739843097428	hand	once lain clasp in	he own
+0.3868739843097428	hand	lain clasp in	he own
+0.3868739843097428	white outstretched hand	close clasp in	he own
+1.0	nothing	would ever recall	it
+1.0	nothing	would recall	it
+1.0	it	be go for	ever
+1.0	it	be	ah go for ever
+1.0	it	be go at_time	ah
+1.0	it	be	go
+1.0	stage	be in	deeper sense meet
+1.0	she	be on	stage
+1.0	he life	would play part	Elvira would have vanish in while
+1.0	he gray life	would play part	Elvira would have vanish in while from sight
+1.0	he life	would play part	just Elvira would have vanish in while
+1.0	he life	would play part	Elvira would have vanish in while from sight of great audience
+1.0	he life	would play part	just Elvira would have vanish in little while from sight
+1.0	he gray life	would play part	Elvira would have vanish in while
+1.0	he life	would play part	Elvira would have vanish
+1.0	he life	would play part	just Elvira would have vanish in while from sight
+1.0	he gray life	would play part	just Elvira would have vanish in little while from sight of great audience
+1.0	he gray life	would play part	Elvira would have vanish in little while
+1.0	he gray life	would play part	just Elvira would have vanish in little while from sight of audience
+1.0	he life	would play part to	end
+1.0	he life	would play	part of spectator
+1.0	he life	would play part	just Elvira would have vanish in little while
+1.0	he life	would play part	Elvira would have vanish in little while
+1.0	he gray life	would play	part
+1.0	he gray life	would play part	Elvira would have vanish in while from sight of great audience
+1.0	he gray life	would play part	Elvira would have vanish in little while from sight of audience
+1.0	he life	would play part	just Elvira would have vanish in while from sight of great audience
+1.0	he gray life	would play part to	end
+1.0	he life	would play part	Elvira would have vanish in little while from sight of great audience
+1.0	he gray life	would play part	just Elvira would have vanish in little while from sight
+1.0	he gray life	would play part	Elvira would have vanish
+1.0	he life	would play part	Elvira would have vanish in while from sight of audience
+1.0	he gray life	would play part	Elvira would have vanish in while from sight of audience
+1.0	he life	would play part	just Elvira would have vanish in while from sight of audience
+1.0	he gray life	would play part	just Elvira would have vanish in while
+1.0	he gray life	would play part	just Elvira would have vanish in little while
+1.0	he life	would play part	Elvira would have vanish in while from sight
+1.0	he life	would play part	just Elvira would have vanish
+1.0	he life	would play part	just Elvira would have vanish in little while from sight of great audience
+1.0	he life	would play	part
+1.0	he gray life	would play part	just Elvira would have vanish in while from sight of great audience
+1.0	he gray life	would play part	Elvira would have vanish in little while from sight of great audience
+1.0	he gray life	would play part	just Elvira would have vanish in while from sight
+1.0	he gray life	would play part	just Elvira would have vanish in while from sight of audience
+1.0	he life	would play part	just Elvira would have vanish in little while from sight of audience
+1.0	he gray life	would play	part of spectator
+1.0	he life	would play part	Elvira would have vanish in little while from sight
+1.0	he life	would play part	Elvira would have vanish in little while from sight of audience
+1.0	he gray life	would play part	just Elvira would have vanish
+1.0	he gray life	would play part	Elvira would have vanish in little while from sight
+1.0	himself	master by	consideration of different order altogether
+1.0	himself	gradually master by	consideration
+1.0	himself	gradually master by	consideration of different order altogether
+1.0	himself	gradually master by	consideration of different order
+1.0	himself	gradually master by	consideration of order altogether
+1.0	himself	master by	consideration of different order
+1.0	himself	master by	consideration
+1.0	himself	master by	consideration of order altogether
+1.0	himself	gradually master by	consideration of order
+1.0	himself	master by	consideration of order
+1.0	he	have watch with	revolt
+1.0	he	have watch before with	incessant critical revolt
+1.0	he	have watch with	incessant revolt
+1.0	he	have watch before with	such critical revolt
+1.0	he	have watch with	critical revolt
+1.0	he	have watch before with	incessant revolt
+1.0	he	have watch before with	critical revolt
+1.0	he	have watch with	such revolt
+1.0	he	have watch with	such incessant critical revolt
+1.0	he	have watch with	such incessant revolt
+1.0	he	have watch before with	such revolt
+1.0	he	have watch before with	such incessant critical revolt
+1.0	he	have watch with	such critical revolt
+1.0	he	have watch with	incessant critical revolt
+1.0	he	have watch before with	revolt
+1.0	he	have watch before with	such incessant revolt
+0.5229266847044723	half-educated girl	grasp at	result
+0.5229266847044723	half-educated girl	grasp at	result she realisation
+0.5229266847044723	girl	grasp at	result utterly she realisation
+0.5229266847044723	girl	grasp at	result she realisation
+0.5229266847044723	half-educated girl	grasp at	result utterly she realisation
+0.5229266847044723	girl	grasp at	result
+1.0	it	seem	impossible
+1.0	quick artistic intelligence	be	develop
+1.0	image	be	so distinctly grave
+1.0	intelligence	be develop by	Isabel Bretherton
+1.0	intelligence	be develop by	same Isabel Bretherton
+1.0	earlier image	be so distinctly grave on	he memory
+1.0	earlier image	be distinctly grave on	he memory
+1.0	image	be so distinctly grave on	he memory
+1.0	artistic intelligence	be develop by	Isabel Bretherton
+1.0	quick artistic intelligence	be develop by	same Isabel Bretherton
+1.0	earlier image	be	grave
+1.0	image	be	grave
+1.0	image	be grave on	he memory
+1.0	it	seem to	he
+1.0	intelligence	be	develop
+1.0	quick artistic intelligence	be develop by	Isabel Bretherton
+1.0	artistic intelligence	be develop by	same Isabel Bretherton
+1.0	earlier image	be	so distinctly grave
+1.0	quick intelligence	be develop by	Isabel Bretherton
+1.0	quick artistic intelligence	understanding of	demand make upon she
+1.0	image	be	distinctly grave
+1.0	artistic intelligence	be	develop
+1.0	image	be distinctly grave on	he memory
+1.0	quick intelligence	be	develop
+1.0	earlier image	be	distinctly grave
+1.0	quick intelligence	be develop by	same Isabel Bretherton
+1.0	earlier image	be grave on	he memory
+1.0	he trained eye	learn after	while decipher in hundred indication
+1.0	he eye	learn after	while decipher
+1.0	he eye	yet learn after	while decipher
+1.0	he trained eye	yet learn after	while decipher
+1.0	he trained eye	learn after	while decipher
+1.0	he trained eye	yet learn after	while decipher in hundred indication
+1.0	he eye	learn after	while decipher in hundred indication
+1.0	he eye	yet learn after	while decipher in hundred indication
+1.0	he	know to	first school
+1.0	he	know to	first school of dramatic art
+1.0	he	know to	school of dramatic art
+1.0	she	be	familiar
+1.0	he	know to	school of art
+1.0	he	know to	school
+1.0	he	know to	first school of art
+1.0	he	know to	first school of dramatic art in Europe
+1.0	he	know to	school of art in Europe
+1.0	he	know to	first school in Europe
+1.0	she	be familiar to	he
+1.0	he	know to	school in Europe
+1.0	he	know to	school of dramatic art in Europe
+1.0	he	know to	first school of art in Europe
+1.0	first school	be in	Europe
+1.0	she	have	do
+1.0	he	estimate	all
+1.0	she	have still	do
+1.0	she	have	have actress without future condemn by inexorable logic of thing
+1.0	she	have	in spring have actress without future condemn
+1.0	she	have	have actress condemn by logic of thing
+1.0	she	have	have actress without future
+1.0	she	have	have actress condemn by inexorable logic of thing
+1.0	she fame desert	she with	first withering of she beauty
+1.0	she fame desert	she with	withering
+1.0	she	have	have actress
+1.0	she	have	in spring have actress without future condemn by inexorable logic of thing
+1.0	she	have	have actress condemn
+1.0	she	have	in spring have actress without future condemn by logic of thing
+1.0	she	have	in spring have actress without future
+1.0	she	have	in spring have actress condemn by logic
+1.0	she fame desert	she with	withering of she beauty
+1.0	she	have	have actress condemn by inexorable logic
+1.0	she	have	have actress without future condemn
+1.0	she	have	in spring have actress without future condemn by logic
+1.0	she	have	have actress without future condemn by logic of thing
+1.0	she	have	in spring have actress condemn by inexorable logic
+1.0	she	have	in spring have actress condemn by inexorable logic of thing
+1.0	she fame desert	she with	first withering
+1.0	she	have	in spring have actress
+1.0	she	have	in spring have actress condemn by logic of thing
+1.0	she	have	have actress condemn by logic
+1.0	she	have	in spring have actress without future condemn by inexorable logic
+1.0	have actress	be in	spring
+1.0	she	have	have actress without future condemn by inexorable logic
+1.0	she	have	have actress without future condemn by logic
+1.0	she	have	in spring have actress condemn
+1.0	she	start towards	she rightful goal
+1.0	she	start towards	rightful goal
+1.0	Elvira	have emerge hand-in-hand upon	hall
+1.0	Elvira	have emerge upon	hall
+1.0	Elvira	follow by	she wedding train
+0.9005611277129707	Elvira	return from	performance
+1.0	Elvira	have emerge with	she husband
+1.0	end	be	reach
+1.0	Elvira	have emerge hand-in-hand upon	great hall
+0.9005611277129707	Elvira	return from	performance of marriage ceremony
+0.9005611277129707	Elvira	return from	performance of marriage ceremony in chapel of palace
+1.0	marriage ceremony	be in	chapel of palace
+1.0	Elvira	have emerge hand-in-hand with	she husband
+0.9005611277129707	Elvira	return from	performance of marriage ceremony in chapel
+1.0	Elvira	have emerge upon	great hall
+1.0	she	have catch	sight of Macias
+1.0	she	have catch	sight stand
+1.0	she	have catch	sight of Macias stand
+1.0	she	have catch	sight
+1.0	she	have fling hand with	cry
+0.08888763875480499	she	have fling hand with	instinct
+1.0	she	have fling hand with	instinct with sharp despair of youth
+1.0	she	have fling	hand
+1.0	she	have fling hand with	instinct
+0.08888763875480499	she	have throw at	foot of she lover
+1.0	she	have fling hand with	instinct with sharp despair
+1.0	cry	instinct with	sharp despair of youth
+1.0	instinct	be with	sharp despair of youth
+0.08888763875480499	she	have fling hand with	instinct with despair
+1.0	she	have fling hand with	instinct with despair
+0.08888763875480499	she	have fling hand with	instinct with despair of youth
+1.0	she	have fling	hateful hand
+0.08888763875480499	she	have throw at	foot
+0.08888763875480499	she	have fling hand with	instinct with sharp despair
+0.08888763875480499	she	have fling hand with	instinct with sharp despair of youth
+1.0	she	have fling hand with	instinct with despair of youth
+1.0	she	have throw	herself
+1.0	he	have cherish	any of success
+1.0	he	have ever cherish	any of success of he play
+1.0	he	have ever cherish	any
+1.0	he	have ever cherish	any of success
+1.0	he	have cherish	any of success of he play
+1.0	he	have cherish	any
+1.0	box	be	fill
+1.0	Miss Bretherton	have	last recall
+1.0	music	be in	ear of Madame de Ch teauvieux
+0.6588858615494749	gray-haired dramatic critic	man with	whose have familiar for last twenty year
+1.0	dramatic critic	be say man to	she
+0.6588858615494749	gray-haired critic	man with	whose have familiar
+0.6588858615494749	critic	man with	whose have familiar for twenty year
+0.25331100359622694	gray-haired dramatic critic	be say to	she
+0.6588858615494749	gray-haired dramatic critic	man with	whose keen have familiar for last twenty year
+0.6588858615494749	gray-haired dramatic critic	man with	whose keen have familiar for twenty year
+0.6588858615494749	gray-haired critic	man with	whose keen have familiar for last twenty year
+0.6588858615494749	gray-haired critic	man with	whose have familiar for last twenty year
+0.6588858615494749	critic	man with	whose have familiar for last twenty year
+1.0	man	be with	whose keen have familiar for last twenty year
+0.6588858615494749	dramatic critic	man with	whose have familiar for twenty year
+0.6588858615494749	gray-haired critic	man with	whose keen have familiar for twenty year
+0.6588858615494749	gray-haired dramatic critic	man with	whose have familiar
+0.6588858615494749	critic	man with	whose keen have familiar
+0.6588858615494749	dramatic critic	man with	whose keen have familiar for last twenty year
+0.25331100359622694	dramatic critic	be say to	she
+1.0	gray-haired dramatic critic	be say	man
+1.0	dramatic critic	be say	man
+0.6588858615494749	critic	man with	whose keen have familiar for last twenty year
+1.0	critic	be say man to	she
+1.0	gray-haired critic	be say	man
+0.6588858615494749	dramatic critic	man with	whose keen have familiar for twenty year
+0.6588858615494749	dramatic critic	man with	whose have familiar for last twenty year
+0.6588858615494749	dramatic critic	man with	whose keen have familiar
+0.6588858615494749	dramatic critic	man with	whose have familiar
+0.6588858615494749	gray-haired dramatic critic	man with	whose have familiar for twenty year
+0.6588858615494749	gray-haired critic	man with	whose have familiar for twenty year
+1.0	gray-haired dramatic critic	be say man to	she
+0.6588858615494749	critic	man with	whose have familiar
+0.25331100359622694	gray-haired critic	be say to	she
+1.0	critic	be say	man
+0.6588858615494749	critic	man with	whose keen have familiar for twenty year
+1.0	gray-haired critic	be say man to	she
+0.6588858615494749	gray-haired critic	man with	whose keen have familiar
+0.6588858615494749	gray-haired dramatic critic	man with	whose keen have familiar
+0.25331100359622694	critic	be say to	she
+1.0	we	feel at_time	spring
+1.0	we	feel at_time	last spring
+1.0	it	bring	she gift
+1.0	it	would seem	even she have repent of it
+1.0	it	now would seem	even she have repent
+1.0	it	now would seem	she have repent of it
+1.0	she	have repent of	it
+1.0	it	would seem	even she have repent
+1.0	it	would seem	she have repent
+1.0	she	even have repent of	it
+1.0	it	now would seem	even she have repent of it
+1.0	it	now would seem	she have repent
+1.0	it	would seem	she have repent of it
+1.0	bottom	be in	nature
+1.0	it	be	agree
+1.0	it	be	commonly agree
+1.0	english stage	have lay	its hold
+1.0	stage	have lay	its hold
+1.0	Madame de Ch teauvieux 's reply	be break by	reappearance
+1.0	Madame de Ch teauvieux 's reply	be break by	reappearance of Wallace
+1.0	Madame de Ch teauvieux 's smile reply	be	break
+1.0	Madame de Ch teauvieux 's smile reply	be break by	reappearance
+1.0	Madame de Ch teauvieux	have	smile reply
+1.0	Madame de Ch teauvieux 's reply	be	break
+1.0	Madame de Ch teauvieux 's smile reply	be break by	reappearance of Wallace
+1.0	buzz	close with	vigour
+1.0	buzz	close with	fresh vigour
+1.0	strain	be	come
+1.0	strain	be of	course
+1.0	it	be	amazing
+0.9279641166318597	you	know	reception
+1.0	it	be more try than	acting
+1.0	it	be try than	acting
+1.0	it	be	try
+1.0	it	be	more try
+1.0	it	be almost more try than	acting
+1.0	it	be	almost more try
+1.0	play	be in	himself
+1.0	Forbes	be play in	himself
+1.0	Forbes	be	play
+1.0	Forbes	be in	wing
+1.0	house	have settle into	silence
+1.0	Macias	be figure of	second act
+1.0	Macias	be	central figure
+1.0	Macias	be central figure of	act
+1.0	Macias	be figure of	act
+1.0	Macias	be central figure of	second act
+1.0	Macias	be	figure
+1.0	he	have force	he way
+1.0	he fury	have	have conceive
+1.0	he fury	have	in scene of explanation between himself have conceive
+1.0	he	have force	he way into she apartment
+1.0	himself	choose for	part overwhelm
+1.0	himself	choose for	Elvira
+1.0	himself	choose for	part overwhelm by scorn
+1.0	he fury	have	in great scene of explanation between himself have conceive
+1.0	he fury	have	in great scene have conceive
+1.0	render	be	yet full
+1.0	render	be	full
+1.0	he fury	have	in great scene of explanation have conceive
+1.0	he fury	have	in scene of explanation have conceive
+1.0	himself	choose for	part
+0.05598825210594094	himself	choose for	Elvira
+1.0	he fury	have	in scene have conceive
+1.0	they	be interrupt by	approach of Duke
+1.0	they	be interrupt by	approach of Fernan Perez
+1.0	they	suddenly be interrupt by	approach of Duke
+1.0	they	be interrupt by	approach of Duke of Fernan Perez
+1.0	they	suddenly be interrupt by	approach of Fernan Perez
+1.0	they	be	suddenly interrupt
+1.0	they	be interrupt by	approach
+1.0	they	be	interrupt
+1.0	they	suddenly be interrupt by	approach of Duke of Fernan Perez
+1.0	they	suddenly be interrupt by	approach
+1.0	Elvira	throw	herself
+1.0	Elvira	capture	sword of Macias
+0.9690994241120263	sword	hand	it
+1.0	Elvira	capture	sword
+1.0	Macias	be	arrest
+1.0	Elvira	have	effort save with bitter contempt
+1.0	Macias	be	lead
+1.0	Macias	be arrest after	tumultuous scene
+1.0	Macias	be arrest after	scene
+1.0	she marvellous beauty	be	subordinate
+1.0	she beauty	forget in	almost human passion
+1.0	she beauty	forget in	almost supreme human passion speak through she
+1.0	she marvellous beauty	forget in	passion speak
+1.0	she marvellous beauty	forget in	supreme passion speak through she
+1.0	she marvellous beauty	be subordinate	forget almost in passion speak
+1.0	she marvellous beauty	forget in	almost passion
+1.0	she marvellous beauty	be subordinate	forget almost in supreme human passion speak
+1.0	she beauty	forget in	human passion
+1.0	she beauty	be subordinate	forget in supreme human passion
+1.0	she beauty	be subordinate	forget almost in supreme human passion
+1.0	she beauty	forget in	passion speak
+1.0	she beauty	be subordinate	forget almost in supreme passion speak through she
+1.0	she marvellous beauty	forget in	almost human passion speak
+1.0	she marvellous beauty	forget in	almost supreme passion
+1.0	she beauty	be subordinate	forget in supreme passion speak
+1.0	she beauty	forget in	supreme passion
+1.0	she marvellous beauty	forget in	supreme human passion
+1.0	she marvellous beauty	be subordinate	forget in supreme passion speak through she
+1.0	she beauty	be subordinate	forget in human passion speak
+1.0	she beauty	be subordinate	forget
+1.0	she beauty	be subordinate	forget almost in supreme human passion speak
+1.0	she marvellous beauty	be subordinate	forget almost in supreme human passion
+1.0	she beauty	forget in	almost supreme passion
+1.0	she marvellous beauty	forget in	almost passion speak through she
+1.0	she marvellous beauty	forget in	almost human passion
+1.0	she beauty	forget in	almost supreme passion speak through she
+1.0	she beauty	forget in	almost human passion speak through she
+1.0	she marvellous beauty	be subordinate	forget in supreme human passion
+1.0	she marvellous beauty	forget in	human passion
+1.0	she marvellous beauty	be subordinate	forget almost in supreme passion
+1.0	she beauty	be subordinate	forget in human passion speak through she
+1.0	she beauty	forget in	supreme human passion speak
+1.0	she marvellous beauty	be subordinate	forget in supreme passion speak
+1.0	she marvellous beauty	be subordinate	forget almost in human passion speak
+1.0	she marvellous beauty	forget in	supreme human passion speak
+1.0	she beauty	forget in	almost supreme human passion speak
+1.0	she marvellous beauty	forget in	human passion speak
+1.0	she beauty	be subordinate	forget in supreme human passion speak
+1.0	she beauty	be subordinate	forget in supreme passion speak through she
+1.0	she beauty	forget in	almost passion speak through she
+1.0	she beauty	forget in	almost supreme human passion
+1.0	she marvellous beauty	be subordinate	forget in passion speak through she
+1.0	she beauty	forget in	supreme human passion speak through she
+1.0	she marvellous beauty	be subordinate	forget in human passion
+1.0	she beauty	forget in	supreme human passion
+1.0	she beauty	forget in	supreme passion speak
+1.0	she marvellous beauty	be subordinate	forget almost in supreme passion speak
+1.0	she beauty	be subordinate	forget almost in passion speak through she
+1.0	she marvellous beauty	forget in	almost supreme human passion
+1.0	she beauty	forget in	almost human passion speak
+1.0	she marvellous beauty	be subordinate	forget almost in passion speak through she
+1.0	she marvellous beauty	forget in	almost supreme human passion speak
+1.0	she beauty	be subordinate	forget almost in supreme human passion speak through she
+1.0	she beauty	be subordinate	forget in supreme passion
+1.0	she beauty	be subordinate	forget almost in passion speak
+1.0	she beauty	be subordinate	forget in supreme human passion speak through she
+1.0	she marvellous beauty	be subordinate	forget in passion speak
+1.0	she beauty	forget in	human passion speak through she
+1.0	she marvellous beauty	forget in	human passion speak through she
+1.0	she marvellous beauty	be subordinate	forget in human passion speak
+1.0	she beauty	be subordinate	forget almost in human passion speak
+1.0	she marvellous beauty	be subordinate	forget almost in human passion speak through she
+1.0	she marvellous beauty	be subordinate	forget almost in supreme human passion speak through she
+1.0	she marvellous beauty	be subordinate	forget in passion
+1.0	she marvellous beauty	forget in	supreme passion
+1.0	she beauty	forget in	supreme passion speak through she
+1.0	she beauty	forget in	almost supreme passion speak
+1.0	she beauty	be subordinate	forget almost in supreme passion
+1.0	she marvellous beauty	forget in	passion speak through she
+1.0	she beauty	be subordinate	forget in human passion
+1.0	she beauty	forget in	human passion speak
+1.0	she marvellous beauty	be subordinate	forget
+1.0	she marvellous beauty	forget in	passion
+1.0	she beauty	be subordinate	forget almost in supreme passion speak
+1.0	she marvellous beauty	forget in	almost supreme passion speak through she
+1.0	she marvellous beauty	be subordinate	forget in supreme human passion speak through she
+1.0	she marvellous beauty	forget in	supreme passion speak
+1.0	she beauty	forget in	almost passion
+1.0	she marvellous beauty	forget in	almost supreme passion speak
+1.0	she beauty	forget in	passion speak through she
+1.0	she marvellous beauty	forget in	supreme human passion speak through she
+1.0	she beauty	be subordinate	forget almost in human passion speak through she
+1.0	she marvellous beauty	be subordinate	forget almost in human passion
+1.0	she beauty	be subordinate	forget in passion speak through she
+1.0	she marvellous beauty	forget in	almost human passion speak through she
+1.0	she marvellous beauty	be subordinate	forget almost in supreme passion speak through she
+1.0	she marvellous beauty	be subordinate	forget almost in passion
+1.0	she beauty	forget in	passion
+1.0	she beauty	forget in	almost passion speak
+1.0	she marvellous beauty	be subordinate	forget in supreme passion
+1.0	she beauty	be subordinate	forget in passion
+1.0	she marvellous beauty	be subordinate	forget in human passion speak through she
+1.0	she beauty	be subordinate	forget in passion speak
+1.0	she beauty	be	subordinate
+1.0	she beauty	be subordinate	forget almost in human passion
+1.0	she marvellous beauty	be subordinate	forget in supreme human passion speak
+1.0	she beauty	be subordinate	forget almost in passion
+1.0	she marvellous beauty	forget in	almost supreme human passion speak through she
+1.0	she marvellous beauty	forget in	almost passion speak
+1.0	he	seek	he death unarmed man
+1.0	he	seek	he death man
+1.0	Macias	have fling	she he sword
+1.0	she	refuse	it
+1.0	soldier	have	instinct
+1.0	he	make	step towards she
+1.0	soldier 's instinct	revive in	he
+1.0	he	become	conscious
+1.0	he	call for	he sword
+1.0	he	make	step
+1.0	he	make	threatening step towards she
+1.0	he	make	threatening step
+1.0	he	become	conscious of approach
+1.0	he	become	conscious of approach of he rival
+1.0	my	sword	Elvira
+1.0	it	be	too late
+1.0	it	be	late
+1.0	he guard	lead off	he
+1.0	she	repel	Macias
+1.0	pathos true	be in	hand
+1.0	pathos	be in	hand
+1.0	pathos true	be in	outstretched hand
+1.0	pathos	be in	outstretched hand
+1.0	pathos true	be in	she strain eye
+1.0	pathos	be in	she eye
+1.0	it	lay	spell
+1.0	pathos true	be in	she eye
+1.0	it	lay spell upon	audience
+1.0	curtain	fall amid	silence
+1.0	she	have follow	he
+1.0	pathos	be in	she strain eye
+1.0	curtain	fall amid	breathless silence
+1.0	she	eye	outstretched hand
+1.0	she	recoil from	harsh word of he
+1.0	she	win	she triumph
+1.0	it	be in	third act
+1.0	it	be in	act
+1.0	she	win	she highest triumph
+1.0	she	implore	he
+0.14059619431790493	act	allow	retire
+1.0	scene	be with	humility of grief
+1.0	act	allow	she
+1.0	she	retire from	world
+0.14059619431790493	act	allow	retire from world
+1.0	act	open with	scene
+0.14059619431790493	act	open	allow
+1.0	jealousy	have take	root
+1.0	jealousy	have take	fierce root
+0.8471805784405751	means	assassinate	he rival in prison
+1.0	he rival	be in	prison
+1.0	duel	be with	Macias
+1.0	news	be bring	she
+0.8471805784405751	means	assassinate	he rival
+1.0	she soul	be	throw
+1.0	she whole soul	be	throw
+1.0	she soul	be	naturally throw
+1.0	she whole soul	be	naturally throw
+1.0	she	bribe	he guard
+1.0	she	send	Beatriz
+1.0	he	persuade	he
+1.0	she	finally penetrate into	cell
+1.0	Beatriz	denounce	treachery
+1.0	she	penetrate into	cell
+1.0	Beatriz	denounce treachery to	Duke
+1.0	she	warn	he
+1.0	Beatriz	denounce	treachery of she husband
+1.0	she	penetrate into	cell of Macias
+1.0	she	finally penetrate into	cell of Macias
+1.0	Macias	of	cell
+1.0	Elvira	find macias in	mood of calm wait
+1.0	Elvira	find macias in	mood of calm wait for morrow
+1.0	Elvira	find macias in	mood
+1.0	Elvira	find	Macias
+1.0	Elvira	find macias in	mood of calm
+1.0	Castilian	be at	peace
+1.0	Castilian	be at	almost peace
+1.0	he honour	be	satisfy
+1.0	proud Castilian	be at	almost peace
+1.0	proud Castilian	be at	peace
+1.0	battle	be before	he
+1.0	death	be before	he
+1.0	vision	produce	revulsion of feeling towards she
+1.0	he	be at	she foot more
+1.0	she	towards revulsion be	flood of passionate reconciliation
+1.0	vision	produce	revulsion
+1.0	vision	produce	sudden revulsion towards she
+1.0	Elvira	of	pale beauty
+1.0	vision	produce	revulsion of feeling
+1.0	he	be at	she foot
+1.0	he	be at	she foot once more
+1.0	vision	produce	revulsion towards she
+1.0	sudden revulsion	flood of	passionate reconciliation
+1.0	feeling	of revulsion be	flood
+1.0	vision	produce	sudden revulsion of feeling
+1.0	vision	produce	flood of reconciliation
+1.0	vision	produce	sudden revulsion
+1.0	she	be	true
+1.0	vision	produce	flood
+1.0	she	be	he
+1.0	vision	produce	sudden revulsion of feeling towards she
+1.0	he	last resent	she terror for he
+1.0	she	terror for	he
+1.0	he	even resent	she terror for he
+1.0	he	last even resent	she terror
+1.0	he	last even resent	she terror for he
+1.0	he	resent	she terror
+1.0	he	last resent	she terror
+1.0	he	even resent	she terror
+1.0	he	resent	she terror for he
+1.0	he	say	turn in despair
+1.0	he	say	turn from she
+1.0	it	be	pity
+1.0	he	turn from	she
+1.0	it	be	only pity
+1.0	he	turn in	despair
+1.0	he	say	turn
+1.0	he	say	turn from she in despair
+1.0	she love	break down by	pressure of situation
+1.0	she love	break down by	pressure
+1.0	she love	break down by	awful pressure
+1.0	she love	break down by	awful pressure of situation
+1.0	_	see	Macias
+1.0	tear	be	weep
+1.0	tear	be weep for	you
+1.0	she	live in	you life
+1.0	she lip	will brace	itself
+1.0	need	soften	proud
+1.0	she	live in	only you life
+1.0	she	must tell	you
+1.0	she	die in	you death
+1.0	need	must tell	you
+1.0	cheek	have	have blanch with weep
+1.0	poor cheek	have	have so blanch
+1.0	cheek	have	have blanch
+1.0	cheek	have	have so blanch
+1.0	poor cheek	have	have blanch with weep
+1.0	cheek	have	have so blanch with weep
+1.0	poor cheek	have	have so blanch with weep
+1.0	poor cheek	have	have blanch
+1.0	he	believe	she report of he danger
+1.0	he	believe	she report
+1.0	he	reply by	one word
+1.0	he	follow	he
+1.0	he	follow later	he
+0.6377616989460357	he	will move	step towards freedom
+0.6377616989460357	he	will move	step
+0.31397538913633716	he	step towards	freedom
+1.0	she	guide	he
+1.0	it	be	then late
+1.0	it	be	then too late
+1.0	it	be	late
+1.0	it	be	too late
+1.0	stair	be	surround
+1.0	Fernan	be at	hand
+1.0	he assassin	be at	hand
+1.0	he	calm	she
+1.0	death	await	they
+1.0	lock door	hold between	they
+1.0	lock door	still hold between	they
+1.0	door	still hold between	they
+1.0	door	hold between	they
+1.0	we	owe	it nothing
+1.0	bond	be	break
+1.0	bond	be	ever break
+1.0	we	be	dead _
+1.0	we	be	already _
+1.0	we	be	already dead _
+1.0	we	be	_
+1.0	death	be at	door
+0.64608849567582	you	love	I
+1.0	he	put	she
+1.0	he	meet	he enemy
+1.0	he	wound to	death
+1.0	he	return	wound to death
+1.0	he	return	wound
+1.0	Elvira	defend	he
+1.0	Isabel Bretherton	throw	wealth of pitiful tenderness
+1.0	one way	leave	beloved
+1.0	she	say to	he
+1.0	she	snatch	dagger
+1.0	she	snatch	dagger from grasp of man
+1.0	Isabel Bretherton	throw	wealth of tenderness
+1.0	she	say with	voice
+0.6765996341819633	Isabel Bretherton	wealth of	pitiful tenderness
+1.0	Isabel Bretherton	throw	wealth
+1.0	she	bend over	he
+0.6765996341819633	Isabel Bretherton	wealth of	tenderness
+1.0	she	snatch	dagger from grasp of die man
+1.0	she	snatch	dagger from grasp
+1.0	you wife	save _	herself
+1.0	you wife	save so _	you
+1.0	you wife	save	herself
+1.0	you wife	save _	you
+1.0	you wife	save	you
+1.0	you wife	save so _	herself
+1.0	she last murmur	crowd	round she
+1.0	she murmur	rise upon	air
+1.0	she murmur	crowd	round she
+1.0	she last murmur	rise in	dead silence
+1.0	she last murmur	crowd	she
+0.15140126796757591	she last murmur	rise	crowd
+1.0	she murmur	rise in	dead silence
+1.0	she murmur	rise in	silence
+1.0	she murmur	carry	torch
+1.0	she last murmur	rise as	man
+0.15140126796757591	she murmur	rise	crowd
+1.0	she murmur	crowd	she
+1.0	she murmur	rise as	armed man
+1.0	she last murmur	rise in	silence
+1.0	she murmur	rise as	man
+1.0	she last murmur	rise upon	air
+1.0	she last murmur	carry	torch
+1.0	she last murmur	rise as	armed man
+1.0	_	bring	more
+0.9023676243302359	she	stand after	night
+0.9023676243302359	she	stand at_time	night
+1.0	we	go into	now
+1.0	she	be	quite surround
+1.0	she	be	surround
+1.0	brushing	be with	one hand
+1.0	Madame de Ch teauvieux	brushing from	she eye
+1.0	Madame de Ch teauvieux	brushing with	one hand
+1.0	turret door	in standing be	faint lamp light streaming on bent head
+1.0	white muffle figure standing	be in	turret door
+1.0	white muffle figure standing	streaming on	bent head
+1.0	air	be even more heavily charge with	excitement
+1.0	air	seem	charge with excitement
+1.0	air	seem	heavily charge than that
+1.0	air	seem	charge than that
+1.0	air	seem	charge with excitement than that of theatre
+1.0	air	be heavily charge than	that of theatre
+1.0	air	seem	even more heavily charge
+1.0	air	seem	more heavily charge with excitement than that
+1.0	air	be even more heavily charge than	that of theatre
+1.0	air	be	more heavily charge with excitement than that of theatre
+1.0	air	seem	heavily charge
+1.0	air	be more heavily charge than	that of theatre
+1.0	air	be	charge with excitement than that
+1.0	air	seem	even heavily charge with excitement
+1.0	air	be more heavily charge than	that
+1.0	air	be	even heavily charge with excitement than that
+1.0	air	be even heavily charge than	that
+1.0	air	be	even more heavily charge with excitement than that of theatre
+1.0	air	be charge than	that of theatre
+1.0	air	seem	more heavily charge with excitement than that of theatre
+1.0	air	seem	heavily charge than that of theatre
+1.0	air	be	more heavily charge with excitement than that
+1.0	air	be even more heavily charge than	that
+1.0	air	be	charge
+1.0	air	seem	heavily charge with excitement than that
+1.0	air	seem	even heavily charge than that of theatre
+1.0	air	seem beyond	little stage-door
+1.0	air	seem	even more heavily charge with excitement than that of theatre
+1.0	air	seem	more heavily charge than that of theatre
+1.0	air	be	even more heavily charge
+1.0	air	be heavily charge than	that
+1.0	air	be	even heavily charge
+1.0	air	be	even heavily charge with excitement than that of theatre
+1.0	air	seem	even heavily charge
+1.0	air	seem	even more heavily charge than that
+1.0	air	be charge than	that
+1.0	air	be more heavily charge with	excitement
+1.0	air	be even heavily charge than	that of theatre
+1.0	air	seem	even more heavily charge with excitement than that
+1.0	air	be	charge with excitement than that of theatre
+1.0	air	seem	even heavily charge with excitement than that of theatre
+1.0	air	be	heavily charge with excitement than that
+1.0	air	seem	more heavily charge
+1.0	air	be even heavily charge with	excitement
+1.0	air	be	even more heavily charge with excitement than that
+1.0	air	be	heavily charge with excitement than that of theatre
+1.0	air	seem	even more heavily charge than that of theatre
+1.0	air	seem	charge with excitement than that
+1.0	air	seem	heavily charge with excitement than that of theatre
+1.0	air	be heavily charge with	excitement
+1.0	air	seem	even heavily charge with excitement than that
+1.0	air	be	heavily charge
+1.0	air	be	more heavily charge
+1.0	air	seem	charge
+1.0	air	seem	heavily charge with excitement
+1.0	air	seem	even more heavily charge with excitement
+1.0	air	seem	even heavily charge than that
+1.0	air	seem	more heavily charge with excitement
+1.0	air	seem	more heavily charge than that
+1.0	air	seem beyond	stage-door
+1.0	air	be charge with	excitement
+1.0	air	seem	charge than that of theatre
+1.0	he attention	be attract by	little crowd of person
+1.0	he attention	be attract by	crowd of person
+1.0	he attention	be attract by	little crowd of person already assemble
+1.0	he attention	be	attract
+1.0	he	realise	he eye travel
+1.0	he attention	be perforce attract by	little crowd of person
+1.0	he attention	be attract by	crowd of person already assemble
+1.0	he	realise with	start
+1.0	he attention	be perforce attract by	little crowd
+1.0	he attention	be perforce attract	Kendal emerge with he sister
+1.0	he attention	be attract by	little crowd
+1.0	he	realise with	fresh start
+1.0	he attention	be attract	Kendal emerge with he sister
+1.0	he attention	be perforce attract by	little crowd of person already assemble
+1.0	he attention	be perforce attract by	crowd of person already assemble
+1.0	he attention	be perforce attract by	crowd
+1.0	he	realise	he eye travel over they
+1.0	Kendal	emerge with	he sister
+1.0	he eye	travel over	they
+1.0	he attention	be attract by	crowd of person assemble
+1.0	he attention	be attract by	crowd
+1.0	he attention	be perforce attract by	little crowd of person assemble
+1.0	he attention	be perforce attract by	crowd of person assemble
+1.0	he attention	be	perforce attract
+1.0	he attention	be attract	Kendal emerge
+1.0	he attention	be perforce attract	Kendal emerge
+1.0	he attention	be attract by	little crowd of person assemble
+1.0	he attention	be perforce attract by	crowd of person
+1.0	Miss Bretherton	have	to more eminent person have six month before ignorant beauty good
+1.0	Miss Bretherton	have	to more eminent person in group have six month
+1.0	Miss Bretherton	have	to more eminent person in group have six month good
+1.0	Miss Bretherton	have	to more eminent person have six month before beauty
+1.0	Miss Bretherton	have	to more eminent person in group have six month before beauty good
+1.0	Miss Bretherton	have	to more eminent person in group have six month good enough
+1.0	Miss Bretherton	have	to more eminent person have six month before beauty good
+1.0	Miss Bretherton	have	to more eminent person have six month good enough
+1.0	Miss Bretherton	have	to more eminent person have six month before ignorant beauty good enough
+1.0	Miss Bretherton	have	to more eminent person have six month before beauty good enough
+1.0	Miss Bretherton	have	to more eminent person in group have six month before ignorant beauty good enough
+1.0	Miss Bretherton	have	to more eminent person have six month before ignorant beauty
+1.0	Miss Bretherton	have	to more eminent person in group have six month before ignorant beauty good
+1.0	have six month good	be in	group
+1.0	Miss Bretherton	have	to more eminent person in group have six month before beauty good enough
+1.0	Miss Bretherton	have	to more eminent person in group have six month before ignorant beauty
+1.0	Miss Bretherton	have	to more eminent person in group have six month before beauty
+1.0	Miss Bretherton	have	to more eminent person have six month good
+1.0	Miss Bretherton	have	to more eminent person have six month
+1.0	all	be	draw
+1.0	all	be draw within	circle
+1.0	they	homage	emotion visible everywhere
+1.0	all	be draw within	circle of individuality
+1.0	all	be	different
+1.0	she	pass	barrier
+1.0	one thing	be	unchanged
+1.0	thing	be	unchanged
+1.0	she	give cry	she see
+1.0	she	give	little cry
+1.0	she	give	cry
+1.0	it	be	almost greet
+1.0	it	be greet of	daughter
+1.0	it	be	greet
+1.0	it	be almost greet of	daughter to mother
+1.0	she	throw	she arm
+1.0	she arm	round	woman
+1.0	she arm	kiss	she
+1.0	she	come	run
+1.0	it	be greet of	daughter to mother
+1.0	it	be almost greet of	daughter
+1.0	she	come	run forward
+1.0	she arm	round	elder woman
+1.0	gesture	have	glow
+1.0	she	hold	Madame Ch teauvieux
+1.0	he	have	how much fault
+0.6270955304859583	gesture	glow of	youth
+1.0	contagion	be	irresistible
+1.0	she	hold madame ch teauvieux with	one hand
+1.0	she	hold out	other
+1.0	she	still hold	Madame de Ch teauvieux
+1.0	she	hold out	other to Paul
+1.0	she	take	she scolding
+1.0	gesture	have glow in	it
+1.0	he	have	much fault
+1.0	she	hold	Madame de Ch teauvieux
+1.0	he	have	fault
+1.0	she	still hold	Madame Ch teauvieux
+1.0	she	still hold madame ch teauvieux with	one hand
+1.0	gesture	have	glow of youth
+1.0	she head	rise from	wedding-gown of gold-embroidered satin
+1.0	she	have throw off	head-dress
+1.0	she delicately-tinted head	rise from	wedding-gown
+1.0	she delicately-tinted head	rise from	splendid wedding-gown of satin
+1.0	she delicately-tinted head	rise from	wedding-gown of satin
+1.0	neck	rise from	splendid wedding-gown
+1.0	neck	rise from	wedding-gown of satin
+1.0	she	have wear during	act
+1.0	she head	rise from	wedding-gown
+1.0	she	have throw off	white head-dress
+1.0	she delicately-tinted head	rise from	wedding-gown of gold-embroidered satin
+1.0	she head	rise from	splendid wedding-gown of gold-embroidered satin
+1.0	she delicately-tinted head	rise from	splendid wedding-gown
+1.0	she head	rise from	splendid wedding-gown of satin
+1.0	neck	rise from	wedding-gown of gold-embroidered satin
+1.0	neck	rise from	splendid wedding-gown of gold-embroidered satin
+1.0	she head	rise from	splendid wedding-gown
+1.0	she head	rise from	wedding-gown of satin
+1.0	she	have wear during	last act
+1.0	neck	rise from	wedding-gown
+1.0	she	vision of	beauty
+1.0	neck	rise from	splendid wedding-gown of satin
+1.0	she delicately-tinted head	rise from	splendid wedding-gown of gold-embroidered satin
+1.0	she	vision of	flowerlike beauty
+1.0	she voice	be in	its different shades of gaiety
+1.0	talk	flow about	she
+1.0	Mr. Kendal	turn after	they greet
+1.0	it	be	magnetism
+1.0	Mr. Kendal	say	turn again after they first greet
+1.0	she	say	turn to he after they first greet
+1.0	Mr. Kendal	say	turn to he again after they first greet
+1.0	Mr. Kendal	turn after	they first greet
+1.0	she	say	turn
+1.0	Mr. Kendal	say	turn to he again after they greet
+1.0	she	say	turn after they greet
+1.0	Mr. Kendal	say	turn
+1.0	Mr. Kendal	say	turn again
+1.0	Mr. Kendal	say	turn after they first greet
+1.0	Mr. Kendal	turn again after	they greet
+1.0	she	say	turn to he again
+1.0	Mr. Kendal	say	turn to he after they first greet
+1.0	Mr. Kendal	turn to	he
+1.0	oh	be magnetism of	he gaze
+1.0	Mr. Kendal	say	turn again after they greet
+1.0	it	be magnetism of	he gaze
+1.0	oh	be	magnetism of he gaze
+1.0	she	say	turn to he again after they first greet
+1.0	Mr. Kendal	say	turn to he
+1.0	oh	be	magnetism
+1.0	she	say	turn to he after they greet
+1.0	she	say	turn after they first greet
+1.0	she	say	turn again after they first greet
+1.0	she	say	turn again
+1.0	Mr. Kendal	say	turn to he again
+1.0	Mr. Kendal	say	turn after they greet
+1.0	Mr. Kendal	turn again after	they first greet
+1.0	she	say	turn again after they greet
+1.0	Mr. Kendal	turn again to	he
+1.0	Mr. Kendal	say	turn to he after they greet
+1.0	she	say	turn to he
+1.0	she	say	turn to he again after they greet
+1.0	I	how much owe to	she
+1.0	I	owe to	she
+1.0	I	much owe to	she
+1.0	it	come	to-night
+1.0	it	be kind of	you
+1.0	it	be	kind
+1.0	I	should	should have disappointed
+1.0	I	should	should have so disappointed
+1.0	she	come	closer to he
+1.0	she	come	closer
+1.0	you	hear of	it
+1.0	I	work so hard at	she
+1.0	I	work at	she
+1.0	I	work hard at	she
+1.0	dread	be in	my mind
+1.0	openness	be	hard
+1.0	friendly openness	be	so hard
+1.0	perfect friendly openness	_ of	hers
+1.0	openness	be	so hard
+1.0	perfect friendly openness	be	so hard
+1.0	perfect openness	be	hard
+1.0	friendly openness	be	hard
+1.0	perfect openness	be	so hard
+1.0	perfect friendly openness	be	hard
+1.0	I	be blind from	first last
+1.0	I	be	blind
+1.0	wonderful eye	be	full
+1.0	great friendliness	look out through	they
+1.0	wonderful eye	be full in	he
+1.0	friendliness	look out through	they
+1.0	wonderful eye	be full upon	he
+1.0	eye	be full in	he
+1.0	emotion	be in	they
+1.0	eye	be	full
+1.0	eye	be full upon	he
+1.0	it	be in	he
+1.0	Nuneham scene	be in	she mind
+1.0	it	give	half pleasure
+1.0	it	give	pleasure
+1.0	it	give	I
+1.0	it	give	pain
+1.0	it	give	half pain
+1.0	I	hate	myself
+1.0	you	have travel indeed since	_ White Lady _
+1.0	you	have travel since	_ White Lady _
+1.0	you	have travel far indeed since	_ White Lady _
+1.0	he praise	be pleasant to	she
+1.0	he praise	evidently be very pleasant to	she
+1.0	he praise	be	very pleasant
+1.0	he praise	be very pleasant to	she
+1.0	she feeling	be in	intensity of he tone
+1.0	he praise	be	evidently pleasant
+1.0	he praise	be	evidently very pleasant
+1.0	he praise	be	pleasant
+1.0	he praise	evidently be pleasant to	she
+1.0	he	believe for	one moment
+1.0	he	believe for	one wild moment
+1.0	he soul	seem concentrate on	one instant
+1.0	he	lose	consciousness of crowd
+1.0	he soul	seem	concentrate
+1.0	he whole soul	seem concentrate on	one instant
+1.0	he whole soul	seem	concentrate
+1.0	love	be	impotent
+1.0	love	be	indeed impotent
+1.0	it	be	indeed impotent
+1.0	it	be	impotent
+1.0	she	move from	he
+1.0	she	move away from	he
+1.0	she	estrange	present
+1.0	she	say with	change of voice you sister 's
+1.0	she	say with	change
+1.0	she	say eagerly with	change of voice
+1.0	she	say with	change of voice
+1.0	she	say eagerly with	change you sister 's
+1.0	she	say eagerly with	change of voice you sister 's
+1.0	she	say with	change you sister 's
+1.0	she	say eagerly with	change
+1.0	you	see	I
+1.0	you	see	time
+1.0	you	see	talk
+1.0	I	be	want
+1.0	you	must	must introduce
+1.0	you	must	must introduce to Macias
+1.0	you	must	first must introduce to Macias
+1.0	you	must	first must introduce
+1.0	it	be	such choice
+1.0	it	be	choice
+1.0	it	be	such excellent choice
+1.0	it	be	such
+1.0	it	be	excellent
+1.0	it	be such choice 's	Mr. Wallace 's
+1.0	it	be excellent choice 's	Mr. Wallace 's
+1.0	it	be choice 's	Mr. Wallace 's
+1.0	it	be	excellent choice
+1.0	it	be such excellent choice 's	Mr. Wallace 's
+1.0	he	wife	pretty little dark woman
+1.0	himself	talk	nothing
+0.26940217424488	himself	talk to	Mr. Harting
+1.0	himself	talk nothing to	Mr. Harting
+1.0	he	stumble upon	Forbes
+1.0	suggestive contrast	be in	she american crispness
+0.8839469543571608	Forbes	catch hold of	he
+1.0	Forbes	hold of	he
+0.8839469543571608	Forbes	hold of	he
+1.0	Kendal	be with	ghostly smile
+1.0	you	think	he
+1.0	he	be	vicious
+1.0	hall	be	masterpiece
+1.0	it	be	business
+1.0	it	be	terrible business
+1.0	Mr. Worrall 's hair	have turn	gray
+1.0	Mr. Worrall	have	hair
+1.0	I	would have	we way
+1.0	she	would have	we way
+1.0	she	however would have	we way
+1.0	Mr. Worrall 's hair	have turn over	expense
+1.0	I	however would have	we way
+1.0	Kendal	fancy in	midst of great inrush of London world
+1.0	Kendal	fancy in	midst
+1.0	she	be automaton	move
+1.0	woman	mistress of	herself
+0.7465759613494227	she	be	move
+1.0	woman	mistress of	she fate
+1.0	Kendal	fancy in	midst of great inrush
+1.0	she	be automaton	move at they will
+1.0	Kendal	fancy in	midst of inrush of London world
+0.7465759613494227	she	be move at	they will
+1.0	it	be	evident
+1.0	they	be	prepare
+1.0	Kendal	fancy in	midst of inrush
+1.0	he	see miss bretherton signalling with	she arm
+1.0	he	suddenly see miss bretherton signalling in	that of he sister
+1.0	he	see miss bretherton signalling in	that
+1.0	he	see miss bretherton signalling in	that of he sister
+1.0	Kendal	fall into	conversation
+1.0	he	suddenly see miss bretherton signalling with	she arm
+1.0	he	suddenly see miss bretherton signalling to	he
+1.0	Kendal	fall on	subject with Mrs. Stuart
+1.0	he	see	Miss Bretherton signalling
+1.0	he	see miss bretherton signalling to	he
+1.0	he	suddenly see miss bretherton signalling in	that
+1.0	he	suddenly see	Miss Bretherton signalling
+1.0	Kendal	fall on	subject
+1.0	she	say	he go
+1.0	you	take away	Madame Ch teauvieux
+1.0	Mr. Kendal	say	he go up
+1.0	Mr. Kendal	say	he go to she
+1.0	you	take away	Madame de Ch teauvieux
+1.0	you	take madame ch teauvieux away out of	noise
+1.0	Mr. Kendal	say	he go up to she
+1.0	Mr. Kendal	say	he go
+1.0	you	really take away	Madame Ch teauvieux
+1.0	you	really take	Madame de Ch teauvieux
+1.0	she	say	he go up
+1.0	you	really take	Madame Ch teauvieux
+1.0	you	take	Madame Ch teauvieux
+1.0	she	say	he go to she
+1.0	you	really take madame ch teauvieux away out of	noise
+1.0	you	really take madame ch teauvieux out of	noise
+1.0	she	say	he go up to she
+1.0	you	take	Madame de Ch teauvieux
+1.0	you	really take away	Madame de Ch teauvieux
+1.0	he	go to	she
+1.0	he	go up to	she
+1.0	you	take madame ch teauvieux out of	noise
+1.0	it	be very well	she preach
+1.0	she	preach to	I
+1.0	it	be well	she preach to I
+1.0	it	be	very well
+1.0	it	be very well	she preach to I
+1.0	it	be well	she preach
+1.0	it	be	well
+1.0	she	get	she food
+1.0	I	entertain	you
+1.0	I	entertain here	you
+1.0	my Isabel	hold	she
+1.0	my Isabel	leave	Mr. Wallace
+1.0	Mr. Wallace	do	honour
+1.0	I	will tell	M. de Ch teauvieux
+1.0	I	send	he
+1.0	she	smile down into	she eye
+1.0	Kendal	from	arm
+1.0	she	take	Marie 's shawl
+1.0	it	tenderly round	she
+1.0	Marie	have	shawl
+1.0	she	put	it
+1.0	it	round	she
+1.0	Kendal	drop	hand
+1.0	it	be	just midnight
+1.0	I	have order supper in	my room
+1.0	it	be	midnight
+1.0	I	have order	supper
+1.0	I	have order supper for	you
+1.0	people	have	sense go
+1.0	people	have	sense go soon
+1.0	Madame Ch teauvieux	say	they walk across quadrangle under sky heavy with storm-cloud
+1.0	Madame Ch teauvieux	say	they walk under sky heavy with storm-cloud
+1.0	Madame Ch teauvieux	say	they walk across quadrangle under sky
+1.0	Madame Ch teauvieux	say	they walk across quadrangle under sky heavy
+1.0	Madame Ch teauvieux	say	they walk
+1.0	they	walk under	sky heavy
+1.0	they	alight at	gate
+1.0	Madame Ch teauvieux	say	they walk across quadrangle under sky still heavy
+1.0	they	alight at	gate of Temple
+1.0	Madame de Ch teauvieux	say	they walk across quadrangle under sky heavy
+1.0	Madame de Ch teauvieux	say	they walk under sky heavy with storm-cloud
+1.0	Madame Ch teauvieux	say to	she brother
+1.0	it	be	great
+1.0	they	walk across	quadrangle
+1.0	Madame Ch teauvieux	say	they walk across quadrangle
+1.0	Madame Ch teauvieux	say with	sigh
+1.0	Madame de Ch teauvieux	say	they walk across quadrangle under sky
+1.0	Madame de Ch teauvieux	say	they walk across quadrangle
+1.0	Madame de Ch teauvieux	say to	she brother
+1.0	Madame de Ch teauvieux	say	they walk across quadrangle under sky heavy with storm-cloud
+1.0	Madame de Ch teauvieux	say	they walk under sky still heavy
+1.0	Madame Ch teauvieux	say	they walk under sky still heavy with storm-cloud
+1.0	Madame Ch teauvieux	say	they walk under sky heavy
+1.0	they	walk under	sky still heavy with storm-cloud
+1.0	Madame Ch teauvieux	say	they walk under sky
+1.0	Madame de Ch teauvieux	say	they walk across quadrangle under sky still heavy with storm-cloud
+1.0	Madame de Ch teauvieux	say	they walk under sky
+1.0	Madame de Ch teauvieux	say	they walk
+1.0	Madame de Ch teauvieux	say	they walk under sky heavy
+1.0	Madame de Ch teauvieux	say with	sigh
+1.0	they	walk under	sky
+1.0	they	walk under	sky heavy with storm-cloud
+1.0	Madame de Ch teauvieux	say	they walk across quadrangle under sky still heavy
+1.0	they	walk under	sky still heavy
+1.0	Madame Ch teauvieux	say	they walk under sky still heavy
+1.0	Madame Ch teauvieux	say	they walk across quadrangle under sky still heavy with storm-cloud
+1.0	Madame de Ch teauvieux	say	they walk under sky still heavy with storm-cloud
+1.0	Isabel Bretherton	wife of	man
+1.0	I	happier than	hundred Elviras
+1.0	smile	break	she look at she brother
+1.0	she	look at	she brother
+1.0	smile	break over	she face
+1.0	smile	break	she look
+1.0	I	quite make up	my mind
+1.0	I	make up	my mind
+0.885464481096461	con	pro of	it
+1.0	I	discuss	con
+1.0	I	discuss	pro of it
+1.0	I	discuss con with	myself
+1.0	I	discuss	pro
+1.0	I	discuss pro with	myself
+1.0	speaker	have	conviction
+1.0	word	be	say lightly
+1.0	word	be	say
+1.0	word	be	say so lightly
+1.0	blind clamour	be against	bluntness of she sisterly perception
+1.0	clamour	be in	he
+1.0	clamour	be against	bluntness
+1.0	clamour	be against	bluntness of she sisterly perception
+1.0	clamour	be against	bluntness of she perception
+1.0	blind clamour	be in	he
+1.0	blind clamour	be against	bluntness of she perception
+1.0	blind clamour	be against	bluntness
+1.0	Madame de Ch teauvieux	be startle by	it
+1.0	Madame Ch teauvieux	be startle by	it
+1.0	Madame Ch teauvieux	be	startle
+1.0	he silence	be	prolonged
+1.0	Madame de Ch teauvieux	be	startle
+1.0	he silence	be	so prolonged
+1.0	she	slip	she hand
+1.0	it	seem	impossible
+1.0	it	still seem	impossible
+1.0	it	seem	he speak
+1.0	it	still seem	he speak
+0.02038138290973901	he	could only lay over	hers with brotherly clasp
+1.0	he	could lay	he hand
+0.02038138290973901	he	could only lay over	hers
+0.02038138290973901	he	could lay over	hers
+0.02038138290973901	he	could lay over	hers with clasp
+1.0	he	could only lay	he hand
+0.02038138290973901	he	could only lay over	hers with clasp
+0.02038138290973901	he	could lay over	hers with brotherly clasp
+1.0	hers	be with	brotherly clasp
+1.0	he	lead	Madame Ch teauvieux follow in tumult of anxious conjecture
+1.0	he	lead	way
+1.0	he	lead	Madame de Ch teauvieux follow in tumult of anxious conjecture
+1.0	he	lead	Madame de Ch teauvieux follow in tumult
+1.0	he	lead up	Madame de Ch teauvieux
+1.0	he	lead	Madame de Ch teauvieux
+1.0	they	be at	by time foot of stair
+1.0	he	lead up	Madame Ch teauvieux follow in tumult of conjecture
+1.0	they	be at	foot of stair
+1.0	he	lead	Madame Ch teauvieux follow in tumult
+1.0	he	lead up	Madame Ch teauvieux follow in tumult
+1.0	they	be at	by time foot
+1.0	he	lead up	Madame de Ch teauvieux follow in tumult of anxious conjecture
+1.0	he	lead up	Madame de Ch teauvieux follow in tumult
+1.0	he	lead	Madame Ch teauvieux
+1.0	he	lead up	way
+1.0	he	lead up	Madame Ch teauvieux
+1.0	he	lead up	Madame de Ch teauvieux follow in tumult of conjecture
+1.0	he	lead	Madame de Ch teauvieux follow in tumult of conjecture
+1.0	he	lead	Madame Ch teauvieux follow in tumult of conjecture
+1.0	he	lead up	Madame Ch teauvieux follow in tumult of anxious conjecture
+1.0	Madame de Ch teauvieux	be in	follow tumult of anxious conjecture
+1.0	they	be at	foot
+1.0	he	be bend over	fire
+1.0	he	put	she
+1.0	he	put carefully	she
+1.0	they	reach	he room
+1.0	she	take	sandwich
+1.0	he	make	she tea
+1.0	love	be with	Isabel Bretherton
+1.0	my poor boy	be	you
+1.0	my boy	be you in	love
+1.0	my poor old boy	be you in	love with Isabel Bretherton
+1.0	my old boy	be	you
+1.0	my poor old boy	be you in	love
+1.0	my old boy	be you in	love with Isabel Bretherton
+1.0	my poor boy	be you in	love with Isabel Bretherton
+1.0	my old boy	be you in	love
+1.0	my boy	be	you
+1.0	my poor boy	be you in	love
+1.0	my poor old boy	be	you
+1.0	my boy	be you in	love with Isabel Bretherton
+0.812803211081044	he line	settle into	repose
+1.0	he	gaze steadily into	fire
+0.812803211081044	he	line of	he face
+0.812803211081044	he	line of	he mobile face
+1.0	he	gaze into	fire
+1.0	I	love	she
+1.0	I	yes love	she
+1.0	he	say to	as to himself
+1.0	she thought	travel back with	lightning rapidity
+1.0	she thought	travel over	past
+1.0	she thought	travel with	lightning rapidity
+1.0	Madame de Ch teauvieux	be	tremblingly silent
+1.0	Madame de Ch teauvieux	be	silent
+1.0	she thought	travel back over	past
+1.0	she	could remember	one look of Isabel Bretherton 's
+1.0	she	could remember	one word
+1.0	one word	look 's	of Isabel Bretherton
+1.0	she	could remember	one look
+1.0	she	rise	she arm
+1.0	youth	get for	he
+0.95548450606467	she	be	get
+0.95548450606467	toy	be	get
+1.0	she deep distress	touch	he
+1.0	they	quench	spark of hope
+1.0	they	quench	last spark in he
+1.0	they	quench	last spark of hope
+1.0	they	quench	last spark
+1.0	she mute sympathy	touch	he
+1.0	they	quench	spark
+1.0	she distress	touch	he
+1.0	they	quench	spark of hope in he
+1.0	they	seem at	same time
+1.0	they	seem at	time
+1.0	she sympathy	touch	he
+1.0	they	quench	spark in he
+1.0	they	quench	last spark of hope in he
+1.0	he	should break	silence
+1.0	he	hearing	something
+1.0	he	hearing something from	she
+1.0	you	be	as good
+1.0	you	be	good
+1.0	you	be as good to	I
+1.0	she	stand beside	he
+1.0	he	say to	she
+1.0	he	kiss	she brow
+1.0	you	be good to	I
+1.0	you	be as good	you can
+1.0	Dear Marie	say to	she
+1.0	you	be good	you can
+1.0	I	shall	shall good deal for present
+1.0	I	shall	shall deal for present
+1.0	I	shall	shall probably deal for present
+1.0	I	shall	shall good deal
+1.0	book	be	wonderful
+1.0	I	shall	shall probably deal
+1.0	I	shall	shall probably good deal for present
+1.0	my book	be	help
+1.0	I	shall	shall probably good deal
+1.0	my book	be	wonderful help
+1.0	I	be	good
+1.0	I	shall	shall deal
+1.0	other thing	be real to	I
+1.0	thing	be	real
+1.0	I	be	thankful
+1.0	thing	be real to	I
+1.0	other thing	be	real
+1.0	I	shall live down	it
+1.0	she	rebel against	acquiescence of he own sense
+1.0	she	rebel against	acquiescence of he sense
+1.0	she	cry	rebel against heavy acquiescence
+1.0	she	rebel against	heavy acquiescence of he sense
+1.0	she	rebel against	acquiescence of he sense of hopelessness
+1.0	she	cry	rebel
+1.0	she	cry	rebel against acquiescence
+1.0	she	cry	rebel against acquiescence of he sense
+1.0	she	cry	rebel against acquiescence of he own sense
+1.0	she	cry	rebel against acquiescence of he sense of hopelessness
+1.0	she	rebel against	acquiescence of he own sense of hopelessness
+1.0	she	cry	rebel against heavy acquiescence of he own sense of hopelessness
+1.0	she	cry	rebel against heavy acquiescence of he own sense
+1.0	she	rebel against	heavy acquiescence of he sense of hopelessness
+1.0	she	rebel against	acquiescence
+1.0	she	cry	rebel against heavy acquiescence of he sense
+1.0	she	rebel against	heavy acquiescence of he own sense of hopelessness
+1.0	she	rebel against	heavy acquiescence
+1.0	she	cry	rebel against heavy acquiescence of he sense of hopelessness
+1.0	she	cry	rebel against acquiescence of he own sense of hopelessness
+1.0	she	rebel against	heavy acquiescence of he own sense
+1.0	you	be	man
+1.0	Kendal	shake	he head
+1.0	I	use to	dream
+0.03191106735239502	she	would want	step
+1.0	I	use of	time
+0.03191106735239502	she	would want	step in
+1.0	I	sometimes think of	she protect in my arm
+1.0	I	sometimes think of	she protect against world
+1.0	I	think of	she protect in my arm
+1.0	I	think of	she
+1.0	I	think of	she protect against world
+1.0	I	sometimes think of	she protect
+1.0	I	sometimes think of	she
+1.0	I	think of	she protect in my arm against world
+1.0	I	sometimes think of	she protect in my arm against world
+1.0	I	think of	she protect
+1.0	she	feel	truth of he argument of all
+1.0	she	feel	truth of he unspoken argument of all
+1.0	she	feel	truth of he argument
+1.0	she	feel	truth
+1.0	she	feel	truth of he unspoken argument
+1.0	she	feel	truth of all

@@ -1,0 +1,684 @@
+1.0	white thing dreadful blood	flow over	tile
+1.0	poor thing dreadful blood	flow over	red tile
+1.0	thing dreadful blood	flow over	tile
+1.0	thing blood	flow over	red tile
+1.0	poor white thing dreadful blood	flow over	tile
+1.0	poor thing blood	flow over	tile
+1.0	poor thing blood	flow over	red tile
+1.0	poor white thing dreadful blood	flow over	red tile
+1.0	thing blood	flow over	tile
+1.0	poor white thing blood	flow over	tile
+1.0	thing dreadful blood	flow over	red tile
+1.0	white thing blood	flow over	red tile
+1.0	white thing blood	flow over	tile
+1.0	white thing dreadful blood	flow over	red tile
+1.0	poor white thing blood	flow over	red tile
+1.0	poor thing dreadful blood	flow over	tile
+1.0	Mr Hare	be kneel by	he daughter
+1.0	John	stand	aghast
+1.0	she	seem	afraid
+1.0	she	throw	herself
+1.0	she	seem	afraid of I
+1.0	Mr Hare	look up	he face symbol
+1.0	he face	symbol of	agony
+1.0	Mr Hare	look up	he face symbol of agony
+1.0	he	lift kitty from	tile
+0.6486011210207141	John	fade like	breath
+1.0	he	lift	Kitty
+1.0	John	feel	he sink
+1.0	it	be	she father
+1.0	blood	flow from	terrible wound in head
+1.0	blood	flow from	terrible wound
+1.0	blood	flow from	wound
+1.0	blood	flow from	wound in head
+1.0	terrible wound	be in	head
+1.0	wall	be	stain
+1.0	she	be lay upon	bed
+1.0	pillow	be	crimson
+0.5710567454611614	strove	staunch wound with	towel
+1.0	she	be	when lay
+1.0	she	be	lay
+1.0	she	be	when lay upon bed
+0.5710567454611614	strove	staunch	wound
+1.0	she	do ask	should send for
+1.0	doctor	should	should send for
+1.0	doctor	should	should send
+1.0	she	do ask	should send
+1.0	man	hold	bed rail
+1.0	one man	look at	he dead daughter
+1.0	other	sit by	window
+1.0	one man	hold	bed rail
+1.0	man	look at	he daughter
+1.0	man	look at	he dead daughter
+1.0	one man	look at	he daughter
+1.0	one	be	John Norton
+1.0	he brain	be	empty
+1.0	thing	move	move
+1.0	he	be leave	struggle in space
+1.0	thread	have	have snap
+1.0	he	part of	it
+1.0	he	struggle in	space
+1.0	he	be	leave
+1.0	he	be leave	struggle
+1.0	Kitty	throw	herself
+0.08888763875480499	Kitty	throw out of	window
+1.0	she	have accompany far	he
+1.0	she	have accompany as far	he
+1.0	she	have accompany	he
+1.0	she	have wave	she hand
+1.0	she	have walk with	he
+1.0	she	have walk on	hill
+1.0	she	be	dead
+1.0	she	be	now dead
+1.0	it	be	yet real real enough
+1.0	it	be	real enough
+1.0	it	be	yet real
+1.0	it	be	real
+1.0	it	be	real real enough
+1.0	it	be	yet real enough
+1.0	she canary	be	singing
+1.0	she	lay	dead
+1.0	fuchsia	be with	pendent blossom fall
+1.0	John	glance at	cage
+1.0	song	go to	he brain
+1.0	he	be sure of	that
+1.0	he	be	sure
+1.0	dead daughter	have	hand
+1.0	he	envy	father 's grief
+1.0	he dead daughter 's hand	show	face
+1.0	he	envy	hard-sobbing father 's grief
+1.0	he daughter 's hand	show	face
+1.0	he dead daughter 's hand	show	face wild
+1.0	face	be	print deeply
+1.0	he dead daughter 's hand	show	face wild with fear
+1.0	face	be	print so deeply
+1.0	face	be	print so deeply terror
+1.0	he	envy	father
+1.0	hard-sobbing father	have	grief
+1.0	he daughter 's hand	show	face wild
+0.5857328048936957	face	wild with	fear
+1.0	face	be	print deeply terror of soul 's emotion
+1.0	face	be	print so deeply terror of soul 's emotion
+1.0	soul	of	emotion
+1.0	face	be	print
+1.0	he daughter 's hand	show	face wild with fear
+1.0	face	be	print deeply terror
+1.0	he	creep	downstairs
+1.0	he	have see	she
+1.0	he	go into	drawing-room
+1.0	he	look about for	place
+1.0	he	have last see	she
+0.010717726303177022	he	be	for it have see
+0.010717726303177022	he	be	for it there have see
+1.0	he eye	wander from	place
+0.010717726303177022	he	be	have see
+1.0	he	have see afterwards at	window
+0.010717726303177022	he	be	there have see
+1.0	he	have see at	window
+1.0	she	usually sit on	sofa
+1.0	she	sit on	sofa
+1.0	he	well remember	she word
+1.0	he	how well remember	she word
+1.0	he	remember	she word
+1.0	thing	be human life	how shadow-like
+1.0	frail thing	be human life	shadow-like
+1.0	frail thing	be human life	how shadow-like
+1.0	it	be	go
+1.0	frail thing	be	life
+1.0	thing	be human life	shadow-like
+1.0	it	be	next go
+1.0	frail thing	be	human life
+1.0	thing	be	life
+1.0	frail thing	be life	how shadow-like
+1.0	frail thing	be life	shadow-like
+1.0	thing	be	human life
+1.0	thing	be life	shadow-like
+1.0	thing	be life	how shadow-like
+1.0	he	should read	it
+1.0	he	perhaps should read	it
+1.0	she	have lend	he
+1.0	she	have lend	book
+1.0	thought	strike	he
+1.0	horrible	be	thought
+1.0	bitter	be	thought
+1.0	it	understand	its folly
+1.0	it	understand	its vanity
+1.0	whole	summarise in	symbol
+1.0	it	be see in	one moment
+1.0	he	be	in one moment see
+1.0	whole	summarise in	single symbol
+1.0	he	be	see
+1.0	it	be	see
+1.0	he	be see in	one moment
+1.0	he	for nothing be	wife
+1.0	he	for nothing be	life
+1.0	shock	begin to	thaw
+1.0	grief	fall like	rain
+1.0	grief	fall like	penetrate rain
+1.0	tear	well up in	he eye
+1.0	we	learn	love
+1.0	we	learn	suffer
+1.0	we	suffer	we learn
+1.0	he	be as great in	he grief
+1.0	he	be	great in he grief as expression of grief by Michael Angelo
+1.0	he	be as great as	expression of grief by Michael Angelo
+1.0	he	be	as great in he grief as expression of grief
+1.0	he	be as great as	expression
+1.0	he	be	as great in he grief as expression of grief by Michael Angelo
+1.0	he	be	motionless
+1.0	he	be	great in he grief as expression of grief
+1.0	he	be	as great in he grief as expression
+1.0	he	be great as	expression of grief
+1.0	he	be	as great
+1.0	he	be	great in he grief as expression
+1.0	he	be as great as	expression of grief
+1.0	he	be as great as	expression by Michael Angelo
+1.0	he	be great in	he grief
+1.0	he	be great as	expression of grief by Michael Angelo
+1.0	he	be	as great in he grief as expression by Michael Angelo
+1.0	dead daughter	by	side
+1.0	he	be motionless as	dead
+1.0	he	be	great in he grief as expression by Michael Angelo
+1.0	he	be	great
+1.0	he	be great as	expression by Michael Angelo
+1.0	he	be great as	expression
+1.0	he	reflect	much on meaning
+1.0	he	reflect	much
+0.4202134637704369	reflect	too much on	meaning
+1.0	himself	suffer with	individual grief
+1.0	he	project	himself
+1.0	he	reflect	much on meaning of life
+1.0	he	reflect	too much on meaning
+1.0	he suffering	be	original
+0.4202134637704369	reflect	much on	meaning
+0.4202134637704369	reflect	too much on	meaning of life
+1.0	he	reflect	too much on meaning of life
+0.4202134637704369	reflect	much on	meaning of life
+1.0	inherent misery	base on time be	matter
+1.0	he suffering	be	too original
+1.0	he	reflect	too much
+1.0	he	have dream	much
+1.0	he	now welcome	come
+1.0	he	now gladly welcome	come of grief for indeed
+1.0	he	welcome	come of grief
+1.0	he	now welcome	come of grief
+1.0	he	now welcome	come of grief for indeed
+1.0	he	gladly welcome	come of grief
+0.9576110082882101	he	come for	indeed
+1.0	he weakness	be in	direction
+1.0	he	now gladly welcome	come of grief
+1.0	he	welcome	come for indeed
+1.0	he	now gladly welcome	come
+1.0	he	gladly welcome	come
+1.0	he	welcome	come
+1.0	he	gladly welcome	come of grief for indeed
+1.0	he	now gladly welcome	come for indeed
+1.0	he	now welcome	come for indeed
+1.0	he	welcome	come of grief for indeed
+0.9576110082882101	he	come of	grief
+1.0	he	gladly welcome	come for indeed
+1.0	they	have	tennis
+1.0	they	have tennis in	afternoon
+1.0	he	be	too expect there
+1.0	he	be	too expect
+1.0	he	be	expect there
+1.0	he	be	expect
+1.0	they	must	must tell
+1.0	they	call for	Kitty
+1.0	they	come under	she window
+1.0	it	would	would terrible
+1.0	she	lie	dead
+1.0	they	come	call
+1.0	they	come	call for Kitty
+1.0	incident	wring	he heart
+1.0	he	see down	lifelong range
+1.0	slight incident	be in	tragedy
+1.0	he	see down	range
+1.0	he	see down	lifelong range of consequence
+1.0	he	see down	range of consequence
+1.0	slight incident	wring	he heart
+1.0	doctor	must	must warn
+1.0	he	go out in	evening air
+1.0	he	go out with	letter
+1.0	he	go with	letter
+1.0	illimitable sorrow	be in	he soul
+1.0	he	go in	evening air
+1.0	it	be just evening as	yester evening
+1.0	it	be such evening as	yester evening
+1.0	it	be	such
+1.0	it	be evening as	yester evening
+1.0	it	be	such evening
+1.0	glow	survive in	whose eye
+1.0	glow	still survive in	whose eye
+1.0	earth	appear like	vision
+1.0	glow	yet still survive in	whose eye
+1.0	fragrance	be upon	lip
+1.0	it	be just such evening as	yester evening
+1.0	glow	yet survive in	whose eye
+1.0	it	be	just evening
+1.0	sky	appear like	vision
+1.0	it	be	just such evening
+1.0	sky	appear like	exquisite vision
+1.0	earth	appear like	exquisite vision
+1.0	it	be	evening
+1.0	taper mast	vanish upon	pallid sky
+1.0	last hour	beauty of be	crescent of sea
+1.0	taper mast	vanish upon	sky
+1.0	slack rope	vanish upon	pallid sky
+1.0	last hour	beauty of be	crescent
+1.0	ship	loll upon	strand
+1.0	mast	vanish upon	sky
+1.0	ship	loll upon	long strand
+1.0	rope	vanish upon	pallid sky
+1.0	hour	beauty of be	crescent of sea
+1.0	rope	vanish upon	sky
+1.0	hour	beauty of be	crescent
+1.0	slack rope	vanish upon	sky
+1.0	beauty	be upon	crescent
+1.0	mast	vanish upon	pallid sky
+1.0	beauty	be upon	crescent of sea
+0.9266656817512413	vulgar	look on	broad land
+0.9266656817512413	vulgar	look on	broad land of Squire
+0.3371923002554951	vulgar	look on	land of Squire
+0.9266656817512413	vulgar	look on	land of Squire
+0.3371923002554951	vulgar	look on	broad land of Squire
+0.9266656817512413	vulgar	look on	land
+0.3371923002554951	vulgar	look on	broad land
+0.3371923002554951	vulgar	look on	land
+1.0	they	sweep up	small expanse
+1.0	they	sweep up	expanse like wave over slope of sand
+1.0	they	sweep up	small expanse of downs like wave
+1.0	they	sweep up	small expanse like wave over slope
+0.9744068918139213	they	expanse of	downs
+1.0	they	sweep up	expanse of downs
+1.0	they	sweep up	small expanse like wave
+0.9744068918139213	they	expanse like	wave over slope
+1.0	they	sweep up	expanse like wave
+1.0	they	sweep up	expanse of downs like wave over slope of sand
+0.9744068918139213	they	small expanse like	wave over slope
+0.9744068918139213	they	small expanse of	downs
+1.0	they	sweep up	small expanse of downs like wave over slope of sand
+1.0	they	sweep up	small expanse like wave over slope of sand
+1.0	they	sweep up	expanse of downs like wave over slope
+0.9744068918139213	they	expanse like	wave
+0.9744068918139213	they	small expanse like	wave
+0.9744068918139213	they	expanse like	wave over slope of sand
+1.0	they	sweep up	small expanse of downs like wave over slope
+1.0	they	sweep up	expanse
+0.9744068918139213	they	small expanse like	wave over slope of sand
+1.0	they	sweep up	expanse like wave over slope
+1.0	they	sweep up	expanse of downs like wave
+1.0	they	sweep up	small expanse of downs
+1.0	girl	be on	where tennis lawn
+1.0	house	be with	red gable
+1.0	girl	be on	still tennis lawn
+1.0	girl	be on	tennis lawn
+1.0	girl	be on	where still tennis lawn
+1.0	he	tell	doctor
+1.0	John	walk through	town
+1.0	he	pass	lead
+1.0	he	pass	lead by strange fascination
+1.0	he	walk to	Leywood
+1.0	he	pass through	farm gate
+1.0	he	lead by	strange fascination
+1.0	he	pass	lead by fascination
+1.0	he	leave	he letter
+1.0	he	lead by	fascination
+1.0	spine-like bridge	sail of	mill turn over crest
+1.0	it	hang down over	sea
+1.0	it	hang over	sea
+1.0	phantom	barn like	monster of night
+1.0	sheep	seem like	solitary barn like monster of night
+1.0	sheep	seem like	barn like monster of night
+1.0	landscape	gain in	loveliness
+1.0	sheep	seem like	barn
+1.0	sheep	seem like	solitary barn
+1.0	sheep	seem like	barn like monster
+1.0	sheep	seem like	solitary barn like monster
+1.0	sheep	seem like	phantom
+1.0	long outline	be	prolonged away into depths
+1.0	long outline	be	prolonged far away
+1.0	hill	be like	giant
+1.0	long outline	be	prolonged far away into depths
+1.0	long outline	be	prolonged
+1.0	outline	be	prolonged
+1.0	outline	be	prolonged away into depths
+1.0	hill	be like	giant sleep
+1.0	outline	be	prolonged away
+1.0	long outline	be	prolonged away
+1.0	outline	be	prolonged far away into depths
+1.0	outline	be	prolonged far away
+1.0	Brighton	cloud of	fire
+1.0	light	everywhere save in	one gloomy spot
+1.0	light	save in	one gloomy spot
+1.0	light	everywhere save in	one spot
+1.0	Shoreham	lay blaze below	he
+1.0	light	save in	one spot
+0.94159191675916	Shoreham	blaze of	thousand light
+1.0	Shoreham	lay blaze in front of	he
+1.0	John	could see	Brighton
+0.02038138290973901	Shoreham	lay below	he
+1.0	Shoreham	lay	blaze of live fire
+0.02038138290973901	Shoreham	lay in front of	he
+0.94159191675916	Shoreham	blaze of	fire
+1.0	vista	be in	hill
+1.0	he beloved	lie	dead
+1.0	Shoreham	lay	blaze
+1.0	Shoreham	lay	blaze of fire
+0.94159191675916	Shoreham	blaze of	live fire
+1.0	palest	be in	earthly constellation
+1.0	shadowy marshy shore	past worthing be	palest of nebula in earthly constellation
+1.0	they	part here in	glad sunlight
+1.0	they	part here in	sunlight
+1.0	they	part in	glad sunlight
+1.0	they	part here in	golden sunlight
+1.0	they	part in	golden sunlight
+1.0	they	part here at_time	yesterday
+1.0	they	part in	sunlight
+1.0	they	part at_time	yesterday
+1.0	they	part in	glad golden sunlight
+1.0	they	part here in	glad golden sunlight
+1.0	my hope	be	shatter
+1.0	hope	be	shatter
+1.0	I	have	nothing
+1.0	it	be with	so always he
+1.0	it	be with	so he
+1.0	it	be with	always he
+1.0	it	be with	he
+1.0	I	enter into	that of desire
+1.0	ah	do leave	my life
+1.0	ah	do leave	my life of contemplation
+1.0	I	do leave	my life of contemplation
+1.0	I	do leave	my life
+1.0	I	enter into	that
+1.0	she	be	go
+1.0	life	of	grief
+1.0	one man	reflect on	slightness
+1.0	one man	reflect on	slightness of life 's pleasure
+1.0	one man	reflect anew on	slightness of life 's pleasure
+1.0	one man	reflect anew on	slightness
+1.0	death	force	one man
+1.0	life	of	pleasure
+1.0	he	withdraw at	too vivid realisation of self
+1.0	he	withdraw at	vivid realisation of self
+1.0	he	withdraw at	realisation
+1.0	he	have sleep in	peaceful valley
+1.0	he	have sleep in	peaceful valley of natural instinct
+1.0	he	have sleep in	valley
+1.0	he	have sleep in	valley of natural instinct
+1.0	he	withdraw at	too vivid realisation
+1.0	he	withdraw at	realisation of self
+1.0	he	withdraw at	vivid realisation
+1.0	he	withdraw in	terror
+1.0	he	have sleep in	valley of instinct
+1.0	he	have sleep in	peaceful valley of instinct
+1.0	other man	weep for	daughter
+1.0	he	would live without	she
+1.0	man	weep for	daughter
+1.0	it	be as vast as	night
+1.0	it	be	as vast
+1.0	it	be vast as	night
+1.0	it	be	vast
+1.0	he	instantly retire to	he room
+1.0	he	retire to	he room
+1.0	he	tell	he mother
+1.0	dream	follow	he
+1.0	hill	be in	he dream
+1.0	he	could evade	they vigilance
+1.0	he	could ever evade	they wander vigilance
+1.0	he	be pursue by	savage
+1.0	he	be	often pursue
+1.0	he	could ever evade	they vigilance
+1.0	he	be often pursue by	savage
+1.0	he	be	pursue
+1.0	he	release	she
+1.0	he	could evade	they wander vigilance
+1.0	she	be	dead
+1.0	they	go up	ask
+1.0	they	go	ask
+1.0	they	_	she _ room
+1.0	they	ask for	Mr Hare
+1.0	next morning John	drive to	rectory
+1.0	they	go	ask for Mr Hare
+1.0	they	go up	ask for Mr Hare
+1.0	morning John	drive to	rectory
+1.0	Mrs Norton	drive to	rectory
+1.0	window	be	open
+1.0	Annie Austin	sit by	bedside
+1.0	Annie Austin	sit by	bedside watch
+1.0	blood	have	have wash
+1.0	she friend	have bring	she
+1.0	she	lay	very white amid rose
+1.0	she	lay	white amid rose
+1.0	she	lay	very white
+1.0	she	lay	white
+1.0	she	lay	fair
+1.0	she terrible dream	of one be	slender body cover by sheet
+1.0	she	mould	it
+1.0	she	have lie in	slender body cover by sheet
+1.0	she	have lie in	body cover
+1.0	she	have lie in	slender body
+1.0	she	lay	she have lie
+1.0	she	have lie in	slender body cover
+1.0	she	have lie in	body cover by sheet
+1.0	she	have lie in	body
+1.0	death	have close for	ever
+1.0	linen	curved from	foot
+0.8053442545585926	mark	inflection of	knee
+1.0	linen	mark	inflection of knee
+1.0	linen	mark	inflection
+1.0	nostril	of drawing be	eyelid lay
+1.0	Eucharis lily	be	lay
+1.0	whole scene	be like	sad dream in marble
+1.0	its blossom	bloom in	unchanging stillness
+1.0	scene	be like	dream in marble
+1.0	its blossom	bloom in	stillness
+1.0	sad dream	be in	whitest marble
+1.0	whole scene	be like	dream in whitest marble
+1.0	its carve blossom	bloom in	stillness
+1.0	whole scene	be like	dream
+1.0	whole scene	be like	sad dream in whitest marble
+1.0	scene	be	sad
+1.0	whole scene	be like	dream in marble
+1.0	scene	be like	dream in whitest marble
+1.0	whole scene	be like	sad dream
+1.0	scene	be like	dream
+1.0	great Eucharis lily	be	lay
+1.0	scene	be like	sad dream in marble
+1.0	scene	be like	sad dream
+1.0	scene	be like	sad dream in whitest marble
+1.0	its carve blossom	bloom in	unchanging stillness
+1.0	candle	soft smell of	wax mix with perfume
+1.0	candle	smell of	wax
+1.0	candle	smell of	wax mix
+1.0	candle	soft smell of	wax
+1.0	candle	smell of	wax mix with perfume
+1.0	candle	soft smell of	wax mix
+1.0	candle	soft smell of	wax mix with perfume of rose
+1.0	candle	smell of	wax mix with perfume of rose
+1.0	great bouquet	fall	single rose
+1.0	great snowy bouquet	fall	rose
+1.0	snowy bouquet	fall	single rose
+1.0	bouquet	fall	rose
+1.0	white flowerage	vie with	pallor
+1.0	great snowy bouquet	fall	single rose
+1.0	flowerage	vie with	pallor
+0.7813275937281243	fall	be	tear shed for beautiful dead
+0.7813275937281243	fall	be	tear shed
+1.0	snowy bouquet	fall	rose
+1.0	great bouquet	fall	rose
+1.0	bouquet	fall	single rose
+0.7813275937281243	fall	be	tear shed for dead
+1.0	tear	shed for	beautiful dead
+1.0	tear	shed for	dead
+1.0	calm chastity	sweetly remove from	taint
+1.0	chastity	sweetly remove from	taint of passion
+1.0	chastity	so sweetly remove from	taint of passion
+1.0	calm chastity	so sweetly remove from	taint
+1.0	chastity	sweetly remove from	taint
+1.0	calm chastity	remove from	taint of passion
+1.0	calm chastity	so sweetly remove from	taint of passion
+1.0	calm chastity	sweetly remove from	taint of passion
+1.0	calm chastity	remove from	taint
+1.0	chastity	so sweetly remove from	taint
+1.0	chastity	remove from	taint
+1.0	chastity	remove from	taint of passion
+1.0	he	kneel by	she bedside
+1.0	life	be	break
+1.0	he	sob	man
+1.0	he	dream of	she
+1.0	he	reproach	himself
+1.0	he	dream than	than sister
+1.0	broken wreck	be in	wild wash sea of deep human love
+1.0	he	sob piteously	man
+1.0	she	be in	she coffin
+1.0	full	be	veil
+0.7746271062207217	it	be full of	white blossom
+0.7746271062207217	it	be full of	blossom
+0.7746271062207217	it	be	almost full
+0.7746271062207217	it	be	full
+0.7746271062207217	it	be almost full of	white blossom
+1.0	full	be veil with	handkerchief
+0.7746271062207217	it	be almost full of	blossom
+1.0	wreath	be for	funeral
+1.0	cross	be for	funeral
+1.0	cheek streaming	be with	tear
+1.0	word	ring in	answer to mournful toll of bell
+1.0	word	ring in	answer
+1.0	word	ring in	answer to mournful toll
+1.0	word	ring in	they heart
+1.0	word	ring in	answer to mournful
+0.6901483427967784	path	lead over	hill
+0.6901483427967784	little green path	lead over	hill
+0.6901483427967784	green path	lead over	hill
+1.0	by-way	be	strew
+0.6901483427967784	little path	lead over	hill
+1.0	tree	under by-way be	little green path lead over hill
+1.0	little by-way	be	strew
+1.0	church	be in	all white
+1.0	old church	be in	white
+1.0	church	be in	white
+1.0	great lily	be in	vase
+1.0	old church	be in	all white
+1.0	hour	be	how long will remember
+1.0	hour	be	will remember
+1.0	hour	be	long will remember
+1.0	coffin	sink out of	sight for ever
+1.0	coffin	sink out of	sight
+1.0	coffin	sink out of	sight
+0.6204953106919463	he	wander through	wood
+1.0	eye	follow	he
+0.6204953106919463	he	wander through	green wood
+0.6204953106919463	he	wander into	town
+1.0	he	stand by	railway gate
+1.0	he	watch	train
+1.0	white form	to vault be	white cloud
+1.0	white form	be with	fold wing
+1.0	calm	be	immortality
+1.0	he	go to	Brighton
+1.0	he	take	ticket
+1.0	he	find	they steam along embankment
+1.0	they	steam along	embankment
+1.0	he	find	they steam
+1.0	they	steam along	high embankment
+1.0	he	find	they steam along high embankment
+0.8032640221154881	touch	range of	hill
+1.0	earth	to earth be	dust
+1.0	dread responsive	give back by	coffin lid
+1.0	Earth	ash to	ash
+1.0	Earth	dust to	dust _
+0.15377660881103794	he	move to	passionate grief
+1.0	he	watch	group
+1.0	he	move	he
+0.15377660881103794	he	move to	grief
+1.0	he	walk to	expanse of sea
+1.0	he	walk to	long expanse
+1.0	he	walk to	expanse
+1.0	he	walk through	southern sunlight of town
+1.0	he	walk to	long expanse of sea
+1.0	he	walk through	sunlight of town
+1.0	he	walk through	southern sunlight
+1.0	he	walk through	sunlight
+1.0	pier	brown sail of	fishing boat wave in translucid green of water
+1.0	pier child	build zealously	sand castle
+1.0	pier	sail of	fishing boat wave in green of water
+1.0	white field	be	exquisitely indicate in air
+1.0	field	be	exquisitely indicate
+1.0	mundane pier	child with	they clothes tie
+1.0	pier	sail of	fishing boat wave
+1.0	pier	child with	they clothes
+1.0	mundane pier	child with	they clothes tie tightly
+1.0	pier	be	taut
+1.0	pier	brown sail of	fishing boat wave in green
+1.0	field	be	indicate
+1.0	field	be	indicate in air
+1.0	field	be	exquisitely indicate in bright air
+1.0	mundane pier	brown sail of	fishing boat wave in translucid green of water
+1.0	white field	be	indicate in bright air
+1.0	mundane pier	brown sail of	fishing boat wave in green of water
+1.0	pier	brown sail of	fishing boat wave in translucid green
+1.0	pier child	build	sand castle
+1.0	mundane pier	brown sail of	fishing boat wave in translucid green
+1.0	pier	sail of	fishing boat wave in translucid green of water
+0.6888483969714672	roof	white field	spire
+1.0	mundane pier	brown sail of	fishing boat wave in green
+1.0	they	come again	frolic like butterfly
+1.0	mundane pier	sail of	fishing boat wave
+1.0	they	now come	frolic
+1.0	mundane pier	child with	they clothes
+1.0	mundane pier child	build	sand castle
+1.0	mundane pier	sail of	fishing boat wave in translucid green of water
+1.0	mundane pier	brown sail of	fishing boat wave
+1.0	they	frolic like	butterfly
+1.0	fishing boat wave	be in	translucid green of water
+1.0	mundane pier child	build zealously	sand castle
+1.0	mundane pier	sail of	fishing boat wave in green
+1.0	they	come	frolic like butterfly
+1.0	mundane pier	sail of	fishing boat wave in green of water
+1.0	white field	be	exquisitely indicate in bright air
+1.0	pier	child with	they clothes tie tightly about they
+1.0	beach	be strange with	acrobat
+1.0	they	now come again	frolic like butterfly
+0.7377894742073555	nursemaid	lie on	pebble
+1.0	pier	child with	they clothes tie tightly
+1.0	pier	sail of	fishing boat wave in green
+1.0	white field	be	exquisitely indicate
+1.0	they	now come again	frolic
+1.0	child	be with	they clothes tie tightly about they
+1.0	pier	child with	they clothes tie about they
+1.0	mundane pier	child with	they clothes tie tightly about they
+1.0	they	come	frolic
+1.0	they	come again	frolic
+1.0	mundane pier	sail of	fishing boat wave in translucid green
+1.0	white field	be	indicate
+1.0	mundane pier nursemaid	lie on	pebble
+1.0	pier	brown sail of	fishing boat wave in green of water
+1.0	pier nursemaid	lie on	pebble
+1.0	beach	be	strange
+1.0	mundane pier	child with	they clothes tie about they
+1.0	pier	sail of	fishing boat wave in translucid green
+1.0	pier	brown sail of	fishing boat wave
+1.0	field	be	exquisitely indicate in air
+1.0	they	now come	frolic like butterfly
+0.6888483969714672	roof	field	spire
+1.0	white field	be	indicate in air
+1.0	pier	child with	they clothes tie
+1.0	field	be	indicate in bright air
+1.0	seeming obscenity	horrify	he
+1.0	John	watch spectacle under	impulse of he ravening grief
+1.0	world	of	forgetfulness
+1.0	John	watch spectacle under	impulse of he grief
+1.0	John	watch	spectacle of world 's forgetfulness
+1.0	John	watch spectacle under	impulse
+1.0	John	watch	spectacle
+1.0	it	pass from	he
+1.0	solemn peace	silence at	even
+1.0	solemn peace	silence of	pine wood
+1.0	hill	of peace be	appealing silence at even
+0.13494810766755658	pathetic response	saint	majesty
+0.13494810766755658	response	saint	majesty of organ
+0.13494810766755658	pathetic response	saint	majesty of organ
+0.13494810766755658	response	saint	majesty
+0.13494810766755658	pathetic response	saint of	window
+0.13494810766755658	response	saint of	window
+1.0	John	could see	they

@@ -1,0 +1,217 @@
+1.0	nothing	be in	view
+1.0	I	unbosome on	head
+1.0	my eye	would take bit	even I speak on grave subject
+1.0	my eye	would take	bit
+1.0	my eye	would take bit	even I speak on subject
+1.0	my heart jump	be with	pride
+1.0	I	even speak on	subject
+1.0	my eye	would take bit	I speak on grave subject
+1.0	my eye	would take	glad bit
+1.0	I	speak on	subject
+1.0	my eye	would take	glad bit of run over prospect
+1.0	I	even speak on	grave subject
+1.0	my eye	would take bit	even I speak
+1.0	my eye	would take bit	I speak
+1.0	my eye	would take	bit of run
+1.0	my eye	would take	glad bit of run
+1.0	my eye	would take	bit of run over prospect
+1.0	I	speak on	grave subject
+1.0	my eye	would take bit	I speak on subject
+1.0	Mr. Thomson	have	kinsman
+1.0	D.	be	excellent
+1.0	D.	be	doubtless
+1.0	you	should remember	you interfere
+1.0	you	balk	he vengeance
+1.0	you	would in	would pickle
+1.0	you	would in	would pickle as Mr. Thomson 's kinsman
+1.0	you	would in	there would pickle as Mr. Thomson 's kinsman
+1.0	you	would in	would same pickle as Mr. Thomson 's kinsman
+1.0	you	would in	there would pickle
+1.0	you	would in	would same pickle
+1.0	you	would in	there would same pickle as Mr. Thomson 's kinsman
+1.0	Mr. Thomson	as	kinsman
+1.0	you	would in	there would same pickle
+1.0	you	be	innocent
+1.0	I	have make before	reasoning
+1.0	I	now have make before	reasoning
+1.0	I	have make	reasoning
+1.0	I	now have make	reasoning
+1.0	sir	say in	case
+1.0	God	in	name
+1.0	you	choose	the
+1.0	you	choose	the safe
+1.0	it	be	thought
+1.0	it	be	poor
+1.0	it	be	poor thought
+1.0	worse thing	be in	world
+1.0	he	be dangle upon	gibbet
+1.0	it	would	would ten time better
+1.0	it	would	would better
+1.0	he	be dangle decently upon	gibbet
+1.0	it	would	would ten time better for you uncle
+1.0	it	would	would better for you uncle
+1.0	he	thereupon turn into	great fervour
+1.0	he	turn into	still great fervour
+1.0	he	turn into	still fervour of mind
+1.0	he	turn into	still great fervour of mind
+1.0	he	thereupon turn into	still fervour
+1.0	he	thereupon turn into	still great fervour
+1.0	he	turn into	still fervour
+1.0	house	fervour of	mind
+1.0	he	write	two letter
+1.0	he	thereupon turn into	still fervour of mind
+1.0	he	turn into	great fervour
+1.0	he	turn into	fervour of mind
+1.0	he	thereupon turn into	still great fervour of mind
+1.0	he	there write	I
+0.9085094578393488	I two letter	make	he comment on they
+1.0	he	turn into	house
+0.9085094578393488	I two letter	make	he comment
+1.0	he	turn into	fervour
+1.0	he	thereupon turn into	fervour of mind
+1.0	he	there write	two letter
+1.0	he	thereupon turn into	house
+1.0	he	write	I
+1.0	he	thereupon turn into	fervour
+1.0	he	thereupon turn into	great fervour of mind
+1.0	he	turn into	great fervour of mind
+1.0	my	banker	british Linen Company
+1.0	he	will know of	way
+1.0	you	can supply	means
+1.0	he	consult	Mr. Thomson
+1.0	you	be husband of	you money
+1.0	you	be	good
+1.0	you	be	good husband
+1.0	you	be good husband of	you money
+1.0	you	be	husband
+1.0	he	turn on	D. of a.
+1.0	I	give here	you
+1.0	he	turn now on	D.
+1.0	he	turn now on	D. of a.
+1.0	I	give	you
+1.0	he	may take	it
+1.0	Pilrig	of balfour be	man
+1.0	he	turn on	D.
+1.0	you	reach	Lord Advocate
+1.0	you	be	present
+1.0	you	be present by	one of you own name
+1.0	you	be present by	one you name
+0.5597269750570257	much	laird of	pilrig
+1.0	much	stand well with	Lord Advocate Grant
+1.0	you	be present by	one you own name
+1.0	much	be look up to	to Faculty
+1.0	you	be present by	one of you name
+1.0	much	stand with	Lord Advocate Grant
+1.0	laird	be look up to	to Faculty
+1.0	he	be	good
+1.0	he	be	good model
+1.0	he	be	model
+1.0	he	thereupon take	he farewell
+1.0	he	set out for	ferry
+0.11982177299755592	Alan	turn for	city
+0.11982177299755592	I	turn for	city of Edinburgh
+1.0	he	take	he farewell
+0.11982177299755592	I	turn for	city
+0.11982177299755592	Alan	turn for	city of Edinburgh
+1.0	I	turn	we face
+1.0	he	set out with	Torrance
+1.0	Alan	turn	we face
+1.0	we	keep	we go by footpath
+1.0	we	look back at	house
+1.0	we	keep	look back
+1.0	we	keep	look back at house
+1.0	we	look back at	house of my father
+1.0	we	keep	we go
+1.0	we	go by	footpath
+1.0	we	look at	house of my father
+1.0	we	look at	house
+1.0	we	keep	look at house of my father
+1.0	we	keep	look
+1.0	we	keep	look at house
+1.0	we	keep	look back at house of my father
+1.0	it	stand there	bare
+1.0	it	stand	bare
+1.0	it	stand	bare like place
+1.0	it	stand there	bare like place
+1.0	I	less kindness	I stay
+1.0	I	kindness	I stay
+1.0	I	go upon	we way
+1.0	I	go slowly forward upon	we way
+1.0	Alan	go upon	we way
+1.0	I	go forward upon	we way
+1.0	I	have	little heart
+1.0	I	have	heart
+1.0	Alan	go slowly forward upon	we way
+1.0	Alan	go forward upon	we way
+1.0	same thought	be	uppermost
+1.0	thought	be uppermost in	both
+1.0	we	be near	time
+1.0	thought	be	uppermost
+1.0	same thought	be uppermost in	both
+1.0	we	be near	time of we parting
+1.0	uppermost	be in	both
+1.0	ship	arrange for	Alan 's embarkation
+1.0	I	seek out	lawyer
+1.0	ship	arrange for	Alan 's safe embarkation
+1.0	Alan	for	safe embarkation
+1.0	I	be in	meanwhile
+0.8540098537413822	it	find	ship
+1.0	I	jest under	name
+1.0	we	be nearer	tear
+1.0	I	would seek	jest with Alan under name
+1.0	I	would seek	jest with Alan under name of Mr. Thomson
+1.0	word	leave	we
+1.0	I	jest under	name of Mr. Thomson
+1.0	business	be	do
+1.0	I	would seek	jest under name
+1.0	we	be nearer	tear than laughter
+1.0	I	would seek	jest under name of Mr. Thomson
+1.0	I	jest with	Alan
+1.0	I	would seek	jest with Alan
+1.0	I	would seek	jest
+1.0	we	get near to	place
+1.0	we	get to	place
+1.0	we	get to	place call
+1.0	we	get near to	place call
+1.0	we	know without	word
+1.0	we	look down on	corstorphine bog
+1.0	Alan	might	might find
+1.0	I	go on	my way to city
+1.0	I	sit down by	dyke
+1.0	I	find	it
+1.0	I	go on	my way
+1.0	I	cry like	baby
+1.0	I	feel	I go on my way to city
+1.0	I	feel	I go on my way
+1.0	I	feel	I go
+1.0	I	pass in by	West Kirk
+1.0	I	pass in into	street of capital
+1.0	I	pass in into	street
+1.0	it	be come near	noon
+1.0	huge height	run up	entry
+0.9072834119637777	narrow entry	huge height of	building
+1.0	huge height	run	narrow entry
+0.9072834119637777	narrow arched entry	huge height of	building
+0.9072834119637777	narrow arched entry	height of	building
+1.0	huge height	run	entry
+1.0	huge height	run	narrow arched entry
+1.0	height	run	arched entry
+0.9072834119637777	entry	height of	building
+0.9072834119637777	narrow entry	height of	building
+0.9072834119637777	arched entry	huge height of	building
+1.0	huge height	run up	arched entry
+1.0	height	run	narrow entry
+0.9072834119637777	arched entry	height of	building
+1.0	height	run up	narrow arched entry
+1.0	merchant	be in	they window
+1.0	huge height	run	arched entry
+0.9072834119637777	entry	huge height of	building
+1.0	height	run	entry
+1.0	height	run up	entry
+1.0	height	run	narrow arched entry
+1.0	height	run up	narrow entry
+1.0	height	run up	arched entry
+1.0	huge height	run up	narrow entry
+1.0	huge height	run up	narrow arched entry
+1.0	hand	bring	I
+1.0	british Linen Company	of	bank

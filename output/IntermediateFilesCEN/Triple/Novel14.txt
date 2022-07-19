@@ -1,0 +1,723 @@
+1.0	Cedric	know	nothing
+1.0	he	be	big
+1.0	he mamma	have tell so	he
+1.0	he papa	be	Englishman
+1.0	he mamma	have tell	he
+1.0	Cedric	have find	best
+1.0	it	be	best
+1.0	papa	since	death
+1.0	Cedric	have find since	he papa 's death
+1.0	he mother	be only just begin	sit in she chair by window
+1.0	he mother	be begin	sit
+1.0	he mother	be only begin	sit
+1.0	he mother	be just begin	sit
+1.0	he mother	be begin	sit in she chair
+1.0	he mother	be just begin	sit in she chair by window
+1.0	he mother	be only just begin	sit by window
+1.0	he mother	sit by	window
+1.0	he mother	sit in	she chair
+1.0	he mother	be only begin	sit in she chair by window
+1.0	he mother	be just begin	sit in she chair
+1.0	he mother	be begin	sit by window
+1.0	he mother	be only begin	sit by window
+1.0	he mother	be only just begin	sit in she chair
+1.0	he mother	be just begin	sit by window
+1.0	he mother	be only begin	sit in she chair
+1.0	he mother	be begin	sit in she chair by window
+1.0	he mother	be only just begin	sit
+1.0	she eye	look	large
+1.0	she	be dress in	black
+1.0	she	be	dress
+1.0	dimple	have go from	she face
+1.0	she	be	pale
+1.0	dimple	have go from	she pretty face
+1.0	my papa	always be better	boy have learn
+1.0	my papa	be better	boy have learn
+1.0	my papa	be better	little boy have learn
+0.13382134206666407	little boy	have learn	say
+1.0	Dearest	say	Cedric
+1.0	dearest	be	better
+1.0	dearest	be	always better
+1.0	dearest	always be better	boy have learn
+1.0	boy	say	it
+1.0	dearest	be better	boy have learn
+0.5078454306228948	he papa	have call	she
+0.13382134206666407	boy	have learn	say
+1.0	my papa	be	better
+1.0	my papa	be	always better
+1.0	my papa	always be better	little boy have learn
+1.0	dearest	always be better	little boy have learn
+1.0	little boy	say	it
+1.0	dearest	be better	little boy have learn
+1.0	he	turn	he head
+1.0	he	look in	she face
+1.0	he	so turn	he curly head
+1.0	he	so turn	he head
+1.0	he	turn	he curly head
+1.0	he	go	cry
+1.0	something	be in	it
+1.0	she	lay	she face
+1.0	he little heart	tell	he
+1.0	he little heart	suddenly tell	he
+1.0	he heart	tell	he
+1.0	he loving heart	suddenly tell	he
+1.0	she	hold	he
+1.0	he loving heart	tell	he
+1.0	he loving little heart	suddenly tell	he
+1.0	he heart	suddenly tell	he
+1.0	he loving little heart	tell	he
+1.0	he	have hear of	other people be
+1.0	he	have hear of	people
+1.0	he	have hear of	other people
+1.0	he	have hear of	people be
+1.0	she	look into	fire
+1.0	he	speak of	he papa
+1.0	it	be	better
+1.0	it	be	better
+1.0	she	look out of	window
+1.0	she	look	move
+1.0	he mind	be	better
+1.0	he	know	people
+1.0	he	know	few people
+1.0	he	know	very few people
+1.0	he mamma	know	people
+1.0	he mamma	know	few people
+1.0	he mamma	know	very few people
+1.0	he	be	then tell
+1.0	he	be	tell
+1.0	she	run up	stair
+1.0	she	run up stair with	tear on she eyelash
+1.0	she	live as	companion
+1.0	she	be	pretty
+1.0	she	run up stair with	tear
+1.0	they marriage	bring	they
+0.04584657021521499	they	know	many strange thing have happen
+0.729141298680305	they marriage	ill-will of	several person
+0.04584657021521499	they	know	strange thing have happen
+0.04584657021521499	they	know well	strange thing have happen
+0.729141298680305	they marriage	ill-will of	person
+1.0	they marriage	bring	ill-will of person
+1.0	they	be	marry
+1.0	they marriage	bring	ill-will
+1.0	they marriage	bring	ill-will of several person
+0.04584657021521499	they	know well	many strange thing have happen
+1.0	rich old nobleman	be with	very bad temper
+1.0	elder	inherit	family title
+1.0	it	be	law
+0.2196328091704629	Captain Cedric	be	rich
+1.0	he	be	member
+1.0	next one	would	would heir
+0.2196328091704629	Captain Cedric	be	very rich
+1.0	estate	be	rich
+1.0	estate	be	very rich
+1.0	he	have	smile
+1.0	he	have	bright smile
+1.0	he	be	brave
+1.0	he	have	figure
+1.0	he	have	gay voice
+1.0	he	have	heart
+1.0	he	have	heart in world
+1.0	he	have	fine figure
+1.0	he	have	sweet voice
+1.0	he	have	beautiful face
+0.5611448834798323	have	heart in	world
+1.0	he	have	sweet gay voice
+0.5611448834798323	have	kindest heart in	world
+1.0	he	have	face
+1.0	he	have	kindest heart
+1.0	he	have	kindest heart in world
+1.0	kindest heart	be in	world
+1.0	he	have	voice
+1.0	they	care nothing for	study
+1.0	they	be at	when college
+1.0	they	waste	money
+1.0	they	care nothing at	when college
+1.0	they	make	few real friend
+1.0	they	waste	time
+1.0	they	care nothing at	college
+1.0	they	care	nothing
+1.0	they	be at	college
+1.0	they	make	real friend
+1.0	anything	be with	manly
+1.0	Earl	humiliate by	they
+1.0	old Earl	humiliate by	they
+1.0	it	be	bitter
+1.0	son	be	one
+1.0	he	almost hate	handsome young man
+1.0	he	hate	man
+1.0	he	hate	handsome man
+1.0	he	hate	young man
+1.0	he	hate man	he seem
+1.0	he	sometimes hate man	he seem
+1.0	he	almost hate man	he seem
+1.0	he	almost hate	man
+1.0	he	sometimes almost hate	man
+1.0	he	sometimes hate	man
+1.0	he	have	good thing
+1.0	he	sometimes almost hate	handsome young man
+1.0	he	have	thing
+1.0	he	sometimes hate	handsome young man
+1.0	he	almost hate	young man
+1.0	he	sometimes almost hate	young man
+1.0	he	hate	handsome young man
+1.0	he	sometimes hate	young man
+1.0	he	almost hate	handsome man
+1.0	he	sometimes almost hate man	he seem
+1.0	he	sometimes almost hate	handsome man
+1.0	he	sometimes hate	handsome man
+1.0	he	travel in	America
+1.0	he	order	he home
+1.0	he	write to	Captain Cedric
+1.0	Captain	have just write to	he father
+1.0	he	be	angry
+1.0	he	write	cross on its way
+1.0	Captain	have write to	he father
+1.0	Earl	receive	letter
+1.0	he	write	cross
+1.0	he	cross on	its way
+1.0	he	be	furiously angry
+1.0	he	give way to	it
+1.0	he	read	Captain 's letter
+1.0	Captain	have	letter
+1.0	he	give	way
+1.0	he	be	so wild
+1.0	he	be wild with	anger
+1.0	he	be so wild with	anger
+1.0	he	be	wild
+1.0	he	write to	he son
+1.0	he	write to	he father
+1.0	he	write again to	he father
+1.0	he	order	he
+1.0	he	rage for	hour
+1.0	he	rage like	tiger
+1.0	he	tell	he
+1.0	he	dearly love	home
+1.0	he	dearly love	beautiful home
+1.0	he	have	where have bear
+1.0	he	have love	he ill-tempered father
+1.0	he	be very fond of	England
+1.0	he	read	letter
+1.0	he	have love	he ill-tempered old father
+1.0	he	love	home
+1.0	he	love	beautiful home
+1.0	he	have love	he old father
+1.0	he	be fond of	England
+1.0	he	have even love	he ill-tempered father
+1.0	he	sympathize with	he
+1.0	he	have	have bear
+1.0	he	sympathize in	he disappointment
+1.0	he	have even love	he father
+1.0	he	have love	he father
+1.0	he	be	very fond
+1.0	he	have even love	he old father
+1.0	he	be	fond
+1.0	he	have even love	he ill-tempered old father
+1.0	he	scarcely know at	first
+1.0	he	know at	first
+1.0	trouble	find	situation in New York
+1.0	he	sell	he commission
+1.0	situation	be in	New York
+0.8169124979542748	trouble	situation in	New York
+1.0	trouble	find	situation
+1.0	he old life	be in	England
+1.0	he boy	be	bear
+1.0	he	marry	rich old lady 's pretty companion
+1.0	he	marry	lady 's pretty companion
+1.0	everything	be	gay
+1.0	she	be	so sweet
+1.0	everything	be gay in	simple way
+1.0	he	have	house
+1.0	he	marry	rich old lady 's companion
+1.0	she	be	just sweet
+1.0	he	marry	rich lady 's pretty companion
+1.0	he	marry	old lady 's pretty companion
+1.0	everything	be gay in	way
+1.0	he	have	small house
+1.0	everything	be so gay in	way
+1.0	he	have house on	quiet street
+1.0	she	be	just so sweet
+1.0	he	marry	rich lady 's companion
+1.0	she	love	he
+1.0	he	have house on	street
+1.0	everything	be	so gay
+1.0	he	love	she
+1.0	she	be	sweet
+1.0	rich old lady	have	pretty companion
+1.0	he	marry	old lady 's companion
+1.0	he	marry	lady 's companion
+1.0	everything	be so gay in	simple way
+1.0	she	be	sweet
+1.0	she boy	be like	she
+1.0	she little boy	be like	she
+1.0	she	be	sweet indeed
+1.0	she	be	very sweet indeed
+1.0	she	be	very sweet
+1.0	it	seem	bear in so quiet
+1.0	he	be bear in	quiet
+1.0	it	seem	bear
+1.0	he	be bear in	so quiet
+1.0	it	seem	bear in quiet
+1.0	he	be	bear
+1.0	it	be	fortunate
+1.0	he	have	sweet temper so charming
+1.0	he	be well in	first place
+1.0	he	be so beautiful in	place
+1.0	he	be	beautiful
+1.0	he	have	temper so charming
+1.0	he	be always well in	place
+1.0	he	be	well
+1.0	he	be	always well
+1.0	he	have way in	second place
+1.0	he	be beautiful in	third place
+1.0	he	be quite picture at	that
+1.0	he	have	so sweet temper so charming
+1.0	he	have temper in	place
+1.0	he	be picture at	that
+1.0	he	have	temper
+1.0	he	be	picture
+1.0	he	have way in	place
+1.0	he	have	sweet temper charming
+1.0	he	be always well in	first place
+1.0	he	have	sweet temper
+1.0	he	be well in	place
+1.0	he	be	quite picture
+1.0	he	be so beautiful in	third place
+1.0	he	be	so beautiful
+1.0	he	be beautiful in	place
+1.0	he	have	temper charming
+1.0	he	have	so sweet temper charming
+1.0	he	have	so sweet temper
+1.0	he	have temper in	second place
+1.0	he	have	way
+1.0	he	have	darling face
+1.0	he	have	eye
+1.0	he	be	bald-headed
+1.0	he	have	long eyelash
+1.0	he	be	old
+1.0	he	have	eyelash
+1.0	he	have	splendid leg
+1.0	he	have	such leg
+1.0	he manners	be	good
+1.0	he	have	big eye
+1.0	he manners	be	so good
+1.0	it	be	delightful
+1.0	he	have	such sturdy leg
+1.0	he	have	sturdy leg
+1.0	he	have	splendid sturdy leg
+1.0	it	make	he acquaintance
+1.0	he	have	brown eye
+1.0	he	go by	time
+1.0	he	go into	loose ring
+1.0	he	have	such splendid sturdy leg
+1.0	he	be	baby
+1.0	he	have	big brown eye
+1.0	he	have	such splendid leg
+1.0	he	be old	six month
+1.0	he	have	darling little face
+1.0	he manners	be good for	baby
+1.0	he	have	leg
+1.0	he	go into	ring
+1.0	he manners	be so good for	baby
+1.0	he	be	bald-headed baby
+1.0	he	seem	feel
+1.0	he	be in	when he carriage
+1.0	he	would give	stranger one look
+1.0	he	would give	stranger one serious look
+1.0	he	be in	when he carriage in street
+1.0	he	be in	he carriage
+1.0	he	would give	stranger one sweet serious look
+1.0	he	be in	he carriage in street
+1.0	he carriage	be in	street
+1.0	he	speak to	he
+1.0	he	would give	stranger one sweet look
+1.0	he	grow at_time	month of he life
+1.0	he	grow at_time	month of life
+1.0	he	talk in	he cheerful little way
+1.0	wagon	wear	kilt skirt
+1.0	he	walk out with	he nurse
+1.0	he	talk to	they
+1.0	he	be	handsome
+1.0	small wagon	wear	white kilt skirt
+1.0	he	be	so handsome
+1.0	he nurse	tell	he mamma story of lady
+1.0	he	be	old
+1.0	nurse	tell	he mamma story
+1.0	wagon	wear	short white kilt skirt
+0.3239295221123589	he	talk	he have know
+1.0	nurse	tell	he mamma story of lady
+1.0	he	attract	one 's attention
+1.0	he	talk in	he little way
+1.0	he nurse	tell	he mamma story
+1.0	he	be	when old
+1.0	he	be	old enough
+1.0	wagon	wear	short kilt skirt
+1.0	he	talk in	he way
+0.3239295221123589	he	talk	he have know always
+1.0	wagon	wear	white kilt skirt
+1.0	he	attract	attention
+1.0	he	have know always	they
+1.0	small wagon	wear	short white kilt skirt
+1.0	small wagon	wear	short kilt skirt
+1.0	he	have know	they
+1.0	he	be	when old enough
+1.0	small wagon	wear	kilt skirt
+1.0	he	talk in	he cheerful way
+1.0	he	understand	feeling
+1.0	it	make	he very quick
+1.0	it	make	he quick
+1.0	he	understand	feeling of those about he
+1.0	he	understand	feeling of those
+1.0	he	have live	so much with he father
+1.0	he	have live	much with he father
+1.0	he	have live	so much
+1.0	he	have live	much
+1.0	he childish soul	be	full
+1.0	he soul	be full of	kindness
+1.0	he soul	be	so full
+1.0	he childish soul	be	so full
+1.0	he soul	so be full of	kindness
+1.0	he	have	have always love
+1.0	he	have	have love
+1.0	he childish soul	so be full of	kindness
+1.0	he childish soul	be full of	kindness
+1.0	he soul	be	full
+1.0	he	so learn too	careful
+0.08525081604622908	he	use	himself
+0.5221258462190954	he mamma	call by	loving name
+1.0	he	learn too	careful
+1.0	he	so learn	careful of she
+1.0	he papa	take	care
+1.0	he	so learn	careful
+1.0	he	learn	careful of she
+1.0	he	use	they
+1.0	he	so use	they
+0.5221258462190954	he mamma	call by	pretty name
+1.0	he papa	watch over	she
+0.08525081604622908	he	so use	himself
+1.0	he	learn too	careful of she
+1.0	he papa	take	care of she
+1.0	he	speak to	she
+1.0	he papa	take	great care of she
+0.5221258462190954	he mamma	call by	name
+0.5221258462190954	he mamma	call by	pretty loving name
+1.0	he	so learn too	careful of she
+1.0	he	learn	careful
+1.0	he papa	take	great care
+1.0	he mamma	be	very sad
+1.0	he mamma	be	sad
+1.0	he mamma	be	how very sad
+1.0	she	say to	once she old servant
+1.0	she	say to	once she servant
+1.0	she	say to	she servant
+1.0	he	help	I
+1.0	she	say to	she old servant
+1.0	I	be	sure
+1.0	he	show	I
+1.0	he	wonder	little look
+1.0	he	look sometimes at	I
+1.0	he	look sometimes with	then he will come
+1.0	he	look at	I
+1.0	he	show	something
+1.0	he	look with	he will come
+1.0	he	wonder	look
+1.0	he	look sometimes with	he will come
+0.9684036827833635	he	be	sorry
+0.9684036827833635	he	be sorry for	I
+1.0	he	look with	then he will come
+1.0	he	be such man	I really think
+1.0	he	be little man	I think
+1.0	he	be such man	I think
+1.0	he	be	such man
+1.0	he	be	little man
+1.0	he	be man	I think
+1.0	he	be little man	I really think
+1.0	he	be	little
+1.0	he	be	such little man
+1.0	he	be such little man	I really think
+1.0	he	be	such
+1.0	he	be	man
+1.0	he	be such little man	I think
+1.0	he	be man	I really think
+1.0	he	grow	older
+1.0	he	be	so much
+1.0	he	be much of	companion for he mother
+1.0	he	be much of	companion
+1.0	he	be so much of	companion
+1.0	he	be	much
+1.0	he	be so much of	companion for he mother
+1.0	they	use	walk together
+1.0	they	use	walk
+1.0	Mrs. Errol	laugh at	quaint thing
+1.0	he	be	little fellow
+1.0	Mary	often would hear in	kitchen
+1.0	he	be	when fellow
+1.0	he	be	when quite little fellow
+1.0	Mary	would hear at	time
+1.0	Mary	would hear in	kitchen
+1.0	Mrs. Errol	laugh with	delight
+1.0	he	be	quite little fellow
+1.0	he	be	little
+1.0	Mary	often would hear at	time
+1.0	he	be	quite fellow
+1.0	he	be	fellow
+1.0	he	use	lie
+1.0	he	be	when little fellow
+1.0	Mary	would hear at	such time
+1.0	Mrs. Errol	laugh at	thing
+1.0	Mary	often would hear at	such time
+1.0	he	use after	that
+1.0	he	be	when quite fellow
+0.7267040121416953	he	wid	he hand
+1.0	you	be	publican
+1.0	country	go	ruin
+1.0	he	look at	I
+1.0	he	look up at	I
+1.0	he	wid	look
+1.0	go	wid	I
+1.0	I	go by	widout argyin
+1.0	I	change	I polytic
+1.0	Mary	be fond of	he
+1.0	Mary	be very fond of	he
+1.0	Mary	be	fond
+1.0	Mary	be	very fond
+1.0	she	be cook after	he father 's death
+1.0	father	after	death
+1.0	she	be	cook
+1.0	she	have with	have he mother ever
+1.0	she	have with	have he mother
+1.0	he	be	bear
+1.0	she	be proud of	he body
+1.0	she	be	proud
+1.0	she	work early and late	help
+1.0	he mamma	make	he small suit
+1.0	she	work	help
+1.0	he mamma	make	he suit
+1.0	she	work early	help
+1.0	she	be	willing
+1.0	Ristycratic	be	it
+1.0	I	see	choild on fifth avey-noo
+1.0	I	see	choild
+1.0	look	loike	he
+1.0	I	see	choild on avey-noo
+1.0	misthress	out of	ould gownd
+1.0	choild lookin	be in	he bit of black velvet skirt make out misthress 's ould gownd
+1.0	he	head	curly hair flyin shinin
+1.0	he greatest friend	be groceryman at	corner
+1.0	he greatest friend	be	groceryman
+1.0	he friend	be groceryman at	corner
+1.0	he friend	be	groceryman
+1.0	Cedric	admire	he
+1.0	Cedric	admire much	he
+1.0	Cedric	admire very much	he
+1.0	he name	be	Mr. Hobbs
+1.0	many thing	be in	he store
+1.0	he	think	he rich person
+1.0	he	think	he person
+1.0	he	think	he very rich person
+1.0	it	be	surprising
+1.0	it	be	quite surprising
+1.0	they	find	many thing
+1.0	they	find	thing
+1.0	they	find	how many thing
+1.0	they	begin	talk about fourth of July
+1.0	they	begin	talk about fourth
+1.0	they	begin	talk there
+1.0	they	talk there about	fourth of July
+1.0	they	begin	talk about fourth there
+1.0	they	begin	talk about fourth of July there
+1.0	they	talk about	fourth of July
+1.0	they	talk about	fourth
+1.0	they	begin	talk
+1.0	they	talk there about	fourth
+1.0	Mr. Hobbs	relate	very wonderful story about villainy
+1.0	he	generously repeat	part of declaration
+0.6143257593181742	he	part of	declaration
+1.0	Mr. Hobbs	have	opinion
+1.0	Mr. Hobbs	relate	very wonderful story
+1.0	Mr. Hobbs	relate	wonderful story
+0.6143257593181742	he	part of	declaration of independence
+1.0	Mr. Hobbs	relate	wonderful story about villainy
+1.0	Mr. Hobbs	relate	story about villainy of enemy
+1.0	he	even generously repeat	part of declaration of independence
+1.0	Mr. Hobbs	have	opinion of British
+1.0	he	generously repeat	part
+1.0	he	generously repeat	part of declaration of independence
+1.0	Mr. Hobbs	relate	wonderful story about villainy of enemy
+1.0	Mr. Hobbs	relate	very wonderful story about villainy of enemy
+1.0	he	repeat	part
+1.0	Mr. Hobbs	relate	story
+1.0	he	repeat	part of declaration of independence
+1.0	he	even generously repeat	part
+1.0	he	even repeat	part
+1.0	he	repeat	part of declaration
+1.0	he	even generously repeat	part of declaration
+1.0	he	even repeat	part of declaration of independence
+1.0	Mr. Hobbs	relate	story about villainy
+1.0	he	even repeat	part of declaration
+1.0	he eye	tumble into	mop
+1.0	Cedric	be	so excited
+1.0	he cheek	be	red
+1.0	he curl	be	rub
+1.0	he curl	be	all rub
+1.0	he eye	tumble into	yellow mop
+1.0	Cedric	be	excited
+1.0	he	be	so anxious
+1.0	he	go	home
+1.0	he	tell	he mamma
+1.0	he	eat	he dinner
+1.0	he	be	anxious
+1.0	he first interest	be in	politics
+1.0	Mr. Hobbs	be	fond
+1.0	Mr. Hobbs	would tell	he
+1.0	President	do	he duty
+1.0	Mr. Hobbs	read	newspaper
+1.0	Mr. Hobbs	see	procession
+1.0	Mr. Hobbs	take	he
+1.0	Mr. Hobbs	see	great procession
+1.0	Mr. Hobbs	see	torchlight procession
+1.0	Mr. Hobbs	see	great torchlight procession
+1.0	Mr. Hobbs	have say	very severe thing about aristocracy
+1.0	it	be	curious too
+1.0	Mr. Hobbs	have say	thing about aristocracy
+1.0	he	talk at_time	day
+1.0	Mr. Hobbs	have say	severe thing about aristocracy
+1.0	it	be	curious
+1.0	Mr. Hobbs	have say	very severe thing
+0.7635032944807816	Mr. Hobbs	severe thing about	aristocracy
+1.0	it	be	quite curious
+0.7635032944807816	Mr. Hobbs	very severe thing about	aristocracy
+1.0	Mr. Hobbs	have say	severe thing
+1.0	he	talk to	Mr. Hobbs
+0.7635032944807816	Mr. Hobbs	thing about	aristocracy
+1.0	it	be	quite curious too
+1.0	he	talk about	England
+1.0	Mr. Hobbs	have say	thing
+1.0	Mr. Hobbs	look	fierce over piece
+1.0	Cedric	play soldier with	friend of he
+1.0	Mr. Hobbs	look	very fierce over piece of Illustrated London News
+1.0	Mr. Hobbs	look	very fierce over piece
+1.0	Cedric	have go to	rest
+1.0	it	be	have hot morning
+1.0	it	be	have morning
+1.0	Cedric	have go into	store
+1.0	Mr. Hobbs	look	fierce
+1.0	Mr. Hobbs	look	very fierce
+1.0	Mr. Hobbs	look	fierce over piece of Illustrated London News
+1.0	it	be	hot
+1.0	Cedric	play soldier with	friend
+1.0	Cedric	play	soldier
+1.0	they	go on	now
+1.0	they	may look out for	it
+1.0	Cedric	push	he hat
+1.0	Cedric	have perch	himself
+1.0	Cedric	push back	he hat
+1.0	Cedric	put	he hand
+1.0	you	do know	marquis
+1.0	you	do ever know	marquis
+1.0	you	do know	many marquis
+1.0	you	do ever know	many marquis
+1.0	Mr. Hobbs	answer with	indignation
+1.0	he	be so proud of	sentiment
+1.0	he	be proud of	sentiment
+1.0	he	be	proud
+1.0	he	be	so proud
+1.0	he	mop	he forehead
+1.0	Cedric	feel	vague sympathy
+1.0	Cedric	feel	sympathy for they condition
+1.0	Cedric	feel	sympathy
+0.644625788889678	feel	vague sympathy for	they unhappy condition
+0.644625788889678	feel	sympathy for	they unhappy condition
+1.0	Cedric	feel	vague sympathy for they condition
+1.0	Cedric	feel	vague sympathy for they unhappy condition
+1.0	Cedric	feel	sympathy for they unhappy condition
+0.644625788889678	feel	sympathy for	they condition
+0.644625788889678	feel	vague sympathy for	they condition
+1.0	they glory	be in	it
+1.0	it	be in	'em
+1.0	they	be	bad
+1.0	they	be	bad lot
+1.0	they	be	lot
+1.0	they	be in	midst
+1.0	they	be in	midst of they conversation
+1.0	she	look	pale
+1.0	she	look	almost pale
+1.0	she	be	excite
+1.0	she	be excite about	something
+1.0	Cedric	slip down from	he stool
+1.0	I	go out with	Mary
+1.0	she	do want	I
+1.0	I	go out with	she
+1.0	I	will see again	you
+1.0	I	will see	you
+0.7456327947348352	Mary	stare in	fashion
+1.0	she	shake	she head
+0.7456327947348352	Mary	stare at	he
+0.7456327947348352	Mary	stare in	dumfounded fashion
+1.0	he	be surprise	see
+1.0	he	be	surprise
+1.0	it	be	hot weather
+1.0	it	be	weather
+1.0	he	reach	he house
+1.0	little parlor	talk to	he mamma
+1.0	parlor	talk to	he mamma
+1.0	he	reach	he own house
+1.0	coupe standing	be before	door
+1.0	Mary	hurry	he
+1.0	Mary	comb out	he curly lock
+0.06448110308815291	Mary	hurry upstairs with	scarf around he waist
+0.06448110308815291	Mary	hurry with	red scarf
+1.0	Mary	comb out	he lock
+0.06448110308815291	Mary	hurry upstairs with	red scarf around he waist
+0.06448110308815291	Mary	hurry upstairs with	red scarf
+1.0	Mary	put on	he best summer suit of cream-colored flannel
+1.0	Mary	put on	he summer suit of cream-colored flannel
+1.0	Mary	put on	he summer suit
+0.06448110308815291	Mary	hurry with	red scarf around he waist
+0.06448110308815291	Mary	hurry with	scarf around he waist
+0.06448110308815291	Mary	hurry with	scarf
+1.0	Mary	hurry upstairs	he
+0.06448110308815291	Mary	hurry upstairs with	scarf
+1.0	Mary	put on	he best summer suit
+1.0	Mary	put on	he best summer suit of flannel
+1.0	Mary	put on	he summer suit of flannel
+1.0	Lords	be	it
+1.0	he	hear	she say
+1.0	Mary	bemoan	herself
+1.0	he	allow	Mary
+1.0	he	be	dress
+1.0	he	go into	parlor
+1.0	he	be	when dress
+1.0	tall thin old gentleman	be with	sharp face
+1.0	gentleman	be sit in	arm-chair
+1.0	tall gentleman	be sit in	arm-chair
+1.0	tall thin old gentleman	be sit in	arm-chair
+1.0	thin old gentleman	be sit in	arm-chair
+1.0	thin gentleman	be sit in	arm-chair
+1.0	old gentleman	be sit in	arm-chair
+1.0	tall old gentleman	be sit in	arm-chair
+1.0	tall thin gentleman	be sit in	arm-chair
+1.0	he mother	be stand with	with pale face
+1.0	he mother	be stand with	with face
+1.0	he mother	be stand near with	with pale face
+1.0	he mother	be stand near with	with face
+1.0	tear	be in	she eye
+1.0	she	run to	she boy
+1.0	she	run to	she little boy
+1.0	tall gentleman	look at	Cedric
+1.0	tall old gentleman	look with	he sharp eye
+1.0	tall gentleman	rise from	he chair
+1.0	tall old gentleman	look at	Cedric
+1.0	gentleman	look at	Cedric
+1.0	old gentleman	look with	he sharp eye
+1.0	old gentleman	look with	he eye
+1.0	gentleman	look with	he sharp eye
+1.0	old gentleman	look at	Cedric
+1.0	gentleman	look with	he eye
+1.0	tall gentleman	look with	he eye
+1.0	tall old gentleman	rise from	he chair
+1.0	old gentleman	rise from	he chair
+1.0	tall old gentleman	look with	he eye
+1.0	gentleman	rise from	he chair
+1.0	tall gentleman	look with	he sharp eye
+1.0	he	rub	he chin
+1.0	he	rub	he thin chin

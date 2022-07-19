@@ -1,0 +1,595 @@
+1.0	it	be height of	Cumbrian summer
+1.0	it	be	height
+1.0	Bracken Mere	be	smooth
+1.0	Bracken Mere	be as smooth as	sheet
+1.0	Bracken Mere	be	as smooth
+1.0	Bracken Mere	be smooth as	sheet of glass
+1.0	Bracken Mere	be as smooth as	sheet of glass
+1.0	Bracken Mere	be smooth as	sheet
+1.0	hill	be	green
+1.0	ghyll	fall like	flag
+1.0	ghyll	fall like	furled flag
+1.0	air	be	drowse
+1.0	air	be drowse by	hum
+1.0	air	be drowse by	hum of insect
+1.0	sun	be	hot
+1.0	people	full of be	meadow between old house on Moss
+1.0	full	be meadow between	old house
+1.0	happy people	full of be	meadow between old house on Moss
+1.0	happy people	full of be	meadow between house on Moss
+1.0	people	full of be	meadow between old house
+1.0	happy people	full of be	meadow between old house
+1.0	happy people	full of be	meadow between house
+1.0	full	be	meadow
+1.0	full	be meadow between	house on Moss
+1.0	people	full of be	meadow between house on Moss
+1.0	happy people	full of be	meadow
+1.0	full	be meadow between	old house on Moss
+1.0	people	full of be	meadow between house
+1.0	people	full of be	meadow
+1.0	full	be meadow between	house
+1.0	it	be	be celebrate
+1.0	it	be	year be celebrate
+1.0	it	be	be celebrate at Shoulthwaite
+1.0	it	be	year be celebrate at Shoulthwaite
+1.0	it	be day of	Wythburn sport
+1.0	it	be	day
+1.0	Mrs. Branthwaite	be with	she meek face
+1.0	Mrs. Branthwaite	be appoint	chief mistress of hospitality
+1.0	Mrs. Branthwaite	be appoint	mistress
+1.0	Mrs. Branthwaite	chief mistress of	hospitality
+1.0	tent	have	have pitch here
+1.0	tent	have	have pitch
+1.0	Mrs. Branthwaite	mistress of	hospitality of Shoulthwaite household
+1.0	Mrs. Branthwaite	be	appoint
+1.0	Mrs. Branthwaite	be appoint	mistress of hospitality
+1.0	Mrs. Branthwaite	chief mistress of	hospitality of Shoulthwaite household
+1.0	Mrs. Branthwaite	be appoint	chief mistress of hospitality of Shoulthwaite household
+1.0	Mrs. Branthwaite	be appoint	chief mistress
+1.0	Mrs. Branthwaite	be appoint	mistress of hospitality of Shoulthwaite household
+1.0	Mrs. Branthwaite	mistress of	hospitality
+1.0	she husband	be with	twinkle in he eye
+1.0	twinkle	be in	he eye
+1.0	he	survey	outspread table
+1.0	more resplendent	be in	Chapel-Sunday garment
+1.0	old weaver	of	unorthodox heart
+1.0	she face	look	more mellow
+1.0	she old face	look	mellow
+1.0	she face	look	mellow
+1.0	she old face	look	more mellow
+1.0	he sapient saw	be with	certainty
+0.6040815880432501	she	saw of	they
+1.0	she	appreciate	saw of they
+1.0	Willy	lie in	blue jerkin with plume
+1.0	Willy	lie in	blue jerkin
+1.0	Mrs. Ray	at	foot
+1.0	Willy	lie on	grass
+1.0	blue jerkin	be with	plume
+1.0	Willy	lie in	jerkin with plume
+1.0	Willy	lie in	jerkin
+1.0	Willy	have	face
+1.0	Willy 's face	be of	type
+1.0	loose jacket	be with	deep collar
+1.0	Ralph	be in	loose jacket with deep collar
+1.0	he	be just now laugh at	batch of schoolmaster 's scholar
+1.0	he	be now laugh at	batch
+1.0	he	be laugh at	batch
+1.0	he	be just now laugh at	batch
+1.0	he	be just now laugh heartily at	batch
+1.0	schoolmaster	of	scholar
+1.0	he	be now laugh heartily at	batch of schoolmaster 's scholar
+1.0	he	be laugh heartily at	batch of schoolmaster 's scholar
+1.0	he	be just now laugh heartily at	batch of schoolmaster 's scholar
+1.0	he	be laugh at	batch of schoolmaster 's scholar
+1.0	he	be now laugh heartily at	batch
+1.0	he	be now laugh at	batch of schoolmaster 's scholar
+1.0	he	be laugh heartily at	batch
+1.0	one bullet-headed little fellow	hold out	they
+1.0	bullet-headed little fellow	hold out	they
+1.0	I _	tumble	poppenoddle
+1.0	young gamester	presently be toss somerset for	penny
+1.0	gamester	presently be toss somerset for	penny
+1.0	rustic gamester	presently be toss	somerset
+1.0	gamester	be toss somerset for	penny
+1.0	gamester	be toss	somerset
+1.0	young gamester	presently be toss	somerset
+1.0	rustic gamester	be toss somerset for	penny
+1.0	rustic young gamester	presently be toss	somerset
+1.0	rustic young gamester	be toss	somerset
+1.0	rustic young gamester	presently be toss somerset for	penny
+1.0	rustic gamester	presently be toss somerset for	penny
+1.0	rustic young gamester	be toss somerset for	penny
+1.0	young gamester	be toss somerset for	penny
+1.0	rustic gamester	be toss	somerset
+1.0	young gamester	be toss	somerset
+1.0	gamester	presently be toss	somerset
+0.321570031283521	two man	be try in	middle
+0.321570031283521	two man	be try at	wrestling
+1.0	man	be try fall in	middle
+1.0	two man	be try fall at	wrestling
+0.321570031283521	man	be try at	wrestling
+0.321570031283521	man	be try in	middle of meadow
+1.0	man	be try fall at	wrestling
+0.321570031283521	two man	be try in	middle of meadow
+1.0	two man	be try fall in	middle of meadow
+1.0	man	be try	fall
+1.0	man	be try fall in	middle of meadow
+1.0	two man	be try fall in	middle
+0.321570031283521	man	be try in	middle
+1.0	two man	be try	fall
+1.0	they	strip to	waist
+1.0	shame-faced maiden	be carry cushion around	she companion
+1.0	young maiden	be carry	little cushion
+1.0	shame-faced young maiden	be carry	little cushion
+1.0	shame-faced maiden	be carry	cushion
+1.0	maiden	be carry cushion around	she companion
+1.0	shame-faced maiden	be carry	little cushion
+1.0	maiden	be carry	little cushion
+1.0	young maiden	be carry cushion around	she companion
+1.0	shame-faced young maiden	be carry	cushion
+1.0	maiden	be carry	cushion
+1.0	young maiden	be carry	cushion
+1.0	shame-faced young maiden	be carry cushion around	she companion
+1.0	they	be play	cushion game
+0.7360052311331206	thicket	overgrown with	wild rose white
+0.7360052311331206	thicket	overgrown with	rose white
+0.7360052311331206	thicket	overgrown with	wild rose
+1.0	thicket	be at	one corner of field
+1.0	thicket overgrown	be at	one corner of field
+1.0	thicket	be at	one corner
+0.7360052311331206	thicket	overgrown with	rose
+1.0	thicket overgrown	be at	one corner
+1.0	Robbie Anderson	persuade	Liza Branthwaite
+1.0	Liza	refuse	plump
+1.0	penalty	be	kiss
+1.0	Liza	have	shrewd suspicion
+1.0	acquiescence	penalty of be	kiss
+1.0	Liza	have	suspicion
+1.0	Robbie	return to	middle of meadow
+1.0	wrestler	have give	way
+1.0	wrestler	have give way to	some
+1.0	Robbie	return to	middle
+1.0	Robbie	throw off	cap
+0.6990578498283302	strap	belt about	he waist
+1.0	Robbie	strap	belt about he waist
+1.0	Robbie	strap	belt
+1.0	Robbie	throw off	he coat
+1.0	Liza	banter	she sweetheart
+1.0	mischief	be in	she eye
+1.0	you	_	go
+1.0	you	go	run
+1.0	Robbie	be with	undisturbed good humor
+1.0	you	slidder	way
+1.0	you	slidder way down	fell
+1.0	I	scarce venture	you
+1.0	I	venture	you
+1.0	I	be	you
+1.0	competitor	be	station
+1.0	signal	be	give
+1.0	competitor	be	now station
+1.0	fell	be	seat
+1.0	fell	be	high seat
+1.0	it	be	steep
+1.0	man	reach	meadow
+1.0	man	reach again	meadow
+1.0	they	now be lose to	sight of spectator
+1.0	they	be	now lose
+1.0	they	be	see
+1.0	they	be	lose
+1.0	they	be lose to	sight of spectator
+1.0	they	be lose to	sight
+1.0	they	be	now see
+1.0	they	now be lose to	sight
+1.0	they	now be lose to	sight of spectator below
+1.0	they	be	hide
+1.0	they	be lose to	sight of spectator below
+1.0	they	be	now hide
+1.0	excitement	be at	full pitch
+1.0	excitement	be at	pitch
+1.0	excitement	be in	field
+1.0	Liza	be beside	herself with anxiety
+1.0	Liza	be beside	herself
+1.0	one man	have round	summit
+1.0	two other	follow	he neck-and-neck
+1.0	other	follow	he neck-and-neck
+1.0	man	have round	summit
+1.0	they	be come down	jump
+1.0	they	be come	jump
+1.0	they	be	here
+1.0	they	be	here here
+1.0	he	turn to	Liza
+1.0	you	do speak to	I
+1.0	you	be	always bit
+1.0	you	be always bit of	cheat
+1.0	you	be bit of	cheat
+1.0	you	be	bit
+1.0	Robbie	have catch	Liza
+1.0	Robbie	draw	she
+1.0	Robbie	have catch liza about	waist
+1.0	he	hold	tight
+1.0	he	be	strong
+1.0	he	be	monstrously strong
+1.0	what _	be	_ good try
+1.0	elderly woman	be amuse	spectator of Liza 's ineffectual struggle
+1.0	two elderly woman	be amuse	spectator of Liza 's struggle
+1.0	two elderly woman	be amuse	spectator of Liza 's ineffectual struggle
+1.0	elderly woman	be amuse	spectator
+1.0	elderly woman	be amuse	spectator of Liza 's struggle
+1.0	Liza	of	ineffectual struggle
+1.0	two elderly woman	be amuse	spectator
+0.36632681049637295	Ralph	let to	Robbie
+1.0	he	have give	horse
+1.0	he	have give	he
+1.0	I	be	tell
+0.36632681049637295	Ralph	be	let
+0.36632681049637295	Ralph	be	let to Robbie
+1.0	Mrs. Ray	by	chair
+1.0	Matthew Branthwaite	have return to	he station by Mrs. Ray 's chair
+1.0	Matthew Branthwaite	have return to	he station
+1.0	Whear	have	Rotha
+1.0	he	lay at	he mother 's foot
+1.0	mother	at	foot
+1.0	he	still lay at	he mother 's foot
+1.0	it	let lass gang off	agen with sim to Fornside
+0.36632681049637295	it	let off	agen to Fornside
+1.0	it	let lass gang off	agen with sim
+0.36632681049637295	it	let off	agen
+1.0	agen	be with	sim
+1.0	it	let lass gang off	agen to yon Fornside
+0.36632681049637295	it	let off	agen with sim
+0.36632681049637295	it	let off	agen to yon Fornside
+1.0	it	let	lass gang
+0.36632681049637295	it	let off	agen with sim to yon Fornside
+1.0	it	let lass gang off	agen with sim to yon Fornside
+1.0	it	let lass gang off	agen to Fornside
+0.36632681049637295	it	let off	agen with sim to Fornside
+1.0	it	let lass gang off	agen
+1.0	Mattha	be speak with	smile
+1.0	Mattha	be speak with	insinuate smile
+1.0	she father	enter	meadow
+1.0	she father	enter meadow by	gate
+1.0	she father	enter meadow at	lower end
+1.0	she father	enter meadow at	end
+1.0	Rotha	be	see
+1.0	Rotha	be	at moment see
+1.0	Ralph	welcome	new-comer
+1.0	dalespeople	make up to	he
+1.0	dalespeople	make up for	they former injustice
+1.0	Ralph	lead rotha to	vacant chair near he mother sit
+1.0	Ralph	lead rotha to	chair near he mother sit
+1.0	Ralph	lead rotha to	chair near where he mother sit
+1.0	Ralph	lead	Rotha
+1.0	Ralph	lead rotha to	vacant chair near where he mother sit
+1.0	Rotha	have	face
+1.0	Rotha 's face	deserve	compliment
+1.0	it	look	fresh
+0.83194427616416	it	be	always beautiful
+0.83194427616416	it	be	beautiful
+1.0	it	look	as fresh
+1.0	something	be in	it
+1.0	long lash	half reveal	tenderer light
+1.0	lash	half reveal	tenderer light
+1.0	dark lash	reveal	tenderer light
+1.0	long dark lash	reveal	tenderer light
+1.0	dark lash	half reveal	tenderer light
+1.0	long lash	reveal	tenderer light
+1.0	lash	reveal	tenderer light
+1.0	long dark lash	half reveal	tenderer light
+1.0	girl	of	face
+1.0	Ralph	standing by	she side
+1.0	bustle	be in	they vicinity
+1.0	schoolmaster	catch	rabbit
+1.0	fleetest foot	be in	district
+1.0	trial	be	make
+1.0	he	succeed in	two hundred yard
+1.0	Theer	have	none match
+1.0	weaver	have	conceit
+1.0	he	make	observation
+1.0	Mattha	be with	manner of man
+1.0	lad	have	heart
+1.0	he	make	original observation
+1.0	sun	now decline between	Noddle Fell
+1.0	sun	decline between	Noddle Fell
+1.0	day	have	pleasure
+1.0	kitchen	be alive with	face
+1.0	darkness	have fall over	meadow
+1.0	kitchen	be alive with	bright face
+1.0	kitchen	be	alive
+1.0	young woman	have bring	they spinning-wheel
+1.0	woman	have bring	they spinning-wheel
+1.0	they	make	pretence spin
+0.42908777962284633	make	pretence	spin
+1.0	man	be	outside
+1.0	young man	be	outside
+1.0	room	be with	Mrs. Ray
+1.0	pebble	be	presently hear
+1.0	pebble	presently be hear	crack
+1.0	pebble	presently be hear	crack against window pane
+1.0	pebble	crack against	window pane
+1.0	pebble	be hear	crack against window pane
+1.0	pebble	be hear	crack
+1.0	pebble	be	hear
+1.0	maiden	be with	air of profound amazement
+1.0	it	be	young
+1.0	venturesome damsel	go to	door
+0.9361506727665319	it	be	young man
+1.0	one venturesome damsel	go to	door
+0.9361506727665319	it	be	why young man
+0.9361506727665319	it	be	man
+0.9361506727665319	it	be	why man
+1.0	she	say with	overpowering astonishment
+1.0	she	say with	astonishment
+1.0	unexpected creature	enter	kitchen follow by longish line of similar apparition
+1.0	creature	enter	kitchen follow
+1.0	creature	enter	kitchen follow by longish line of similar apparition
+1.0	unexpected creature	enter	kitchen follow by line of similar apparition
+1.0	unexpected creature	enter	kitchen
+1.0	creature	enter	kitchen follow by line of similar apparition
+1.0	creature	enter	kitchen follow by longish line
+1.0	creature	enter	kitchen follow by line of apparition
+1.0	creature	enter	kitchen
+1.0	unexpected creature	enter	kitchen follow by line of apparition
+1.0	creature	enter	kitchen follow by line
+1.0	unexpected creature	enter	kitchen follow by line
+1.0	unexpected creature	enter	kitchen follow
+1.0	unexpected creature	enter	kitchen follow by longish line of apparition
+1.0	unexpected creature	enter	kitchen follow by longish line
+1.0	creature	enter	kitchen follow by longish line of apparition
+1.0	they	seat anywhere everywhere	themselves
+1.0	they	seat	themselves
+1.0	they	seat everywhere	themselves
+1.0	Ralph	be hail	welcome on hand
+1.0	Ralph	be	hail
+1.0	he	be call upon for	song
+1.0	he	sing in	old day
+1.0	he	sing in	day
+1.0	he	always sing in	old day
+1.0	he	always sing in	day
+1.0	Ralph	be with	smile
+1.0	Ralph	sing	fear
+1.0	Ralph	sing fear in	he deep baritone
+1.0	Ralph	sing fear in	he baritone
+1.0	click	keep time to	slow measure of old song
+1.0	click	keep time to	slow measure
+1.0	click	keep time to	slow measure of fine song
+1.0	click	keep time to	slow measure of song
+1.0	click	keep time to	measure of old song
+1.0	click	keep time to	slow measure of fine old song
+1.0	click	keep time to	measure of fine song
+1.0	click	keep time to	measure of song
+1.0	click	keep	time
+1.0	click	keep time to	measure of fine old song
+1.0	click	keep time to	measure
+1.0	he	lay with	face
+1.0	he	lay with	solemn face
+1.0	he	lay at	Ralph 's foot
+1.0	Ralph	at	foot
+1.0	he	be think out	problem
+1.0	he	be think out	grave problem attach to place of dog
+1.0	he	be clearly think out	grave problem attach to place
+1.0	he	be think out	grave problem attach to place of dog on universe
+1.0	he	be clearly think out	problem
+1.0	he	be think out	grave problem attach to place on universe
+1.0	he	be clearly think out	problem attach to place of dog
+1.0	he	be think out	problem attach to place on universe
+1.0	he	be clearly think out	grave problem attach
+1.0	he	be think out	problem attach
+1.0	he	be think out	grave problem attach to place
+1.0	he	be think out	problem attach to place
+1.0	he	be clearly think out	problem attach to place of dog on universe
+1.0	he	be clearly think out	grave problem attach to place on universe
+1.0	he	be clearly think out	problem attach to place on universe
+1.0	he	be think out	grave problem
+1.0	he	be clearly think out	grave problem attach to place of dog on universe
+1.0	he	be clearly think out	grave problem
+1.0	he	be clearly think out	grave problem attach to place of dog
+1.0	he	be think out	problem attach to place of dog on universe
+1.0	he	be clearly think out	problem attach
+1.0	he	be think out	grave problem attach
+1.0	he	be clearly think out	problem attach to place
+1.0	he	be think out	problem attach to place of dog
+1.0	it	be	Monsey Laman
+1.0	he	have	have banish with old folk
+1.0	he	have	have banish with folk
+1.0	he	have	have banish
+1.0	you way	be in	schoolmaster
+1.0	Monsey	mount	it
+1.0	I	be	hand
+1.0	burst	reward	attempt on life of tragic muse
+1.0	loud burst	reward	attempt
+1.0	burst	reward	attempt on life of muse
+1.0	loud burst	reward	attempt on life of muse
+1.0	burst	reward	attempt on life
+1.0	burst	reward	attempt
+1.0	loud burst	reward	attempt on life
+1.0	loud burst	reward	attempt on life of tragic muse
+1.0	laughter	reach	point of frantic scream
+0.574478541542104	laughter	point of	scream
+0.574478541542104	laughter	point of	frantic scream
+1.0	laughter	be in	auditorium
+1.0	laughter	reach	point
+1.0	laughter	reach	point of scream
+1.0	actor	be obviously indifferent to	question of kind of impression produce
+1.0	actor	go at	they task
+1.0	actor	be indifferent to	question of kind of impression produce
+1.0	they task	be with	conscientious ardor
+1.0	actor	go at	they task with ardor
+1.0	actor	go at	they task with conscientious ardor
+1.0	man	be in	such case
+1.0	you	do ever see	man in case
+1.0	you	do ever see	man
+1.0	you	do see	man in such case
+1.0	you	do see	man in case
+1.0	you	do ever see	man in such case
+1.0	you	do see	man
+0.9369682625531734	Robbie	step out of	he character
+0.9369682625531734	Robbie	rather step out of	he character
+0.7501702333637861	Romeo	should cast up	nosegay
+0.7501702333637861	Romeo	should cast	nosegay
+1.0	it	be	part
+1.0	it	perform in	Carlisle
+1.0	it	be part of	business
+1.0	it	be part	Robbie have see
+1.0	it	be part of	business of tragedy
+1.0	Robbie	have provide	himself
+1.0	it	use	it
+1.0	it	be	necessary
+1.0	he	have deposit	it
+1.0	it	be	about three time big as Juliet 's head
+1.0	it	be find	three time as big as Juliet 's head
+1.0	it	be	three time big as Juliet 's head
+1.0	nosegay	be	when yield up to lover on he knee
+1.0	it	be	three time as big as Juliet 's head
+1.0	it	be	about three time
+1.0	nosegay	be	when yield
+1.0	it	be	about three time as big
+1.0	it	be find	three time as big
+1.0	it	be find	about three time big as Juliet 's head
+1.0	it	be	three time big
+1.0	Juliet	as	head
+1.0	nosegay	be	when yield up to lover
+1.0	it	be find	about three time
+1.0	it	be find	three time
+1.0	nosegay	be yield up	up lover on he knee
+1.0	it	be	three time as big
+1.0	it	be find	three time big as Juliet 's head
+1.0	it	be find	about three time as big
+1.0	it	be	three time
+1.0	it	be	find
+1.0	it	be	about three time big
+1.0	it	be find	about three time as big as Juliet 's head
+1.0	it	be find	three time big
+1.0	nosegay	be	yield
+1.0	it	be	about three time as big as Juliet 's head
+1.0	it	be find	about three time big
+1.0	nosegay	be yield up	up lover
+1.0	spinning-wheel	be	push aside
+1.0	play	come to	abrupt conclusion
+1.0	spinning-wheel	be	push
+1.0	play	come to	conclusion
+1.0	spinning-wheel	follow	dance
+1.0	night	be	spend
+1.0	young man	shoulder	wheel
+1.0	man	shoulder	wheel
+1.0	girl	draw on	they bonnet
+1.0	company	sail up	mere
+1.0	Willy	walk with	they
+1.0	Ralph	walk with	they
+1.0	Willy	walk to	Water 's Head
+1.0	large company	sail up	mere to city
+1.0	Rotha	walk with	they
+1.0	Ralph	walk to	Water 's Head
+1.0	Water	to	Head
+1.0	Rotha	walk to	Water 's Head
+1.0	large company	sail up	mere
+1.0	company	sail up	mere to city
+1.0	Sim	remain with	Mrs. Ray
+1.0	moon	be shine at	full
+1.0	moon	be shine at	full from sky
+1.0	moon	be shine at	full from sky of blue
+1.0	moon	be shine at	full from sky of deep blue
+1.0	slow beat	come over	light lap
+1.0	beat	come over	light lap against boat
+1.0	slow beat	come to	ear
+1.0	beat	come to	ear
+1.0	slow beat	come over	lap against boat
+1.0	beat	come over	lap against boat
+1.0	slow beat	come over	light lap against boat
+1.0	beat	come over	light lap
+1.0	slow beat	come over	lap
+1.0	beat	come over	lap
+1.0	it	seem	to
+1.0	boat	be	border
+1.0	boat	be border by	fringe of silver
+1.0	boat	be border by	fringe
+1.0	breeze	lift water at	one moment
+1.0	breeze	lift	water
+1.0	star	float down	waterway
+1.0	star	float down	waterway from yonder moon
+1.0	star	float down	white waterway from argent moon
+1.0	countless star	float down	white waterway from moon
+1.0	star	float down	white waterway from yonder argent moon
+1.0	star	float down	waterway from yonder argent moon
+1.0	countless star	float down	waterway from yonder moon
+1.0	countless star	float down	white waterway
+1.0	breeze	lift water into	ripple
+1.0	countless star	float down	waterway from moon
+1.0	star	float down	white waterway
+1.0	star	float down	white waterway from moon
+1.0	countless star	float down	white waterway from yonder argent moon
+1.0	countless star	float down	white waterway from argent moon
+1.0	countless star	float down	waterway from yonder argent moon
+1.0	countless star	float down	white waterway from yonder moon
+1.0	star	float down	waterway from argent moon
+1.0	countless star	float down	waterway from argent moon
+1.0	star	float down	white waterway from yonder moon
+1.0	gentle breeze	lift	water
+1.0	gentle breeze	lift water at	one moment
+1.0	star	float down	waterway from moon
+1.0	countless star	float down	waterway
+1.0	gentle breeze	lift water into	ripple
+1.0	it	be	curlew
+1.0	night bird	be	when go
+1.0	night bird	be	go
+1.0	man	get into	boat
+1.0	lad	get into	boat
+1.0	citizen	get into	boat
+1.0	dame	get into	boat
+1.0	old man	get into	boat
+1.0	lass	get into	boat
+1.0	other young fellow	take	oar
+1.0	three other young fellow	take	oar
+1.0	we	shall ever hear from	he old lip
+1.0	we	shall hear from	he garrulous old lip
+1.0	sage	have fire off	last proverb
+1.0	we	shall hear from	he lip
+1.0	sage	have fire off	last rustic proverb
+1.0	we	shall ever hear from	he garrulous lip
+1.0	we	shall ever hear from	he garrulous old lip
+1.0	we	shall hear from	he garrulous lip
+1.0	we	shall ever hear from	he lip
+1.0	we	shall hear from	he old lip
+1.0	sage	have fire off	proverb
+1.0	sage	have fire off	rustic proverb
+1.0	girl	start	song
+1.0	step	break	they trance
+1.0	it	be	lone
+1.0	it	be	woman
+1.0	it	be	lone woman
+1.0	she	go without	word
+1.0	she	go by	they
+1.0	brother	exchange	look
+1.0	Poor Joe	say	Rotha
+1.0	Poor Joe	say	Rotha almost in whisper
+1.0	Poor Joe	say	Rotha in whisper
+1.0	girl	have	cup of joy
+1.0	girl 's cup	could bear	memory
+0.04584657021521499	she	know at	last
+1.0	she	know	she love
+1.0	Willy	step between	Rotha
+1.0	he	be	move
+1.0	he	be	deeply move
+1.0	he	yield up	dream
+1.0	he	yield up	dream of he life
+1.0	he	try	speak
+1.0	he	turn away in	silence
+1.0	he	take	Rotha 's hand
+1.0	he	turn in	silence
+1.0	he	put	it
+1.0	Rotha	have	hand
+1.0	soul	stand in	white moonlight hand
+0.9976729970474051	soul	part by	sorrow
+1.0	soul	stand in	hand
+1.0	soul	stand in	hand
+1.0	soul	stand in	moonlight hand
+1.0	soul	stand in	white hand
+0.9976729970474051	soul	purify by	affliction
+1.0	past	be dead to	they
+1.0	past	be	dead
+1.0	sow	be raise in	joy
+1.0	sow	be	raise
+1.0	sow	be	raise
+1.0	sow	be	raise
+1.0	sow	be raise in	love
+1.0	sow	be raise in	peace
+1.0	WHOM GOD	have	hand

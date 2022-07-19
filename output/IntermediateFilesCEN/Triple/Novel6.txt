@@ -1,0 +1,604 @@
+0.8337251275343871	shadow	consciousness of	capacity of sea
+1.0	foot	be on	wharf
+1.0	people	may assure	we
+0.5931958473991769	madness	entertain	least shadow
+1.0	foot	hand in	ours
+0.8337251275343871	shadow	dreadful consciousness of	capacity
+1.0	glad hand	be in	ours
+0.5931958473991769	madness	entertain	least shadow of doubt
+0.5931958473991769	madness	entertain	shadow of doubt
+0.8337251275343871	shadow	consciousness of	capacity
+1.0	foot	dear glad hand in	ours
+0.8337251275343871	shadow	dreadful consciousness of	capacity of sea
+1.0	shadow	be over	we
+1.0	foot	glad hand in	ours
+0.5931958473991769	madness	entertain	shadow
+1.0	ship	of	arrival
+1.0	Duke	ascertain	date of ship 's arrival
+1.0	Duke	ascertain	date
+1.0	Duke	have take	precaution
+1.0	Claudius	sail in	Cunard steamer
+1.0	he	take	it
+1.0	he	find out	vessel
+0.9886159430068204	arrangement	be	inform
+0.9886159430068204	arrangement	be	inform so soon
+0.9886159430068204	arrangement	be	inform soon
+1.0	we	may expect	light
+0.10199368314675994	we	may safely expect at_time	day after to-morrow
+1.0	we	may safely expect	light
+1.0	we	may safely expect light at_time	day
+1.0	we	may safely expect	he
+1.0	he	have say to	Margaret
+0.10199368314675994	we	may expect at_time	day
+1.0	we	may expect	he
+0.10199368314675994	we	may safely expect at_time	day
+1.0	we	may safely expect light at_time	day after to-morrow
+0.10199368314675994	we	may expect at_time	day after to-morrow
+1.0	we	may expect light at_time	day
+1.0	we	may expect light at_time	day after to-morrow
+1.0	first disappointment	come on	evening
+1.0	disappointment	come before	day
+1.0	first disappointment	come before	day
+1.0	disappointment	come on	evening
+1.0	disappointment	come before	appoint day
+1.0	first disappointment	come before	appoint day
+1.0	late arrival	report	heavy weather
+1.0	late arrival	report	weather
+1.0	late arrival	report	very heavy weather
+1.0	Duke	receive	note
+1.0	arrival	report	heavy weather
+1.0	Duke	receive note from	office
+1.0	Duke	receive note to	effect
+1.0	steamer	be delay	hour
+1.0	it	be	fear
+1.0	arrival	report	weather
+1.0	arrival	report	very heavy weather
+1.0	he	have	have out
+1.0	they	have take	Miss Skeat
+1.0	they	enjoy	themselves
+1.0	they	enjoy mightily	themselves
+1.0	they	doubtless enjoy	themselves
+1.0	they	doubtless enjoy mightily	themselves
+1.0	Margaret	know	news
+1.0	it	be	necessary however
+1.0	it	be	necessary
+0.19132517912564495	Margaret	know	she go to bed
+1.0	she	go to	bed
+1.0	Claudius	might arrive at	moment
+0.7372243493068137	Margaret	news of	delay
+1.0	she	wake with	assurance
+1.0	she	wake in	morning
+0.19132517912564495	Margaret	know	she go
+1.0	Margaret	know news	she go to bed
+1.0	Margaret	know news	she go
+1.0	she	think	I wait
+1.0	I	make	fuss
+1.0	she	think	I wait for they
+1.0	Duke	be with	more usual tact
+1.0	I	wait for	they
+1.0	he	have	news of delay
+1.0	delay	be in	arrival of hour
+1.0	he	have	news of delay in arrival
+1.0	he	have	news
+1.0	arrival	in delay be	perhaps whole day wish
+1.0	he	have	news of delay in arrival of hour
+1.0	he	write	note simply state
+1.0	he	write	note
+1.0	he	write	note state
+1.0	he	go away to	he room
+1.0	he	give note to	Vladimir
+1.0	he	go to	he room
+1.0	he	give	note
+1.0	Margaret Victoria	sit down by	fire
+1.0	Margaret Victoria	come in	spirit
+1.0	Margaret Victoria	sit down for	chat
+1.0	Margaret Victoria	come	laugh
+1.0	Margaret Victoria	laugh in	they silk cloak
+1.0	they	enter	little drawing-room
+1.0	Margaret Victoria	come in	great spirit
+1.0	they	enter	drawing-room
+1.0	Margaret Victoria	come	laugh in they silk cloak
+1.0	Vladimir	bring	Duke 's note
+1.0	Duke	have	note
+1.0	Margaret	read	it
+1.0	she	notice	she companion 's distressed look
+1.0	companion	have	distressed look
+1.0	she	notice	she companion 's look
+1.0	steamer	be	delay
+1.0	brother	have	note
+1.0	it	will in	will in afternoon
+1.0	it	will in	will probably in afternoon
+1.0	Margaret	have	eye
+1.0	she	ask	they separate
+1.0	she	ask	they separate later
+0.7158198901086921	I	have	feeling
+1.0	she	look with	she white face
+1.0	she	look	miserable
+1.0	she	look with	she face
+1.0	she	look	very miserable
+1.0	Lady Victoria	tell at_time	morning
+1.0	Lady Victoria	tell at_time	early next morning
+1.0	Lady Victoria	tell at_time	early morning
+1.0	Lady Victoria	tell at_time	next morning
+1.0	he	repair	he error
+1.0	he	go	pass day
+1.0	he	go with	object
+1.0	he	go down with	object
+1.0	he	establish	himself
+1.0	he	pass at_time	day
+1.0	he	go down	pass day
+1.0	he	go down	pass
+1.0	he	go	pass
+1.0	he	refuse	move
+1.0	he	send out in	afternoon
+1.0	he	send out for	something eat
+1.0	people	be in	office
+1.0	he	feel	free
+1.0	Cunarder	be	delay
+1.0	it	be	possible
+1.0	vessel	follow	departure
+1.0	he	return disconsolately to	hotel
+1.0	she light	be	sight
+1.0	he	return somewhat to	hotel
+1.0	he	return to	hotel
+1.0	he	return somewhat disconsolately to	hotel
+1.0	she	increase	she own
+1.0	he	again bethink	he
+1.0	she	overrate	he anxiety
+1.0	he	bethink	he
+1.0	he	tell	Countess
+1.0	she	so increase	she own
+1.0	he	pass at_time	day
+1.0	Margaret	be	unreasonable
+1.0	Margaret	be	really very unreasonable
+1.0	Margaret	be	really unreasonable
+1.0	Margaret	be	very unreasonable
+1.0	she fair-haired lover	be	go
+1.0	she fair-haired lover	be go for	ever
+1.0	Lady Victoria	express	it
+1.0	she fair-haired lover	be go from	she
+1.0	she	have become by	unaccountable presentiment
+1.0	she lover	be	go
+1.0	she	have become by	presentiment
+1.0	she	have become	possess
+1.0	she lover	be go from	she
+1.0	she lover	be go for	ever
+0.892550716053908	man	grasp frantically at	water-crest break
+1.0	foam	be	firm
+1.0	hideous thing	come up	man
+0.892550716053908	man	grasp at	water-crest break
+0.6399519129670479	thing	come up before	she
+1.0	face	be in	green swirl of wave
+1.0	thing	come up man	thing
+1.0	thing	come up	man
+1.0	thing	come up man before	she
+0.892550716053908	man	grasp at	white water-crest break
+0.892550716053908	man	grasp frantically at	white water-crest break
+0.892550716053908	man	grasp frantically at	water-crest
+1.0	hideous thing	come up man	thing
+1.0	hideous thing	come up	man dead
+0.892550716053908	man	grasp frantically at	white water-crest
+0.892550716053908	man	grasp at	white water-crest break over they
+0.6399519129670479	hideous thing	come up	thing
+1.0	thing	come up	man dead
+1.0	thing	come up man	firm thing
+0.892550716053908	man	grasp frantically at	white water-crest break over they
+1.0	foam	be	thing
+0.892550716053908	man	grasp at	white water-crest
+0.892550716053908	man	grasp at	water-crest
+1.0	rush foam	be	firm thing
+0.6399519129670479	hideous thing	come up before	she
+0.6399519129670479	thing	come up	thing
+0.6399519129670479	hideous thing	come up	firm thing
+1.0	rush foam	save	they
+0.892550716053908	man	grasp at	water-crest break over they
+0.892550716053908	man	grasp frantically at	water-crest break over they
+0.17558708929572098	thing	come up	die
+1.0	hideous thing	come up man before	she
+1.0	foam	save	they
+1.0	rush foam	be	thing
+0.17558708929572098	hideous thing	come up	die
+1.0	hideous thing	come up man	firm thing
+0.6399519129670479	thing	come up	firm thing
+1.0	foam	be	firm thing
+1.0	wild thin wind	furrow	breathless in he race
+1.0	wild thin wind	furrow	breathless
+1.0	thin wind	furrow	breathless
+1.0	thin wind	furrow	breathless in he race with death
+1.0	wind	furrow	breathless in he race
+1.0	wild wind	furrow	breathless in he race
+1.0	wild wind	furrow	breathless in he race with death
+1.0	wind	furrow	breathless
+1.0	thin wind	furrow	breathless in he race
+1.0	wind	furrow	breathless in he race with death
+1.0	wild thin wind	furrow	breathless in he race with death
+1.0	wild wind	furrow	breathless
+1.0	he race	be with	death
+0.9844977238840624	float	form	hair hang down
+0.629428066556067	she	form	hair hang down
+0.9844977238840624	float	form	yellow hair hang
+0.9977240210166637	she	float solemnly through	water
+0.629428066556067	she	grand form	hair hang down
+0.9844977238840624	float	form	hair hang
+0.9844977238840624	float	grand form	hair hang
+0.629428066556067	she	grand form	hair hang
+0.629428066556067	she	grand form	yellow hair hang down
+0.9844977238840624	float	grand form	yellow hair hang down
+0.629428066556067	she	form	yellow hair hang
+1.0	white throat	turn up in	death
+1.0	she	could see	form
+0.9844977238840624	float	grand form	yellow hair hang
+0.9977240210166637	she	float through	deep water
+0.9977240210166637	she	float solemnly through	deep water
+0.9977240210166637	she	float through	water
+0.629428066556067	she	grand form	yellow hair hang
+0.9977240210166637	she	float solemnly through	green water
+0.9977240210166637	she	float through	deep green water
+0.9977240210166637	she	float solemnly through	deep green water
+1.0	broad throat	turn up in	death
+0.629428066556067	she	grand form of	man
+0.629428066556067	she	form of	man
+1.0	she	could see	seaweed
+1.0	broad white throat	turn up in	death
+0.629428066556067	she	form	hair hang
+0.9844977238840624	float	grand form	hair hang down
+0.629428066556067	she	form	yellow hair hang down
+1.0	throat	turn up in	death
+0.9977240210166637	she	float through	green water
+0.9844977238840624	float	form	yellow hair hang down
+1.0	lip	stare at	ember
+1.0	they	part	lip
+1.0	Lady Victoria	sit with	she
+1.0	he	insist	sure
+1.0	ship	of	arrival
+1.0	Duke	receive	news of ship 's arrival
+1.0	Duke	tell	truth
+1.0	he	insist upon	Willis
+1.0	he	insist	so sure
+1.0	Duke	receive	news
+1.0	Duke	receive news during	night
+1.0	he	have up	have night
+1.0	he	have up	have several night
+1.0	Duke	be with	change of voice
+1.0	he	bully	he servant
+1.0	he	spend at_time	day
+1.0	he	spend in	office
+1.0	he	spend at_time	day previous
+1.0	he	be drive down	town
+1.0	he	get into	cab
+1.0	he	hate road like	many foreigner
+1.0	he	hate road like	foreigner
+1.0	he	be drive down	town to Bowling-Green
+1.0	he	smoke chair	clerk begin
+1.0	he	smoke	chair
+1.0	clerk	find	he
+1.0	he	be	real
+1.0	he	read	he novel
+1.0	feather	seem	draggle
+1.0	gay feather	seem	draggle
+1.0	she	be in	sight
+1.0	clerk	call out to	Duke
+1.0	he Grace	stretch	himself
+1.0	he	send	telegram
+1.0	he	send telegram	announce
+1.0	he	send telegram to	Margaret
+1.0	he	be	in season seat in cabin of little high-pressure boat
+1.0	he	be	in season seat in single cabin of little high-pressure boat
+1.0	he	be	in season seat in cabin of little boat
+1.0	he	be	in due season seat in single cabin of boat
+1.0	he	be	in season seat in cabin of high-pressure boat
+1.0	he	be seat in	single cabin
+1.0	he	be seat in	cabin of boat
+1.0	its way	meet	ocean monster
+1.0	he	be	in due season seat in single cabin of little boat
+1.0	he	be	in due season seat in cabin of high-pressure boat
+1.0	he	be seat in	single cabin of little boat
+1.0	he	be seat in	cabin of high-pressure boat
+1.0	he	be seat in	cabin
+1.0	its way	meet	great ocean monster
+1.0	he	be	seat
+1.0	he	be	in due season seat in single cabin
+1.0	he	be	in due season seat in cabin
+1.0	he	be	in season seat in single cabin
+1.0	he	be	in season seat in cabin of boat
+1.0	he	be	in due season seat in cabin of little boat
+1.0	he	be seat in	cabin of little boat
+1.0	he	be	in due season seat in cabin of little high-pressure boat
+1.0	he	be seat in	cabin of little high-pressure boat
+1.0	he	be	in season seat in cabin
+1.0	he	be seat in	single cabin of little high-pressure boat
+1.0	he	be	in season seat in single cabin of boat
+1.0	he	be seat in	season
+1.0	he	be seat in	single cabin of boat
+1.0	he	be	in due season seat in single cabin of high-pressure boat
+1.0	he	be seat in	single cabin of high-pressure boat
+1.0	it	plough bravely	its way
+1.0	he	be	in season seat in single cabin of high-pressure boat
+1.0	he	be seat in	due season
+1.0	he	be	in due season seat in single cabin of little high-pressure boat
+1.0	it	plough	its way
+1.0	he	be	in due season seat in cabin of boat
+1.0	he	be	in season seat in single cabin of little boat
+1.0	green side	be trouble with	foreboding
+1.0	side	be seldom trouble with	foreboding
+1.0	side	be	seldom trouble
+1.0	green side	be	trouble
+1.0	side	be trouble with	gloomy foreboding
+1.0	green side	be seldom trouble with	gloomy foreboding
+1.0	side	be trouble with	foreboding
+1.0	side	be seldom trouble with	gloomy foreboding
+1.0	green side	be seldom trouble with	foreboding
+1.0	green side	be trouble with	gloomy foreboding
+1.0	side	be	trouble
+1.0	green side	be	seldom trouble
+1.0	hev _	get	skatin ' rink
+1.0	other	retort to	effect
+1.0	it	have	outside smooth than inside soft
+1.0	it	have	outside smooth than soft
+1.0	it	have	smooth than soft
+1.0	it	have	smooth
+1.0	it	have	smooth than inside soft
+1.0	it	be	better
+1.0	it	have	outside smooth
+1.0	you	get	both
+1.0	you	get	both like water-melon
+1.0	he	make	he way
+1.0	they	come up with	great steamer
+1.0	it	be	almost five o'clock
+1.0	they	come up with	steamer
+1.0	Duke	be over	side
+1.0	side	be in	five minute
+1.0	Duke	be over	in five minute side
+1.0	he	inquire for	Dr. Claudius
+0.005153942488911989	Duke	run	then think
+1.0	Duke	run	he finger
+0.005153942488911989	Duke	run down	list
+0.005153942488911989	Duke	run	think
+1.0	he heart	beat fast	have certain
+1.0	he heart	beat	have positively certain
+1.0	he heart	beat	have certain
+1.0	he heart	beat fast	have so certain
+1.0	he	have	have certain
+1.0	he	have	have positively certain
+1.0	he heart	beat	have so positively certain
+1.0	he heart	beat fast	have so positively certain
+1.0	he heart	beat	have so certain
+1.0	he heart	beat fast	have positively certain
+1.0	he	have	have so certain
+1.0	he	have	have so positively certain
+1.0	sure sir	answer	he
+1.0	sir	answer	he
+1.0	they	carry	he
+1.0	he	have	light
+1.0	he	have	light beard
+1.0	he	have	beard
+1.0	they	carry	he
+1.0	they	carry past	he
+1.0	he	be	awfully pale
+1.0	he eye	be	close
+1.0	he	be	pale
+1.0	it	have	must have he
+1.0	other	seem	be
+1.0	he	sink into	chair
+1.0	bursar	return in	quarter
+1.0	bursar	return in	quarter of hour
+1.0	I	be	sorry
+1.0	I	be	very sorry
+0.9969095430474074	nothing	be	do
+1.0	he lip	be in	despair
+1.0	passenger	answer	description
+1.0	sick passenger	answer	description
+1.0	he	would	would pale
+1.0	it	sound like	he
+1.0	he	would	would pale anyhow
+1.0	Duke	impel by	hope
+1.0	they	move about	great saloon
+1.0	they	get	they trap
+1.0	they	move about	saloon
+1.0	they	get together	they trap
+1.0	Doctor	have	name
+0.28627611980559997	Duke	rise among	passenger
+1.0	Doctor 's name	be omit by	accident
+1.0	Doctor 's name	be	omit
+0.28627611980559997	Duke	rise among	crowd passenger
+1.0	Duke	impel by	faint hope
+0.7676304316016964	he	glimpse of	he face
+1.0	he	could catch	glimpse
+1.0	he	could catch	glimpse of he face
+1.0	he	last meet figure in	darkened passage way
+1.0	he	meet	towering figure
+1.0	he	meet figure in	passage way
+1.0	he	meet	figure
+1.0	he	last meet figure in	passage way
+1.0	he	last meet	towering figure
+1.0	he	meet figure in	darkened passage way
+1.0	he	last meet	figure
+1.0	he	hold out	he hand
+1.0	stranger	mutter	something about mistake
+1.0	excitement	grow on	Duke
+1.0	he	be	default
+1.0	he clothes	half yearly from	Smallpage
+1.0	he clothes	yearly from	Smallpage
+1.0	one	be in	whenever hurry
+1.0	one	be in	hurry
+1.0	he	close	door
+1.0	he	mount to	he box
+1.0	he	deliberately close	door
+1.0	I	shall tell	she
+0.6291914645395386	themselves	slide over	smooth Road
+0.6291914645395386	themselves	slide over	elevated Road
+0.6291914645395386	themselves	slide over	smooth elevated Road
+0.6291914645395386	themselves	slide over	Road
+1.0	slide	repeat	themselves
+1.0	he	rattle through	street
+1.0	stunning force	be in	he ear
+1.0	he	walk bearer with	bent head
+0.40087069963508204	he	walk slowly with	bent head
+1.0	he	walk slowly bearer with	bent head
+1.0	he	walk slowly	bearer
+0.40087069963508204	he	walk with	head
+1.0	he	walk slowly bearer with	head
+1.0	he	walk slowly	bearer of news
+0.40087069963508204	he	walk with	bent head
+1.0	he	walk slowly	bearer of bad news
+0.7387144347030132	he	bearer of	bad news
+1.0	he	walk	bearer of news
+0.7387144347030132	he	bearer of	news
+0.40087069963508204	he	walk slowly with	head
+1.0	he	walk	bearer
+1.0	he	walk	bearer of bad news
+1.0	he	walk bearer with	head
+1.0	he courage	fail	he
+1.0	he	stair to	room
+1.0	he	few stair to	he room
+1.0	he	few stair to	room
+1.0	he	stair to	he room
+1.0	Lady Victoria	look at	clock
+1.0	he	say in	low voice
+1.0	he	say in	voice
+1.0	he	have	why have two hour
+1.0	he	have	why have here two hour
+1.0	he	have	have here two hour
+1.0	he	have	have two hour
+1.0	he	have	why have two hour with Margaret
+1.0	he	have	have here two hour with Margaret
+1.0	he	have	why have here two hour with Margaret
+1.0	have two hour	be with	Margaret
+1.0	he	have	have two hour with Margaret
+1.0	he	fall back into	chair
+1.0	he	fall into	chair
+1.0	Duke	be	overpower
+1.0	Duke	be	fairly overpower
+1.0	she	say from	Europe
+1.0	he	have miss	he
+1.0	he	recover	he sens
+1.0	he	recover enough	he sens
+1.0	he	slowly recover enough	he sens
+1.0	he	slowly recover	he sens
+1.0	he	have somehow miss	he
+1.0	he	be	glad
+1.0	he	be	honestly glad
+1.0	I	come in to	you room
+1.0	I	come in	wait
+1.0	he	go in	there
+1.0	he	go in	there alone
+1.0	I	let of	course
+1.0	ship	be in	sight at three o'clock
+1.0	he	get at	five
+1.0	he	get here at	five
+1.0	ship	be in	sight
+1.0	she	get	you telegram
+1.0	it	be	easily enough
+1.0	it	be	enough
+1.0	they	go at_time	night
+1.0	they	go to	bed
+1.0	it	be	simply this
+0.217438951046395	Claudius	chance	arrive before Cunarder
+1.0	it	be	this
+0.217438951046395	Claudius	chance	arrive
+1.0	Duke	have	message
+1.0	Margaret	have receive	Duke 's message
+1.0	doctor	leave	he luggage
+0.9904106149672935	cab	pay man	hurry to hotel
+1.0	doctor	leave	he slender luggage
+1.0	doctor	hail	cab
+0.9904106149672935	cab	pay man in	advance
+1.0	tall doctor	hail	cab
+0.9904106149672935	cab	pay man	hurry
+1.0	tall doctor	leave	he slender luggage
+1.0	tall doctor	leave	he luggage
+0.9904106149672935	cab	pay	man
+1.0	stereotyped hotel phrase	have	it
+1.0	he	seem indeed	make
+1.0	he	seem	make
+1.0	he	could hardly wait	servant go
+1.0	stereotyped american hotel phrase	have	it
+1.0	he	step up	upstairs
+1.0	he	could wait	servant go
+1.0	hotel phrase	have	it
+1.0	american hotel phrase	have	it
+1.0	he	stand up to	he height
+1.0	he	hold	she
+1.0	he	kiss	she forehead
+1.0	he	hold up	she
+1.0	he	clasp	he finger
+1.0	he	say at	last
+0.6037892914288726	I	be beside	myself with joy
+0.6037892914288726	I	be beside	myself
+1.0	she	hide	she face
+1.0	she	look with	smile
+1.0	she	ask	look up with smile
+1.0	she	ask	look with smile
+1.0	she	look up with	smile
+1.0	she	ask	look up to he with smile
+1.0	she	ask at	last
+1.0	she	ask	look
+1.0	she	ask	look up to he
+1.0	she	ask	look up
+1.0	they	side by	side
+1.0	they	side on	sofa
+1.0	they	side on	deep sofa
+1.0	he	have accomplish	he mission
+1.0	it	leave	she
+1.0	she	hear	know
+1.0	he	now have accomplish	he mission
+1.0	it	cost	he
+1.0	tear	be	she hear
+1.0	Claudius	have tell	she everything
+1.0	tear	be in	Margaret 's dark eye
+1.0	Margaret	in	dark eye
+1.0	it	be	soon dear
+1.0	it	be	soon
+1.0	it	be on	Christmas Day
+1.0	it	be	so soon dear
+1.0	it	be	so soon
+1.0	I	have tell	story of my birth for first time to-day
+1.0	I	have tell	story for first time to-day
+1.0	I	have tell	story
+1.0	I	have tell	story of my birth for time to-day
+1.0	I	have tell	story for time to-day
+1.0	I	have tell	you
+1.0	I	have tell	story of my birth
+1.0	father	have	brother
+0.37946778334805364	my uncle	die at_time	week
+0.37946778334805364	my uncle	die	I sail
+0.7259733506173495	you	be fond of	he
+0.7259733506173495	you	be	fond
+1.0	I	see	he
+1.0	I	be	_ _
+1.0	I	be	privat-docent
+1.0	I	be	_ privat-docent _
+1.0	Margaret	turn quickly	comprehend
+1.0	Margaret	turn quickly	comprehend suddenly
+1.0	Margaret	turn to	he
+1.0	Margaret	turn quickly to	he
+1.0	Margaret	turn	comprehend suddenly
+1.0	Margaret	turn	comprehend
+1.0	you	be	then heir
+1.0	you	be	heir
+1.0	it	be	great
+1.0	you	must help	I
+1.0	I	be	Dr. Claudius
+0.06221292408889589	he	add with	shade of regret
+1.0	he	add sentence with	shade of regret
+1.0	he	add sentence with	shade
+1.0	he	add	sentence
+1.0	he	add	last sentence
+0.06221292408889589	he	add with	shade
+1.0	you	be independent of	people
+1.0	he	answer with	smile
+1.0	you	wrangle with	lawyer
+1.0	you	wrangle for	money
+1.0	I	hate	feel
+1.0	it	be	get
+1.0	it	be	honestly get
+1.0	father	to	house
+1.0	we	make	it ours
+1.0	we	go to	my father 's house
+1.0	I	now have tell	you
+1.0	I	have tell	you
+1.0	I	welcome	my lady
+1.0	I	welcome	my dear lady
+1.0	Duke	lend	yacht
+1.0	Duke	lend	we
+1.0	tinge	be in	she voice

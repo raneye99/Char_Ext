@@ -1,0 +1,491 @@
+1.0	Nino	be	man
+1.0	Nino	be man for	emergency
+1.0	Nino	be man for	great emergency
+0.32349077516536473	I	occasion	say
+1.0	I	have have	occasion say
+1.0	he	walk with	face like marble
+1.0	he	walk with	face
+1.0	he	walk	straight across room to Benoni
+1.0	he	walk	straight across room
+1.0	he	face	he
+1.0	he	walk	straight
+1.0	you	be	unwelcome here
+1.0	he	say in	low voice
+1.0	you	be	most unwelcome here
+1.0	I	warn	you
+1.0	he	say in	voice
+1.0	you	be	unwelcome
+1.0	Baron Benoni	warn	you
+1.0	you	be	most unwelcome
+1.0	I	will make work	you attempt
+1.0	I	will make	short work
+1.0	I	will make	short work of you
+1.0	I	will make	work of you
+1.0	I	will make	work
+1.0	he	make	speech
+1.0	Benoni	eye	he
+1.0	I	see	Signor Grandi
+1.0	I	ascertain from	he
+1.0	I	always deal	say
+1.0	I	always great deal	say about everything
+1.0	I	great deal	say about everything
+1.0	I	always great deal	say
+1.0	I	deal	say about everything
+1.0	I	say about	everything
+1.0	I	always deal	say about everything
+1.0	I	great deal	say
+1.0	I	deal	say
+0.8201612326488128	Nino	would	scornfully would wiser
+0.8201612326488128	Nino	would	would wiser
+0.8201612326488128	you	would	scornfully would wiser
+0.6753403131491728	you	would	scornfully would wiser
+1.0	you	confine	yourself
+0.6753403131491728	you	would	would wiser
+0.8201612326488128	you	would	would wiser
+1.0	Signor Cardegna	protest	Benoni
+1.0	I	be	very old man
+1.0	I	be	old man
+1.0	breath	be with	stair
+1.0	I	be little out of	breath with stair
+1.0	I	be little	man
+1.0	I	be	little
+1.0	I	be little	old man
+1.0	I	be	man
+1.0	I	be little	very old man
+1.0	I	be little out of	breath
+1.0	I	be	old
+1.0	I	say from	side
+1.0	I	tell	you
+1.0	I	may as well occupy	you breathing time
+1.0	I	may as occupy	you breathing time
+1.0	I	say from	side of room
+1.0	I	may occupy	you breathing time
+1.0	I	say from	other side of room
+1.0	I	may well occupy	you breathing time
+1.0	I	say from	other side
+0.05660739264569409	I	consider in	light of interesting phenomenon
+0.05660739264569409	I	consider in	light
+0.05660739264569409	I	consider in	light of phenomenon
+0.7917368219894116	I	consider	you
+1.0	I	wish	say
+1.0	I	only wish	say
+1.0	I	be	old
+1.0	Hedwig	be in	deepest indignation
+1.0	many people	tell before	I
+1.0	people	tell so before	I
+1.0	many people	tell so before	I
+1.0	people	tell	I
+1.0	many people	tell	I
+1.0	people	tell before	I
+0.12827401377133596	I	believe with	heart
+0.12827401377133596	I	believe with	my heart
+1.0	I	meet in	long life
+1.0	I	meet in	singularly long life
+1.0	I	leave	Rome
+1.0	I	leave rome for	St. Petersburg
+1.0	I	meet in	very singularly long life
+1.0	I	meet as	this of yours
+1.0	I	meet in	life
+1.0	I	meet as	this
+1.0	I	find	it dangerous thing
+1.0	I	find	it thing
+1.0	old man	be in	love
+0.805566544631659	something	so odd about	he manner
+0.805566544631659	something	odd about	he manner
+1.0	love	be	abominable sham
+1.0	I	amuse	myself
+1.0	love	be	so very generally sham
+1.0	love	be	very generally abominable sham
+1.0	love	be	rare
+1.0	love	be	thing
+1.0	I	diabolically devise	plan
+1.0	I	devise	plan for its destruction
+1.0	I	diabolically devise	plan for its destruction
+1.0	love	be	so very generally abominable sham
+1.0	love	be	generally sham
+1.0	I	devise	plan
+1.0	love	be	sham
+1.0	love	be	rare thing
+1.0	love	be	abominable
+1.0	love	be	generally abominable sham
+1.0	I	often amuse	myself
+1.0	love	be	very generally sham
+1.0	I	very nearly come on	occasion
+1.0	I	nearly come to	grief
+1.0	I	come on	occasion
+1.0	I	come to	grief
+1.0	I	very nearly come to	grief
+1.0	I	nearly come to	grief myself
+1.0	I	come to	grief myself
+1.0	I	very nearly come to	grief myself
+1.0	I	nearly come on	occasion
+1.0	thing	happen ago to	I
+1.0	same thing	happen ago to	I
+1.0	thing	happen to	I
+1.0	same thing	happen to	I
+1.0	I	chance	have
+1.0	I	have with	I
+1.0	it	may amuse	you
+1.0	you	look at	paper
+1.0	I	chance	have with I
+1.0	I	leave for	St. Petersburg
+1.0	I	leave at	once
+1.0	he name	be	Ahasuerus
+1.0	Benoni	reply from	door
+1.0	he name	be	certainly Ahasuerus
+1.0	Benoni	reply from	outer door
+1.0	it	may	may coincidence
+1.0	it	may	may coincidence after all
+1.0	he	be	go
+1.0	he	have throw upon	chair
+1.0	passage	mark with	pencil
+1.0	passage	mark with	red pencil
+1.0	Baron Benoni	banker of	St. Petersburg
+1.0	I	read	it
+1.0	private lunatic asylum	be in	Paris
+1.0	I	read aloud	it
+1.0	that	be	all
+1.0	paper	be	_ Paris Figaro _
+1.0	she	forget	Benoni
+1.0	we	be silent for	time
+1.0	we	be	silent
+1.0	we	be all silent for	time
+1.0	we	be	all silent
+1.0	he	ask in	subdue voice
+1.0	he	ask in	voice
+1.0	he	be	here time
+1.0	he	be	long
+1.0	he	be	long time
+1.0	he	be	time
+1.0	he	be	here long time
+0.633593924617174	I	offer	he say
+1.0	I	fight	he
+1.0	unpleasant thing	say	I offer
+0.977070585590353	one	smooth	my hair
+1.0	I	be	half smother
+1.0	I	be	smother
+0.47318217566553156	Dear Signor Grandi	cry	Hedwig anxiously good
+0.47318217566553156	Dear Signor Grandi	cry	Hedwig anxiously
+0.47318217566553156	Dear Signor Grandi	cry	Hedwig anxiously how good
+0.47318217566553156	Dear Signor Grandi	cry	Hedwig good
+0.47318217566553156	Dear Signor Grandi	cry	Hedwig
+0.47318217566553156	Dear Signor Grandi	cry	Hedwig how good
+0.5931958473991769	offer	fight	Lira
+1.0	I	have tell	you
+1.0	he	be go	do
+1.0	I	tell	he
+1.0	you	do tell	he
+1.0	you	do tell	he
+1.0	he	will think differently at_time	day
+1.0	he	will think at_time	day
+1.0	we	chat for	hour
+1.0	we	enjoy	sweet sunshine
+1.0	we	enjoy	sunshine of Easter afternoon
+1.0	we	chat away for	hour
+1.0	we	enjoy	peace
+1.0	we	enjoy	rest
+1.0	we	enjoy	sunshine
+1.0	we	enjoy	sweet sunshine of Easter afternoon
+1.0	carriage	seem	stop
+1.0	carriage	drive down	street
+1.0	carriage	seem	stop at door of my house
+1.0	carriage	seem	stop at door
+1.0	Nino	look idly out of	window
+1.0	Nino	look out of	window
+1.0	it	be meeting	be one thing
+1.0	it	be	meeting
+1.0	it	be meeting with	she father
+1.0	meeting	be with	she father
+1.0	Nino	look at	she
+1.0	I	hear	Lira 's tread on stair
+1.0	I	go	myself
+1.0	I	hear	Lira 's slow tread on stair
+1.0	I	hear	Lira 's slow tread
+1.0	I	hear	Lira 's tread
+0.5624514432690371	I	go to	door
+1.0	he	glance up from	step
+1.0	step	one with	he stick
+1.0	he	glance up from	one at time with he stick
+1.0	step	one at	time
+1.0	he	glance up at	I
+1.0	he voice	sound	just Nino 's do
+1.0	I	conduct	he
+1.0	he voice	sound	Nino 's do
+1.0	he voice	sound	subdue
+1.0	it	be	meeting
+1.0	it	be	strangest meeting
+1.0	man	bow stiffly to	Hedwig
+1.0	proud old man	bow stiffly to	Hedwig
+1.0	proud man	bow stiffly to	Hedwig
+1.0	proud old man	bow to	Hedwig
+1.0	man	bow to	Hedwig
+1.0	old man	bow stiffly to	Hedwig
+1.0	proud man	bow to	Hedwig
+1.0	old man	bow to	Hedwig
+1.0	they	bent	they head
+1.0	death	be in	sunny room
+1.0	they	also bent	they head
+1.0	I	have	word
+1.0	I	have	word with you
+1.0	word	be with	you
+1.0	Lira	be with	evident effort
+1.0	I	see	she
+1.0	Nino	to	arm
+1.0	I	watch	Hedwig
+1.0	she	cling with	hand
+1.0	she face	wear	look
+1.0	law	be in	Sparta
+1.0	child	be	whereby put
+1.0	disobedient child	be	whereby put to death without mercy
+1.0	good old law	be in	Sparta
+1.0	disobedient child	be put to	death
+1.0	child	be put without	mercy
+1.0	child	be	whereby put to death without mercy
+1.0	disobedient child	be	whereby put without mercy
+1.0	disobedient child	be	whereby put to death
+1.0	disobedient child	be put without	mercy
+1.0	child	be put to	death
+1.0	child	be	put
+1.0	good law	be in	Sparta
+1.0	disobedient child	be	whereby put
+1.0	disobedient child	be	put
+1.0	child	be	whereby put to death
+1.0	child	be	whereby put without mercy
+1.0	old law	be in	Sparta
+1.0	child	be	put to death without mercy
+1.0	disobedient child	be	put to death without mercy
+1.0	Sparta	be	good country
+1.0	Sparta	be	country
+1.0	Sparta	be	good
+1.0	you	have disobey	I
+1.0	you	have cruelly disobey	I
+1.0	he	make	mistake
+1.0	nothing	sorrowful for	good parent
+1.0	nothing	so sorrowful for	good parent
+1.0	nothing	so sorrowful	discover
+1.0	nothing	so sorrowful for	parent
+1.0	nothing	sorrowful for	parent
+1.0	nothing	sorrowful	discover
+0.5931958473991769	nothing	reproach	myself
+1.0	I	be mistake	suppose
+1.0	I	be	mistake
+1.0	you	have despise	all
+1.0	I	have do for	you
+1.0	I	say in	you letter
+1.0	you	leave	I
+1.0	I	promise	you
+1.0	you	take	signal action
+1.0	I	say in	you miserable letter
+1.0	I	see	Benoni
+1.0	you	leave	I
+1.0	I	see also	he
+1.0	I	see also	madam
+1.0	he	look accord to	standard
+1.0	I	see	madam
+1.0	I	see madam on	night
+1.0	he	look accord to	ordinary standard of mind
+1.0	he	look accord to	ordinary standard
+1.0	I	be	reluctantly force
+1.0	he	look accord to	standard of mind
+1.0	I	be	force
+1.0	I	just see	Benoni
+1.0	I	see	he
+1.0	I	see also madam on	night
+1.0	little murmur	be in	room
+1.0	count	so state	he opinion
+1.0	old count	clearly state	he opinion
+1.0	old count	so state	he opinion
+1.0	old count	state	he opinion
+1.0	count	state	he opinion
+1.0	old count	so clearly state	he opinion
+1.0	Benoni	on	sanity
+1.0	count	so clearly state	he opinion
+1.0	count	clearly state	he opinion
+1.0	you	marry	he
+1.0	I	desire	you
+1.0	I	consider for	you
+1.0	you	take law like	most unnatural daughter
+1.0	you	take law like	daughter
+1.0	you	take	law
+0.20181629862918993	he	prove in	he own rank of life
+1.0	you	take law into	you hand
+1.0	you	take law into	you own hand
+1.0	I	consider	unfit
+0.20181629862918993	he	prove in	he own rank
+0.20181629862918993	he	prove in	he rank of life
+1.0	you	take law like	unnatural daughter
+0.20181629862918993	he	prove in	he rank
+1.0	you	take law	you be
+1.0	he	glance at	Nino
+1.0	I	consider	totally unfit
+1.0	he	prove	himself
+1.0	affair	reality of be	when accomplished fact
+1.0	affair	reality of be	accomplished fact
+1.0	affair	reality of be	fact
+1.0	affair	reality of be	when fact
+1.0	I	tell	you
+1.0	I	be betray into	piece of rash violence
+1.0	I	be	betray
+1.0	I	be betray into	piece
+1.0	I	be	when betray into piece of rash violence
+1.0	I	be	when betray
+1.0	I	be	when betray into piece
+1.0	she	be	mine
+1.0	my wed wife	tell	you
+1.0	she	be mine by	she own free consent
+1.0	she	be mine by	she own consent
+1.0	I	stand here	to-day
+1.0	I	stand	to-day by my side
+1.0	she	be mine by	she free consent
+1.0	I	keep	my word
+1.0	I	stand here	to-day by my side
+1.0	I	stand here	to-day with she
+1.0	I	stand	to-day
+1.0	I	stand	to-day with she
+1.0	my wife	tell	you
+1.0	I	stand	to-day with she by my side
+1.0	she	be mine by	she consent
+1.0	I	stand here	to-day with she by my side
+1.0	you	take	vengeance
+1.0	you	take personally	vengeance
+1.0	you	take vengeance on	I
+1.0	you	take vengeance personally on	I
+1.0	I	offer	life
+1.0	I	offer	my life
+1.0	I	offer	she my life
+1.0	I	offer	she life
+1.0	I	be	one
+1.0	I	kill	myself
+0.8039701881252309	you	word	speak
+1.0	Nino	utter word in	good italian
+1.0	Nino	utter	hot word
+1.0	Nino	utter word in	plain italian
+1.0	they	have	sound
+1.0	Nino	utter word in	good plain italian
+1.0	Nino	utter	word
+1.0	they	have	sound of strength
+1.0	they	have	bold sound of strength
+1.0	Nino	utter word in	italian
+1.0	they	have	bold sound
+1.0	old count	do	foolish violence
+1.0	count	perhaps do	violence
+1.0	count	do	violence
+1.0	old count	perhaps do	violence
+1.0	old count	do	violence
+1.0	count	perhaps do	foolish violence
+1.0	old count	perhaps do	foolish violence
+1.0	count	do	foolish violence
+1.0	he	stand	silent
+1.0	word	be	speak
+1.0	word	be	when speak
+0.5347564444916469	I	prolong	interview
+0.5347564444916469	I	prolong	painful interview
+1.0	I	have say	all
+1.0	my daughter	be	happy
+1.0	we	will part for	present
+1.0	my daughter	be happy with	you
+1.0	it	be	useless
+1.0	Hedwig	would try	more
+1.0	Hedwig	would try	once more
+1.0	more	soften	he
+1.0	she	hold back	he
+1.0	she	spring to	he
+1.0	she	hold	he
+1.0	he	push	she
+1.0	I	wish	you
+1.0	he	march to	door
+1.0	he	push aside	she
+1.0	he	treat	she
+1.0	I	see with	my own eye
+1.0	I	see with	my eye
+1.0	Hedwig	easily make up	she mind
+1.0	I	be surprise	I have wonder at first
+1.0	I	be surprise	I have wonder
+1.0	Hedwig	so easily make up	she mind
+1.0	Hedwig	make up	she mind
+1.0	I	be	surprise
+1.0	I	have wonder at	first
+1.0	he	have shine at_time	day
+1.0	sun	appear	he have shine day
+1.0	it	have seem	dark
+1.0	sun	appear	it have sometimes seem
+1.0	sun	appear	shine
+1.0	he	be	when go
+1.0	sun	appear	it have seem
+1.0	it	have sometimes seem	dark
+1.0	it	have seem	so dark
+1.0	he	be	go
+1.0	sun	appear	shine again
+1.0	it	have sometimes seem	so dark
+1.0	storm	be in	room
+1.0	storm	be in	little room
+1.0	Nino	catch	she
+1.0	she face	more rest on	he broad breast
+1.0	she face	rest on	he breast
+1.0	she face	rest on	he broad breast
+1.0	she face	once more rest on	he broad breast
+1.0	she face	once more rest on	he breast
+1.0	she face	more rest on	he breast
+1.0	they	forget	all
+1.0	dear child	forget	all about I
+1.0	child	forget	all
+1.0	child	forget	all about I
+1.0	dear child	forget	all
+1.0	they	forget	all about I
+1.0	you	be	Nino
+1.0	you	be	sorry too
+1.0	you	be	sorry
+1.0	he	stroke	she hair
+1.0	my father	be	angry
+1.0	you	leave	he
+1.0	she	again hide	she face
+1.0	she	hide	she face
+0.020578592169553496	Hedwig	move	say
+1.0	Hedwig	move	she head
+1.0	she head	say	yes
+1.0	small hand	tenderly draw	he face
+1.0	white hand	tenderly draw	he face
+1.0	small hand	clasp about	he throat
+1.0	small white hand	draw	he face
+1.0	small white hand	hers to	he
+1.0	white hand	draw	he face
+1.0	white hand	clasp about	he broad throat
+1.0	hand	tenderly draw	he face
+1.0	small white hand	clasp about	he broad throat
+1.0	hand	clasp about	he throat
+1.0	small hand	clasp about	he broad throat
+1.0	hand	hers to	he
+1.0	hand	draw	he face
+1.0	white hand	hers to	he
+1.0	small white hand	clasp about	he throat
+1.0	small white hand	tenderly draw	he face
+1.0	white hand	clasp about	he throat
+1.0	hand	clasp about	he broad throat
+1.0	small hand	draw	he face
+1.0	small hand	hers to	he
+1.0	I	think	they die
+1.0	I	think	they die together
+1.0	he	be	my own dear boy
+1.0	I	have say in	page
+1.0	he	be	my own boy
+1.0	I	have often say in	page
+1.0	he	be	my dear boy
+1.0	he	be	my boy
+1.0	they	be	right
+1.0	old Lira	will acknowledge	it
+1.0	Lira	will acknowledge	it
+1.0	he	be	hard
+1.0	he	be	old
+1.0	they	leave rome for	Vienna
+1.0	they	leave	Rome
+1.0	they	be	happy together
+1.0	they	will	will happy
+1.0	they	will	will happy always
+1.0	they	be	happy
+1.0	nothing	be with	they
+1.0	nothing	be in	story
+1.0	it	be	well
+1.0	it	be well	so
+1.0	I	just finish	writing
+1.0	spring	be with	Mariuccia
+1.0	I	finish	writing

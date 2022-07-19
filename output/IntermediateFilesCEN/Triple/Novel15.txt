@@ -1,0 +1,599 @@
+1.0	memory	wake	he diffidence of self
+1.0	memory	wake	he own habitual diffidence of self
+0.8183372983951731	he	cease	yearn
+1.0	memory	awake within	he
+0.8183372983951731	he	cease	yearn for sight of Seraphina
+1.0	memory	wake	he habitual diffidence of self
+1.0	memory	wake	he own diffidence
+0.8183372983951731	he	cease	misfortune
+0.9600298968303401	he	yearn for	sight
+1.0	memory	wake	he habitual diffidence
+0.9600298968303401	he	yearn for	sight of Seraphina
+0.8183372983951731	he	cease	yearn for sight
+0.08771611818411693	he	cease to	pity
+1.0	memory	wake	he diffidence
+1.0	memory	wake	he own habitual diffidence
+1.0	memory	wake	he own diffidence of self
+0.8183372983951731	he	cease misfortune to	pity
+0.7268745741867852	time	tell all	he
+1.0	she	speed to	Felsenburg
+0.7268745741867852	time	tell	he
+1.0	he	proffer	caress
+1.0	he	proffer	unloved caress
+1.0	she	be	now fall
+1.0	he	proffer caress to	wife
+1.0	he	see	himself
+1.0	she	be	fall
+1.0	he	begin	it be
+1.0	he	comfort	he wife
+0.5600140681735016	he anger	carriage of	generosity
+1.0	he	comfort	he unloving wife
+0.5600140681735016	he anger	carriage of	hostile generosity
+1.0	he	behold	Princess
+1.0	he	turn corner at	length
+1.0	it	reassure	she of purity
+1.0	he	turn	corner
+1.0	it	reassure	she
+1.0	it	reassure	she of purity of he respect
+1.0	it	be	he thought
+1.0	it	be	he first thought
+1.0	he	once cease	run
+0.11982177299755592	he	turn at	length
+1.0	it	be	so he first thought
+1.0	it	be	so he thought
+1.0	he	cease	run
+1.0	she	pause	smitten
+1.0	length	be with	most guilty timidity
+1.0	she	pause also	smitten
+1.0	she	run with	cry
+1.0	she	pause also	smitten with remorse
+1.0	she	run with	little cry
+1.0	she	run to	he
+1.0	she	pause	smitten with remorse
+1.0	she	stand	silent
+1.0	they	have	have lock in embrace
+1.0	they	have	have lock
+1.0	they	have	have soon lock
+1.0	they	have	have soon lock in embrace
+1.0	Otto	must hear	I
+1.0	you	must hear	I
+1.0	I	have	have teach so cruelly
+1.0	I	see change	world
+1.0	I	have	have teach cruelly
+1.0	I	have have time for	thought
+1.0	I	see	world
+1.0	I	have have	time
+1.0	I	have	have teach
+1.0	I	have have	such time
+1.0	I	see so change	world
+1.0	I	have	have blind
+1.0	I	have let	true good go by I
+1.0	I	live on	shadow
+0.5749198210370318	I	true good go by	I
+1.0	I	have betray	you
+1.0	she	say with	flush
+1.0	she	say with	deep flush
+1.0	mention	prick	Princes generosity
+1.0	mention	prick princes generosity like	spur
+1.0	it	be	my duty
+1.0	love	have	battle
+1.0	weakness	repose in	love
+1.0	I	conjure	you
+1.0	you	forgive	weakness
+1.0	he	impose	silence
+1.0	he	impose silence with	uplifted hand
+1.0	he	cry	see
+1.0	he	impose silence with	hand
+0.5902762378673827	it	be purge of	conjugal pretension
+1.0	you	accept affection without	embarrassment
+1.0	you	may forget for	part
+1.0	you	find distasteful	I
+1.0	you	find so distasteful	I
+1.0	you	accept	affection
+1.0	you	accept	affection of brother
+1.0	you	may forget for	ever part
+1.0	you	find	I
+1.0	I	forfeit	you love
+1.0	o	leave	I
+1.0	my honour	be	engage
+1.0	I	have	mile from here
+1.0	I	will conduct	you
+1.0	we	set about	business of escape
+1.0	we	set in	best spirit possible
+1.0	you	forgive	I
+1.0	we	set about	business
+1.0	we	set in	spirit possible
+1.0	I	be	pleasant
+1.0	you	use	say
+1.0	I	be	now
+1.0	you	may like	my company
+1.0	I	be	neither now
+1.0	it	be	capture
+1.0	it	be	idle
+1.0	Forth	say	he begin
+1.0	Forth	say	he
+1.0	he	lead	way
+1.0	foot-path	descend	dell
+1.0	foot-path	descend dell on	one bank of loquacious water
+1.0	foot-path	descend dell on	one bank of water
+1.0	foot-path	descend dell on	one bank
+1.0	foot-path	descend	green dell
+1.0	it	lay on	steep scarp
+1.0	it	lay on	steep scarp of ravine
+1.0	it	be	rocky
+1.0	it	be choke with	bramble
+1.0	it	be	rocky there
+1.0	it	be	here rocky
+1.0	it	be	choke
+1.0	it	lay on	scarp of ravine
+1.0	it	here be choke with	bramble
+1.0	it	be	here choke
+1.0	it	lay on	scarp
+1.0	it	be	here rocky there
+1.0	hillside	ooze with	well-water
+1.0	hillside	ooze like	sponge
+1.0	burn	grow in	force
+1.0	Great	great change	it have work
+1.0	Great	change	it have work
+1.0	Great	have	have labour of stream
+1.0	Great	have	have labour
+1.0	Great	great and agreeable change	it have work
+1.0	it	have cut through	dyke of stubborn rock
+1.0	it	have cut through	dyke
+1.0	it	have cut through	dyke of rock
+1.0	she	eye	half desperately
+1.0	she face	would lighten upon	he she eye
+1.0	she face	would lighten from	time
+1.0	she face	would lighten upon	half
+1.0	she face	would lighten upon	half desperately
+1.0	he	eye	half desperately
+1.0	she face	would lighten from	time to time
+1.0	he	help	she
+0.582157460729957	stream	grow to	bulk
+0.582157460729957	stream	already grow to	good bulk
+0.582157460729957	stream	already grow to	good bulk water
+0.582157460729957	stream	already grow to	bulk water
+0.582157460729957	stream	grow to	bulk water
+1.0	third abducted	be in	wooden trough
+1.0	stream	be	dam across
+0.582157460729957	stream	already grow to	bulk
+1.0	stream	be	dam
+1.0	stream	be	rudely dam across
+1.0	stream	be	rudely dam
+0.582157460729957	stream	grow to	good bulk water
+0.582157460729957	stream	grow to	good bulk
+1.0	air	have	first cousin fleet along rude aqueduct
+0.528054499680204	path	bear	company
+1.0	path	thread	wilderness
+0.528054499680204	path	bear	close company
+1.0	path	thread	wilderness of briar
+1.0	top	presently arise in	narrow of glen
+0.8599469230434651	silence	music of	saw
+1.0	top	presently arise in	narrow
+1.0	snore music	break	silence
+1.0	brown top	arise in	narrow of glen
+1.0	top	arise in	narrow of glen
+1.0	brown top	presently arise in	narrow of glen
+1.0	brown top	presently arise in	narrow
+1.0	top	arise in	narrow
+0.8599469230434651	silence	snore music of	saw
+1.0	music	break	silence
+1.0	brown top	arise in	narrow
+1.0	miller	come forth to	he door
+1.0	miller	hear	step
+1.0	miller	come to	he door
+1.0	I	be	wrong
+1.0	I	give	news
+1.0	I	give	you
+1.0	I	bid	you
+1.0	great	be	fall
+1.0	great	be fall of	it
+1.0	you friend	bear	rule
+1.0	you good friend	bear	rule
+1.0	miller	look	supreme astonishment
+1.0	red-faced miller	look	astonishment
+1.0	miller	look	astonishment
+1.0	red-faced miller	look	supreme astonishment
+1.0	father	have	son
+1.0	you	do arrest	we
+1.0	sir	make	sure
+1.0	man	be in	Grunewald
+0.5809051679272051	hand	man in	Grunewald
+0.02038138290973901	man	lay upon	you
+1.0	man	lay hand upon	you
+1.0	man	lay	hand
+1.0	I	make	sure
+1.0	miller	colour of	beetroot
+1.0	miller	become	colour of beetroot
+1.0	miller	become	colour
+1.0	miller	once more colour to	nape
+1.0	miller	colour to	nape
+1.0	miller	more colour to	nape
+1.0	miller	once colour to	nape
+1.0	he	bring wine in	pitcher
+1.0	he	bring forth	wine
+1.0	he	bring	wine
+1.0	he	bring forth wine in	pitcher
+1.0	he	fill	they
+1.0	I	be	habitual
+1.0	I	be	habitual drinker
+1.0	I	be	drinker
+1.0	I	drink to	you
+1.0	wine	be	drunk
+0.5862914366628286	I	owe	man
+1.0	some	be	teach
+1.0	some	be	teach so
+1.0	he	say with	embarrassment
+1.0	he	well say with	painful embarrassment
+1.0	he	say with	painful embarrassment
+1.0	he	well say with	embarrassment
+1.0	we	think of	safety
+1.0	we	follow down	stream
+1.0	world	have	end for solitude
+1.0	you	be	tired
+1.0	you	be	too tired
+1.0	you	could pass	way
+0.2230464731673876	they	burst across	veil
+1.0	they	have now	burst
+1.0	they	solemnly surround by	tree
+1.0	they	surround by	tree
+1.0	they	have	burst
+1.0	they	be	come
+1.0	they	be come into	lawn
+1.0	they	be	come into lawn among forest
+1.0	they	be come among	forest
+0.2230464731673876	they	burst across	veil of underwood
+1.0	he glance	return	she stand
+1.0	Otto	look about	he
+0.4903819107171057	she	frame in	silvan pleasantness
+1.0	she husband	be with	undecipherable eye
+1.0	Otto	pause	look about he
+1.0	Otto	look with	delight
+1.0	he glance	return to	Seraphina
+1.0	Otto	pause on	margin
+1.0	Otto	pause	look
+1.0	cord	be	relax
+1.0	he eye	cling to	she
+1.0	love	for	summons
+1.0	she	sit with	she eye
+1.0	sound	draw near	they
+1.0	sound	die away in	distance
+1.0	sound	die in	distance
+1.0	sound	be in	forest
+1.0	sound	draw with	run rush
+1.0	sound	draw with	rush
+1.0	sound	die away and away in	distance
+1.0	it	seem	whole frame be wait for he word
+1.0	he pride	keep	he silent
+1.0	it	seem	whole frame of nature be wait
+1.0	it	seem to	Otto
+1.0	it	seem	frame be wait for he word
+1.0	it	seem	frame of nature be wait for he word
+1.0	it	seem	frame be wait
+1.0	whole frame	be wait for	he word
+1.0	it	seem	frame of nature be wait
+1.0	it	seem	whole frame of nature be wait for he word
+1.0	it	seem	whole frame be wait
+1.0	frame	be wait for	he word
+1.0	he pride	yet keep	he silent
+1.0	he	watch	that
+1.0	Seraphina	say	right
+1.0	you	know	one thing
+1.0	it	be	right
+1.0	he	say at	last
+1.0	he	say	right
+1.0	Seraphina	say at	last
+1.0	it	be	generous
+1.0	it	speak of	it
+1.0	I	mean	only this
+1.0	I	mean	this
+1.0	brave woman	look down on	weak man
+1.0	brave woman	look down on	man
+1.0	woman	look down on	man
+1.0	woman	look down on	weak man
+1.0	I	see	myself
+1.0	I	see	myself
+1.0	I	yes see	myself
+1.0	o	yes see	myself
+1.0	o	see	myself
+1.0	we	reverse	part
+0.8775073399003737	friend	tell	I
+1.0	I	how generously forgive	myself
+1.0	you	see on	term
+1.0	Seraphina	see on	term
+1.0	I	generously forgive	myself
+1.0	I	forgive	myself
+1.0	finger	nestle in	he
+1.0	he	take	it
+1.0	love	run	finger settle
+1.0	love	run in	tender
+1.0	smooth finger	nestle in	he
+1.0	love	run to	to they
+1.0	love	run	smooth finger settle
+1.0	Seraphina o	forget	past
+1.0	I	be	you servant
+1.0	he	hurry	he plead
+1.0	he	hurry	he plead like speech
+1.0	he	hurry	he plead like speech of child
+1.0	he	hurry	he plead like speech of frightened child
+1.0	she	say in	pain
+1.0	he	look up into	she face
+1.0	it	be	wring with ecstasy of tenderness on she feature
+1.0	it	be wring on	she feature
+1.0	it	be wring with	very ecstasy of tenderness
+1.0	it	be	wring with ecstasy on she feature
+1.0	it	be	wring with very ecstasy on she feature
+1.0	it	be	wring with very ecstasy of tenderness on she feature
+1.0	it	be wring with	ecstasy
+1.0	it	be wring with	ecstasy of tenderness
+1.0	it	be	wring
+1.0	it	be wring with	very ecstasy
+1.0	leaf	be come on	young tree
+1.0	leaf	be come on	tree
+1.0	flower	begin to	blossom
+0.6688584212434429	we	meet for	first time
+0.6688584212434429	we	meet for	time
+1.0	it	be	better
+1.0	it	be	much better
+1.0	it	be	so much better
+1.0	God	's mercy be	oblivion
+1.0	God	have	mercy
+1.0	man	have	oblivion
+0.36632681049637295	it	be	let
+1.0	Seraphina	let	stranger
+0.36632681049637295	it	be	so let
+0.36632681049637295	it	be	indeed let
+0.36632681049637295	it	be	so indeed let
+1.0	I	have dream in	dream
+1.0	I	have dream in	long dream
+1.0	Republic	be	declare
+1.0	Republic	be declare in	Mittwalden rath-haus
+1.0	Republic	meanwhile be declare in	Mittwalden rath-haus
+1.0	they	speak in	spring wood
+1.0	Republic	be	meanwhile declare
+1.0	best account	be	find by we acquaintance
+1.0	account	be find in	memoirs
+1.0	best account	be	find
+1.0	best account	be	find in memoirs by we acquaintance
+1.0	account	be	find in memoirs by we acquaintance
+1.0	best account	be find by	we pass acquaintance
+1.0	account	be	find
+1.0	best account	be	find in memoirs of Herr Greisengesang by we acquaintance
+1.0	account	be	find in memoirs of Herr Greisengesang by we pass acquaintance
+1.0	account	be find in	memoirs of Herr Greisengesang
+1.0	account	be	find in memoirs by we pass acquaintance
+1.0	account	be	find in memoirs of Herr Greisengesang by we acquaintance
+1.0	best account	be	find
+1.0	account	be	find in memoirs of Herr Greisengesang by we pass acquaintance
+1.0	best account	be	find in memoirs of Herr Greisengesang
+1.0	best account	be	find in memoirs by we acquaintance
+1.0	best account	be	find in memoirs by we pass acquaintance
+1.0	account	be	find in memoirs by we pass acquaintance
+1.0	account	be find by	we acquaintance
+1.0	best account	be	find in memoirs of Herr Greisengesang by we acquaintance
+1.0	account	be find by	we pass acquaintance
+1.0	best account	be	find in memoirs
+1.0	account	be	find in memoirs of Herr Greisengesang
+1.0	account	be	find in memoirs of Herr Greisengesang by we acquaintance
+1.0	best account	be	find in memoirs of Herr Greisengesang by we pass acquaintance
+1.0	best account	be find by	we acquaintance
+1.0	account	be	find in memoirs
+1.0	best account	be	find by we pass acquaintance
+1.0	account	be	find by we acquaintance
+1.0	account	be	find
+1.0	best account	be	find in memoirs of Herr Greisengesang by we pass acquaintance
+1.0	best account	be	find in memoirs by we pass acquaintance
+1.0	account	be	find by we pass acquaintance
+1.0	best account	be find in	memoirs of Herr Greisengesang
+1.0	account	be	find in memoirs by we acquaintance
+1.0	best account	be find in	memoirs
+1.0	Herr Roederer	make	great figure of he hero
+1.0	Herr Roederer	make figure with	too much
+1.0	Herr Roederer	make figure with	too much of author 's licence
+1.0	Herr Roederer	make	figure
+1.0	Herr Roederer	make	figure of he hero
+1.0	he	be centre-piece of	whole
+1.0	Herr Roederer	make figure with	much
+1.0	Herr Roederer	make	great figure
+1.0	Herr Roederer	make figure with	much of author 's licence
+1.0	author	of	licence
+1.0	he	be	centre-piece
+1.0	reader	be of	course acquaint page
+1.0	reader	be of	course acquaint page Sir John
+1.0	reader	be of	course acquaint vigorous page Sir John
+1.0	reader	be of	course
+1.0	reader	be of	course acquaint vigorous page
+1.0	reader	be of	course acquaint
+1.0	sympathy	have countersign	admiration
+1.0	he character	be draw at	large
+0.838989834801445	admiration	sympathy of	Landor
+1.0	he character	be	draw
+1.0	sympathy	have countersign	admiration of public
+0.4332009986312979	Lion	come	figure at length among my modest page
+1.0	it	figure among	my more modest page
+0.4332009986312979	Lion	come	figure
+1.0	chapter	be tear by	hand
+0.4332009986312979	Lion	come	figure among my page
+1.0	Lion	come	it
+1.0	chapter	be tear by	hand of author in palace garden
+1.0	chapter	be	tear
+0.4332009986312979	Lion	come	figure at full length among my more modest page
+0.4332009986312979	Lion	come	figure among my more modest page
+0.4332009986312979	Lion	come	figure at full length among my modest page
+0.4332009986312979	Lion	come	figure at full length among my page
+0.4332009986312979	Lion	come	figure at length
+1.0	it	figure at	length
+1.0	it	figure at	full length
+0.4332009986312979	Lion	come	figure at length among my page
+0.4332009986312979	Lion	come	figure at length among my more modest page
+1.0	it	figure among	my page
+1.0	it	figure among	my modest page
+1.0	chapter	be tear by	hand of author
+0.4332009986312979	Lion	come	figure among my modest page
+0.4332009986312979	Lion	come	figure at full length
+1.0	author	be in	palace garden
+0.9236703362219745	it	lion of	caravan
+1.0	he	be	once profanely call
+1.0	he	be	profanely call
+1.0	literatus	juvenal	profanely call
+1.0	literatus	juvenal	once profanely call
+1.0	literatus	juvenal	call
+1.0	literatus	be	man
+1.0	eminent literatus	juvenal by	double entry
+1.0	eminent literatus	juvenal	once profanely call
+1.0	literatus	juvenal by	double entry
+1.0	eminent literatus	juvenal by	entry
+1.0	eminent literatus	juvenal	call
+1.0	literatus	juvenal by	entry
+1.0	eminent literatus	juvenal	profanely call
+1.0	he	be	call
+1.0	he	be	at time indeed possess of two scroll
+1.0	he	be	at time possess of two blot scroll
+1.0	he	indeed be possess of	two scroll
+1.0	he	be	at time indeed possess of two blot scroll
+1.0	he	be possess of	two scroll
+1.0	he	be possess of	two blot scroll
+1.0	he	be	at time possess of two scroll
+1.0	he	indeed be possess of	two blot scroll
+1.0	he	be	indeed possess
+1.0	he	be possess at	time
+1.0	he	be	possess
+1.0	he	indeed be possess at	time
+1.0	fair copy	be in	double
+1.0	chapter	be omit from	memoirs on court
+1.0	chapter	be	omit
+1.0	chapter	be omit	reader know
+1.0	chapter	be honestly omit	reader know
+1.0	chapter	be honestly omit from	famous memoirs on court
+1.0	chapter	be honestly omit from	memoirs on court
+1.0	chapter	be omit from	memoirs on various court
+1.0	chapter	be honestly omit from	memoirs on various court of Europe
+1.0	chapter	be honestly omit from	famous memoirs
+1.0	chapter	be	honestly omit
+1.0	chapter	be honestly omit from	memoirs
+1.0	chapter	be honestly omit from	famous memoirs on court of Europe
+1.0	chapter	be honestly omit from	famous memoirs on various court
+1.0	chapter	be omit from	famous memoirs on court of Europe
+1.0	chapter	be omit from	famous memoirs on various court of Europe
+1.0	chapter	be omit from	memoirs
+1.0	chapter	be omit from	memoirs on court of Europe
+1.0	chapter	be omit from	memoirs on various court of Europe
+1.0	chapter	be omit from	famous memoirs on various court
+1.0	chapter	be omit from	famous memoirs on court
+1.0	chapter	be omit from	famous memoirs
+1.0	chapter	be honestly omit from	memoirs on various court
+1.0	chapter	be honestly omit from	memoirs on court of Europe
+1.0	chapter	be honestly omit from	famous memoirs on various court of Europe
+1.0	it	give	it
+1.0	it	have	have mine
+0.02249846269641098	bibliography	still help with	glimpse of we character
+0.02249846269641098	bibliography	help with	glimpse
+0.02249846269641098	bibliography	help with	further glimpse
+0.02249846269641098	bibliography	still help with	further glimpse
+0.02249846269641098	bibliography	still help with	glimpse
+1.0	bibliography	help	we
+0.02249846269641098	bibliography	help with	glimpse of we character
+0.02249846269641098	bibliography	still help with	further glimpse of we character
+0.02249846269641098	bibliography	help with	further glimpse of we character
+1.0	bibliography	still help	we
+1.0	I	have	volume
+1.0	I	have here	small volume
+1.0	I	have here	volume
+1.0	I	have	small volume
+1.0	printer	have	name
+1.0	I	have here volume before	I
+1.0	I	have volume before	I
+1.0	name	be write on	fly-leaf
+1.0	name	be write on	fly-leaf in hand of Prince Otto
+1.0	name	be write on	fly-leaf himself
+1.0	Mine	be	presentation copy obtain
+1.0	fly-leaf	be in	hand of Prince Otto
+0.5338390893350711	Mine	obtain in	Haymarket
+1.0	Mine	be	presentation copy obtain by Mr. Bain in Haymarket
+1.0	name	be write on	fly-leaf in hand of Prince Otto himself
+1.0	Mine	be	presentation copy obtain for I
+0.5338390893350711	Mine	obtain for	I
+1.0	Mine	be	presentation copy obtain for I in Haymarket
+1.0	name	be write on	fly-leaf in hand
+1.0	Mine	be	presentation copy obtain by Mr. Bain
+1.0	Mine	be	presentation copy
+1.0	Mine	be	presentation copy obtain for I by Mr. Bain
+1.0	name	be write on	fly-leaf in hand himself
+1.0	name	be	write
+0.5338390893350711	Mine	obtain by	Mr. Bain
+1.0	Mine	be	presentation copy obtain in Haymarket
+1.0	Mine	be	presentation copy obtain for I by Mr. Bain in Haymarket
+1.0	epigraph	may	may attribute with good show of likelihood to collaborator
+1.0	epigraph	may	may attribute with show of likelihood to collaborator
+1.0	epigraph	may	may attribute
+1.0	modest epigraph	may	may attribute with show of likelihood to same collaborator
+1.0	modest epigraph	may	may attribute with good show to collaborator
+1.0	modest epigraph	may	may attribute with show
+1.0	epigraph	may	may attribute with show to collaborator
+1.0	epigraph	may	may attribute with good show of likelihood
+1.0	modest epigraph	may	may attribute with good show of likelihood
+1.0	epigraph	may	may attribute with show of likelihood to same collaborator
+1.0	Le	rime	pas riche
+1.0	epigraph	may	may attribute with show
+1.0	epigraph	may	may attribute with show of likelihood
+1.0	epigraph	may	may attribute with good show
+1.0	modest epigraph	may	may attribute with show to same collaborator
+1.0	modest epigraph	may	may attribute with good show
+1.0	modest epigraph	may	may attribute with show of likelihood to collaborator
+1.0	modest epigraph	may	may attribute
+1.0	modest epigraph	may	may attribute with good show to same collaborator
+1.0	epigraph	may	may attribute with show to same collaborator
+1.0	epigraph	may	may attribute with good show of likelihood to same collaborator
+1.0	modest epigraph	may	may attribute with show to collaborator
+1.0	epigraph	may	may attribute with good show to collaborator
+1.0	modest epigraph	may	may attribute with show of likelihood
+1.0	modest epigraph	may	may attribute with good show of likelihood to collaborator
+1.0	Le	rime	n'est pas riche
+1.0	epigraph	may	may attribute with good show to same collaborator
+1.0	modest epigraph	may	may attribute with good show of likelihood to same collaborator
+1.0	I	have find	volume very dreary
+1.0	I	have find	volume dreary
+1.0	it	be	strikingly appropriate
+1.0	it	be	appropriate
+1.0	I	trace	hand
+1.0	piece	be	particularly dull
+1.0	piece	be	dull
+1.0	I	trace	hand of Princess
+1.0	we	may take	leave of Otto
+1.0	we	here may take	leave
+1.0	we	here may take	leave of Otto
+1.0	we	may take	leave
+1.0	wife	of	father
+1.0	name	appear twice in	Victor Hugo 's trumpet-blast
+0.9078977137079621	Mr. Swinburne	vigorous sonnet to	memory
+1.0	name	appear in	Victor Hugo 's trumpet-blast of patriot enumeration
+0.9078977137079621	Mr. Swinburne	sonnet to	memory of Gondremark
+1.0	name	appear twice in	Victor Hugo 's trumpet-blast of patriot enumeration
+1.0	Mr. Swinburne	dedicate	lyric
+1.0	I	perceive follow	still book-list
+0.9078977137079621	Mr. Swinburne	sonnet to	memory
+1.0	name	appear in	Victor Hugo 's trumpet-blast
+1.0	I	perceive follow	book-list
+0.9078977137079621	Mr. Swinburne	vigorous sonnet to	memory of Gondremark
+1.0	it	be in	diary
+1.0	it	be in	diary of J. Hogg Cotterill
+1.0	Mr. Cotterill	be at	Naples
+1.0	Sir John	ask	I
+0.9027126026312711	Sir John I	recognise in	I
+0.6159612718186767	she	know	my uncle
+1.0	some	ask	I
+0.5527367908851074	Sir John	recognise in	I
+1.0	she	compliment	I
+1.0	Sir John	be in	Germany
+1.0	assure softer style	more of	LITERARY GRACE
+1.0	less energy	be in	short
+1.0	I	have	real esteem for lady
+1.0	I	have	real esteem for patrician lady
+1.0	I	have	real esteem
+1.0	I	have	esteem for lady
+1.0	I	have	esteem
+1.0	I	have	esteem for patrician lady
+1.0	he	be	careful
+1.0	admiral yardarm	in	flag-ship
+1.0	acquaintance	last	time
+1.0	he	inform	we

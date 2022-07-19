@@ -1,0 +1,890 @@
+1.0	Teresina	exchange word now against	light
+1.0	Bastianello	watch	outline of Beatrice 's graceful figure
+1.0	Bastianello	exchange now and then	word
+1.0	Bastianello	exchange word now against	bright light
+1.0	Teresina	exchange word now and then against	light
+1.0	Teresina	exchange now and then	word
+1.0	ruggiero	come	last
+1.0	Teresina	exchange word now against	bright light
+1.0	Beatrice	of	graceful figure
+1.0	Bastianello	watch	dark outline of Beatrice 's figure
+1.0	Bastianello	exchange word now and then in	whisper
+1.0	Teresina	exchange word in	whisper
+1.0	Bastianello	exchange word now against	light
+1.0	Bastianello	exchange word now and then against	bright light
+1.0	Bastianello	exchange word now and then against	light
+1.0	Bastianello	exchange word against	bright light
+1.0	Bastianello	watch	dark outline
+1.0	Teresina	exchange word now and then in	whisper
+1.0	Teresina	exchange word against	bright light
+1.0	Teresina	exchange word against	light
+1.0	Bastianello	watch	outline
+1.0	Teresina	exchange	word
+1.0	Teresina	exchange now	word
+1.0	Bastianello	exchange word now in	whisper
+1.0	Bastianello	exchange	word
+1.0	Bastianello	exchange word in	whisper
+1.0	Teresina	exchange word now and then against	bright light
+1.0	Bastianello	watch	dark outline of Beatrice 's graceful figure
+1.0	Bastianello	exchange word against	light
+1.0	Teresina	exchange word now in	whisper
+1.0	Bastianello	watch	outline of Beatrice 's figure
+1.0	Bastianello	exchange now	word
+1.0	they	reach	door of house
+0.660460668196303	they	door of	house
+1.0	he	follow	Beatrice
+1.0	they	reach	door
+1.0	she	turn at	he
+1.0	Bastianello	carry	bag upstairs for Teresina
+1.0	Bastianello	carry	bag upstairs
+1.0	he	think over	all
+1.0	it	be well do quickly and surely without	bungling
+1.0	it	be	well do quickly
+1.0	it	be do without	bungling
+1.0	it	be	do quickly
+1.0	it	be	well do
+1.0	he	calmly think over	all
+1.0	it	be well do without	bungling
+1.0	it	be	do
+1.0	he	have make up	he mind
+1.0	it	be do quickly and surely without	bungling
+1.0	it	be do quickly without	bungling
+1.0	it	be well do quickly without	bungling
+1.0	breathing	be in	keen salt air
+1.0	he	have love	Beatrice
+1.0	he	be	very faithful nature
+1.0	it	have	have further simplify
+1.0	he	be	faithful nature
+1.0	he	be	faithful
+1.0	it	have	have simplify
+1.0	it	have	have even further simplify
+1.0	he	be	nature
+1.0	he	think of	she
+1.0	he	think of	only she
+1.0	he	understand in	other way
+1.0	she	be	marry against she will
+1.0	he	too have see with	he eye
+1.0	she	be marry to	man
+1.0	she	be marry against	she will
+1.0	she	be	marry
+1.0	he	now have see with	he eye
+1.0	she	be	marry against she will to man
+1.0	he	have see with	he eye
+1.0	he	understand in	way
+1.0	she	be	marry
+1.0	she	be	marry to man
+1.0	he	now too have see with	he eye
+1.0	she	be	marry against she will to man
+1.0	it	might to	might have man
+1.0	Beatrice	of	own class
+1.0	it	might to	might have man of Beatrice 's own class
+1.0	it	might to	might have man of Beatrice 's class
+1.0	she head	have	have turn
+1.0	she head	have	have turn for moment
+1.0	she	afterwards have understand	truth
+1.0	she	have understand	truth
+1.0	he	have hear	story of kind from he companion
+1.0	he	have hear	many story of kind from he companion
+1.0	woman	be	changeable
+1.0	woman	be changeable of	course
+1.0	man	be	bad
+1.0	man	tempt	they
+1.0	they	be	make
+1.0	they	be	moreover so make
+1.0	they	be	moreover make
+1.0	they	be	so make
+1.0	he	feel	it
+1.0	it	be	real
+0.08250788677896104	it	be real	he feel
+1.0	it	ask for	any
+1.0	he	be	strangely happy
+1.0	he	be	now happy
+1.0	he	be	now strangely happy
+1.0	he	be	happy
+1.0	mere idea	be absurd beyond	word
+1.0	idea	be absurd beyond	word
+1.0	mere idea	be	absurd
+1.0	idea	be	absurd
+1.0	she	could love man like	himself
+1.0	she	could love	man
+1.0	she	could love	common man
+1.0	mother	could make of	course
+1.0	Ruggiero	know	that
+1.0	that	be	simple
+1.0	San Miniato	would	would poor thing
+1.0	thing	be in	great hand of Ruggiero 's
+1.0	he	be	well grow man
+1.0	he	be	grow
+1.0	he	be	man
+1.0	San Miniato	would	would thing
+1.0	he	be	grow man
+1.0	Miniato	be	poor
+1.0	it	be	great
+1.0	murder	be	sin
+1.0	murder	be	always sin
+1.0	Beatrice	go afterwards to	Heaven
+1.0	Beatrice	go afterwards in	natural course of thing
+1.0	Beatrice	would	would free
+1.0	Beatrice	go in	course
+1.0	Beatrice	go afterwards in	course of thing
+1.0	Beatrice	would	in place would free
+1.0	Beatrice	go in	natural course
+1.0	Beatrice	go in	natural course of thing
+1.0	Beatrice	would	in first place would free
+1.0	Beatrice	go to	Heaven
+1.0	Beatrice	go in	course of thing
+1.0	Beatrice	go afterwards in	natural course
+1.0	Beatrice	go afterwards in	course
+1.0	San Miniato	would with	secondly would Ruggiero in flame
+1.0	would Ruggiero	be in	flame
+1.0	San Miniato	would with	would Ruggiero
+1.0	San Miniato	would with	would Ruggiero in flame
+1.0	one	without	help
+1.0	San Miniato	would with	secondly would Ruggiero
+1.0	he	sit on	block of stone
+1.0	he	listen to	sea
+1.0	he	sit	he be
+1.0	he	sit on	block
+1.0	he	feel	very happy
+0.5084621503917639	he	think over	quietly
+1.0	he	feel	happy
+1.0	Ruggiero	have	way look at present state
+1.0	conversation	be carry on with	little languid help
+1.0	conversation	be carry on with	little help from Marchesa
+1.0	midday breakfast	have pass off fairly well	Beatrice have grow
+1.0	midday breakfast	have pass off well	Beatrice have again grow
+1.0	midday breakfast	have pass off well	Beatrice have grow
+1.0	conversation	be carry on with	languid help from Marchesa
+1.0	midday breakfast	have pass off	Beatrice have again grow
+1.0	conversation	be carry on with	help from Marchesa
+1.0	conversation	be carry on with	little help
+1.0	midday breakfast	have pass off fairly well	Beatrice have again grow
+1.0	conversation	be carry on with	little languid help from Marchesa
+1.0	conversation	be carry on with	help
+1.0	Beatrice	have again grow	silent
+1.0	Beatrice	have grow	silent
+1.0	midday breakfast	have pass off	Beatrice have grow
+1.0	conversation	be carry on by	San Miniato
+1.0	conversation	be carry on with	languid help
+1.0	latter	be	apparently disturb
+1.0	latter	be	disturb
+1.0	humour	be in	consequence of little scene
+1.0	she	be prepare	very long-suffering
+1.0	she	take amount as	matter of course
+1.0	it	be	wiser
+1.0	she	take amount as	matter
+1.0	it	do battle with	she
+1.0	she	be prepare	long-suffering with girl 's mood
+1.0	girl	with	mood
+1.0	she	take	amount
+1.0	Beatrice	on	part
+1.0	she	be prepare	very long-suffering with girl 's mood
+1.0	it	be	partly trouble
+1.0	it	be	partly less trouble
+1.0	she	be prepare	long-suffering
+1.0	it	do	battle
+1.0	it	be	really wiser
+1.0	it	be	less trouble
+1.0	she	be prepare	trouble
+1.0	she	be	prepare
+1.0	it	be	partly really wiser
+1.0	it	be	trouble
+1.0	it	be	partly wiser
+1.0	Beatrice	be gradually accustom to	companionship
+1.0	Beatrice	must grow	use
+1.0	Beatrice	be accustom to	companionship
+1.0	Beatrice	be gradually accustom to	daily companionship of San Miniato
+1.0	Beatrice	be gradually accustom to	daily companionship
+1.0	Beatrice	must grow	use to idea
+1.0	Beatrice	be gradually accustom to	companionship of San Miniato
+1.0	Beatrice	use to	idea of marriage
+1.0	Beatrice	must grow	use to idea of marriage
+1.0	Beatrice	be	gradually accustom
+1.0	Beatrice	be accustom to	companionship of San Miniato
+1.0	Beatrice	be	accustom
+1.0	Beatrice	be accustom to	daily companionship of San Miniato
+1.0	Beatrice	use to	idea
+1.0	Beatrice	be accustom to	daily companionship
+1.0	Marchesa	be well aware in	she wisdom
+1.0	he	be	she husband
+1.0	Marchesa	be	well aware
+1.0	they	be	only engage
+1.0	he	be	when she husband
+1.0	Marchesa	be aware in	she wisdom
+1.0	they	be	engage
+1.0	Marchesa	be	aware
+1.0	Beatrice	would form	she tie
+1.0	he	chance	humour
+1.0	Beatrice	grow intimate with	lady
+1.0	he	be in	jealous humour
+1.0	San Miniato	would take up	he life
+0.377965245841249	she friendship	beatrice on	she side
+1.0	he	be	jealous
+1.0	he	be in	humour
+1.0	Beatrice	would form	she own tie
+0.377965245841249	she own friendship	beatrice on	she side
+1.0	he	chance	jealous humour
+1.0	Beatrice	grow with	lady
+1.0	Beatrice	be begin	hate for its unpleasant association
+1.0	they	drink	coffee
+1.0	Beatrice	be begin	hate for its association
+1.0	Beatrice	hate for	its unpleasant association
+1.0	they	drink coffee after	breakfast
+1.0	they	smoke upon	terrace
+1.0	they	drink coffee as	usual
+1.0	Beatrice	hate for	its association
+1.0	Beatrice	be begin	hate
+1.0	she	leave	she mother
+1.0	she	leave	San Miniato
+1.0	she	leave together	she mother
+1.0	she	leave together	San Miniato
+1.0	he	probably reach	desired point
+1.0	she	have avoid	it
+1.0	he	probably reach	point
+1.0	he	probably reach point in	conversation
+1.0	he	reach point in	conversation
+1.0	he	be	tactful
+1.0	he	reach	desired point
+1.0	he	reach	point
+1.0	he	be	very tactful
+1.0	he	draw	she
+1.0	San Miniato	be	surprise
+1.0	everything	be with	law of inheritance in we country
+1.0	husband	be	rich
+1.0	law	be in	we country
+1.0	we dear Beatrice	be	only child
+1.0	we dear Beatrice	be	child
+1.0	we Beatrice	be	only child
+1.0	we Beatrice	be	child
+1.0	widow	have	portion
+1.0	I	understand	that
+1.0	it	be most kind of	you
+1.0	it	be kind of	you
+1.0	it	be	most kind
+1.0	it	be	kind
+1.0	it	tell	I
+1.0	carissimo	be in	Beatrice 's interest
+0.4690067686528949	Marchesa	interrupt	he
+1.0	Beatrice	in	interest
+1.0	concern	be in	life
+1.0	I	can doubt	it
+1.0	careful	mistrust	preamble
+1.0	it	be	trouble
+1.0	it	be	such trouble
+1.0	it	be	horrible trouble
+1.0	you	have	my nerve
+1.0	it	be	such horrible trouble
+1.0	we	be speak of	my poor husband 's will
+1.0	poor husband	of	will
+1.0	we	be speak of	my husband 's will
+1.0	he	be oblige	leave to he daughter
+1.0	he	leave to	he daughter
+1.0	he	be oblige	leave
+1.0	he	be	oblige
+1.0	he	could dispose of	half
+1.0	he	could dispose	he please
+1.0	he	could dispose of	other half
+1.0	I	be	sure
+1.0	he	be	very thoughtful man
+1.0	my husband	leave	half
+1.0	he	be	thoughtful
+1.0	he	be	man
+1.0	my husband	leave	other half
+1.0	he	be	thoughtful man
+1.0	my husband	leave half to	I
+1.0	money	be	go
+1.0	money	be	go to Beatrice at once
+1.0	money	be	go to Beatrice
+1.0	money	go to	Beatrice
+1.0	money	go at	once
+1.0	money	be	I do
+1.0	money	be	go at once
+1.0	I	however be	I really be
+1.0	I	however be	I be
+1.0	I	be	I really be
+1.0	I	be	I be
+1.0	he	set aside	sum
+1.0	I	tell	you
+1.0	he	set aside out	sum
+1.0	she	be of	age
+1.0	dowry	be	insignificant
+1.0	San Miniato	be in	tone
+1.0	you	have	good head for affair
+1.0	you	have	head
+1.0	you	have	head for affair
+1.0	you	have	such head
+1.0	you	have	such good head for affair
+1.0	you	have	good head
+1.0	you	have	such head for affair
+1.0	you	have	such good head
+0.4607173240367767	I	anything about	money
+1.0	I	assure	you
+1.0	it	be	so mysterious
+1.0	it	be	mysterious
+1.0	I	be	exhaust
+1.0	I	give	I
+1.0	I	give	one of you cigarette
+1.0	I	be exhaust	talk
+1.0	I	give	one you cigarette
+1.0	I	be quite exhaust	talk
+1.0	I	be	quite exhaust
+1.0	San Miniato	offer	he open case
+1.0	San Miniato	offer	he case
+1.0	I	think	understanding
+1.0	I	think	understanding for business
+0.6992046824507405	I	remarkably good understanding for	business
+1.0	I	think	good understanding
+1.0	I	think	remarkably good understanding for business
+1.0	I	think	remarkably good understanding
+0.6992046824507405	I	good understanding for	business
+0.6992046824507405	I	understanding for	business
+1.0	I	think	good understanding for business
+1.0	I	envy	you
+1.0	I	really envy	you
+1.0	he	hold match for	she
+1.0	Marchesa	slowly inhale smoke from	cigarette
+1.0	he	hold	match
+1.0	Marchesa	inhale smoke from	cigarette
+1.0	Marchesa	inhale	smoke
+1.0	Marchesa	slowly inhale	smoke
+1.0	daughter	for	interest such merit
+1.0	man	would in	would entirely you power
+1.0	man	would in	would you power
+1.0	it	be	arrange
+1.0	it	be	admirably arrange
+1.0	you	would	would precisely say
+1.0	it	would	would say
+1.0	you	would	would say
+1.0	it	would	would precisely say
+1.0	he	could touch nothing beyond	few hundred thousand franc
+1.0	he	would control as	dowry
+1.0	he	could touch	nothing
+1.0	he	would	would dependent
+1.0	he	would	would wholly dependent
+1.0	he	would	would wholly dependent on he wife
+1.0	he	would	would dependent on he wife
+1.0	my husband	guard against	even most improbable case
+1.0	my dear husband	guard against	improbable case
+1.0	my husband	wish	guard against most improbable case
+1.0	my husband	wish	guard against improbable case
+1.0	my husband	wish	guard against even improbable case
+1.0	my dear husband	guard against	even improbable case
+1.0	my husband	wish	guard
+1.0	my husband	guard against	even improbable case
+1.0	my dear husband	wish	guard against even improbable case
+1.0	my dear husband	guard against	even most improbable case
+1.0	my dear husband	wish	guard against most improbable case
+1.0	my dear husband	wish	guard
+1.0	my husband	guard against	improbable case
+1.0	my dear husband	wish	guard against improbable case
+1.0	my dear husband	guard against	most improbable case
+1.0	my husband	guard against	most improbable case
+1.0	my dear husband	wish	guard against even most improbable case
+1.0	my husband	wish	guard against even most improbable case
+1.0	he	look at	he watch
+1.0	he	have	something
+1.0	he	have something in	he eye
+1.0	he	prefer	hide
+1.0	Beatrice 's step	be hear on	tiled floor
+1.0	Beatrice	have	step
+1.0	Beatrice 's step	be hear on	tiled floor of sitting-room
+1.0	Beatrice 's step	be hear on	floor of sitting-room
+1.0	Beatrice 's step	be	hear
+1.0	Beatrice 's step	be hear on	floor
+1.0	they	talk for	it
+1.0	they	talk little for	it
+1.0	Ruggiero	see	he
+1.0	Ruggiero	watch	he
+1.0	he	like	Ruggiero know
+1.0	he	stay outside	bathing-house
+1.0	he	stay at_time	half hour
+1.0	he	stay at_time	fully half hour
+1.0	all	be ready for	evening
+1.0	all	be	ready
+1.0	he	go	see
+1.0	he	look at	sun
+1.0	they	would under	where would he foot
+1.0	they	would under	would he foot
+1.0	Bastianello	launch	tub
+0.22980464373223297	Ruggiero	ballast with	two sack
+0.22980464373223297	Ruggiero	ballast with	two heavy sack of pebble
+1.0	Ruggiero	ballast	she
+0.22980464373223297	Ruggiero	ballast with	two heavy sack
+0.22980464373223297	Ruggiero	ballast with	two sack of pebble
+1.0	he	launch	tub
+1.0	he	launch	tub between they
+1.0	Bastianello	launch	tub between they
+1.0	they	stow away	they
+1.0	they	get	kettle
+0.8077047459846409	nothing	more about	it
+1.0	Bastianello	say	nothing more about it
+1.0	Bastianello	so say	nothing
+1.0	they	get	torch
+1.0	they	stow	they
+1.0	Bastianello	say	nothing
+1.0	Bastianello	so say	nothing more about it
+1.0	it	be	dark
+1.0	I	will leave	two
+1.0	it	be	when dark
+1.0	Bastianello	go ashore on	pier
+1.0	Bastianello go	pull	skiff
+1.0	Bastianello go	pull out	skiff
+1.0	Bastianello	go on	pier
+1.0	it	grow	dark
+1.0	he	busy	himself
+1.0	he	get into	boat
+1.0	he	get again into	boat
+1.0	he	slip	line
+1.0	he	slip line under	bag
+1.0	he	make	timber-hitch
+1.0	he	slip line under	bag of ballast
+1.0	he	haul	it
+1.0	he	haul taut	it
+1.0	he	haul well taut	it
+1.0	he	pull	bow oar
+1.0	he	make	bowline round
+1.0	he	pull bow oar in	evening
+1.0	he	make bowline round with	other end
+1.0	he	make bowline round with	end
+1.0	he	stow	bight between ballast
+1.0	he	stow bight	it lay in bottom
+1.0	it	lay in	bottom
+1.0	he	stow	bight
+1.0	he	stow bight	it lay
+1.0	it	lay out of	sight
+1.0	he	tie	knot
+1.0	he	be put sailboat on	board
+1.0	he	be put	sailboat
+1.0	all	be	ready
+1.0	he	be put sailboat by	he
+1.0	all	be	when ready
+1.0	he	shout for	Cripple
+1.0	he	moor tub to	ring
+1.0	ring	be in	pier
+1.0	he	pull ashore	himself
+1.0	he	pull	himself
+1.0	he	moor	tub
+1.0	he	moor tub to	ring in pier
+1.0	it	be time for	supper
+1.0	it	be	time
+1.0	Beatrice	be seat in	playing softly to herself
+1.0	Beatrice	be seat at	piano
+1.0	Beatrice	be seat in	playing
+1.0	Beatrice	be	seat at piano in sitting-room playing softly
+1.0	Beatrice	be seat in	sitting-room playing softly to herself
+1.0	Beatrice	be	seat
+1.0	Beatrice	be	seat at piano in sitting-room playing softly to herself
+1.0	Beatrice	be seat	evening shadow fall
+1.0	Beatrice	be	seat at piano in playing softly to herself
+1.0	Beatrice	be	seat at piano in sitting-room playing
+1.0	Beatrice	be	seat at piano in playing softly
+1.0	Beatrice	be seat in	sitting-room playing softly
+1.0	Beatrice	be	seat at piano in playing
+1.0	Beatrice	be seat in	sitting-room playing
+1.0	Beatrice	be seat in	playing softly
+1.0	it	give	she relief
+1.0	it	give however	she relief
+1.0	she	draw from	instrument
+1.0	she	evening	be something in tone
+1.0	she	evening	be something
+1.0	something	be in	tone
+1.0	it	be satisfaction	listen
+1.0	it	be satisfaction	listen to lament
+1.0	it	be faint satisfaction	listen
+1.0	it	be	faint satisfaction to she listen
+0.8617960823693253	it	listen to	lament of sad note
+1.0	she	strike	they
+1.0	it	be faint satisfaction	listen to lament
+1.0	it	be	satisfaction to she listen to lament
+0.8617960823693253	it	listen to	lament
+1.0	it	be	faint satisfaction to she listen to lament
+1.0	she	throw	all
+0.8617960823693253	it	listen to	lament of note
+1.0	it	be	satisfaction to she listen
+1.0	it	be	faint
+1.0	she	immediately strike	succession of loud chord
+1.0	she	hear	he footstep
+1.0	she	break into	racing waltz tune
+1.0	she	strike	succession of loud chord
+1.0	she	immediately strike	succession of chord
+0.7668691387295176	she	succession of	chord
+1.0	she	strike	succession
+1.0	she	strike	succession of chord
+0.7668691387295176	she	succession of	loud chord
+1.0	she	recognise	it
+1.0	she	immediately strike	succession
+1.0	he	sit down beside	she
+1.0	she	answer	look at he
+1.0	she	look at	he
+1.0	she	answer	look
+1.0	you	will sing something to	I
+1.0	you	will sing	something
+0.7253527268837576	she	chord of	waltz
+0.7253527268837576	she	last chord of	waltz
+1.0	she	strike	last chord of waltz
+1.0	she	strike	chord of waltz
+1.0	she	strike	chord
+1.0	she	strike	last chord
+1.0	I	rather incline	sing
+1.0	I	feel	rather incline
+1.0	I	incline	sing
+1.0	I	feel	incline
+1.0	Mamma	be go	sing
+1.0	Mamma	sing to	my betrothed
+1.0	I	be go	sing to my betrothed
+1.0	Mamma	be go	sing to my betrothed
+1.0	I	be go	sing
+1.0	Marchesa	enter	room
+1.0	Marchesa	smile into	chair
+1.0	Beatrice	strike	few chord
+1.0	Beatrice	strike	chord
+1.0	real pathos	be in	word
+1.0	she	end with	burst
+1.0	she	end with	strange burst
+1.0	she	end with	burst of passion
+1.0	she	end with	strange burst of passion
+1.0	she	rise suddenly to	she foot
+1.0	she	rise to	she foot
+1.0	she	shut down sharply	lid
+1.0	she	shut lid down sharply upon	key-board
+1.0	she	shut down	lid
+1.0	she	shut lid down upon	key-board
+1.0	meeting San Miniato	have	eye
+1.0	he	answer	pretend
+1.0	he	answer quietly	pretend
+1.0	she	look down below	light of yacht
+1.0	she	look down at	water
+1.0	she	look down upon	bay
+1.0	she	go out upon	terrace
+1.0	she	look down below	light
+1.0	she	leave	he
+1.0	she	look down at	black water
+1.0	she	look down upon	smooth bay
+1.0	she	look down below	deep light of yacht
+1.0	she	look down below	deep light
+1.0	she	join in	conversation
+0.5084621503917639	she	join	she mother think
+1.0	three	sit at	other end of terrace
+1.0	she mother	think	she
+1.0	San Miniato	think	she
+1.0	dinner	be	when announce
+1.0	she	join enough in	conversation
+0.5084621503917639	she	join indifferently enough	San Miniato think
+1.0	she	join indifferently enough in	conversation
+0.5084621503917639	she	join enough	San Miniato think
+0.5084621503917639	she	join indifferently enough	she mother think
+0.7420919826979531	she	more than	agreeable
+0.5084621503917639	she	join indifferently enough	San Miniato she mother think
+0.7420919826979531	she	more than	usually agreeable
+1.0	night air	soothe	little
+1.0	San Miniato	think	she more
+1.0	three	sit down	down table
+0.5084621503917639	she	join	San Miniato think
+0.5084621503917639	she	join enough	San Miniato she mother think
+1.0	three	sit at	end of terrace
+1.0	three	sit at	end
+1.0	three	sit at	other end
+1.0	dinner	be	announce
+0.5084621503917639	she	join enough	she mother think
+1.0	she mother	think	she more
+0.5084621503917639	she	join	San Miniato she mother think
+1.0	night air	soothe	she
+1.0	party	leave room	they have do earlier
+1.0	little party	leave	room in procession
+1.0	little party	leave room	they have do earlier
+1.0	Teresina	bring in	wrap
+1.0	party	leave room	they have do day earlier
+1.0	little party	leave room	they have do day earlier
+1.0	party	leave room	they have do few day earlier
+0.43697573666435774	party	room in	procession
+1.0	Marchesa	with	chair
+0.43697573666435774	little party	room in	procession
+1.0	two porter	appear at	appoint time
+1.0	party	leave room	they have do
+1.0	they	start for	Tragara
+1.0	two porter	appear at	time
+1.0	little party	leave room	they have do few day earlier
+1.0	party	leave	room in procession
+1.0	two porter	appear with	Marchesa 's chair
+1.0	room	be in	procession
+1.0	little party	leave room	they have do
+1.0	porter	appear at	appoint time
+1.0	party	leave	room
+1.0	little party	leave	room
+1.0	porter	appear at	time
+1.0	porter	appear with	Marchesa 's chair
+1.0	they mood	be	different to-night
+1.0	they mood	be	to-night
+1.0	they mood	be	very different to-night
+1.0	herself	be carry down without	show
+1.0	herself	be carry down without	least show of resistance
+1.0	herself	be carry down without	least show
+1.0	Marchesa	forget	complain
+1.0	herself	be carry down without	show of resistance
+1.0	they	be	silent
+1.0	San Miniato	persuade	they
+1.0	Doubtless crab	be	numerous
+1.0	Doubtless crab	be numerous along	rocky shore
+1.0	Doubtless crab	be numerous along	shore
+1.0	it	be	he
+1.0	make	astern of	sailboat
+1.0	skiff	jump upon	stern
+1.0	himself	last of	all
+1.0	they	reach	pier
+1.0	Ruggiero	go in	front
+1.0	make	fast astern of	sailboat
+1.0	Ruggiero	take advantage of	puff of wind
+1.0	night breeze	be blow	it do after day in summer
+1.0	it	do after	day in summer
+1.0	night breeze	be blow off	shore
+1.0	it	always do after	day
+1.0	it	always do after	day in summer
+1.0	it	do after	day
+1.0	man	pull in	interval of calm
+1.0	hot day	be in	summer
+1.0	night breeze	be blow	it do after day
+1.0	it	do after	hot day in summer
+1.0	man	pull in	interval
+1.0	night breeze	be blow	it do after hot day
+1.0	night breeze	be blow	it do
+1.0	it	always do after	hot day in summer
+1.0	it	do after	hot day
+1.0	night breeze	be blow in	gust
+1.0	it	always do after	hot day
+1.0	night breeze	be blow	it do after hot day in summer
+1.0	starlight	be	very bright
+1.0	starlight	be	bright
+1.0	air	be	soft
+1.0	one	be	silent
+1.0	burst	be on	sudden
+1.0	they	sit	hide soon
+1.0	they	sit	hide by foresail so soon
+1.0	they	hide by	foresail
+1.0	they	hide so soon from	sight
+1.0	they	sit	hide by foresail soon
+1.0	they	hide from	sight
+1.0	they	sit	hide from sight by foresail soon
+1.0	they	hide soon from	sight
+1.0	San Miniato	have prepare	it
+1.0	musician	have pass	unnoticed
+1.0	they	sit	hide by foresail
+1.0	they	sit	hide from sight
+1.0	two musician	have pass	unnoticed
+1.0	they	sit	hide from sight by foresail
+1.0	they	sit in	bow
+1.0	they	sit	hide
+1.0	they	sit	hide from sight soon
+1.0	they	sit	hide from sight so soon
+1.0	they	sit	hide from sight by foresail so soon
+1.0	they	sit	hide so soon
+1.0	they	hide so soon by	foresail
+1.0	they	hide soon by	foresail
+1.0	it	be	pretty
+1.0	it	be	very pretty
+1.0	Marchesa	be	vouchsafe
+1.0	Beatrice	sit	unmoved
+1.0	Beatrice	sit	stony
+1.0	she	say to	herself
+1.0	she	sit furthest forward in	stern-sheet
+1.0	he	pull	starboard stroke oar
+1.0	she	sit in	stern-sheet
+1.0	he	lean forward upon	loom
+1.0	he	lean upon	loom
+1.0	he	pull	stroke oar
+1.0	she	sit furthest in	stern-sheet
+1.0	gust	fill	sail
+1.0	sort	be in	he voice
+0.7429825782600984	you	take	too much
+0.7429825782600984	you	take	much
+1.0	Ruggiero	eye on	dark water
+1.0	Ruggiero	eye	he
+1.0	tiller	be in	he hand
+1.0	Ruggiero	eye to	landward
+1.0	Ruggiero	eye on	constantly look-out for gust
+1.0	Ruggiero	tiller in	he hand
+1.0	he	even bring tiller down on	master 's head
+1.0	he	even bring tiller down on	he master 's head
+1.0	he	even bring tiller down on	head
+1.0	they	near	Scutari point
+1.0	Scutari point vast	black in	starlight
+1.0	they	near	black
+1.0	they	near	Scutari point vast
+1.0	they	near	black in starlight
+1.0	gloom	have settle upon	party
+1.0	he	bring skiff alongside	alongside painter
+1.0	he	lay	he hand
+1.0	he	keep	steady
+1.0	Ruggiero	give	order stop
+1.0	he	bring	skiff
+1.0	Bastianello	help	Beatrice
+1.0	Bastianello	help	Teresina
+1.0	Ruggiero	have	hand
+1.0	girl	get into	skiff
+1.0	young girl	get into	skiff
+1.0	it	seem	absurd
+1.0	it	refuse	come
+1.0	it	refuse	come so far
+1.0	it	take	Ruggiero 's hand
+1.0	it	refuse	come far
+1.0	it	seem	refuse
+1.0	he	recover from	he passion
+1.0	Beatrice	be glad	she fancy
+1.0	he	recover from	he passion for she
+1.0	he	recover from	he insane passion for she
+1.0	Beatrice	be	glad
+1.0	he	recover from	he insane passion
+1.0	they	pull into	deep shadow
+1.0	they	pull away under	bluff
+1.0	they	pull into	shadow
+1.0	they	pull away into	deep shadow
+1.0	they	pull away into	shadow
+1.0	they	pull under	bluff
+1.0	its base	be with	wave-worn cave
+1.0	mountain	have	base
+1.0	Ruggiero	show	green crab
+1.0	Ruggiero	show	dark green crab
+1.0	Ruggiero	show	dark crab
+1.0	Ruggiero	calmly light torch	excursion
+1.0	Ruggiero	light torch	every-day excursion
+1.0	Ruggiero	show	crab
+1.0	it	be	every-day
+1.0	Ruggiero	calmly light torch	every-day excursion
+1.0	Ruggiero	hold out	it
+1.0	it	be	excursion
+1.0	it	be	every-day excursion
+1.0	Ruggiero	light	torch
+1.0	Ruggiero	calmly light	torch
+1.0	Ruggiero	light torch	excursion
+1.0	Bastianello	pick off	they
+1.0	Bastianello	toss	they
+1.0	Bastianello	pick off as fast	they
+1.0	Bastianello	pick off fast	they
+0.5175846712011892	boat	base of	precipice
+1.0	boat	follow	base of precipice
+1.0	boat	follow	base
+1.0	little	make under	arch
+1.0	little	make under	natural arch
+1.0	she	be under	natural arch
+1.0	she	be under	arch
+1.0	you	will go on	ledge
+1.0	you	will go ashore on	ledge
+1.0	I	will show	it
+1.0	proposal	seem	natural
+1.0	proposal	seem under	circumstance
+1.0	proposal	seem	very natural
+1.0	proposal	lose	its interest
+1.0	crab	drop	they
+1.0	tinkle	ring out through	stillness
+1.0	Ruggiero	bring	skiff
+1.0	Ruggiero	bring alongside	skiff
+1.0	he	say in	same tone
+1.0	he	say in	quiet tone
+1.0	he	say in	same quiet tone
+1.0	he	say in	tone
+1.0	bastianello	stand	ready
+1.0	red light	fall	strong
+1.0	she	step upon	rock Ruggiero
+0.5857328048936957	torch	high with	one hand
+1.0	he	look at	she
+1.0	light	fall	strong
+1.0	light	fall upon	she face
+1.0	he	look keenly at	she
+1.0	red light	fall upon	she face
+1.0	Teresina	grasp	Bastianello 's hand
+1.0	Teresina	spring ashore	happy at touch
+1.0	Teresina	spring	happy
+1.0	Bastianello	have	hand
+1.0	Teresina	spring ashore	happy as child at touch
+1.0	Teresina	spring ashore	happy as child
+1.0	Teresina	spring	happy as child at touch
+1.0	Teresina	spring	happy at touch
+1.0	Teresina	spring ashore	happy
+1.0	Teresina	spring	happy as child
+1.0	San Miniato	rise from	he seat
+1.0	San Miniato	be about	follow
+1.0	San Miniato	already rise from	he seat
+1.0	water	be	very deep here
+1.0	water	be	deep here
+1.0	water	be	here
+1.0	sudden change	be in	Ruggiero 's face
+1.0	Ruggiero	in	face
+1.0	sailor	have	deep voice
+1.0	he	drop torch at	moment
+1.0	he	seize	bags of ballast
+1.0	he	seize	bags
+1.0	he	heave overboard	they
+1.0	torch	spring	he let
+1.0	he	drop torch at	same moment
+1.0	he	heave	they
+1.0	torch	spring across	thwart
+1.0	he	drop	torch
+1.0	torch	spring across	thwart towards San Miniato
+1.0	strong man	have	terrible finger
+1.0	boat	turn over	strong man 's terrible finger close
+1.0	boat	turn over	man 's terrible finger close
+1.0	he enemy 's throat	be in	darkness
+1.0	line	slip to	side
+1.0	enemy	have	throat in darkness
+1.0	line	slip	weight sink
+1.0	boat	turn over	man 's finger close
+1.0	boat	turn over	just strong man 's terrible finger close
+1.0	boat	turn over	just strong man 's finger close
+1.0	boat	turn over	strong man 's finger close
+1.0	boat	turn over	just man 's terrible finger close
+1.0	line	slip	heavy weight sink
+1.0	boat	turn over	just man 's finger close
+1.0	San Miniato	have	death cry
+1.0	San Miniato 's death cry	rent	still air
+1.0	all	be	do
+1.0	San Miniato 's death cry	rent	air
+1.0	life	from	bondage
+1.0	she	mourn at_time	whole year
+1.0	she	mourn for	she husband
+1.0	she	mourn at_time	year
+1.0	she	mourn for	she affianced husband
+1.0	they	be safe from	poverty
+1.0	they	be safe from	sordid poverty
+1.0	she	should	should happy
+1.0	they	be	safe
+1.0	Marchesa	have	nerve
+1.0	Bastianello	be	of those leave change
+1.0	Bastianello	be	of those most change
+1.0	Bastianello	be	of those leave most change
+1.0	Bastianello	be	change
+1.0	Bastianello	be	of those change
+1.0	Bastianello	be	most change
+1.0	you	now will tell	I
+1.0	Ruggiero	be	sinner
+1.0	you	will tell	I
+1.0	Ruggiero	do	wrong
+1.0	luigione	be	sure
+1.0	Ruggiero	be	great sinner
+1.0	old luigione	be	sure
+1.0	he	burn in	fire
+1.0	suicide	be	sure
+1.0	murderer	be	sure
+1.0	Ruggiero	be	great
+1.0	he	burn in	unquenchable fire
+1.0	he	perhaps be	question
+1.0	he	be	question
+1.0	I	can say of	he
+1.0	he	be	whole-hearted
+1.0	he	be	man strong whole-hearted willing
+1.0	he	be	man strong willing
+1.0	he	be	man willing
+1.0	he	be	strong
+1.0	he	be	man whole-hearted willing
+1.0	he	be	man strong
+1.0	he	be	man strong whole-hearted
+1.0	he	be	willing
+1.0	he	be	man
+1.0	he	be	man whole-hearted
+1.0	he	give	it
+1.0	could Ruggiero	be in	all
+1.0	I	have	say
+1.0	you	ever say	prayer
+1.0	you	say	prayer
+1.0	you	stand upon	ledge
+1.0	you	stand by	Scutari
+1.0	prayer	be	hear perhaps
+1.0	prayer	be	hear

@@ -37,7 +37,10 @@ def read_story(path):
     title = re.search(r'(?s:.*)\/(.*?)\.txt', path).group(1)
 
     #read in corpus from path
-    corp = pd.read_csv(path, sep='\t', header=None)
+    try:
+        corp = pd.read_csv(path, sep='\t', header=None)
+    except:
+        corp = pd.read_csv(path, sep = '\t', header=None, encoding='ISO-8859-1')
     corp.columns = ['animacy', 'character', 'coref_chain']
     
     #create new columns 

@@ -1,0 +1,590 @@
+1.0	rain	fall persistently in	midst of profound silence
+1.0	rain	fall persistently in	midst
+1.0	rain	fall in	midst of profound silence
+1.0	rain	fall in	midst
+1.0	rain	fall in	midst of silence
+1.0	rain	fall persistently in	midst of silence
+1.0	it	fall	shot
+1.0	it	fall straight	shot
+1.0	tree	stand as if	petrified
+1.0	tree	stand	stark
+1.0	tree	stand in	grey air
+1.0	tree	stand in	air
+1.0	seat	save cushion from	wet
+1.0	seat	save	cushion
+1.0	one seat	overturn till	till outside car
+1.0	seat	overturn till	till car
+1.0	one seat	save cushion from	wet
+1.0	one seat	save	cushion
+1.0	seat	overturn till	till outside car
+1.0	one seat	overturn till	till car
+1.0	horse	be in	shaggy frieze ulster
+1.0	wild-looking driver	be in	shaggy frieze ulster
+1.0	horse	be in	long shaggy frieze ulster
+1.0	horse	be in	frieze ulster
+1.0	driver	be in	long shaggy frieze ulster
+1.0	horse	be in	long frieze ulster
+1.0	driver	be in	frieze ulster
+1.0	shaggy horse	be in	long frieze ulster
+1.0	driver	be in	shaggy frieze ulster
+1.0	shaggy horse	be in	shaggy frieze ulster
+1.0	driver	be in	long frieze ulster
+1.0	shaggy horse	be in	long shaggy frieze ulster
+1.0	wild-looking driver	be in	long shaggy frieze ulster
+1.0	wild-looking driver	be in	frieze ulster
+1.0	wild-looking driver	be in	long frieze ulster
+1.0	shaggy horse	be in	frieze ulster
+1.0	Alice	expect	drawing-room door
+1.0	Alice	even now expect drawing-room door at	last moment
+1.0	Alice	now expect drawing-room door at	last moment
+0.10229525773632098	Alice	even now expect at	moment
+1.0	Alice	now expect	drawing-room door
+1.0	Alice	even now expect	drawing-room door
+1.0	Alice	even now expect drawing-room door at	moment
+0.10229525773632098	Alice	even now expect at	last moment
+0.10229525773632098	Alice	even now expect	open
+0.10229525773632098	Alice	now expect at	last moment
+0.10229525773632098	Alice	expect	open
+1.0	Alice	expect drawing-room door at	last moment
+0.10229525773632098	Alice	expect at	moment
+1.0	Alice	expect drawing-room door at	moment
+0.10229525773632098	Alice	now expect at	moment
+1.0	Alice	now expect drawing-room door at	moment
+0.10229525773632098	Alice	now expect	open
+0.10229525773632098	Alice	expect at	last moment
+1.0	sister	on	pale cheek
+1.0	Alice	lay	one more kiss on she sister 's pale cheek
+1.0	she Gladys Brennan	wait in	porch
+1.0	she Gladys Brennan	wait for	she
+1.0	she Gladys Brennan	wait in	porch church
+1.0	she	find	she husband
+1.0	it	be	indeed
+1.0	we	be	only pleased
+1.0	we	be	too pleased
+1.0	we	be	only too pleased
+1.0	we	to-morrow	wet
+1.0	next	will	will sunshine
+1.0	next	will	will sunshine
+1.0	we	be	pleased
+1.0	to-day	be	wet
+1.0	party	thank zoe for	appropriate remark
+1.0	party	thank zoe inwardly for	remark
+1.0	party	thank zoe for	remark
+1.0	party	thank zoe inwardly for	most appropriate remark
+1.0	party	thank zoe inwardly for	appropriate remark
+1.0	party	thank inwardly	Zoe
+1.0	party	thank	Zoe
+1.0	Father Shannon	be await	they
+1.0	party	thank zoe for	most appropriate remark
+1.0	party	ascend church toward	altar-rail
+1.0	party	ascend	church
+1.0	he hand	be	cross
+1.0	he hand	be cross over	he stomach
+1.0	he hand	be cross over	he portly stomach
+1.0	he	stand on	he altar-step
+1.0	plaster angel	bow	they head
+1.0	plaster angel	fold	they wing
+1.0	great white	stare of	wall
+1.0	great white	stare of	chalky wall
+1.0	german print	represent	suffering
+1.0	print	represent	suffering
+1.0	place	be	immediate symbol
+1.0	print	represent	suffering of Christ
+1.0	german print	absurdly represent	suffering of Christ
+1.0	white	stare of	wall
+1.0	german print	represent	suffering of Christ
+1.0	place	be	immediate
+1.0	great chancel window	be with	its pane of green glass
+1.0	white	stare of	chalky wall
+1.0	place	be	symbol
+1.0	earthen floor	be with	its tub of holy water
+1.0	print	absurdly represent	suffering
+1.0	print	absurdly represent	suffering of Christ
+1.0	german print	absurdly represent	suffering
+1.0	they	be	put to
+1.0	they	be	put
+0.431369816372011	it	do matter to	they
+1.0	affidavit	be	make
+1.0	they	be only make police-station of	they might other public office
+1.0	inquiry	concern	parcel
+1.0	they	be make police-station of	they might other public office
+0.6053639497982628	parcel	leave in	cab
+1.0	inquiry	concern	parcel leave in cab
+1.0	they	be make use of	they might other public office
+1.0	they	be only make use of	they might other public office
+1.0	inquiry	be	make
+1.0	inquiry	be	where make
+1.0	inquiry	concern	parcel leave
+1.0	it	serve	any
+1.0	it	serve	its purpose
+1.0	it	serve	any of other
+0.9241235360800735	delight	penetrate by	thought
+1.0	they	lean back on	cushion
+1.0	they	lean back on	cushion of carriage
+0.7850373721729438	they delight	melt to	one interest
+0.9301550244292206	they	penetrate by	thought
+1.0	they	lean on	blue cushion
+1.0	Edward	put ring on	Alice 's finger
+1.0	they foot	set upon	upon one path
+1.0	Alice	on	finger
+1.0	they	get	penetrate
+1.0	Edward	put	ring
+0.38416183610547794	delight	melt to	one interest
+1.0	they foot	set upon	ever upon one path
+1.0	they	lean on	blue cushion of carriage
+1.0	priest	join	they hand
+1.0	they	lean on	cushion
+0.9241235360800735	delight	penetrate by	such thought
+1.0	they	lean back on	blue cushion
+1.0	they	get	penetrate by thought
+1.0	they	lean back on	blue cushion of carriage
+1.0	they	lean on	cushion of carriage
+0.9301550244292206	they	penetrate by	such thought
+1.0	they	sign	they name
+1.0	they	get	penetrate by such thought
+1.0	carriage	roll through	deliquefying country
+1.0	it	pass	three hour wait for train at little station of Ardrahan
+1.0	it	spend	time drive
+1.0	they	wholly divest	themselves
+1.0	it	pass	three hour wait
+1.0	it	pass	three hour wait for train at station
+1.0	it	pass	three hour
+1.0	they	divest	themselves
+1.0	it	pass	three hour wait for train
+1.0	it	spend	time drive to Athenry
+1.0	carriage	roll through	country
+1.0	it	pass	three hour wait for train at station of Ardrahan
+0.8790044339891702	pitifully	eye of	man
+1.0	it	have	have arrange
+1.0	it	pass	three hour wait for train at little station
+1.0	it	spend	time
+1.0	they woman	pile wet peat into	basket throw back
+1.0	they	could see	strip
+0.36869096784356103	basket	throw across	back starvele ass
+1.0	they half-naked woman	pile	peat
+1.0	she petticoat	cling about	she leg
+0.36869096784356103	basket	throw across	meagre back
+1.0	they woman	pile peat into	basket
+1.0	they woman	pile peat into	basket throw
+1.0	they half-naked woman	pile wet peat into	basket throw back ass
+1.0	they	half-naked woman	she petticoat cling about she leg
+1.0	they woman	pile peat into	basket throw meagre back
+1.0	they half-naked woman	pile peat into	basket throw back
+1.0	she soaked petticoat	cling about	she leg
+0.36869096784356103	basket	throw across	meagre back starvele ass
+1.0	they half-naked woman	pile wet peat into	basket throw
+1.0	they half-naked woman	pile peat into	basket throw back starvele ass
+1.0	they half-naked woman	pile peat into	basket
+1.0	they	woman	she petticoat cling about she leg
+1.0	they	half-naked woman	she soaked petticoat cling about she red leg
+1.0	they half-naked woman	pile peat into	basket throw meagre back starvele ass
+1.0	they	woman	she soaked petticoat cling about she leg
+1.0	they woman	pile wet peat into	basket throw meagre back ass
+1.0	they woman	pile	wet peat
+1.0	they half-naked woman	pile peat into	basket throw meagre back
+1.0	they half-naked woman	pile peat into	basket throw
+1.0	she soaked petticoat	cling about	she red leg
+1.0	they woman	pile peat into	basket throw meagre back starvele ass
+1.0	they woman	pile wet peat into	basket throw back ass
+1.0	they woman	pile wet peat into	basket throw back starvele ass
+1.0	they woman	pile wet peat into	basket throw meagre back starvele ass
+1.0	she petticoat	cling about	she red leg
+1.0	they woman	pile peat into	basket throw back
+1.0	they	woman	she petticoat cling
+1.0	they	half-naked woman	she petticoat cling about she red leg
+1.0	they	half-naked woman	she petticoat cling
+1.0	they	woman	she petticoat cling about she red leg
+1.0	they half-naked woman	pile wet peat into	basket throw back
+0.36869096784356103	basket	throw across	back
+1.0	they woman	pile	peat
+1.0	they	could see strip through	streaming glass
+0.36869096784356103	basket	throw across	back ass
+1.0	they half-naked woman	pile wet peat into	basket throw meagre back
+1.0	they woman	pile wet peat into	basket throw
+1.0	they	could see	strip of bog
+1.0	they half-naked woman	pile wet peat into	basket
+1.0	they woman	pile wet peat into	basket throw meagre back
+1.0	they half-naked woman	pile wet peat into	basket throw meagre back ass
+1.0	they woman	pile peat into	basket throw back starvele ass
+1.0	they	woman	she soaked petticoat cling about she red leg
+1.0	they half-naked woman	pile	wet peat
+1.0	they	woman	she soaked petticoat cling
+0.36869096784356103	basket	throw across	meagre back ass
+1.0	they half-naked woman	pile peat into	basket throw back ass
+1.0	they woman	pile peat into	basket throw meagre back ass
+1.0	they woman	pile peat into	basket throw back ass
+1.0	they half-naked woman	pile wet peat into	basket throw back starvele ass
+1.0	they half-naked woman	pile wet peat into	basket throw meagre back starvele ass
+1.0	they	half-naked woman	she soaked petticoat cling about she leg
+1.0	they	half-naked woman	she soaked petticoat cling
+1.0	they woman	pile wet peat into	basket
+1.0	they half-naked woman	pile peat into	basket throw meagre back ass
+0.831784991453193	green enclosure	full of	fattening kine
+1.0	farther potato-plot	lie about	they
+1.0	enclosure	be here and	pass
+1.0	enclosure	be and	pass
+1.0	green enclosure	utter to	those
+1.0	enclosure full	utter to	those
+1.0	few miserable poplar	be with	cabin sink below dung-heap
+1.0	farther meagre potato-plot	lie about	they
+1.0	farther	be	low-lying
+1.0	chimney	with	smoke
+1.0	enclosure	be here and there	pass
+0.831784991453193	enclosure	full of	fattening kine
+1.0	green enclosure full	utter to	those
+1.0	enclosure	be	pass
+1.0	enclosure	utter to	those
+1.0	enclosure	be and there	pass
+1.0	beautiful plantation sweep	pillar of	georgian house show at end
+1.0	crest	along sweep be	pillar of georgian house show at end of vista
+1.0	these	beyond sweep be	pillar of georgian house show at end of vista
+1.0	carriage	turn up	narrow road
+1.0	we traveller	come upon	dozen policeman
+1.0	furniture	have	have throw
+1.0	carriage	turn up	road
+1.0	furniture	have	have just throw
+0.20467756054186004	we traveller	come upon	dozen policeman group
+1.0	family	have take shelter from	rain
+1.0	family	have take	shelter
+1.0	family	have take shelter under	hawthorn-tree
+1.0	they	will	will again soon
+1.0	we work	will have	begin again
+1.0	we work	will have	begin
+1.0	we work	be	begin again
+1.0	they	will	will again as soon
+1.0	they	will	will back again as soon
+1.0	they	will	will as soon
+1.0	we back	be	turn
+1.0	we work	be	begin
+1.0	we work	be	begin all again
+1.0	we work	will have	begin all again
+1.0	they	will	will soon
+1.0	we work	will have	begin over again
+1.0	we work	be	begin over again
+1.0	they	will	will back again soon
+1.0	we work	will have	begin all over again
+1.0	we work	be	begin all over again
+1.0	we	pay rent for	they
+1.0	we	pay	rent
+1.0	she departure	be associate with	act
+1.0	she departure	be associate with	act of kindness
+0.22356434342853693	she	wish	associate
+1.0	she departure	be	associate
+0.22356434342853693	she	wish	associate with act of kindness
+0.22356434342853693	she	wish	associate with act
+1.0	she	wish	she departure
+1.0	year ' rent	be owe	more
+1.0	rent	be owe	more
+1.0	five year ' rent	be owe	more
+1.0	none	be of	use
+1.0	none	be of	use here
+1.0	we	forget ireland	many have do
+1.0	we	forget	Ireland
+1.0	we	forget ireland	many have do before we
+1.0	many	have do before	we
+1.0	suburban home	arise before	reader in its paint
+1.0	home	arise before	reader in its yellow paint
+1.0	suburban home	arise before	reader in its yellow paint
+1.0	home	arise before	reader
+0.7706573757084785	home	predict by	May
+1.0	she	bid	Alice last good-bye
+1.0	she	bid	Alice good-bye
+0.7706573757084785	suburban home	predict by	May
+1.0	reader	be in	its yellow paint
+1.0	home	arise before	reader in its paint
+1.0	suburban home	arise before	reader
+1.0	she	come	bid
+1.0	balcony	be	set
+1.0	drawing-room	have	two window
+1.0	slender balcony	be set with	flower-box
+1.0	slender balcony	be	generally set
+1.0	slender balcony	be	set
+1.0	balcony	be generally set with	flower-box
+1.0	slender balcony	be generally set with	flower-box
+1.0	balcony	be	generally set
+1.0	balcony	be set with	flower-box
+1.0	servant	of	room
+1.0	foliage	be in	crescent
+1.0	stone pillar	seem in	Ashbourne Crescent at store
+1.0	everything	be in	Ashbourne Crescent
+1.0	everything	be in	Ashbourne Crescent at store
+1.0	stone pillar	seem in	Ashbourne Crescent
+1.0	pair	green of	venetian blind jar
+1.0	everything else	be in	Ashbourne Crescent
+0.8251007452379628	it	have	have buy
+1.0	everything else	be in	Ashbourne Crescent at store
+1.0	crescent	do mean to	neighbourhood
+1.0	general aversion	be in	its temporal aspect
+1.0	brother	beg	take
+1.0	brother	go at_time	day
+1.0	brother	beg	take to dance
+1.0	father	go at_time	day
+1.0	brother	read	novel
+1.0	young lady	play	tennis
+1.0	brother	beg	take to dance at Kensington Town Hall
+1.0	lady	play	tennis
+1.0	brother	beg	take at Kensington Town Hall
+0.28964938982864197	family	proceed to	church
+1.0	girl	be with	lively bustle bob
+1.0	time	from matron be	young man in frock-coat
+1.0	young man	be in	frock-coat
+1.0	matron	be in	silk mantle
+1.0	girl	be in	gaiety of they summer dress
+1.0	matron	man in	frock-coat
+0.28964938982864197	family	proceed in	orderly procession
+0.28964938982864197	family	proceed in	procession
+1.0	father	be in	gravity of umbrella
+1.0	silk mantle	in matron be	young man
+1.0	air	be	alive
+1.0	sky	be	when flush
+1.0	outline	grow	harshly distinct
+1.0	distant park	be with	they young man
+1.0	outline	grow	distinct
+1.0	house	keep	cook
+1.0	sky	be	when flush with sunset
+1.0	house	keep	housemaid
+1.0	sky	be	flush
+1.0	sky	be flush with	sunset
+1.0	length	be	search of genius
+1.0	length	be	search of genius of empire
+0.7506771057577448	breadth	length of	land
+1.0	nine hundred year	have	tell
+1.0	Crescent	be with	its bright brass knocker
+1.0	length	be	search
+1.0	nine year	have	tell
+1.0	much lucidity	belief in	wisdom show in present order of thing
+1.0	much lucidity	much belief in	wisdom show in present
+1.0	much lucidity	belief in	wisdom show in present
+1.0	much lucidity	much belief in	wisdom
+1.0	much belief	be in	wisdom show
+1.0	much lucidity	belief in	wisdom show
+1.0	much lucidity	belief in	wisdom
+1.0	much lucidity	much belief in	wisdom show
+1.0	much lucidity	much belief in	wisdom show in present order of thing
+1.0	much lucidity	much belief in	wisdom show in present order
+1.0	much lucidity	belief in	wisdom show in present order
+1.0	you quest	be for	hectic emotion
+1.0	you quest	be for	emotion
+1.0	you	turn aside	you step
+1.0	you	turn	you step
+1.0	no. 31	differ	little
+1.0	no.	differ	little
+0.673106436244453	no. 31	differ from	rest of house
+0.673106436244453	no. 31	differ from	rest
+0.673106436244453	no.	differ from	rest
+0.673106436244453	no.	differ from	rest of house
+1.0	paint	be	fresher
+1.0	hall-door	have	three bell
+1.0	hall-door	have	usual two
+1.0	brass plate	be with	Dr. Reed ' engrave upon it
+1.0	cook	be talk through	area-railing
+1.0	parlourmaid	open	door
+1.0	interior	be as	orderly at house in crescent
+1.0	smart parlourmaid	open	door
+1.0	cook	be talk to	butcher-boy
+1.0	floorcloth	be	irreproachable
+1.0	marble-painted wall	be unadorned with	single picture
+1.0	wall	be unadorned with	single picture
+1.0	wall	be	unadorned
+1.0	marble-painted wall	be	unadorned
+1.0	marble-painted wall	be unadorned with	picture
+1.0	wall	be unadorned with	picture
+1.0	Frith	of	Railway Station
+1.0	Guido	of	Fortune
+1.0	five pound	be in	Tottenham Court Road
+1.0	two engraving	one of	Frith 's Railway Station
+1.0	room	be down	further passage lead to kitchen-stair
+1.0	second room	be down	further passage lead to kitchen-stair
+1.0	room	be down	passage lead
+1.0	second room	be down	further passage lead
+1.0	Doctor	have	consulting-room
+1.0	second room	be down	passage
+1.0	room	be down	further passage
+1.0	room	be down	further passage lead
+1.0	room	be down	passage lead to kitchen-stair
+1.0	second room	be down	passage lead
+1.0	second room	be down	passage lead to kitchen-stair
+1.0	room	be down	passage
+1.0	second room	be down	further passage
+1.0	bookcase	fill with	volume
+1.0	small bookcase	fill with	serious-looking volume
+1.0	bookcase	fill with	serious-looking volume
+0.8887113777717853	mahogany escritoire	strew with	papers
+1.0	papers	memorandum of	sort
+1.0	small bookcase	fill with	volume
+1.0	floor	be cover with	Brussels carpet
+1.0	floor	be	cover
+1.0	portrait	hang over	fireplace
+1.0	floor	be cover with	bright Brussels carpet
+1.0	colour window	be on	first landing
+1.0	large window	be on	landing
+1.0	large colour window	be on	first landing
+1.0	large colour window	be on	landing
+1.0	window	be on	first landing
+1.0	large window	be on	first landing
+1.0	window	be on	landing
+1.0	colour window	be on	landing
+1.0	drawing-room	be	double room
+1.0	drawing-room	be	room
+1.0	drawing-room	be	double
+1.0	heavy curtain	fall from	cornice
+1.0	curtain	fall from	gilt cornice
+1.0	furniture	be in	red
+1.0	heavy curtain	fall from	gilt cornice
+1.0	curtain	fall from	cornice
+1.0	sofa	be on	side of fireplace
+1.0	sofa	be on	side
+1.0	oval mirror	be above	chimneypiece
+1.0	gilt mirror	be above	chimneypiece
+1.0	mirror	be above	chimneypiece
+1.0	gilt oval mirror	be above	chimneypiece
+1.0	second room	be	Alice 's study
+1.0	room	be	Alice 's study
+1.0	she	write	she novel
+1.0	Alice	have	study
+1.0	table	be in	black wood
+1.0	table	be with	pile of MSS
+1.0	Shelley	such as	poem
+1.0	its shelf	be	furnish
+1.0	poem	poem	Keats
+1.0	its shelf	be furnish with	literature
+1.0	Shelley	's poem be	poem
+1.0	Wordsworth	have	poem
+1.0	its shelf	be furnish with	imaginative literature
+1.0	fasten	stand in	one corner
+1.0	Swinburne 's _ Atalanta	be in	Calydon _
+1.0	it	next to volume be	Swinburne 's _ Atalanta in Calydon _
+1.0	volume	atalanta in	Calydon _
+1.0	study	be in	art
+1.0	Swinburne	have	_ Atalanta in Calydon _
+1.0	Walter Pater	have	_ Renaissance _
+1.0	many volume	be in	yellow cover
+1.0	character	be	therefore provincial
+1.0	character	be	provincial
+1.0	character	be	essentially provincial
+1.0	character	be	therefore essentially provincial
+1.0	trace	be	see
+0.224581000354813	two large blue vase	stand on	small table
+1.0	large blue vase	stand	pot
+0.224581000354813	large blue vase	stand evidently in	porcelain
+0.224581000354813	two large blue vase	stand in	yellow porcelain
+1.0	two large blue vase	stand	pot
+0.224581000354813	large blue vase	stand in	porcelain
+1.0	large blue vase	stand pot on	small table
+1.0	two large blue vase	stand evidently	pot
+0.224581000354813	two large blue vase	stand on	table
+0.224581000354813	large blue vase	stand in	yellow porcelain
+1.0	two large blue vase	be on	mantelpiece
+1.0	large blue vase	stand pot evidently in	porcelain
+1.0	large blue vase	stand evidently	pot
+0.224581000354813	two large blue vase	stand in	porcelain
+0.224581000354813	large blue vase	stand on	table
+1.0	two large blue vase	stand pot evidently in	yellow porcelain
+1.0	two large blue vase	stand pot evidently in	porcelain
+1.0	large blue vase	be on	mantelpiece
+0.224581000354813	large blue vase	stand evidently on	table
+0.224581000354813	large blue vase	stand on	small table
+1.0	large blue vase	stand pot evidently in	yellow porcelain
+0.224581000354813	two large blue vase	stand evidently on	small table
+1.0	large blue vase	be on	mantelpiece in larger room
+1.0	two large blue vase	stand pot on	small table
+0.224581000354813	two large blue vase	stand evidently in	porcelain
+1.0	large blue vase	stand pot in	porcelain
+1.0	large blue vase	stand pot evidently on	table
+1.0	two large blue vase	be on	mantelpiece in larger room
+0.224581000354813	two large blue vase	stand evidently in	yellow porcelain
+1.0	two large blue vase	stand pot evidently on	small table
+0.224581000354813	large blue vase	stand evidently in	yellow porcelain
+1.0	two large blue vase	stand pot in	yellow porcelain
+0.224581000354813	large blue vase	stand evidently on	small table
+1.0	two large blue vase	stand pot evidently on	table
+1.0	large blue vase	be on	mantelpiece in room
+1.0	large blue vase	stand pot in	yellow porcelain
+1.0	engraving	be on	wall
+1.0	two large blue vase	stand pot on	table
+1.0	large blue vase	stand pot on	table
+1.0	two large blue vase	be on	mantelpiece in room
+1.0	two large blue vase	stand pot in	porcelain
+0.224581000354813	two large blue vase	stand evidently on	table
+1.0	large blue vase	stand pot evidently on	small table
+1.0	mantelpiece	be in	larger room
+0.8291434930685778	talk	tea of	they work
+1.0	all	write	novel
+1.0	it	be	now eleven o'clock
+1.0	it	be now eleven o'clock in	morning
+1.0	it	be eleven in	morning
+1.0	it	be now eleven in	morning
+1.0	eleven	be in	morning
+1.0	it	be	eleven
+1.0	it	be	now eleven
+1.0	it	be eleven o'clock in	morning
+1.0	it	be	eleven o'clock
+1.0	Alice	enter	she drawing-room
+1.0	tall spare woman	be with	kind eye
+1.0	you	see	she
+1.0	she	have finish	she housekeeping
+1.0	she	have just finish	she housekeeping
+1.0	she	sit down	write
+1.0	she	ring	bell
+1.0	she	ring bell for	nurse
+1.0	she pen	run on without	perceptible pause
+1.0	she pen	run on as	usual
+1.0	she pen	run on without	pause
+1.0	sound	attract	she attention
+0.8649915656993726	she attention	sound of	rapid footstep
+0.8649915656993726	she attention	sound of	footstep
+1.0	I	be	sick
+1.0	I	be sick of	it
+1.0	I	have	you
+1.0	I	be so miserable at	home
+1.0	I	be	so miserable
+1.0	I	be	miserable
+1.0	I	be miserable at	home
+1.0	perpetual	make up	match
+1.0	perpetual try	be	sickening
+1.0	I	be	sick
+1.0	kind	get	marry
+0.40698801184380096	we	use	go
+1.0	eager	be mamma after	Captain Gibbon
+0.40698801184380096	we	go to	they
+1.0	we	go	sometimes ten mile
+1.0	eager	be	mamma
+1.0	we	go	ten mile
+0.40698801184380096	we	use	go to they
+1.0	you	have hear from	he
+1.0	you	have hear	he go out
+1.0	you	have hear	he go out to India
+1.0	you	have hear	he go
+1.0	he	go to	India
+1.0	he	go out to	India
+1.0	you	have hear	he go to India
+1.0	he	once write to	I
+1.0	he	write	say
+1.0	he	once write	say
+1.0	he	write to	I
+1.0	one	see again	they
+1.0	people	go out to	India
+1.0	one	see	they
+1.0	May	have	horse
+1.0	she	be ride	pound match
+1.0	May 's horse	come at	big wall
+1.0	pound match	be with	Mrs. Manly
+1.0	May 's horse	come to	grief
+1.0	she	be ride	match with Mrs. Manly
+1.0	she	be ride	match
+1.0	she	be ride match across	country
+1.0	May 's horse	come at	wall
+1.0	she	be ride	pound match with Mrs. Manly
+1.0	she	well use	paint at school
+1.0	she	how well use	paint at school
+1.0	she	how well use	paint
+1.0	she	use	paint
+1.0	she	use	paint at school
+1.0	she	well use	paint
+1.0	she	paint at	school
+1.0	Ireland	be worse than	ever
+1.0	we	shall	shall ruin
+1.0	Ireland	be	worse
+1.0	we	shall	shall all ruin
+1.0	I	be sick of	subject
+1.0	I	be	sick

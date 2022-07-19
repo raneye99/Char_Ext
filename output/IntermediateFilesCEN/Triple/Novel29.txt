@@ -1,0 +1,1215 @@
+1.0	it	be	comfortable Mrs. Carmichael
+1.0	it	be	Mrs. Carmichael
+1.0	it	be	pretty Mrs. Carmichael
+1.0	it	be	pretty comfortable Mrs. Carmichael
+1.0	Sara	make	clear to she all
+1.0	she	be	send
+1.0	she	be send at	once
+1.0	she	be	send for at once
+1.0	she	come across	square
+1.0	she	be	send for
+1.0	Sara	make	clear
+1.0	he	say to	Mr. Carmichael
+1.0	he	say upon	my word
+1.0	it	be	suggest
+1.0	it	be	when suggest
+1.0	he	say faintly to	Mr. Carmichael
+1.0	he	say faintly upon	my word
+1.0	I	lose	sight of she
+1.0	mamma	will come in	few minute
+1.0	mamma	will come in	minute
+1.0	it	be	Janet
+1.0	Donald	gaze	reflect
+1.0	Donald	gaze at	Sara
+1.0	Donald	stand in	he pocket
+1.0	Donald	stand with	he hand
+1.0	you	would	would have find in minute
+1.0	you	would	then would have find
+1.0	I	give	you
+1.0	you	would	would have find
+1.0	I	give	my sixpence
+1.0	you	would	then would have find in minute
+1.0	she	look	very much move
+1.0	she	look	much move
+1.0	she	take	Sara
+1.0	she	take sara in	she arm
+1.0	Sara	kiss	she
+1.0	she	suddenly take	Sara
+1.0	she	suddenly take sara in	she arm
+1.0	she	look	move
+1.0	it	be	wonder at
+1.0	Sara	could only think of	one thing
+1.0	Sara	could think of	one thing
+1.0	he	be	friend
+1.0	he	be	wicked friend
+0.5040895757078669	she	say with	glance toward closed door
+0.5040895757078669	she	say with	glance toward closed door of library
+0.5040895757078669	she	say with	glance toward door of library
+0.5040895757078669	she	say with	glance toward door
+0.5040895757078669	she	say with	glance
+1.0	she	kiss again	she
+1.0	she	kiss	she
+1.0	he	love	he
+1.0	he	love much	he
+1.0	he	love so much	he
+1.0	he grief	make	he
+1.0	he	recover	you papa
+1.0	he begin	be	dead
+1.0	he	recover	you poor papa
+1.0	he	die of	brain fever
+1.0	he	almost die of	brain fever
+1.0	I	be	near
+1.0	I	be	so near
+1.0	school	be in	France
+1.0	he	be mislead by	false clue
+1.0	he	be	continually mislead
+1.0	he	be	mislead
+1.0	he	be continually mislead by	false clue
+1.0	he	have look everywhere for	you
+1.0	he	have look for	you
+1.0	he	be	sorry
+1.0	you	want	make
+1.0	you	be	little
+1.0	he	be sorry for	you
+1.0	you	be	girl
+1.0	you	be	little girl
+1.0	you	be	girl too
+1.0	you	be	little girl too
+1.0	Ram Dass	climb into	you attic window
+1.0	he	tell	Ram Dass
+1.0	Sara	give	start of joy
+1.0	Sara	give	start
+1.0	Ram Dass	do bring	thing
+1.0	he	do tell	Ram Dass
+1.0	Ram Dass	do	it
+1.0	he	do make	dream
+1.0	he	be sorry for	lost Sara Crewe 's sake
+1.0	he	be	sorry for you for Sara Crewe 's sake
+1.0	he	be sorry for	you
+1.0	he	be sorry for	little lost Sara Crewe 's sake
+1.0	he	be	sorry
+1.0	little lost Sara Crewe	for	sake
+1.0	he	be	sorry for you for lost Sara Crewe 's sake
+1.0	he	be sorry for	little Sara Crewe 's sake
+1.0	he	be	sorry for you for little Sara Crewe 's sake
+1.0	he	be	kind
+1.0	he	be sorry for	Sara Crewe 's sake
+1.0	he	be	sorry for you for little lost Sara Crewe 's sake
+1.0	library door	call sara to	he
+1.0	library door	call sara with	gesture
+1.0	library door	call	Sara
+1.0	you	come to	he
+1.0	indian gentleman	look	she enter
+1.0	gentleman	look	she enter
+1.0	gentleman	look at	she
+1.0	indian gentleman	look at	she
+1.0	she	go with	she hand
+1.0	she	go with	she hand clasp together
+1.0	she	go with	she hand clasp against she breast
+1.0	she	stand before	he chair
+1.0	she	go with	she hand clasp together against she breast
+1.0	she	go with	she hand clasp
+1.0	she	say in	emotional voice
+1.0	she	say in	joyful voice
+1.0	she	say in	little voice
+1.0	she	say in	joyful emotional voice
+1.0	she	say in	joyful emotional little voice
+1.0	she	say in	voice
+1.0	she	say in	joyful little voice
+1.0	she	say in	emotional little voice
+1.0	you	send	they
+1.0	he	answer	she
+1.0	she	just use	kneel
+1.0	they	be	when friend in world
+1.0	she	just use	kneel by she father
+1.0	they	be	when dearest friend
+1.0	they	be friend in	world
+1.0	she	use	kneel
+1.0	they	be	friend
+1.0	they	be	when friend
+1.0	it	make down	she kneel
+1.0	she	kneel by	she father
+1.0	she	use	kneel by she father
+1.0	they	be	when dearest friend in world
+1.0	they	be	dearest friend
+1.0	they	be dearest friend in	world
+1.0	dearest friend	be in	world
+1.0	you	be	you
+1.0	it	be	you
+1.0	you	be you	my friend
+1.0	it	be you	my friend
+1.0	she	kiss again	it
+1.0	she	kiss	it
+1.0	she	kiss again and again	it
+1.0	she	drop	she face
+1.0	Mr. Carmichael	say aside to	he wife
+1.0	Mr. Carmichael	say to	he wife
+1.0	he	do look	change
+1.0	he	do look in	fact
+1.0	he	have	thing think
+1.0	he	have	thing think of for already
+0.4370966960185534	new thing	think of	of already
+1.0	he	have	new thing think of for already
+0.4370966960185534	thing	think of	of already
+1.0	he	have	new thing think
+1.0	Miss Minchin	be in	place
+1.0	Miss Minchin	be in	first place
+1.0	she	tell of	change
+1.0	she	must	must interview
+1.0	indian gentleman	be	determine
+1.0	gentleman	be determine upon	point
+1.0	indian gentleman	be determine upon	point
+1.0	gentleman	be	determine
+1.0	gentleman	be very determine upon	point
+1.0	indian gentleman	be very determine upon	point
+1.0	indian gentleman	be	very determine
+1.0	gentleman	be	very determine
+1.0	Mr. Carmichael	see	Miss Minchin
+1.0	Mr. Carmichael	see	Miss Minchin himself
+1.0	she	will	will very angry
+1.0	she	will	will angry
+1.0	Miss Minchin	enough make	actually come
+1.0	Miss Minchin	make	come
+1.0	Miss Minchin	actually come in	search of she pupil
+1.0	Miss Minchin	come in	search of she pupil herself
+1.0	Miss Minchin	enough make	actually come in search
+1.0	Miss Minchin	oddly enough make	actually come in search of she pupil
+1.0	Miss Minchin	enough make	come in search of she pupil
+1.0	it	unnecessary	Mr. Carmichael go to she
+1.0	Miss Minchin	oddly enough make	come
+1.0	Miss Minchin	come in	search
+1.0	it	unnecessary	Mr. Carmichael go
+1.0	Miss Minchin	make	actually come in search of she pupil herself
+1.0	Miss Minchin	come in	search of she pupil
+1.0	Miss Minchin	enough make	actually come in search of she pupil herself
+1.0	Miss Minchin	make	it unnecessary
+1.0	Miss Minchin	enough make	come
+1.0	Miss Minchin	enough make	it unnecessary
+1.0	Miss Minchin	actually come in	search of she pupil herself
+1.0	Miss Minchin	oddly enough make	come in search
+1.0	Miss Minchin	make	come in search of she pupil
+1.0	Miss Minchin	oddly enough make	come in search of she pupil
+1.0	Miss Minchin	oddly enough make	it unnecessary
+1.0	Mr. Carmichael	go to	she
+1.0	Miss Minchin	make	actually come in search
+1.0	Miss Minchin	make	come in search
+1.0	Miss Minchin	oddly enough make	actually come in search
+1.0	Miss Minchin	make	come in search of she pupil herself
+1.0	Miss Minchin	oddly enough make	actually come
+1.0	Miss Minchin	enough make	come in search
+1.0	Miss Minchin	oddly enough make	come in search of she pupil herself
+1.0	Miss Minchin	make	actually come in search of she pupil
+1.0	Miss Minchin	enough make	come in search of she pupil herself
+1.0	Miss Minchin	enough make	actually come in search of she pupil
+1.0	Miss Minchin	actually come in	search
+1.0	Miss Minchin	make	actually come
+1.0	Miss Minchin	oddly enough make	actually come in search of she pupil herself
+1.0	she	have want sara for	something
+1.0	she	hear	thing
+1.0	she	have want	Sara
+1.0	she	hear	astonishing thing
+1.0	she	hear thing on	inquiry
+1.0	she	steal out of	area
+0.6598288053709395	something	hide under	she cloak
+0.5678408745097477	she	step of	next door
+1.0	she	steal with	something hide under she cloak
+1.0	she	go up	step of next door
+1.0	she	steal with	something
+1.0	she	go up	step
+0.5678408745097477	she	step of	door
+1.0	she	enter	house
+1.0	she	go up	step of door
+1.0	she	steal with	something hide
+1.0	he	have live in	India
+0.657221996183942	she	must in	must have house
+0.657221996183942	she	must in	must have house for two hour
+1.0	I	apologize for	she intrusion
+1.0	I	inquire into	matter
+1.0	visitor	have	arrival
+1.0	Sara	be sit on	on footstool Mr. Carrisford 's knee
+1.0	Sara	become	rather pale
+1.0	Miss Minchin	enter room with	dignified manner
+1.0	Miss Minchin	enter room with	manner
+1.0	Miss Minchin	enter room with	sternly dignified manner
+1.0	Miss Minchin	enter	room
+1.0	she	be	correctly dress
+1.0	she	be	dress
+1.0	Miss Minchin	proprietress next	door
+1.0	I	be	Miss Minchin
+1.0	Miss Minchin	proprietress of	Young Ladies ' Seminary
+1.0	gentleman	look for	moment in silent scrutiny
+1.0	indian gentleman	look for	moment in scrutiny
+1.0	indian gentleman	look for	moment
+1.0	moment	be in	silent scrutiny
+1.0	gentleman	look at	she
+1.0	gentleman	look for	moment
+1.0	indian gentleman	look at	she
+1.0	indian gentleman	look for	moment in silent scrutiny
+1.0	gentleman	look for	moment in scrutiny
+1.0	he	be	man
+1.0	you	be	so Miss Minchin
+1.0	you	be	Miss Minchin
+1.0	I	be	sir
+1.0	you	arrive at	right time
+1.0	you	arrive at	time
+1.0	my solicitor	be on	just point go
+1.0	my solicitor	be on	point go
+1.0	my	solicitor	Mr. Carmichael
+1.0	Miiss Minchin	look to	Mr. Carrisford
+1.0	Miiss Minchin	look in	amazement
+1.0	Miiss Minchin	look from	he
+1.0	I	have come as	matter of duty
+1.0	I	have come here as	matter of duty
+1.0	I	have come as	matter
+1.0	I	have come here as	matter
+1.0	you	be intrude upon	upon forwardness
+1.0	you	be	intrude
+1.0	I	come	explain
+1.0	she	intrude without	my knowledge
+1.0	she	turn upon	Sara
+1.0	you	shall	shall severely punish
+1.0	you	shall	shall punish
+1.0	indian gentleman	pat	she hand
+1.0	gentleman	draw	Sara
+1.0	indian gentleman	draw	Sara
+1.0	gentleman	draw sara to	he side
+1.0	indian gentleman	draw sara to	he side
+1.0	gentleman	pat	she hand
+1.0	she home	will with	will I
+1.0	Miss Minchin	fall back in	amaze indignation
+1.0	Miss Minchin	fall back in	indignation
+1.0	Miss Minchin	fall in	indignation
+1.0	Miss Minchin	fall in	amaze indignation
+1.0	gentleman	get as quickly	it
+1.0	indian gentleman	get as quickly	it
+1.0	gentleman	get quickly	it
+1.0	gentleman	get	it
+1.0	indian gentleman	get quickly	it
+1.0	gentleman	get over quickly	it
+1.0	indian gentleman	get over quickly	it
+1.0	indian gentleman	get	it
+1.0	indian gentleman	get over as quickly	it
+1.0	gentleman	get over as quickly	it
+1.0	he	hold	she hand
+1.0	Mr. Carmichael	explain in	level-toned manner of man
+1.0	Mr. Carmichael	explain in	steady manner
+1.0	Mr. Carmichael	explain in	quiet manner
+1.0	Mr. Carmichael	explain in	level-toned steady manner of man
+1.0	Mr. Carmichael	explain in	level-toned manner
+1.0	Mr. Carmichael	explain in	manner of man
+1.0	Mr. Carmichael	explain in	quiet manner of man
+1.0	Mr. Carmichael	explain in	level-toned steady manner
+1.0	Mr. Carmichael	explain in	manner
+1.0	Mr. Carmichael	explain in	steady manner of man
+1.0	Mr. Carrisford	be	friend
+1.0	Mr. Carrisford	be intimate friend of	Captain Crewe
+1.0	Carrisford	be	intimate
+1.0	Mr. Carrisford	be intimate friend of	late Captain Crewe
+1.0	Mr. Carrisford	be friend of	late Captain Crewe
+1.0	Mr. Carrisford	be	intimate friend
+1.0	Mr. Carrisford	be friend of	Captain Crewe
+1.0	he	be	he partner in investment
+1.0	he	be	he partner in certain investment
+1.0	he	be	he partner
+1.0	he	be	he partner in certain large investment
+1.0	he	be	he partner in large investment
+1.0	he partner	be in	certain large investment
+1.0	fortune	have	have recover
+1.0	fortune	be in	now Mr. Carrisford 's hand
+1.0	fortune	be in	Mr. Carrisford 's hand
+1.0	she	really lose	color
+1.0	she	utter	exclamation
+1.0	she	lose	color
+1.0	Sara	have	fortune
+1.0	it	be	Sara 's fortune
+0.5049033781841465	it	be	Sara 's fortune
+0.5049033781841465	it	be	Sara 's fortune now
+1.0	Sara	have	fortune now in fact
+0.5049033781841465	it	be	Sara 's fortune in fact
+1.0	Sara 's fortune	be in	fact
+0.5049033781841465	it	be	Sara 's fortune now in fact
+1.0	event	have increase enormously	it
+1.0	event	have increase	it
+1.0	certain event	have increase	it
+1.0	certain event	have increase enormously	it
+1.0	diamond mine	have retrieve	themselves
+1.0	nothing	have ever happen	bear
+1.0	nothing	have happen to	she
+1.0	nothing	have happen	bear
+1.0	nothing	have ever happen to	she
+1.0	she	be	bear
+1.0	you	pupil	Sara Crewe
+1.0	he	have find	she
+1.0	he	will keep	she
+1.0	he	go into	detail
+1.0	he	go	necessary
+1.0	he	explain	matter to she fully
+1.0	she	have guardian in	Mr. Carrisford
+1.0	he	explain	matter
+1.0	Sara	have	future
+1.0	he	ask also	Miss Minchin
+1.0	he	go into	such detail
+1.0	she	have friend in	Mr. Carrisford
+1.0	she	have	guardian
+0.5660547947803578	he	matter to	she fully
+1.0	he	ask	Miss Minchin
+1.0	future	be	assure
+1.0	she	have	friend
+1.0	she	lose through	she worldly folly
+1.0	she	lose through	she folly
+1.0	he	find	she under my care
+1.0	he	find	she
+0.5018364341581311	I	have do everything for	she
+0.5018364341581311	I	have do	everything
+1.0	gentleman	here lose	he temper
+1.0	gentleman	lose	he temper
+1.0	indian gentleman	here lose	he temper
+1.0	indian gentleman	lose	he temper
+1.0	she	starve in	street
+1.0	Captain Crewe	leave	she
+0.44634692892818223	she	must return to	it
+0.44634692892818223	she	must return of	age
+1.0	she	be of	age
+1.0	she	can	can parlor boarder again
+1.0	she	can	can parlor boarder
+1.0	she	must finish	she education
+1.0	law	do	nothing
+0.4553725884166849	law	nothing of	sort
+1.0	law	do	nothing of sort
+1.0	law	will interfere in	my behalf
+1.0	Sara	wish	return
+1.0	I	dare	Sara herself wish
+1.0	Sara	return to	you
+1.0	Sara	wish	return to you
+1.0	I	dare	Sara wish
+1.0	I	appeal to	Sara
+1.0	I	have	have fond
+1.0	I	have	have always fond
+1.0	I	have	have fond of you
+1.0	I	have	have always fond of you
+1.0	Sara 's green-gray eye	fix	themselves
+1.0	Sara	have	green-gray eye
+1.0	Sara 's eye	fix	themselves
+1.0	Miss Minchin	draw up	herself
+1.0	cleverest child	be in	school
+0.4735073641878579	you	come with	I
+1.0	you	come	home
+1.0	you	come home with	I
+1.0	Sara	take	step toward she
+1.0	Sara	take	step
+1.0	she	be in	danger turn
+1.0	she	have spend alone in	attic
+1.0	she	be in	danger turn into street
+1.0	she	have	have tell
+1.0	she	be think of	hungry hour
+1.0	she	have spend alone with	Emily
+1.0	she	be think of	cold hungry hour
+1.0	she	be think of	hour
+1.0	she	be think of	cold hour
+1.0	she	have spend with	Emily
+1.0	she	have spend in	attic
+1.0	she	be think of	day
+1.0	she	have	when have tell
+1.0	she	look	Miss Minchin
+1.0	she	look miss minchin in	face
+0.625020403124704	she	look in	face
+1.0	she	look miss minchin steadily in	face
+0.625020403124704	she	look steadily in	face
+1.0	she	look steadily	Miss Minchin
+1.0	hot flush	show	itself
+1.0	Miss Minchin	on	hard angry face
+1.0	flush	show	itself
+1.0	Ermengarde	be	keep
+1.0	Ermengarde	be	keep away
+1.0	Mr. Carmichael	stop	she
+1.0	Mr. Carrisford	will attend to	that
+1.0	it	must	must confess
+1.0	temper	be	easily offend
+1.0	peppery temper	be offend at	treatment
+1.0	peppery temper	be	easily offend
+1.0	temper	be offend at	treatment
+1.0	temper	be	offend
+1.0	peppery temper	be offend at	treatment of he niece
+1.0	temper	be easily offend at	treatment of he niece
+1.0	temper	be offend at	treatment of he niece
+1.0	temper	be easily offend at	treatment
+1.0	peppery temper	be easily offend at	treatment of he niece
+1.0	peppery temper	be	offend
+1.0	peppery temper	be easily offend at	treatment
+1.0	unpleasant thing	might happen	Mr. Carrisford choose
+1.0	Mr. Carrisford	tell	have make
+1.0	many unpleasant thing	might happen	Mr. Carrisford choose
+1.0	Mr. Carrisford	choose	tell
+1.0	Sara Crewe	be	make
+1.0	you	will discover very soon	that
+1.0	she	leave	room
+1.0	child	be	truthful
+1.0	I	suppose to	Sara
+1.0	Sara	flush	little
+1.0	I	be	when coldest
+1.0	she	answer in	voice
+1.0	I	be	coldest
+1.0	she	answer in	low voice
+1.0	I	be	even when coldest
+1.0	she	go to	she room
+1.0	she	return	home
+1.0	she	go to	she sit room
+1.0	it	must	must admit
+1.0	she	sit	closet with she rest of afternoon
+1.0	she	closet with	she rest of afternoon
+1.0	she	mop	she eye deal
+1.0	she	shed	good many tear
+1.0	she	shed	good tear
+1.0	she	mop	she eye good deal
+1.0	she	shed	many tear
+1.0	she	shed	tear
+1.0	she sister	snap	she head
+1.0	she sister	snap entirely off	she head
+1.0	she sister	snap off	she head
+1.0	I	be	afraid
+1.0	I	say	thing
+1.0	I	say	thing for fear make
+1.0	I	say	thing to you for fear make
+1.0	I	say	thing to you
+1.0	I	be	always afraid
+1.0	she	be	dress
+1.0	she	be	decently dress
+1.0	she	be work hard for	child of she age
+1.0	she	be	half fed
+1.0	she	be work for	child of she age
+1.0	she	be	work too hard
+1.0	she	be	work hard
+1.0	she	be work hard for	child
+1.0	she	be	work
+1.0	she	be work too hard for	child
+1.0	she	be work too hard for	child of she age
+1.0	she	be	fed
+1.0	she	be	only half fed
+1.0	she	be work for	child
+1.0	child	be	child
+1.0	child	be	clever child
+1.0	child	be	clever
+1.0	you	dislike	she
+1.0	she	be	clever
+1.0	she	be clever for	you
+1.0	she	be too clever for	you
+1.0	you	always dislike	she
+1.0	she	be	too clever
+1.0	she	use	see
+1.0	she	see through	we
+1.0	she	see	Amelia
+1.0	she	use	see through we
+1.0	she	knock off	she cap
+1.0	she	have often do to	Becky
+1.0	she	have do to	Becky
+1.0	she	would box	she ear
+1.0	Miss Amelia	have	disappointment
+0.547107925329589	she	see	both
+1.0	I	be	weak
+1.0	you	be	worldly woman
+1.0	we	behave	ill
+1.0	we	behave	ill to she
+0.15666578023493505	I	be weak fool	she behave
+1.0	you	be	hard-hearted worldly woman
+1.0	it	be take from	she
+0.15666578023493505	she	behave like	little princess
+0.15666578023493505	she	behave like	princess
+1.0	we	be	vulgar
+0.15666578023493505	I	be fool	she behave like little princess
+1.0	I	be	weak fool
+0.15666578023493505	I	be weak fool	she behave like princess
+1.0	we	be vulgar	take
+1.0	she	be	even when beggar
+1.0	you	be	woman
+0.15666578023493505	I	be fool	she behave
+1.0	we	mean	enough
+1.0	it	be	take
+1.0	she	be	beggar
+1.0	she	be	when beggar
+1.0	she	behave	herself
+0.15666578023493505	I	be fool	she behave like princess
+0.15666578023493505	I	be weak fool	she behave like little princess
+1.0	I	be	fool
+1.0	you	be	hard-hearted woman
+1.0	you	be	worldly
+1.0	you	be	hard-hearted
+1.0	she	do like	little princess
+1.0	she	do like	princess
+1.0	she	laugh at	once
+1.0	she	begin	laugh at once
+1.0	she	begin	laugh
+1.0	she hysteric	get	better of woman
+1.0	she hysteric	get	better
+1.0	school	will get	she money
+1.0	other school	will get	she
+1.0	other school	will get	she money
+1.0	school	will get	she
+0.43952820067320963	she	make	noise with she hysterical choke
+1.0	she sister	be oblige	go to she salt
+0.43952820067320963	she	make	much noise with she hysterical choke
+1.0	she sister	be	oblige
+0.43952820067320963	she	make	so much noise with she hysterical choke
+0.43952820067320963	she	make	noise with she choke
+1.0	she sister	go to	she salt
+0.43952820067320963	she	make	much noise with she choke
+0.43952820067320963	she	make	so much noise with she choke
+0.43952820067320963	she	make	so much noise
+0.43952820067320963	she	make	noise
+1.0	much noise	be with	she hysterical choke
+1.0	she sister	be oblige	go
+0.43952820067320963	she	make	much noise
+1.0	it	may	from time forward may mention
+0.0025671451558210157	elder Miss Minchin	actually begin	stand
+0.0025671451558210157	Miss Minchin	actually begin	stand
+1.0	Miss Minchin	stand	little in awe of sister
+1.0	Miss Minchin	stand	little in awe
+1.0	Miss Minchin	stand	little
+0.0025671451558210157	elder Miss Minchin	begin	stand
+1.0	elder Miss Minchin	stand	little
+0.0025671451558210157	Miss Minchin	begin	stand
+1.0	it	may	may mention
+1.0	it	may	from time may mention
+1.0	pupil	be	when gather before fire in schoolroom
+1.0	pupil	be gather together	they custom go
+1.0	Ermengarde	come in with	letter in she hand
+1.0	Ermengarde	come in with	letter
+1.0	pupil	be	when gather
+1.0	pupil	be	when gather before fire
+1.0	pupil	be	gather together
+1.0	evening	come in with	letter
+1.0	pupil	be	when gather together
+1.0	pupil	be gather	they custom go to bed
+1.0	pupil	be gather together	they custom go to bed
+1.0	pupil	be gather before	fire in schoolroom
+1.0	pupil	be	when gather together before fire in schoolroom
+1.0	letter	be in	she hand
+1.0	pupil	be	they custom go
+1.0	pupil	be gather	they custom go
+1.0	pupil	be gather together before	fire
+1.0	fire	be in	schoolroom
+1.0	pupil	be	when gather together before fire
+1.0	pupil	be gather together before	fire in schoolroom
+1.0	evening	come in with	letter in she hand
+1.0	pupil	be	gather
+1.0	pupil	be	they custom go to bed
+1.0	pupil	be gather before	fire
+1.0	it	be combine	expression of excitement
+1.0	it	be	queer
+1.0	it	be expression of	delighted excitement
+1.0	it	be	combine
+1.0	it	be queer	combine with such amazement
+1.0	it	be combine	expression of delighted excitement
+1.0	it	be queer	combine
+1.0	it	be combine with	such amazement
+1.0	it	be expression of	excitement
+1.0	it	be combine	expression
+1.0	it	be	expression
+1.0	it	be combine with	amazement
+1.0	it	be queer	combine with amazement
+1.0	it	be anything	do
+1.0	it	be anything	do with row
+1.0	Miss Minchin	in	room
+1.0	there have such row	be in	Miss Minchin 's room
+1.0	Miss Amelia	have	go
+1.0	Miss Amelia	have have	something
+1.0	Miss Amelia	have have	something like hysteric
+1.0	Miss Amelia	have	go to bed
+1.0	she	be	half stunned
+1.0	she	be	stunned
+1.0	ermengarde	answer slowly	they
+1.0	ermengarde	answer	they
+1.0	she	hold out	it
+1.0	voice	join in	exclamation
+1.0	she	have	have send away
+1.0	she	have	have send
+1.0	Lottie	begin	cry
+1.0	Lottie	begin	cry plaintively
+1.0	ermengarde	answer slowly	they
+1.0	ermengarde	answer	they
+1.0	she	open	eye
+1.0	she	open	mouth
+1.0	she	open	open eye
+1.0	they	be	real
+1.0	it	be mistake about	they
+1.0	something	happen for	time
+1.0	Mr. Carrisford	have	brain fever
+1.0	Mr. Carrisford	find at_time	she afternoon
+1.0	I	see	she tomorrow afternoon
+1.0	news	penetrate wall in	manner
+1.0	news	penetrate	wall
+1.0	news	penetrate wall in	mysterious manner
+0.15140126796757591	seminary	crowd in	schoolroom
+1.0	seminary	hear	read
+0.6328223457856873	mystic indian gentleman	charm	have happen
+1.0	entire seminary	crowd	round Ermengarde
+0.15140126796757591	entire seminary	crowd in	schoolroom
+0.6328223457856873	gentleman	amazing charm	have happen herself
+1.0	seminary	crowd	Ermengarde
+1.0	entire seminary	crowd	Ermengarde
+0.6328223457856873	mystic gentleman	amazing charm	have happen to Sara
+0.6328223457856873	mystic gentleman	amazing charm	have happen
+1.0	entire seminary	crowd ermengarde in	schoolroom
+0.6328223457856873	mystic gentleman	charm	have happen
+1.0	seminary	crowd	round Ermengarde
+0.6328223457856873	indian gentleman	charm	have happen
+0.6328223457856873	mystic gentleman	amazing charm	have happen herself
+0.6328223457856873	indian gentleman	charm	have happen herself
+0.6328223457856873	mystic indian gentleman	amazing charm	have happen
+0.6328223457856873	indian gentleman	amazing charm	have happen to Sara herself
+1.0	entire seminary	hear	read
+0.6328223457856873	mystic gentleman	charm	have happen to Sara herself
+0.6328223457856873	gentleman	charm	have happen to Sara herself
+0.6328223457856873	mystic indian gentleman	charm	have happen herself
+0.6328223457856873	gentleman	charm	have happen to Sara
+0.6328223457856873	indian gentleman	charm	have happen to Sara herself
+0.6328223457856873	mystic gentleman	amazing charm	have happen to Sara herself
+0.6328223457856873	mystic indian gentleman	amazing charm	have happen herself
+0.6328223457856873	indian gentleman	charm	have happen to Sara
+1.0	mystic indian gentleman	be in	very next house
+0.6328223457856873	indian gentleman	amazing charm	have happen
+0.6328223457856873	mystic indian gentleman	amazing charm	have happen to Sara
+0.6328223457856873	mystic indian gentleman	charm	have happen to Sara
+1.0	entire seminary	re-read	letter
+0.6328223457856873	gentleman	amazing charm	have happen to Sara
+0.6328223457856873	indian gentleman	amazing charm	have happen to Sara
+0.6328223457856873	mystic gentleman	charm	have happen herself
+1.0	seminary	crowd ermengarde in	schoolroom
+0.6328223457856873	gentleman	amazing charm	have happen
+0.6328223457856873	gentleman	charm	have happen
+0.6328223457856873	mystic indian gentleman	charm	have happen to Sara herself
+0.6328223457856873	gentleman	charm	have happen herself
+1.0	seminary	re-read	letter
+0.6328223457856873	gentleman	amazing charm	have happen to Sara herself
+0.6328223457856873	mystic indian gentleman	amazing charm	have happen to Sara herself
+0.6328223457856873	indian gentleman	amazing charm	have happen herself
+0.6328223457856873	mystic gentleman	charm	have happen to Sara
+1.0	Becky	creep up	stair
+1.0	Becky	creep up earlier	stair
+1.0	she	want	get from people
+1.0	she	get from	people
+1.0	she	want	get
+1.0	she	want	get away from people
+1.0	she	get from	away people
+1.0	attic	would	would bare again
+1.0	it	would	would take
+1.0	attic	would	would bare
+1.0	it	would	would take away
+0.5140333810265189	she	be for	Sara 's sake
+1.0	she	go up	flight of stair
+1.0	she	go up	last flight of stair
+1.0	she	go up	flight
+1.0	she	go with	lump
+1.0	she	go up	last flight
+1.0	she	go with	lump in she throat
+1.0	Sara	for	sake
+1.0	lump	be in	she throat
+1.0	she	break into	low cry
+1.0	she	choke down	sob
+1.0	she	break into	cry
+1.0	she	push	attic door open
+1.0	Ram Dass	smile into	she startled face
+1.0	Ram Dass	be stand	smile
+1.0	lamp	be flush	room
+1.0	Ram Dass	smile into	she face
+1.0	Ram Dass	be stand	smile into she face
+1.0	Ram Dass	be stand	smile into she startled face
+0.4735202929993289	she	tell all	sahib
+0.4735202929993289	she	tell	sahib
+1.0	she	wish	you
+1.0	you	know	fortune
+0.042773488052572035	she	wish	know
+1.0	you	know	good fortune
+1.0	you	come at_time	tomorrow
+1.0	you	come to	he
+1.0	sahib	command	you
+1.0	you	be	attendant of missee sahib
+1.0	you	be attendant of	missee sahib
+1.0	you	be	attendant
+1.0	you	be	attendant
+1.0	Tonight I	take thing over	roof
+1.0	Tonight I	take thing back over	roof
+1.0	Tonight I	take	thing
+1.0	Tonight I	take back	thing
+1.0	he	how easily do before	it
+1.0	he	how easily do	it
+1.0	he	do	it
+1.0	he	easily do before	it
+1.0	he	easily do	it
+1.0	he	slip with	agile silentness
+1.0	he	slip with	silentness
+1.0	he	slip with	agile silentness of movement
+1.0	he	do before	it
+1.0	he	slip through	skylight
+1.0	he	slip with	silentness of movement
+1.0	joy	reign in	nursery
+1.0	joy	reign in	nursery of large Family
+1.0	such joy	reign in	nursery of Family
+1.0	such joy	reign in	nursery
+1.0	joy	reign in	nursery of Family
+1.0	such joy	reign in	nursery of large Family
+1.0	they	dream of	such delight
+1.0	intimate acquaintance	be with	little-girl-who-was-not-a-beggar
+1.0	they	dream of	delight
+1.0	fact	make	she possession
+1.0	mere fact	make	she priceless possession
+1.0	mere fact	make	she possession
+1.0	fact	make	she priceless possession
+1.0	everybody	be	tell
+1.0	everybody	want	tell
+1.0	one	be sit in	room
+1.0	it	be	delightful
+1.0	one	be sit in	big glowing room
+1.0	it	be in	attic
+1.0	one	be sit in	glowing room
+1.0	one	be sit in	big room
+1.0	one	be sit by	warm fire
+1.0	one	be sit by	fire
+1.0	it	be	quite delightful
+1.0	one	stick	one 's head
+1.0	attic	be	rather delighted
+1.0	one	hear about	sparrow
+1.0	one	climb on	table
+1.0	Melchisedec	be	when remember
+1.0	Melchisedec	be	remember
+1.0	one	stick	shoulder
+1.0	one	have	head
+1.0	attic	be	delighted
+1.0	one	stick shoulder out of	skylight
+1.0	one	could see	one climb
+1.0	one	could see	one climb on table
+1.0	it	must	must admit
+1.0	best	be story of	banquet
+1.0	thing	love of	course
+1.0	best	be	story
+1.0	Sara	tell	it
+1.0	they	curl up on	hearth-rug
+1.0	she	tell story in	she way
+1.0	member	take	tea
+1.0	several member	take tea with	she
+1.0	she	tell story in	she own way
+1.0	she	tell	story
+1.0	member	take tea with	she
+1.0	indian gentleman	watch	she
+1.0	several member	take	tea
+1.0	gentleman	watch	she
+1.0	she	look up at	he
+1.0	she	put	she hand
+1.0	she	call always	Uncle Tom
+1.0	she	call	he
+1.0	he	have ask	she
+1.0	she	call always	he
+1.0	she	call	Uncle Tom
+1.0	it	must	must beautiful
+1.0	he	have begin	interested in she perhaps
+1.0	attic	be in	chase of monkey
+1.0	he	have begin	interested perhaps
+1.0	Ram Dass	relate	incident of he visit
+1.0	Ram Dass	relate	incident
+1.0	Ram Dass	relate incident to	attic in chase of monkey
+1.0	Ram Dass	relate incident to	attic
+1.0	Ram Dass	relate incident to	attic in chase
+1.0	Ram Dass	be	have able
+1.0	Ram Dass	be	partly have able
+1.0	he	have begin	interested
+1.0	he	have begin	interested in she
+1.0	he	tell	they
+1.0	he	have describe	its cheerless look
+1.0	he	have describe	its look
+1.0	he	bearing of	child
+1.0	Ram Dass	have make	discovery
+0.5015479493517508	discovery	concern	wretchedness
+0.8032640221154881	concern	wretchedness of	she life
+0.5015479493517508	discovery	concern	wretchedness of she life
+1.0	Sahib	make on	when errand
+1.0	I	could cross	slate
+1.0	he	have say at_time	one day
+1.0	she	be on	errand
+1.0	she	be on	out errand
+1.0	Sahib	make on	out errand
+1.0	Sahib	make	child fire
+1.0	Sahib	could cross	slate
+1.0	Sahib	make on	errand
+1.0	she	be on	when out errand
+1.0	Sahib	make on	when out errand
+1.0	she	be on	when errand
+1.0	Ram Dass	have	have so fill with rapture
+1.0	idea	have	have fanciful
+1.0	Ram Dass	have	have so fill
+1.0	Mr. Carrisford	have	sad face
+1.0	it	accomplish	number of thing
+1.0	Mr. Carrisford 's face	light with	smile
+1.0	Ram Dass	have	have fill
+1.0	it	accomplish	number of other thing
+1.0	idea	have	have so fanciful
+1.0	he	have	enlarged upon it
+1.0	he	have	enlarged
+1.0	Ram Dass	have	have fill with rapture
+1.0	Mr. Carrisford 's sad face	light with	smile
+1.0	idea	explain to	he master
+1.0	it	accomplish	number
+1.0	preparation	have fill at_time	many day
+1.0	he	have show	invention
+1.0	he	have show	childlike pleasure
+1.0	preparation	have fill at_time	day
+1.0	he	have show	pleasure
+1.0	package	be in	readiness in attic
+1.0	readiness	be in	attic
+1.0	package	be in	readiness
+1.0	he companion	hand	thing
+1.0	banquet	have come to	its conclusion
+1.0	he	have	have sure of profoundness
+1.0	he	have creep with	lantern
+1.0	he	have	have sure of profoundness of Sara 's sleep
+1.0	he	have creep into	room
+1.0	he companion	remain	outside
+1.0	he	have	have sure
+1.0	he	have creep with	dark lantern
+1.0	he	have	have sure of profoundness of Sara 's wearied sleep
+1.0	banquet	have come to	its disastrous conclusion
+1.0	Ram Dass	look in at	skylight
+1.0	he companion	hand thing to	he
+1.0	Sara	of	wearied sleep
+1.0	Ram Dass	have close	lain
+1.0	Ram Dass	have close	lantern-slide
+1.0	Ram Dass	have close	lantern-slide flat upon floor
+1.0	Ram Dass	have close	lantern-slide flat
+1.0	it	be you	my friend
+1.0	it	be	you
+1.0	he	like	Sara
+1.0	he	like	much
+1.0	he	like	quite much
+1.0	he	like	as much
+1.0	he	like	quite as much
+0.61471820059203	he	be in	month 's time
+1.0	month	in	time
+1.0	he	find	pleasure in possession of wealth
+1.0	he	find	pleasure
+1.0	he	find	actual pleasure
+1.0	he	loathe	burden
+1.0	he	find	actual pleasure in possession of wealth
+1.0	he	find	pleasure in possession
+1.0	he	find	actual pleasure in possession
+1.0	actual pleasure	be in	possession of wealth
+1.0	he	be	always amuse
+1.0	he	loathe	burden of
+1.0	he	be	amuse
+1.0	he	be	magician
+0.8194868945899632	beautiful new flower	grow in	she room
+0.7524248744645894	little gift	tuck under	pillow
+1.0	they	hear	scratch
+1.0	they	hear scratch	they sit together
+0.7524248744645894	whimsical gift	tuck under	pillow
+1.0	she	find	whimsical gift tuck
+1.0	they	sit together in	evening
+0.7524248744645894	whimsical little gift	tuck under	pillow
+0.7524248744645894	gift	tuck under	pillow
+1.0	they	hear scratch on	door
+1.0	she	stand	great dog with silver
+1.0	she	stand	great dog
+1.0	she	find	whimsical gift
+1.0	they	hear	scratch of heavy paw
+1.0	she	stand	dog with silver
+1.0	they	once hear	scratch of paw
+1.0	she	stand	great dog with grand silver
+1.0	she	find	gift tuck
+0.8194868945899632	new flower	grow in	she room
+0.7010136191015974	they	scratch of	heavy paw
+1.0	they	hear	scratch of paw
+1.0	she	find	little gift tuck
+1.0	they	hear scratch	they sit together in evening
+1.0	she	find	whimsical little gift tuck
+1.0	they	once hear scratch	they sit together in evening
+1.0	they	sit in	evening
+1.0	they	once hear scratch	they sit
+1.0	they	once hear scratch	they sit together
+1.0	she	find	little gift tuck under pillow
+1.0	they	once hear	scratch of heavy paw
+0.8194868945899632	flower	grow in	she room
+1.0	great dog	be with	grand silver bear
+1.0	she	stand	dog
+1.0	they	once hear scratch	they sit in evening
+1.0	she	find	gift
+1.0	they	hear scratch	they sit in evening
+1.0	she	stand	dog with grand silver
+1.0	she	find	whimsical little gift tuck under pillow
+1.0	she	find	whimsical gift tuck under pillow
+1.0	she	find	whimsical little gift
+1.0	they	once hear	scratch
+1.0	she	find	gift tuck under pillow
+0.8194868945899632	beautiful flower	grow in	she room
+0.7010136191015974	they	scratch of	paw
+1.0	they	hear scratch	they sit
+1.0	she	find	little gift
+1.0	they	once hear scratch on	door
+1.0	I	serve	Princess Sara
+1.0	I	be	Boris
+1.0	indian gentleman	love	more than recollection of princess in rag
+1.0	indian gentleman	love	more than recollection of little princess in rag
+1.0	indian gentleman	love	more than recollection of little princess
+1.0	gentleman	love	more than recollection of princess in rag
+1.0	gentleman	love	more than recollection of little princess
+1.0	indian gentleman	love	more than recollection of princess
+1.0	recollection	be in	rag
+1.0	gentleman	love	more than recollection of princess
+1.0	gentleman	love	more than recollection of little princess in rag
+1.0	gentleman	love	more than recollection
+1.0	indian gentleman	love	more than recollection
+1.0	indian gentleman	love	more than recollection in rag
+1.0	gentleman	love	more than recollection in rag
+1.0	gentleman	love	more
+1.0	indian gentleman	love	more
+0.15544263093635716	Ermengarde	family	Lottie
+1.0	Ermengarde	rejoice	Lottie
+1.0	Ermengarde	rejoice together	Lottie
+0.15544263093635716	Ermengarde	large family	Lottie
+1.0	large Family	gather	rejoice together
+1.0	Ermengarde	gather	rejoice together
+1.0	Family	gather	rejoice
+1.0	afternoon	be	very delightful
+1.0	Ermengarde	gather	rejoice
+1.0	Ermengarde	gather	Lottie
+1.0	large Family	gather	rejoice
+1.0	Family	gather	rejoice together
+1.0	afternoon	be	delightful
+1.0	Mr. Carrisford	sit	gaze into fire
+1.0	Sara	look up with	color
+1.0	Sara	look up with	bright color on she cheek
+1.0	Sara	look up with	bright color
+1.0	Sara	look up with	color on she cheek
+1.0	indian gentleman	be with	rather sad tone in he voice
+1.0	sad tone	be in	he voice
+1.0	dream	come	true
+1.0	she	tell	fourpence
+1.0	she	tell	story
+1.0	she	pick up out of	mud
+1.0	she	tell	story of bun shop
+1.0	she	tell	he
+1.0	she	pick up out of	sloppy mud
+1.0	you	do	anything
+1.0	you	like	do
+1.0	she	send	bill
+1.0	she	give	something eat
+1.0	hungry child	sit on	step
+1.0	I	see	bun
+1.0	she	give	they
+1.0	I	wonder	I could go
+1.0	she	would just call in	they
+1.0	child	look in at	window
+1.0	child	sit on	step
+1.0	you	tell	she
+1.0	she	would call in	they
+1.0	hungry child	look in at	window
+1.0	I	could do	that
+1.0	you	be	princess
+1.0	I	can give bun to	populace
+1.0	I	can give	bread
+1.0	I	can give	bun
+1.0	I	can give bread to	populace
+1.0	he	like	she
+1.0	she	gentleman	he use
+1.0	she	indian gentleman	he use
+1.0	that	stroke	she hair
+1.0	she	sit on	stool
+1.0	she	enjoy	see
+1.0	Miss Minchin	see	thing
+1.0	she	least enjoy	see
+1.0	Miss Minchin	see thing	look
+1.0	Miss Minchin	see thing at_time	next morning
+1.0	she	perhaps enjoy	see
+1.0	Miss Minchin	see thing at_time	morning
+1.0	she	perhaps least enjoy	see
+1.0	Miss Minchin	look out of	she window
+1.0	its owner	descend step	get
+1.0	little figure	descend	step
+1.0	its owner	descend	step
+1.0	its owner warm	descend step	get
+1.0	figure	descend step	get
+1.0	little figure	descend step	get
+1.0	figure	descend step	get into it
+1.0	little figure	descend step	get into it
+1.0	its owner	descend step	get into it
+1.0	little figure	get into	it
+1.0	its owner warm	descend step	get into it
+1.0	indian gentleman	have	carriage with tall horse
+1.0	figure	descend	step
+1.0	figure	get into	it
+1.0	indian gentleman 's carriage	be with	its tall horse
+1.0	its owner warm	descend	step
+1.0	figure	be	familiar
+1.0	remind Miss Minchin	be in	past
+1.0	it	be	follow
+1.0	it	be follow by	another as familiar
+1.0	she	find	irritating
+1.0	she	find	very irritating
+1.0	it	be follow by	another
+1.0	she mistress	carry	belongings
+1.0	she mistress	carry	wrap
+1.0	it	be	Becky
+1.0	she young mistress	carry	wrap
+1.0	she young mistress	carry	belongings
+1.0	Becky	have	round face
+1.0	Becky	have	face
+1.0	Becky	already have	pink
+1.0	Becky	already have	face
+1.0	Becky	have	pink
+1.0	Becky	already have	round face
+1.0	carriage	later draw up before	door of baker 's shop
+0.9062203975454685	bun-woman	tray of	smoking-hot bun
+1.0	bun-woman	just be put	tray of bun
+1.0	bun-woman	be put	tray of smoking-hot bun
+1.0	baker	of	shop
+0.9062203975454685	bun-woman	tray of	bun
+1.0	bun-woman	just be put tray into	window
+1.0	carriage	draw up before	door of baker 's shop
+1.0	bun-woman	just be put	tray
+1.0	carriage	draw up before	door
+1.0	bun-woman	be put	tray of bun
+1.0	bun-woman	be put	tray
+1.0	bun-woman	be put tray into	window
+1.0	bun-woman	just be put	tray of smoking-hot bun
+1.0	carriage	later draw up before	door
+1.0	woman	turn at	she
+1.0	Sara	enter	shop
+1.0	she	look very hard for	moment
+1.0	she	look hard for	moment
+1.0	she	look at	Sara
+1.0	she	look very hard at	Sara
+1.0	she	look indeed for	moment
+1.0	she	look hard indeed for	moment
+1.0	she	look very hard indeed at	Sara
+1.0	she	look hard indeed at	Sara
+1.0	she	look hard at	Sara
+1.0	she	look for	moment
+1.0	she	look indeed at	Sara
+1.0	she	look very hard indeed for	moment
+1.0	woman	break in on	she
+1.0	woman	yet break in on	she
+1.0	she	turn	round
+1.0	she	turn round to	indian gentleman
+0.11982177299755592	she	turn to	indian gentleman
+1.0	she	turn round to	gentleman
+1.0	she	speak	she word
+1.0	she	speak	she next word
+0.11982177299755592	she	turn to	gentleman
+1.0	you	pardon	sir
+1.0	hungry face	be in	way
+1.0	I	ask	you
+1.0	you	do	something
+1.0	you	do something for	I
+1.0	I	be	happier
+1.0	I	be	much happier
+1.0	Sara	make	she proposal concern day
+1.0	Sara	lean on	counter
+1.0	Sara	make	she proposal concern dreadful day
+1.0	Sara	make	she little proposal concern day
+1.0	Sara	make	she little proposal
+1.0	Sara	make	she little proposal concern dreadful day
+1.0	Sara	make	she proposal
+1.0	woman	listen with	face
+1.0	woman	listen with	astonished face
+1.0	woman	watch	she
+1.0	she	have hear	it
+1.0	she	have hear all	it
+1.0	ravenous child	on	ragged lap
+1.0	she	put bun down on	ravenous child 's lap
+1.0	she	put bun down on	child 's ragged lap
+1.0	Sara	smile too	little
+1.0	she	put bun down on	child 's lap
+1.0	she	put down	bun
+0.24153067343689905	Sara	smile too	remember
+1.0	gentleman	smile at	this
+0.633593924617174	she	say to	herself
+0.24153067343689905	Sara	smile	remember
+1.0	gentleman	smile involuntarily at	this
+1.0	Sara	smile	little
+1.0	indian gentleman	smile at	this
+1.0	she	put bun down on	ravenous child 's ragged lap
+1.0	indian gentleman	smile involuntarily at	this
+1.0	she	be tell	I
+1.0	many 's time	feel	a-tearing at she young inside
+1.0	many 's time	feel	a-tearing at she inside
+1.0	wolf	be a-tearing at	she young inside
+1.0	many 's time	feel	a-tearing at she poor inside
+1.0	wolf	be a-tearing at	she poor inside
+1.0	many 's time	feel	a-tearing at she poor young inside
+1.0	wolf	be a-tearing at	she poor young inside
+1.0	wolf	be	a-tearing
+1.0	wolf	be a-tearing at	she inside
+1.0	many 's time	feel	a-tearing
+1.0	many	have	time
+0.006586283966975992	you	have see since	then
+0.6145225004508317	you	have see	she
+1.0	such help	be in	shop a
+1.0	she	step to	door of back parlor
+1.0	girl	follow	she
+1.0	she	next minute	girl come
+1.0	she	step to	door
+1.0	she	step to	door of parlor
+1.0	she	minute	girl come out
+1.0	she	minute	girl come
+0.35492713986229935	follow	she behind	counter
+1.0	she	step to	door of little parlor
+1.0	girl	follow	she behind counter
+1.0	she	next minute	girl come out
+1.0	she	step to	door of little back parlor
+1.0	it	be	actually clothe
+1.0	it	be	clothe
+1.0	she	know sara in	instant
+1.0	she	know	Sara
+0.04584657021521499	she	know in	instant
+1.0	she	be	hungry
+1.0	I	like	she
+1.0	I	give	she
+1.0	I	give	she help
+1.0	she	be	when hungry
+1.0	I	give	place home
+1.0	I	tell	she
+1.0	she	be	willing
+1.0	I	give	she job
+1.0	I	give	she odd job
+1.0	name	have	Anne
+1.0	Anne	take	it
+1.0	Sara	hold out	it
+1.0	other	into	eye
+1.0	Sara	take	she hand
+1.0	I	have think of	something
+1.0	I	have just think of	something
+1.0	you	do	it
+1.0	you	perhaps would like	you know
+1.0	you	perhaps would like	you know too
+1.0	you	would like	you know too
+1.0	you	would like	you know
+0.633593924617174	Sara	feel	she say
+1.0	she	say	stand still
+1.0	she	say	stand
+1.0	she	go with	indian gentleman
+0.9978671448111275	they get	look	drive away
+0.9978671448111275	they get	look	she go with indian gentleman
+0.988574178488314	they get	only stand still	drive
+0.9978671448111275	they get	look	she go
+1.0	she	say	only stand still
+1.0	she	understand	she
+1.0	she	say	little
+0.988574178488314	they get	stand still	drive away
+0.988574178488314	they get	only stand still	drive away
+0.28607234514079066	they get	look	drive away
+0.9969673348833511	she	look	she go with indian gentleman
+1.0	she	say	only stand
+0.9969673348833511	she	look after	she
+0.9969673348833511	she	look	she go
+1.0	she	say	look after she
+0.988574178488314	they get	stand still	drive
+1.0	she	go with	gentleman
+0.988574178488314	they get	stand	drive
+0.28607234514079066	they get	look	drive
+0.9978671448111275	they get	look	drive
+1.0	she	go out of	shop
+0.988574178488314	they get	only stand	drive away
+0.9978671448111275	they get	look	she go with gentleman
+0.988574178488314	they get	only stand	drive
+0.9969673348833511	she	look	she go with gentleman
+1.0	she	say	so little
+0.988574178488314	they get	stand	drive away
+0.9978671448111275	they get	look after	she
+1.0	she	say	look
+1.0	she	say	look

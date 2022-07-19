@@ -1,0 +1,386 @@
+1.0	I	come to	adventure
+1.0	I	now come to	adventure
+1.0	I	now come to	perhaps adventure
+1.0	I	come to	perhaps strangest adventure
+1.0	I	come to	strangest adventure
+1.0	I	come to	perhaps adventure
+1.0	I	now come to	strangest adventure
+0.07053131764040188	I	be walk along	quietly
+0.07053131764040188	I	be walk down	bank of stream
+1.0	I	rub	my eye
+1.0	I	be walk way down	bank of stream
+0.07053131764040188	I	be walk down	bank
+1.0	it	be swallow up in	desert sand
+1.0	I	be walk way down	bank
+1.0	it	be swallow up in	hungry desert sand
+1.0	I	be walk	way
+1.0	I	be walk way along	quietly
+1.0	Kafir principle	be with	grass
+1.0	I	say to	myself
+1.0	I	limp	white man clothe in skin
+1.0	I	limp	man
+1.0	I	limp man out of	it
+1.0	I	limp	enormous black beard
+1.0	I	limp	man clothe
+1.0	I	limp	white man clothe
+1.0	I	limp	enormous beard
+1.0	I	limp beard out of	it
+1.0	I	limp	beard
+0.014533895441061984	I	limp out of	it
+1.0	I	limp	black beard
+1.0	I	limp	man clothe in skin
+1.0	I	limp	white man
+1.0	it	be	impossible
+1.0	juncture Sir Henry	so do	good
+1.0	juncture Sir Henry	do	good
+1.0	Sir Henry	begin	hobble towards we
+1.0	Sir Henry	begin	hobble
+1.0	he side	be with	spring
+1.0	Sir Henry	be by	he side
+1.0	Sir Henry	be by	with spring he side
+1.0	it	be	my brother George
+1.0	gun	be in	he hand
+1.0	hut	gun in	he hand
+1.0	he	see	I
+1.0	he	give	cry
+1.0	he	too give	cry
+1.0	I	be	Jim
+1.0	you	give	I
+1.0	I	lose	note
+1.0	I	give to	Baas
+1.0	we	have	have nearly two year
+1.0	we	have	have here nearly two year
+1.0	fellow	fall at	my foot
+1.0	fellow	roll over	weep
+1.0	fellow	roll	weep for joy
+1.0	fellow	roll over and over	weep for joy
+1.0	fellow	roll over and over	weep
+1.0	fellow	roll	weep
+1.0	fellow	roll over	weep for joy
+1.0	Sir Henry	be	pump-handling away
+1.0	he	be	pump-handling away
+1.0	man	have recover without	apparently word say
+1.0	man	meanwhile have recover without	apparently word say
+1.0	Sir Henry	be	pump-handling
+1.0	man	meanwhile have recover without	word say
+1.0	he	be	pump-handling
+1.0	man	have recover without	word say
+1.0	man	be with	black beard
+1.0	it	be	forget
+1.0	it	be	evidently forget
+1.0	it	be	forget now
+1.0	it	be	evidently forget now
+1.0	it	be	lady
+1.0	I	find	you
+1.0	I	have over	have Solomon 's mountain
+1.0	I	now come	you perch
+1.0	I	come	you perch in desert
+1.0	I	now come	you perch in desert
+1.0	I	come like	assv gel
+1.0	you	perch in	desert
+1.0	I	now come like	old assv gel
+1.0	I	now come like	assv gel
+1.0	I	come	you perch
+1.0	I	come like	old assv gel
+1.0	Solomon	have	mountain
+1.0	I	cross ago	Solomon 's mountain
+0.8630878160555786	opportunity	use	he tongue
+1.0	I	cross	Solomon 's mountain
+0.8630878160555786	little recent opportunity	use	he tongue
+0.8630878160555786	recent opportunity	use	he tongue
+0.8630878160555786	little opportunity	use	he tongue
+1.0	I	be get	dizzy
+1.0	I	hold on	minute
+1.0	I	be get again	dizzy
+1.0	it	be	very strange
+1.0	it	be	so very strange
+1.0	it	be	so strange
+1.0	man	have cease	hope
+1.0	it	be	strange
+1.0	George Curtis	tell	we
+1.0	George Curtis	tell	he story
+1.0	George Curtis	amount to	this
+1.0	he	before have start	try
+1.0	he	have start from	Sitanda 's Kraal
+1.0	Sitanda	from	Kraal
+1.0	he	have start	try
+1.0	he	before have start from	Sitanda 's Kraal
+1.0	Suliman	have	Berg
+1.0	I	have send	he
+1.0	worthy	lose	it
+1.0	old Dom Silvestra	in	plan
+1.0	he	act upon	information
+1.0	he	have receive from	native
+1.0	Jim	be extract honey from	nest of stingless bee
+1.0	Jim	be extract honey from	nest of bee
+1.0	he	be sit on	day of they arrival
+1.0	Jim	be extract	honey
+1.0	Jim	be extract honey on	top immediately above he
+1.0	Jim	be extract honey from	nest
+1.0	Jim	be extract honey on	top of bank
+1.0	Jim	be extract honey on	top of bank above he
+1.0	Jim	be extract honey on	top
+1.0	Jim	be extract honey on	top of bank immediately above he
+1.0	he	be sit on	day
+1.0	Jim	be extract honey on	top above he
+1.0	George Curtis	upon	right leg
+1.0	he	loosen	boulder of rock
+1.0	he	loosen	great boulder
+1.0	he	loosen	boulder
+1.0	he	loosen	great boulder of rock
+1.0	he	find	it go forward
+1.0	he	find	it go
+1.0	he	have	have lame
+1.0	he	have	have so lame
+1.0	oasis	be	frequent especially at night by quantity of game
+1.0	they	however get as for	food
+1.0	they	have	supply
+1.0	they	get well as for	food
+1.0	oasis	be	frequent
+1.0	they	get pretty well as for	food
+1.0	oasis	be frequent by	large quantity of game
+1.0	oasis	be frequent by	large quantity
+1.0	oasis	be frequent by	quantity
+1.0	oasis	be	frequent at night by quantity
+1.0	oasis	be frequent at	especially night
+0.6671338922168858	they	supply of	ammunition
+1.0	they	however get pretty well as for	food
+1.0	oasis	be	frequent especially at night by large quantity
+1.0	oasis	be	frequent especially at night by quantity
+1.0	oasis	be frequent by	quantity of game
+1.0	they	have	good supply of ammunition
+1.0	oasis	be	frequent at night by large quantity of game
+1.0	oasis	be	frequent at night by large quantity
+1.0	oasis	be frequent at	night
+1.0	oasis	be	frequent especially at night by large quantity of game
+0.6671338922168858	they	good supply of	ammunition
+1.0	they	get as for	food
+1.0	they	have	supply of ammunition
+1.0	they	have	good supply
+1.0	oasis	be	frequent at night by quantity of game
+1.0	they	however get well as for	food
+0.9390022188070027	use	flesh for	food
+1.0	they	use	flesh
+1.0	they	trap in	pitfall
+1.0	they	use	flesh for food
+1.0	we	hope against	hope
+1.0	native	help away	we
+1.0	we	settle at_time	only last night
+1.0	we	settle at_time	only night
+1.0	Sitanda	have	Kraal
+1.0	Jim	leave	I
+1.0	we	settle at_time	last night
+1.0	we	settle at_time	night
+1.0	he	go	to-morrow
+1.0	you	now turn up of	you
+1.0	you	find	I
+1.0	you	turn up of	you
+1.0	I	have ever hear	merciful too
+1.0	I	have hear	most merciful too
+1.0	it	be	thing
+1.0	I	have hear	merciful
+1.0	I	have hear	most merciful
+1.0	I	have ever hear	most merciful too
+1.0	it	be	most wonderful thing
+1.0	it	be	wonderful thing
+1.0	I	have ever hear	merciful
+1.0	I	have ever hear	most merciful
+1.0	I	have hear	merciful too
+0.9109790876695947	he	main fact of	we adventure
+1.0	Sir Henry	tell	fact
+1.0	Sir Henry	tell	he
+1.0	Sir Henry	tell	main fact
+1.0	Sir Henry	set	work
+1.0	Sir Henry	tell	main fact of we adventure
+1.0	Sir Henry	sit till	late
+1.0	Sir Henry	tell	fact of we adventure
+1.0	Sir Henry	sit into	night
+0.9109790876695947	he	fact of	we adventure
+1.0	I	show	he
+1.0	it	be	part
+1.0	they	should divide	spoil
+1.0	they	should divide there	spoil
+1.0	it	be part of	bargain
+1.0	I	tell	Sir Henry
+1.0	we	consent to	arrangement
+1.0	I	here think at	point
+1.0	I	think at	point
+1.0	right leg	be	weak indeed
+1.0	we journey	be most arduous	especially we have
+1.0	Sitanda	to	Kraal
+1.0	right leg	be	very weak
+1.0	we	continually throw out	splinter
+1.0	leg	be	very weak indeed
+1.0	leg	be	weak indeed
+1.0	we journey	be arduous	especially we have
+1.0	we journey	be	most arduous
+1.0	we journey	be	arduous
+1.0	right leg	be	very weak indeed
+1.0	leg	be	weak
+1.0	leg	be	very weak
+1.0	we	support	George Curtis
+1.0	right leg	be	weak
+1.0	we	throw out	splinter
+1.0	we journey	be arduous	we have
+1.0	we journey	be most arduous	we have
+1.0	we	throw out	splinter of bone
+1.0	we	continually throw out	splinter of bone
+1.0	old rascal	be	much disgust
+1.0	old rascal	be	disgust
+1.0	rascal	be	much disgust
+1.0	rascal	be	disgust
+1.0	old rascal	be in	charge
+1.0	old rascal	be much disgust at	we survive
+1.0	rascal	claim	they
+1.0	rascal	be much disgust at	we survive
+1.0	rascal	be disgust at	we survive
+1.0	old rascal	be disgust at	we survive
+1.0	old rascal	claim	they
+1.0	I	ever make in	course
+1.0	I	make in	course
+1.0	I	ever make in	course of long experience
+1.0	I	bid	farewell
+1.0	I	thence bid	farewell
+1.0	I	make in	course of long experience
+1.0	I	make in	course of experience
+1.0	I	ever make in	course of experience
+1.0	I	thence bid farewell to	all
+1.0	I	bid farewell to	all
+1.0	I	just have write	last word
+1.0	Kafir	come up	my avenue
+1.0	Kafir	carry	letter
+1.0	Kafir	come up	my avenue of tree
+1.0	I	have write	word
+1.0	I	just have write	word
+1.0	he	have bring from	post
+1.0	Kafir	come up	my avenue of orange tree
+1.0	Kafir	carry letter in	cleft stick
+1.0	I	have write	last word
+1.0	it	be from	Sir Henry
+1.0	it	turn out	Sir Henry
+1.0	it	speak for	itself
+1.0	I	give	it
+1.0	I	send	line
+1.0	my Dear Quatermain	send	line
+1.0	my Dear Quatermain	send	you
+1.0	I	send	you
+0.967887836512221	go	up to	town
+1.0	we	get off	boat at Southampton
+1.0	we	get off	boat
+0.11982177299755592	swell	turn out at_time	very day
+0.11982177299755592	swell	turn out at_time	next day
+0.11982177299755592	swell good	turn out at_time	very day
+0.11982177299755592	swell	turn out at_time	very next day
+0.11982177299755592	swell good	turn out at_time	very next day
+0.11982177299755592	swell good	turn out at_time	next day
+0.11982177299755592	swell good	turn out at_time	day
+0.11982177299755592	swell	turn out at_time	day
+1.0	I	once tell	story of he beautiful leg
+0.7957228216026493	they	story of	he leg
+1.0	I	once tell	they
+1.0	I	once tell	story
+1.0	I	tell	they
+1.0	I	tell	story of he leg
+0.7957228216026493	they	story of	he beautiful white leg
+1.0	I	tell	story of he beautiful leg
+1.0	I	meet	people
+1.0	I	tell	story
+1.0	I	go with	he
+1.0	I	once tell	story of he white leg
+1.0	I	once tell	story of he beautiful white leg
+1.0	I	tell	story of he white leg
+0.7957228216026493	they	story of	he white leg
+1.0	I	once tell	story of he leg
+1.0	I	tell	story of he beautiful white leg
+0.7957228216026493	they	story of	he beautiful leg
+1.0	ill-natured person	especially have print	it
+1.0	person	have print	it
+1.0	he	be	furious
+1.0	person	especially have print	it
+1.0	ill-natured person	have print	it
+1.0	it	seem	enormous
+1.0	I	take diamond 's	Streeter 's
+1.0	it	seem	so enormous
+1.0	I	take	diamond
+1.0	they	be of	water
+1.0	they	be of	finest water
+1.0	they	would buy	they
+1.0	you	see	you insist
+1.0	you	see	especially you insist
+1.0	you	especially insist	make
+1.0	you	insist	make
+1.0	magnificent	present of	third share
+1.0	you	make	magnificent present of third share
+1.0	you	must come	home
+1.0	you	make	magnificent present
+1.0	magnificent	present of	share
+1.0	you	see about	thing
+1.0	you	make	magnificent present of share
+1.0	he time other matter	connect with	adorning body
+1.0	he time matter	connect with	adorning
+1.0	he time	be too much occupy in	shaving
+0.5592998656219516	other matter	connect with	vain adorning of body
+1.0	he time	be	much occupy
+0.5592998656219516	matter	connect with	adorning
+0.5592998656219516	matter	connect with	vain adorning
+1.0	he time	be	too much occupy
+0.5592998656219516	other matter	connect with	vain adorning
+1.0	he time	be occupy in	shaving
+0.5592998656219516	other matter	connect with	adorning of body
+1.0	he time matter	connect with	vain adorning
+1.0	he time	be much occupy in	shaving
+1.0	he time other matter	connect with	vain adorning
+0.5592998656219516	other matter	connect with	adorning
+1.0	he time	be	occupy
+1.0	he time matter	connect with	vain adorning body
+1.0	he time other matter	connect with	vain adorning body
+0.5592998656219516	matter	connect with	vain adorning of body
+0.5592998656219516	matter	connect with	adorning of body
+1.0	he time matter	connect with	adorning body
+1.0	he time other matter	connect with	adorning
+1.0	he	tell	I
+0.03191106735239502	I	want	come home
+0.5532149287456595	I	buy	house
+0.5532149287456595	I	buy house near	here
+1.0	I	want	my comrade
+0.03191106735239502	I	want	come
+1.0	I	want	you
+1.0	I	want	my old comrade
+1.0	I	want	my dear old comrade
+1.0	you	have do	you day 's work
+1.0	day	have	work
+1.0	it	be	write
+1.0	we	tell	tale
+1.0	it	be write by	you
+1.0	we	tell tale	write by you
+1.0	we	tell tale	write
+1.0	you	will reach here by	Christmas
+1.0	you	start on	receipt of this
+1.0	you	stay for	that
+1.0	you	will reach by	Christmas
+1.0	you	stay with	I
+1.0	you	start on	receipt
+1.0	I	book	you
+1.0	good	be	so you boy Harry
+1.0	good	be	so by way you boy Harry
+1.0	good	be	you boy Harry
+1.0	good	be	by way you boy Harry
+1.0	week	for	shooting
+1.0	I	have have down	he
+1.0	he	be	cool young hand
+1.0	he	be	cool
+1.0	he	be	young
+1.0	he	be	young hand
+1.0	he	be	cool hand
+1.0	he	cut out	pellet
+1.0	he	be	hand
+1.0	he	shoot	I
+1.0	axe	be	fix
+1.0	you	give	I
+1.0	Twala	have	head
+1.0	tusk	look	magnificent
+1.0	I	chop off	Twala 's head
+1.0	we	bring away	coat of chain armour
+1.0	we	bring away	coat
+1.0	H.C. To-day	be	Tuesday
+0.6571584037124678	steamer	go on	Friday

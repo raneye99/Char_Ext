@@ -1,0 +1,374 @@
+1.0	Casti	spend together	they Christmas Eve
+1.0	Waymark	spend together	they Christmas Eve
+1.0	Casti	spend	they Christmas Eve
+1.0	Waymark	spend	they Christmas Eve
+1.0	other	of	affair
+1.0	they	speak freely	save
+1.0	they	speak	save
+1.0	Waymark	have of	course
+1.0	month	have tell as	month do
+1.0	month	have tell upon	Julian
+1.0	month	have tell as	month
+1.0	he	still discharge	he duty
+1.0	he	discharge	he duty
+1.0	Julian	look up in	bewilderment
+1.0	I	be get	my living
+1.0	Waymark	say	smile
+1.0	I	mean in	case
+1.0	my	be stronger than	yours
+1.0	my	be stronger	little
+1.0	I	exercise	it
+1.0	I	mean in	present case
+1.0	my	be	little stronger than yours
+1.0	my	be	stronger
+1.0	you	say	she
+1.0	you book	bring here	they
+1.0	you book	bring	they
+1.0	Sic volo	sit	pro ratione volunta
+1.0	Sic volo	sit	ratione volunta
+1.0	Julian	understand perfectly well	full significance of scheme
+1.0	Julian	understand perfectly well	significance
+1.0	Julian	understand well	full significance of scheme
+1.0	Julian	understand well	significance
+1.0	Julian	understand	significance
+1.0	Julian	understand well	significance of scheme
+1.0	Julian	understand perfectly well	significance of scheme
+1.0	Julian	understand	full significance
+1.0	Julian	understand perfectly well	full significance
+1.0	Waymark	for	kind endeavour put on proposal
+1.0	Julian	understand well	full significance
+1.0	Julian	understand	significance of scheme
+1.0	Julian	understand	full significance of scheme
+1.0	friend	in	hand
+0.6176884531889298	Julian	could set	he mind
+1.0	he mind	be with	self-reproach
+1.0	such feeling	be	baseless
+1.0	such feeling	be	utterly baseless
+1.0	waymark	show	he
+1.0	such feeling	be	how utterly baseless
+1.0	moment	of	consideration
+1.0	Harriet	have prove	herself unworthy
+1.0	herself	unworthy of	moment 's consideration
+1.0	it	be	certain
+1.0	agent	be in	London
+1.0	Harriet	have prove	herself unworthy of moment 's consideration
+0.10104575710924601	Julian	accustom to	thought
+1.0	Julian	accustom	himself
+1.0	Julian	gradually accustom	himself
+0.10104575710924601	Julian	gradually accustom to	thought
+1.0	Waymark	give	himself
+1.0	Waymark	give wholly	himself
+0.3507181029539169	anything	be welcome	enable
+1.0	he	fill up at_time	day
+1.0	anything	be	welcome
+1.0	Julian	lay on	couch
+1.0	they	forget	themselves
+1.0	Waymark	read anything	Julian lay
+1.0	Waymark	read	aloud anything
+1.0	Waymark	read	anything
+1.0	Waymark	read anything	Julian lay on couch
+1.0	Julian	read at	other time
+1.0	Julian	read at	time
+1.0	Julian	read to	himself
+1.0	it	even maintain attitude for	long
+1.0	it	even maintain	attitude
+1.0	it	maintain	sit attitude
+1.0	it	even maintain	sit attitude
+1.0	it	maintain	attitude
+1.0	he	find	springtime come
+1.0	it	maintain attitude for	long
+1.0	he cough	rack	he
+1.0	he cough	still rack terribly	he
+1.0	he cough	rack terribly	he
+1.0	he cough	still rack	he
+1.0	Waymark	often lay awake in	night
+1.0	Waymark	often lay in	night
+1.0	Waymark	lay awake in	night
+1.0	Waymark	lay in	night
+1.0	Waymark	listen to	fearful sound
+1.0	Waymark	listen in	next room
+1.0	Waymark	listen to	sound
+1.0	Waymark	listen in	room
+1.0	die man	in	position
+1.0	sweat	come upon	he brow
+1.0	he	try at	such time
+1.0	he	try at	time
+1.0	he	could do	little
+1.0	he	could do	so little
+1.0	he	deeply sympathise with	misery
+1.0	he	sympathise with	misery
+1.0	consciousness	bring	many calm moment
+0.8305469767240874	many calm moment	consciousness of	this
+0.8305469767240874	calm moment	consciousness of	this
+1.0	consciousness	bring	calm moment
+1.0	he	be resign	himself
+1.0	he	could be to	appearance light-hearted
+1.0	he	could even be to	appearance light-hearted
+1.0	he	have revival with	May
+1.0	he	have revival with	early May
+1.0	he	have	revival of inspiration
+1.0	he	have	revival
+1.0	he	lose	sight of he condition
+1.0	he	speak	more begin
+1.0	he	lose	sight of he desperate condition
+1.0	he	strangely lose	sight
+1.0	he	lose	sight
+1.0	he	strangely lose	sight of he desperate condition
+1.0	he	strangely lose	sight of he condition
+1.0	he	speak	once more begin
+1.0	he	unfold	book
+1.0	he	unfold book after	book
+1.0	he	unfold book after	book of vision
+1.0	he	unfold book after	book of glorious vision
+1.0	Waymark	listen to	he
+1.0	two	watch together	it
+1.0	two	watch	it
+1.0	they	watch	it
+1.0	lamp	be	light
+1.0	lamp	be	when light
+1.0	Waymark	take down	he Virgil
+1.0	Julian	have	eye
+1.0	both	be	quiet
+1.0	both	be quiet for	time
+1.0	gentle tremor	be in	he voice
+1.0	we	can speak of	she
+1.0	_	can speak of	she
+1.0	Waymark	return	know well
+1.0	Waymark	return	know
+1.0	he	continue with	solemn smile
+0.47076399936106544	that	be	all go by
+1.0	he	continue with	smile
+1.0	they	talk of	she
+1.0	they	talk with	subdue voice
+1.0	they	talk with	voice reverently
+1.0	they	talk with	voice
+1.0	they	talk with	subdue voice reverently
+1.0	she beneficent activity	adaptation to	new place
+1.0	he	divine of	life
+1.0	she	activity	perfect adaptation to new place
+1.0	you	will have	you second letter
+1.0	they	have fall into	thought
+1.0	you	will have	you letter
+1.0	they	have fall again into	thought
+1.0	friend	have	hand
+1.0	Julian	wait	moment
+1.0	he	feel	glad
+1.0	he	turn	handle
+1.0	Ida	be visit	she house
+1.0	Elm Court	wear	appearance
+1.0	litany lane	wear	appearance
+1.0	Elm Court	wear	changed appearance
+1.0	litany lane	wear	changed appearance
+1.0	Elm Court	now wear	changed appearance
+1.0	litany lane	now wear	appearance
+1.0	Elm Court	now wear	appearance
+1.0	litany lane	now wear	changed appearance
+1.0	it	breathe in	even recess of Court
+1.0	it	be possible at	present
+1.0	it	breathe in	even inmost recess
+1.0	it	breathe in	recess
+1.0	it	breathe in	inmost recess
+1.0	it	breathe in	recess of Court
+1.0	it	breathe in	even inmost recess of Court
+1.0	it	be	possible
+1.0	it	breathe in	inmost recess of Court
+1.0	it	breathe in	even recess
+1.0	front	be	fresh white-washed
+1.0	they	be new-painted in	Lane
+1.0	they	be	new-painted
+1.0	front	be	white-washed
+1.0	road-way	exhibit	improvement
+1.0	pavement	exhibit	improvement
+1.0	you	find	squalor
+1.0	you	penetrate into	garret
+1.0	poverty	be in	plenty
+1.0	landlord	have	care
+1.0	landlord 's care	could ensure	it
+1.0	you	find squalor	you penetrate into garret
+1.0	you	find dilapidation	you penetrate into garret
+1.0	you	find	dilapidation
+1.0	you	find squalor	you penetrate
+1.0	you	find dilapidation	you penetrate
+1.0	stair-case	be	pit-fall
+1.0	wall	drip with	moisture
+0.5769582649919307	ceiling	trace of	recent care
+1.0	stair-case	have cease	rotten pit-fall
+1.0	ceiling	show	trace
+0.5769582649919307	ceiling	trace of	care
+1.0	stair-case	have cease	pit-fall
+1.0	ceiling	show	trace of care
+1.0	stair-case	be	rotten pit-fall
+1.0	ceiling	show	trace of recent care
+1.0	lodger	be in	Lane
+0.7490700982013175	Ida	call upon	afternoon
+1.0	Ida	be	old
+1.0	Ida	be old woman in	always position
+1.0	Ida	be woman in	always position
+1.0	Ida	be	old woman
+1.0	Ida	be woman in	position
+1.0	Ida	be	woman
+1.0	Ida	be old woman in	position
+1.0	neighbour	be in	guinea
+1.0	she eloquence	use of	of they service
+1.0	neighbour	be in	two of strong beverage obtainable at she favourite house of call
+1.0	she	be in	reality
+1.0	she eloquence	be profitably make	use
+1.0	she eloquence	be make	use of in they own service
+1.0	she eloquence	use of	of they own service
+1.0	she eloquence	be	profitably make
+1.0	she eloquence	be make	use
+1.0	she eloquence	be profitably make	use of in they service
+1.0	reality	hold	brief from this
+1.0	reality	hold	brief
+1.0	use	be in	of they own service
+1.0	she eloquence	be make	use of in they service
+1.0	she eloquence	be profitably make	use of in they own service
+1.0	she eloquence	be	make
+1.0	one	have	art
+1.0	she	be	widder
+1.0	pr	ap	it
+1.0	she	be	seein
+1.0	she	be so young for	all
+1.0	she	be young for	all
+1.0	she	be	young
+1.0	she	be	so young
+1.0	it	be	cruel
+1.0	it	be	fair cruel
+0.7123380301732727	fit	fall down	everywhere
+0.359527035562459	she	have	fall
+0.7123380301732727	fit	fall	everywhere
+0.359527035562459	she	have	fall down
+1.0	she	have	fit
+1.0	I	be tell	law o
+1.0	they	be	fit
+1.0	they	be	hepiplectic fit
+1.0	I	be tell	law o I
+1.0	I	be	tell
+1.0	she	foam at	mouth
+1.0	I	understand	man
+0.6407443481618043	he	as call	hisself gentleman
+1.0	he	be	man as call
+0.6407443481618043	he	call	gentleman
+0.6407443481618043	he	as call	gentleman
+1.0	he	be	man call
+1.0	he	be	man
+1.0	I	understand	man call
+1.0	I	understand	man as call
+0.6407443481618043	he	call	hisself gentleman
+1.0	mem castin	be in	she tooth thing
+1.0	he	be	allus
+1.0	he	be beat	she black blue
+1.0	many	's time be	cos
+1.0	he	would ave	it
+1.0	many	have	time
+1.0	Ida	ask	think
+1.0	I	say at	mem
+1.0	I	say at	clock Ouse
+1.0	Mrs. Sprowl	be'avin like	mother
+1.0	Mrs. Sprowl	be'avin to	she
+1.0	Mrs. Sprowl	take	she
+0.04584657021521499	she	know	do Mrs. Sprowl ever she marry
+0.04584657021521499	she	know	do Mrs. Sprowl in pore thing 's appy day ever she marry
+1.0	Mrs. Sprowl	be in	pore thing 's appy day
+0.04584657021521499	she	know	do Mrs. Sprowl in pore thing 's appy day ever marry
+0.04584657021521499	she	know	do Mrs. Sprowl ever marry
+1.0	pore thing	in	appy day
+1.0	she	know	she
+0.04584657021521499	she	know	do Mrs. Sprowl she marry
+0.04584657021521499	she	know	do Mrs. Sprowl in pore thing 's appy day marry
+0.04584657021521499	she	know	do Mrs. Sprowl in pore thing 's appy day she marry
+0.04584657021521499	she	know	do ever she marry
+0.04584657021521499	she	know	do Mrs. Sprowl marry
+0.04584657021521499	she	know	do she marry
+1.0	she	have	go
+1.0	you	do know	she name
+1.0	Ida	break in	hastily
+1.0	it	be	irish
+1.0	Ida	well break in	hastily
+1.0	Ida	very well break in	hastily
+1.0	I	can do	anything
+1.0	she	well understand	value
+1.0	she	understand	value
+1.0	counsel	be in	case
+1.0	Ida	go into	Lane
+1.0	Ida	go out into	Lane
+1.0	she	be	accustom
+1.0	calumny	be just such	would likely
+1.0	calumny	be	just such
+1.0	calumny	be	such
+1.0	calumny	be such	would likely
+1.0	Harriet Casti	would	would likely
+1.0	it	go to	public-house
+1.0	it	be	Harriet Casti
+1.0	it	be	indeed Harriet Casti
+1.0	sick woman	have	identity
+1.0	lady	return with	evidence
+0.8922280030191031	Miss Hurst	be	tell
+1.0	she husband	have desert	she
+1.0	story	sound strangely to	Ida
+1.0	story	sound to	Ida
+1.0	story	sound very strangely to	Ida
+1.0	Julian	be	dead
+1.0	she	have	reply
+1.0	she	write line to	Waymark
+1.0	she	have	speedy reply
+1.0	she	write line at	old address
+1.0	she	write	line
+1.0	she	write	few line
+1.0	she	write line at	address
+1.0	expense	would	would provide
+1.0	expense	would	would provide for by lady
+1.0	place	be	open to she in hospital near London
+1.0	place	be open in	hospital near London
+1.0	Harriet	be	inform
+1.0	Harriet	be inform in	course of week
+1.0	expense	wish	give
+1.0	place	be	open
+1.0	place	be	open to she in hospital
+1.0	Harriet	be	in course of week inform by Miss Hurst
+1.0	Harriet	be	in course inform by Miss Hurst
+1.0	place	be open to	she
+1.0	Harriet	be inform in	course
+1.0	Harriet	be inform by	Miss Hurst
+1.0	place	be open in	hospital
+1.0	offer	be	reject
+1.0	she	next visit	Litany Lane
+1.0	pore Mrs. Casty	fall downstairs in	fit
+1.0	pore Mrs. Casty	fall after	quarrel
+1.0	pore Mrs. Casty	fall downstairs after	quarrel
+1.0	pore Mrs. Casty	fall after	quarrel with she friend Mrs. Sprowl
+1.0	pore Mrs. Casty	fall in	fit
+1.0	pore Mrs. Casty	break	she neck
+1.0	she	visit	Litany Lane
+1.0	pore Mrs. Casty	fall downstairs after	quarrel with she friend Mrs. Sprowl
+1.0	Waymark	live on in	Isle of Wight
+1.0	Waymark	live on until	day
+1.0	letter	come to	he
+1.0	Waymark	live on in	Isle
+1.0	niece	become	member
+1.0	niece	become	member of true Church
+1.0	it	tell	he
+1.0	niece	become	member of Church
+1.0	niece	member of	true Church
+1.0	Maud	have	resolve
+1.0	they life	would	would devote
+1.0	they life	would	where would devote
+1.0	aunt	become	member of Church
+1.0	aunt	become	member of true Church
+1.0	aunt	become	member
+1.0	niece	member of	Church
+1.0	they life	work of	charity
+1.0	Ida	address in	hand
+1.0	she	begin	read
+0.8032640221154881	contain	story of	year
+0.8032640221154881	contain	story of	several year of writer 's life
+0.8032640221154881	contain	story of	several year
+1.0	letter	be	long
+0.8032640221154881	contain	story of	year of writer 's life
+1.0	writer	of	life
+1.0	few minute	be	allow
+1.0	she	take	she pen
+1.0	few minute	be allow	pass
+1.0	minute	be	allow
+1.0	minute	be allow	pass
+1.0	it	seem to	she

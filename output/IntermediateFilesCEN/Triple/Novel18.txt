@@ -1,0 +1,513 @@
+1.0	Nehushta	glide like	ghost along corridor
+1.0	Nehushta	glide like	ghost
+0.46772985380500043	shriek	clash of	sword
+1.0	dozen arrow	strike	wall
+1.0	dozen arrow	strike together	wall
+1.0	confusion	be in	all lower story of palace
+1.0	shriek	be with	moaning of wound man
+1.0	confusion	be in	lower story of palace
+0.8426313937049627	stair	more tide of	fight
+1.0	she	from step be	wild shriek
+1.0	she	pass	head
+0.8248126077492078	she	head of	great staircase
+1.0	she	pass	head of staircase
+1.0	she	pass	head of great staircase
+0.8248126077492078	she	head of	staircase
+1.0	staircase	be in	moment
+1.0	she	pass	treasury
+1.0	massive square building	blacker than	its own black shadow
+1.0	door massive square building	frown through	gloom
+1.0	door	be	shut
+1.0	door building	frown through	gloom
+1.0	door square building	frown through	gloom
+1.0	door massive building	frown through	gloom
+1.0	she	reach	door
+1.0	she	faintly could hear	sound of evening chant
+1.0	she	faintly could hear	sound
+1.0	she	very faintly could hear sound through	thick wall
+1.0	she	could hear sound through	wall
+1.0	she	could hear sound through	thick wall
+1.0	she	very faintly could hear	sound of evening chant
+1.0	she	could hear	sound of evening chant
+1.0	she	very faintly could hear	sound
+1.0	she	could hear	sound
+1.0	she	faintly could hear sound through	wall
+1.0	she	very faintly could hear sound through	wall
+1.0	she	faintly could hear sound through	thick wall
+1.0	priest	be all of	all
+1.0	priest	be all within	within Zoroaster
+1.0	priest	sing	hymn
+1.0	priest	sing	hymn of sacrifice
+1.0	priest	sing hymn before	fire
+1.0	priest	be	all
+1.0	priest	be	all within with Zoroaster of all
+1.0	priest	sing hymn before	sacred fire
+1.0	Nehushta	try	door
+1.0	bronze gate	be	lock together
+1.0	great bronze gate	be	lock
+1.0	bronze gate	be	lock
+1.0	great bronze gate	be	lock together
+1.0	Press	say	voice
+1.0	Press	say	small voice behind she
+1.0	Press	say	voice behind she
+1.0	Press	say	small voice
+1.0	Nehushta	look	round
+1.0	it	be	little syrian slave
+1.0	it	watch	she
+1.0	it	be	slave
+1.0	it	be	syrian slave
+1.0	it	be	little slave
+1.0	slave	tell	she
+1.0	Nehushta	put	she hand
+1.0	door	turn slowly and noiselessly upon	its hinge
+1.0	door	turn upon	its hinge
+1.0	door	open	turn slowly upon its hinge
+1.0	door	turn slowly upon	its hinge
+1.0	door	open	turn
+1.0	door	open	turn upon its hinge
+1.0	door	open	turn slowly
+1.0	girl	push	bronze
+1.0	syrian girl	push	heavy bronze
+1.0	syrian girl	push back	bronze
+1.0	girl	push	heavy bronze
+1.0	syrian girl	push	bronze
+1.0	girl	push back	heavy bronze
+1.0	syrian girl	push back	heavy bronze
+1.0	girl	push back	bronze
+1.0	syrian	remember	it
+1.0	syrian	have hear	it repeated
+1.0	queen	of	woman
+1.0	Nehushta	rush into	temple
+1.0	Nehushta	run through	corridor
+1.0	Nehushta	inside run through	corridor between wall
+1.0	Nehushta	once inside run through	corridor
+1.0	Nehushta	run through	corridor between wall
+1.0	Nehushta	find	herself
+1.0	Nehushta	once inside run through	corridor between wall
+1.0	Nehushta	rush into	inner temple
+1.0	Nehushta	inside run through	corridor
+1.0	slave	hear	yell of hoarse voice
+1.0	syrian slave	hear	yell of voice mix
+1.0	syrian slave	hear	yell
+1.0	syrian slave	hear	yell of hoarse voice
+1.0	slave	hear	yell
+1.0	slave	hear	yell of voice mix with clang
+1.0	syrian slave	hear	yell of voice mix with clang
+1.0	slave	hear	yell of hoarse voice mix
+1.0	slave	hear	yell of voice
+1.0	slave	hear	yell of voice mix
+1.0	syrian slave	hear	yell of hoarse voice mix
+1.0	slave	hear	yell of hoarse voice mix with clang
+1.0	syrian slave	hear	yell of hoarse voice mix with clang
+1.0	syrian slave	hear	yell of voice
+1.0	chant	solemnly rise around	sacred fire
+1.0	chant	rise around	fire
+1.0	chant	solemnly rise around	fire
+1.0	chant	rise around	sacred fire
+1.0	Zoroaster he waxen face	illuminate by	effulgence
+1.0	Zoroaster he waxen face	illuminate by	dazzling effulgence
+1.0	he hand	lift in	prayer
+1.0	Zoroaster	stand before	it
+1.0	they voice	go up in	chorus strong in grand plain-chant
+1.0	seventy priest	stand in	even rank
+1.0	they voice	go up in	rich chorus strong in grand plain-chant
+1.0	they voice	go up in	rich chorus
+1.0	priest	stand in	rank
+1.0	they voice	go up in	chorus strong in plain-chant
+1.0	they voice	go up in	rich chorus in plain-chant
+1.0	priest	stand in	even rank
+1.0	they voice	go up in	rich chorus in grand plain-chant
+1.0	they voice	go up in	chorus strong
+1.0	seventy priest	stand around	wall
+1.0	rich chorus strong	be in	grand plain-chant
+1.0	they voice	go up in	rich chorus strong
+1.0	priest	stand around	wall
+1.0	seventy priest	stand in	rank
+1.0	they voice	go up in	rich chorus strong in plain-chant
+1.0	they voice	go up in	chorus
+1.0	they voice	go up in	chorus in plain-chant
+1.0	they voice	go up in	chorus in grand plain-chant
+1.0	Nehushta	break with	sudden cry
+1.0	Nehushta	break with	cry
+1.0	Nehushta	break	she rush
+1.0	she	rush before	they
+1.0	Nehushta	break upon	they melody
+1.0	Nehushta	break	she rush before they
+1.0	enemy	be	come
+1.0	they	be in	palace
+1.0	enemy	be come in	thousand
+1.0	she	rush	she cry
+1.0	she	rush	she cry to he
+1.0	she	rush forward	she cry to he
+1.0	she	lay	one hand
+1.0	she	rush forward	she cry
+1.0	she	cry to	he
+1.0	priest	gather in	sudden fear
+1.0	high priest	turn upon	she
+1.0	high priest	turn	he face unmoved
+1.0	priest	gather in	fear
+0.1071882197672469	priest	turn	priest cease
+1.0	priest	turn	he face unmoved
+1.0	priest	gather about	they chief
+1.0	priest	turn upon	she
+1.0	priest	cease	they chanting
+0.1071882197672469	high priest	turn	priest cease
+1.0	low roar	be hear	ocean be beat
+1.0	low roar	be hear	ocean be beat at gate
+1.0	ocean	be beat at	gate
+1.0	low roar	be hear from	without
+1.0	roar	be hear from	without
+1.0	roar	be	hear
+1.0	roar	be hear	ocean be beat at gate
+1.0	low roar	be	hear
+1.0	low roar	be hear	they voice cease
+1.0	roar	be hear	they voice cease
+1.0	roar	be hear	ocean be beat
+1.0	Zoroaster	gently take	Nehushta 's hand
+1.0	Zoroaster	take	Nehushta 's hand
+1.0	Nehushta	have	hand
+1.0	I	will perish before	altar
+0.7337058486048759	I	perish	that
+1.0	it	be	will
+1.0	I	will perish	will of All-Wise
+1.0	I	will perish	will
+1.0	it	be will of	All-Wise
+1.0	thou	save thyself	be time
+1.0	thou	save	be time
+1.0	thou	save thyself	be yet time
+1.0	thou	save	be yet time
+1.0	she	be utter	she sentence of death
+1.0	she	be utter	she sentence
+1.0	she	be utter	she own sentence of death
+1.0	she	be utter	she own sentence
+1.0	she	come	run
+1.0	she	come	run into temple
+1.0	she	run into	temple
+1.0	ye	be	dead man
+1.0	Behold	be break down	door
+1.0	they	be break down	door
+1.0	fiend	be scream over	soul of lose
+1.0	noise	echo	she speak
+1.0	fiend	be scream over	soul
+1.0	chorus	yell at	blow
+1.0	fiend	be scream in	joy
+1.0	priest	draw	tremble with fear
+1.0	priest	tremble with	fear
+1.0	priest	draw	tremble
+1.0	priest	draw together	tremble with fear
+1.0	priest	draw together	tremble
+1.0	priest	tremble	they be
+1.0	I	go to	my mistress
+1.0	she	push through	crowd of white-robed man
+1.0	she	push like	white-crested wave
+1.0	she	push through	crowd
+1.0	she	push like	wave
+1.0	she	push through	crowd of man
+1.0	Zoroaster	have	hand
+1.0	Nehushta	stare wildly upon	helpless priest
+1.0	Nehushta	stare wildly upon	priest
+1.0	Nehushta	stare upon	helpless priest
+1.0	Nehushta	stare upon	priest
+1.0	Nehushta	still hold	Zoroaster 's hand
+1.0	Nehushta	hold	Zoroaster 's hand
+1.0	she one thought	save	man
+1.0	she thought	save	man
+1.0	she	appeal to	priest
+1.0	she	nevertheless appeal to	priest
+1.0	none	can save	he
+1.0	Foremost	be	stern dark man
+1.0	Zoroaster	come	same
+1.0	Foremost	be	man
+1.0	Foremost	be	dark man
+1.0	Foremost	be	stern man
+1.0	Foremost	be in	little crowd
+1.0	Foremost	be	stern
+1.0	Foremost	be	dark
+1.0	we	will save	he
+1.0	he	cry in	brave enthusiasm for he chief
+1.0	he	cry in	brave enthusiasm
+1.0	we	be	able
+1.0	he	cry in	enthusiasm for he chief
+1.0	he	cry in	enthusiasm
+1.0	we	be	all slay
+1.0	we	open	door
+1.0	we	fight out	we way
+1.0	he	may	may save
+1.0	we	be	slay
+1.0	Zoroaster	gently put back	he
+1.0	Zoroaster	put	he
+1.0	Zoroaster	gently put	he
+1.0	Zoroaster	put back	he
+1.0	he	seem	transfigure before they
+1.0	radiance	steal	he seem
+1.0	he	seem	transfigure all
+1.0	he	transfigure before	they
+1.0	he	seem	transfigure before they all
+1.0	he	seem	transfigure
+1.0	he	transfigure all before	they
+1.0	radiance	steal upon	he feature
+1.0	foe	be as	thousand man against one
+1.0	foe	be as	thousand man
+1.0	we	must die like	man
+1.0	we	here must die like	man
+1.0	thunder	drown	other sound
+1.0	thunder	almost drown	other sound
+1.0	thunder	continue	echo through whole temple
+1.0	thunder	echo through	whole temple
+1.0	thunder	echo through	temple
+1.0	thunder	continue	echo
+1.0	thunder	continue	echo through temple
+1.0	clear	gather more and more closely about	he
+1.0	strong	gather about	he
+1.0	clear	gather about	he
+1.0	band	gather more and more closely about	he
+1.0	strong	gather more and more closely about	he
+1.0	band	gather about	he
+1.0	clear	gather closely about	he
+1.0	Zoroaster	have	voice
+1.0	strong	gather more closely about	he
+1.0	band	gather closely about	he
+1.0	clear	gather more closely about	he
+1.0	strong	gather closely about	he
+1.0	band	gather more closely about	he
+1.0	Nehushta	hold	he hand
+1.0	Nehushta	still hold tightly	he hand
+1.0	she	look up to	he
+1.0	Nehushta	still hold	he hand
+1.0	Nehushta	hold tightly	he hand
+1.0	she	look up	he speak
+1.0	syrian girl	stand very quite and grave beside	she mistress
+1.0	little syrian girl	stand very quite and grave beside	she mistress
+1.0	little girl	stand quite and grave beside	she mistress
+1.0	little syrian girl	stand beside	she mistress
+1.0	little syrian girl	stand very quite beside	she mistress
+1.0	little girl	stand very quite and grave beside	she mistress
+1.0	girl	stand very quite and grave beside	she mistress
+1.0	little syrian girl	stand quite beside	she mistress
+1.0	girl	stand very quite beside	she mistress
+1.0	girl	stand quite and grave beside	she mistress
+1.0	girl	stand beside	she mistress
+1.0	syrian girl	stand quite beside	she mistress
+1.0	syrian girl	stand very quite beside	she mistress
+1.0	girl	stand quite beside	she mistress
+1.0	little girl	stand quite beside	she mistress
+1.0	little girl	stand beside	she mistress
+1.0	syrian girl	stand beside	she mistress
+1.0	syrian girl	stand quite and grave beside	she mistress
+1.0	little girl	stand very quite beside	she mistress
+1.0	little syrian girl	stand quite and grave beside	she mistress
+1.0	I	beseech	you
+1.0	I	therefore beseech	you
+1.0	I	now therefore beseech	you
+0.9433763166386324	we	open	you eye
+1.0	I	now beseech	you
+1.0	he	expose to	manifold danger from he birth
+1.0	he	expose to	manifold danger
+1.0	he	be	delicate
+1.0	earth	be	sorrowful
+1.0	whole earth	be	sorrowful
+1.0	it	be	day
+1.0	we sun	be	go
+1.0	we sun	be	go down
+1.0	we	yet shall see sun	go down
+1.0	we	yet shall see	sun
+1.0	we	shall see sun	go down
+1.0	we	shall see sun	go
+1.0	we	yet shall see sun	go
+1.0	we	shall see	sun
+1.0	Lord Ahura Mazda	make	also we body
+1.0	Lord Ahura Mazda	make	we body
+1.0	Lord Ahura Mazda	put	we
+1.0	he	demand	they
+1.0	they	be	he
+1.0	he	demand again	they
+1.0	he	give	they
+1.0	he	now demand again	they
+1.0	he	now demand	they
+1.0	we	give	they
+1.0	we	give readily	they
+1.0	they	be	close
+1.0	we eye	shall	shall open
+1.0	they	be close upon	thing
+1.0	we eye	shall	when shall open to world
+1.0	they	be	close in death upon thing
+1.0	we eye	shall	shall open to world
+1.0	time	be at	hand
+1.0	we eye	shall	when shall open
+1.0	they	be close in	death
+1.0	thanks	be with	I
+1.0	we	make	it eternal for ever
+1.0	shall be	have make	age
+0.6486399030370678	age	praise	he
+1.0	shall be	have make	year
+1.0	seemeth	shadow of	life
+1.0	seemeth	image of	living
+1.0	it	eternal for	ever
+1.0	we	make	it eternal
+1.0	he	chant	hymn
+1.0	Zoroaster	raise	one hand
+1.0	bronze door	fall in	clanging
+1.0	great bronze door	give way	element of earth be dissolve into primeval confusion
+1.0	yell	suffer	they devil burst forth in demoniac discord
+1.0	great bronze door	give way	element of earth be dissolve
+1.0	bronze door	give way	element of earth be dissolve into confusion
+1.0	bronze door	give way with	crash
+1.0	yell	suffer	din
+1.0	great bronze door	fall	clanging
+1.0	yell	suffer	they devil burst
+1.0	great bronze door	give way	element of earth be dissolve into confusion
+1.0	great bronze door	give	way
+1.0	element	be dissolve into	primeval confusion
+1.0	cover	have	have take from caldron of hell
+1.0	great bronze door	fall in	clanging
+1.0	bronze door	give way	element be dissolve
+1.0	yell	come to	ear of priest
+1.0	yell	come	have take
+1.0	yell	come	have take from caldron
+1.0	yell	suffer	they devil burst in demoniac discord
+1.0	bronze door	give way	element of earth be dissolve into primeval confusion
+1.0	bronze door	give	way
+1.0	great bronze door	give way with	crash
+1.0	great bronze door	give way	element be dissolve into primeval confusion
+1.0	yell	suffer	they devil burst forth
+1.0	bronze door	give way	element of earth be dissolve
+1.0	great bronze door	give way	element be dissolve
+1.0	element	be dissolve into	confusion
+1.0	cover	have	have take from caldron
+1.0	yell	come	have take from caldron of hell
+1.0	yell	come to	ear
+1.0	yell	suffer	din of damned
+1.0	bronze door	give way	element be dissolve into confusion
+1.0	bronze door	give way	element be dissolve into primeval confusion
+1.0	great bronze door	give way	element be dissolve into confusion
+1.0	bronze door	fall	clanging
+1.0	cover	have	have take
+1.0	temple	be fill in	instant
+1.0	temple	be	fill
+1.0	temple	be	in instant fill with swarm of man
+1.0	temple	be fill with	swarm of man
+1.0	eye	be	red
+1.0	eye	be red with	lust of blood
+1.0	temple	be	in instant fill with swarm
+1.0	temple	be fill with	swarm
+1.0	temple	be	in instant fill with swarm of hideous man
+1.0	temple	be fill with	swarm of hideous man
+1.0	they hand	be with	slaughter
+1.0	eye	be red with	lust
+1.0	they	press forward in	rush
+1.0	they yell	rent	roof
+1.0	they crooked sword	gleam	they press in rush
+1.0	they sword	gleam	they press forward in rush
+1.0	they crooked sword	gleam aloft	they press forward in rush
+1.0	they sword	gleam aloft	they press forward
+1.0	they	press in	rush
+1.0	they crooked sword	gleam	they press forward in rush
+1.0	they crooked sword	gleam aloft	they press in rush
+1.0	they crooked sword	gleam	they press forward
+1.0	they crooked sword	gleam aloft	they press forward
+1.0	they sword	gleam	they press forward
+1.0	they crooked sword	gleam aloft	they press
+1.0	they sword	gleam aloft	they press in rush
+1.0	they sword	gleam aloft	they press forward in rush
+1.0	they crooked sword	gleam	they press
+1.0	they sword	gleam	they press in rush
+1.0	they yell	rent	very roof
+1.0	they sword	gleam aloft	they press
+1.0	they sword	gleam	they press
+1.0	they	surround	doomed band
+1.0	they scream	overwhelm	they
+1.0	they scream	dye	they blade
+1.0	they scream	rise	piercing
+1.0	they scream	dye	they misshapen blade
+1.0	they scream	rise	more piercing
+1.0	they	surround	band
+1.0	priest	struggle like	brave man
+1.0	priest	struggle to	last
+1.0	priest	struggle like	man
+1.0	they	grasp	they hideous foe
+1.0	they	grasp	they foe
+1.0	priest	fall with	death-wound
+1.0	blood	flow out between	foot of wild
+1.0	death-wound	be in	he breast
+1.0	blood	flow out between	foot
+1.0	priest	fall with	death-wound in he breast
+1.0	one tall wretch	be with	bloody eye
+1.0	hair	be with	he reek hand
+1.0	Zoroaster	have	thin arm
+1.0	Nehushta	have	head
+1.0	I	be	unfaithful
+1.0	I	shall with	shall you beyond star for ever
+0.384971892017809	I	be unfaithful	have faithful
+1.0	I	shall with	shall you
+0.384971892017809	I	have	have faithful
+1.0	I	shall with	shall you beyond star
+1.0	I	shall with	shall you for ever
+1.0	he white face	blaze with	radiant light
+1.0	he face	blaze with	light of life
+1.0	he white face	blaze with	radiant light of new life
+1.0	he white face	blaze with	light
+1.0	he face	blaze with	radiant light
+1.0	he white face	blaze with	radiant light of life
+1.0	he face	blaze in	awful moment
+1.0	he white face	blaze with	light of life
+1.0	he face	blaze in	moment
+1.0	he white face	blaze with	light of new life
+1.0	he white face	blaze in	awful moment
+1.0	he face	blaze with	radiant light of life
+1.0	he face	blaze with	light of new life
+1.0	he white face	blaze in	moment
+1.0	he face	blaze with	radiant light of new life
+1.0	he face	blaze with	light
+1.0	keen sword	find	its sheath
+1.0	sword	sever	Nehushta 's neck
+1.0	sword	flash out	more
+1.0	slaughter	be	do
+1.0	lover	in	heart
+1.0	sword	find	its sheath
+1.0	Nehushta	have	neck
+1.0	keen sword	sever	Nehushta 's neck
+1.0	they	fall down	dead
+1.0	keen sword	flash out	more
+1.0	they	fall down	dead together
+0.7769605986584653	messenger	meet	he
+1.0	Darius king	return on	third day
+1.0	he soldier	slay	rebel
+1.0	Darius king	return on	day
+0.583830109528382	he soldier	rebel in	Echatana
+1.0	he soldier	slay	rebel in Echatana
+1.0	rebel	be in	Echatana
+0.7769605986584653	messenger	bring	news
+1.0	Darius king	return for	messenger
+0.37574343713940267	lie	clasp in	arm of he most faithful servant
+0.37574343713940267	lie	clasp in	arm of he faithful servant
+1.0	he	look upon	body of wife
+0.37574343713940267	lie	clasp in	arm of he servant
+1.0	he	look upon	body
+0.37574343713940267	lie	clasp in	arm
+1.0	he	destroy utterly	wild rider of hill
+1.0	he	destroy	wild rider of eastern hill
+1.0	he	destroy utterly	wild rider of eastern hill
+1.0	he	destroy	rider
+1.0	he	destroy utterly	rider
+1.0	he	destroy	wild rider of hill
+1.0	he	destroy	rider of hill
+1.0	he	destroy utterly	rider of hill
+1.0	he	destroy utterly	rider of eastern hill
+1.0	he	destroy	wild rider
+1.0	he	destroy	rider of eastern hill
+1.0	he	destroy utterly	wild rider
+1.0	they blood	avenge	blood
+0.6290618390260668	they blood	blood of	those
+1.0	they blood	avenge	blood of those
+1.0	he	crucify	they
+0.6293201771752164	he	body of	Zoroaster
+1.0	plate	be in	together tomb over against palace
+1.0	he plate	hew in	rock mountain
+1.0	he plate	hew in	rock
+1.0	he	take	high priest
+1.0	he	take	priest
+1.0	he	take	little syrian maid
+1.0	he	bury	they
+1.0	he	take	little maid
+1.0	he	take	syrian maid
+1.0	he	take	maid

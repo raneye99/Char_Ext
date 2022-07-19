@@ -1,0 +1,510 @@
+1.0	lawyer	be	man
+1.0	lawyer	be man of	rugged countenance
+1.0	lawyer	be man of	countenance
+1.0	cold	be in	discourse
+1.0	wine	be to	when he taste
+1.0	wine	be to	he taste
+1.0	he	be	austere
+1.0	he	be austere with	himself
+1.0	he	have	tolerance
+1.0	he	have	approve tolerance
+1.0	he	have	tolerance for other
+1.0	I	incline to	Cain 's heresy
+1.0	Cain	to	heresy
+1.0	he	use	say quaintly
+1.0	he	use	say
+1.0	it	be	in character frequently he fortune
+1.0	it	be	he fortune
+1.0	it	be	reputable acquaintance
+1.0	it	be	last reputable acquaintance
+1.0	last good influence	be in	life of down-going man
+1.0	it	be	last acquaintance
+1.0	he fortune	be in	character
+1.0	it	be	acquaintance
+1.0	it	be	frequently he fortune
+1.0	it	be	in character he fortune
+1.0	shade	be in	he demeanour
+1.0	it	be	mark
+1.0	it	be mark of	modest man accept
+1.0	lawyer	have	way
+1.0	it	be mark of	man accept
+1.0	Mr. Richard Enfield	man about	town
+1.0	it	be nut	crack for many
+1.0	it	be nut	crack
+1.0	it	be	report
+1.0	two man	even resist	call of business
+1.0	by-street	be in	busy quarter of London
+1.0	they way	lead	they
+1.0	inhabitant	hope	do still
+1.0	shop front	stand like	row of smile saleswoman
+1.0	shop front	stand with	air
+1.0	inhabitant	hope	do better still
+1.0	inhabitant	lay out	surplus of they gain
+1.0	shop front	stand along	thoroughfare
+1.0	inhabitant	lay out surplus in	coquetry
+1.0	inhabitant	emulously hope	do still
+1.0	shop front	stand with	air of invitation
+1.0	inhabitant	lay out	surplus
+1.0	shop front	stand like	row
+1.0	inhabitant	emulously hope	do
+1.0	inhabitant	hope	do
+1.0	shop front	stand like	row of saleswoman
+1.0	inhabitant	emulously hope	do better still
+1.0	street its shutter	catch	eye of passenger
+1.0	street its shutter	instantly catch	eye of passenger
+1.0	street	shine out in	contrast to its dingy neighbourhood
+1.0	street	shine out on	even Sunday
+1.0	street its shutter	instantly catch	eye
+1.0	street	shine out in	contrast
+1.0	street	shine out on	Sunday
+1.0	street its shutter	catch	eye
+1.0	street its paint shutter	catch	eye of passenger
+1.0	it	veil	its more florid charm
+1.0	street its paint shutter	catch	eye
+1.0	it	veil	its florid charm
+1.0	street	shine out in	contrast to its neighbourhood
+1.0	it	veil	its charm
+1.0	it	lay	comparatively empty
+1.0	it	lay	comparatively empty of passage
+1.0	street its paint shutter	instantly catch	eye
+1.0	street its paint shutter	instantly catch	eye of passenger
+1.0	fire	be in	forest
+1.0	it	lay	empty
+1.0	it	lay	empty of passage
+1.0	two door	be	break
+1.0	one corner	from door be	line
+1.0	door	be	break
+1.0	point	block of	building thrust
+1.0	left hand	on door be	line
+1.0	it	show	nothing
+1.0	it	show	door on story
+1.0	it	show	door
+1.0	it	show	door on lower story
+1.0	door	be	blister
+1.0	tramp	strike match on	panel
+1.0	tramp	strike	match
+1.0	child	keep	shop
+1.0	schoolboy	have try	he knife
+1.0	tramp	slouch into	recess
+1.0	child	keep shop upon	step
+0.287981023048276	schoolboy	have try on	moulding
+1.0	you	do remark	door
+1.0	you	do ever remark	door
+1.0	it	be	connect
+1.0	he companion	have reply in	affirmative
+1.0	it	be connect in	my mind
+0.9339896822286052	it	be	way
+1.0	I	see	two figure
+1.0	I	all see	two figure
+1.0	child	over	body
+1.0	it	be like	juggernaut
+1.0	it	be like	damned juggernaut
+1.0	I	collar	my gentleman
+1.0	I	give	view-halloa
+1.0	I	take to	my heel
+1.0	I	bring back	he
+1.0	I	bring	he
+1.0	doctor	pretty soon put in	he appearance
+1.0	doctor	soon put in	he appearance
+1.0	doctor	put in	he appearance
+1.0	girl	have	own family
+1.0	she	be	have send
+1.0	people	be	girl 's family
+1.0	people	be	girl 's own family
+1.0	I	have take	loathing
+1.0	I	have take loathing at	first sight
+1.0	I	have take loathing to	my gentleman
+1.0	I	have take loathing at	sight
+1.0	child	have	family
+1.0	doctor	have	case
+1.0	usual cut-and-dry apothecary	be with	strong Edinburgh accent
+1.0	he	look at_time	time
+1.0	he	be like	rest of we
+1.0	Sawbones	turn	sick
+1.0	he	be like	rest
+1.0	I	know	he know
+1.0	we	kill out of	question
+1.0	we	do	next best
+1.0	we	do	best
+0.8950228487120642	kill	be out of	question
+1.0	I	know	just he know
+1.0	we	tell	man
+1.0	he	lose	they
+1.0	they	be	as wild
+1.0	we	be keep woman at_time	time
+1.0	we	be pitch	it
+1.0	they	be	wild
+1.0	they	be as wild as	harpy
+1.0	they	be wild as	harpy
+1.0	man	be in	middle
+0.896121918933545	I	be	helpless
+0.896121918933545	I	be	naturally helpless
+1.0	you	make	capital
+1.0	you	make capital out of	accident
+1.0	next thing	get	money
+1.0	thing	get	money
+1.0	man	come out of	it
+1.0	man	with	cheque for close upon hundred pound
+1.0	child	have	father
+1.0	I	give in	check myself
+1.0	I	give in	check
+1.0	cheque	be	genuine
+1.0	it	be	story
+1.0	it	be	bad
+1.0	it	be	bad story
+1.0	nobody	do with	really damnable man
+1.0	nobody	do with	damnable man
+1.0	nobody	have	do with really damnable man
+1.0	person	be	very pink
+1.0	nobody	have	do with man
+1.0	nobody	have	do
+1.0	nobody	have	do with damnable man
+1.0	person	be	pink
+1.0	person	be pink of	propriety
+1.0	fellow	be for	my man
+1.0	nobody	do with	man
+1.0	place	be in	consequence
+1.0	place	be with	door
+1.0	he word	fall into	vein
+1.0	he word	fall into	vein musing
+1.0	he	be recall from	this
+1.0	he	be	recall
+1.0	he	be recall by	Mr. Utterson
+1.0	he	be	from this recall by Mr. Utterson
+1.0	I	notice	he address
+1.0	he	live in	square
+1.0	place	be with	door
+0.5258222047226337	I	have	delicacy
+1.0	sir	be	reply
+1.0	it	partake	too much
+1.0	it	partake	much of style of day
+1.0	it	partake	much of style
+1.0	it	partake	much of style of day of judgment
+1.0	it	partake	too much of style of day
+1.0	I	put	question
+1.0	it	partake	much
+1.0	it	partake	too much of style of day of judgment
+1.0	it	partake	too much of style
+1.0	you	start	question
+1.0	bird	be	knock
+1.0	bird	be knock in	he own back-garden
+1.0	bird	be knock in	he back-garden
+1.0	old bird	be knock in	he own back-garden
+1.0	bland old bird	be knock in	he own back-garden
+1.0	bland bird	be knock in	he back-garden
+1.0	bland bird	be	knock
+1.0	old bird	be	knock
+1.0	bland old bird	be knock in	he back-garden
+1.0	bland old bird	be	knock
+1.0	bland bird	be knock in	he own back-garden
+1.0	stone	start	other
+1.0	old bird	be knock in	he back-garden
+1.0	it	rule of	mine
+1.0	sir	make	more
+1.0	I	make	more
+0.7971304271154163	nobody	gentleman of	adventure
+0.7971304271154163	nobody	gentleman of	my adventure
+1.0	three window	look on	first floor
+1.0	three window	look on	floor
+1.0	three window	look on	court
+1.0	it	be	hard
+1.0	Enfield	be	then good rule
+1.0	pair	walk for	while in silence
+1.0	Enfield	be	rule
+1.0	Enfield	be	good rule
+1.0	Enfield	be	then good rule of yours
+1.0	Enfield	be	then rule of yours
+1.0	Enfield	be good rule of	yours
+1.0	Enfield	be	then rule
+1.0	pair	walk on	again
+1.0	pair	walk for	while
+1.0	Enfield	be rule of	yours
+1.0	that	be	good
+1.0	Enfield	be	good
+1.0	while	be in	silence
+1.0	it	be man of	name
+1.0	it	be man of	name of Hyde
+1.0	it	be	man
+1.0	something displeasing	be	something wrong
+1.0	something displeasing	be	wrong
+1.0	something displeasing	be	something wrong with he appearance
+1.0	something displeasing	be	wrong with he appearance
+0.7196034006610801	he	feeling of	deformity
+0.7196034006610801	he	strong feeling of	deformity
+1.0	he	be	must deform
+1.0	he	be	must deform somewhere
+1.0	I	yet can name nothing out of	way
+1.0	I	yet really can name nothing out of	way
+1.0	I	really can name	nothing
+1.0	he	be	extraordinary-looking
+1.0	he	be	man
+1.0	he	be	extraordinary-looking man
+1.0	I	can name	nothing
+1.0	I	can name nothing out of	way
+1.0	I	really can name nothing out of	way
+1.0	I	yet can name	nothing
+1.0	I	yet really can name	nothing
+1.0	I	see	he
+0.40087069963508204	Mr. Utterson	again walk in	silence
+1.0	Mr. Utterson	again walk way in	silence
+1.0	Mr. Utterson	walk	way
+0.40087069963508204	Mr. Utterson	walk in	silence
+1.0	Mr. Utterson	walk way in	silence
+1.0	Mr. Utterson	again walk	way
+1.0	he	use	key
+1.0	you	be	sure
+1.0	he	inquire at	last
+1.0	my sir	surprise out of	himself
+1.0	I	know already	it
+1.0	I	know	it
+0.8524734060284525	I	name of	other party
+1.0	you	have better correct	it
+1.0	you	be	have inexact in point
+1.0	you	have correct	it
+1.0	I	have	have exact
+1.0	you	call	it
+1.0	I	have	have pedantically exact
+1.0	fellow	have	key
+1.0	he	have	it
+1.0	he	have still	it
+1.0	he	use	it
+0.4872278034934786	I	be ashamed of	my long tongue
+0.4872278034934786	I	be	ashamed
+0.4872278034934786	I	be ashamed of	my tongue
+1.0	lawyer	say with	my heart
+1.0	lawyer	say with	heart
+0.6399519129670479	Mr. Utterson	come in	spirit
+1.0	Mr. Utterson	come home to	he bachelor house
+1.0	Mr. Utterson	sit down	down dinner
+1.0	Mr. Utterson	come	home
+1.0	Mr. Utterson	sit down	down dinner without relish
+0.6399519129670479	Mr. Utterson	come to	he bachelor house
+0.6399519129670479	Mr. Utterson	come in	sombre spirit
+1.0	Mr. Utterson	come home at_time	evening
+0.6399519129670479	Mr. Utterson	come at_time	evening
+1.0	Mr. Utterson	come home in	sombre spirit
+1.0	Mr. Utterson	come home in	spirit
+1.0	fire	volume on	he reading-desk
+1.0	it	sit close by	volume
+1.0	it	sit by	volume of dry divinity
+1.0	it	sit by	volume
+1.0	it	sit close by	volume of divinity on he reading-desk
+1.0	it	sit close by	volume of dry divinity on he reading-desk
+1.0	it	sit by	volume of divinity
+0.8102011953185293	hour	clock of	neighbouring church
+1.0	clock	ring out	hour of twelve
+1.0	clock	ring out	hour
+1.0	it	sit by	volume on he reading-desk
+1.0	it	sit by	volume of dry divinity on he reading-desk
+1.0	it	sit by	fire
+1.0	it	sit close by	fire
+1.0	it	sit close by	volume of divinity
+0.8102011953185293	hour	clock of	church
+1.0	it	be	he custom
+1.0	it	sit close by	volume of dry divinity
+1.0	it	sit by	volume of divinity on he reading-desk
+1.0	fire	volume of	dry divinity
+1.0	it	sit close by	volume on he reading-desk
+1.0	he	however soon take up	candle
+1.0	he	take up	candle
+1.0	he	however as soon take up candle on	night
+1.0	he	go into	he business-room
+1.0	he	take up candle on	night
+1.0	he	as soon take up candle on	night
+1.0	he	however take up candle on	night
+1.0	he	however soon take up candle on	night
+1.0	he	soon take up	candle
+1.0	he	as soon take up	candle
+1.0	he	soon take up candle on	night
+1.0	he	however as soon take up	candle
+1.0	he	however take up	candle
+1.0	Dr. Jekyll	as	Will
+1.0	he	open	he safe
+1.0	he	sit down with	brow
+1.0	he	take from	most private part of it
+1.0	he	take from	part of it
+1.0	he	sit down with	clouded brow
+1.0	he	take from	most private part
+1.0	he	take from	private part
+1.0	he	take from	private part of it
+1.0	he	take from	part
+1.0	Jekyll	of possession be	he
+1.0	it	be	make
+1.0	it	be	now make
+0.7089008361308353	he	charge of	it
+1.0	Dr. Jekyll	in case of	disappearance for period exceed three calendar month
+1.0	least assistance	be in	making of it
+1.0	he	take	charge of it
+1.0	he	take charge	now make
+1.0	he	take	charge
+1.0	he	take charge	make
+1.0	document	be	have long lawyer 's eyesore
+1.0	document	be	have lawyer 's eyesore
+1.0	it	offend	he
+1.0	fanciful	be	immodest
+1.0	it	be	by turn he knowledge
+1.0	it	be	now by turn he knowledge
+1.0	it	be	now by sudden turn he knowledge
+1.0	it	be	he ignorance
+1.0	it	be	he knowledge
+1.0	it	be	hitherto he ignorance of Mr. Hyde
+1.0	it	be	by sudden turn he knowledge
+1.0	it	be	now he knowledge
+1.0	it	be	he ignorance of Mr. Hyde
+1.0	it	be	hitherto he ignorance
+1.0	it	begin	clothe with detestable attribute
+1.0	there	leap up	definite presentment of fiend
+1.0	there	leap up presentment out of	shift insubstantial mist
+1.0	it	be	clothe
+1.0	it	begin	clothe upon with attribute
+1.0	it	begin	clothe upon with detestable attribute
+1.0	there	leap up	presentment
+1.0	there	leap up presentment out of	mist
+1.0	it	be clothe with	attribute
+0.5921612513225103	there	definite presentment of	fiend
+1.0	it	be	worse
+1.0	there	leap up	sudden presentment of fiend
+0.5921612513225103	there	sudden presentment of	fiend
+1.0	there	leap up presentment out of	shift mist
+1.0	there	leap up	sudden presentment
+0.5921612513225103	there	presentment of	fiend
+1.0	it	begin	clothe upon
+1.0	it	begin	clothe with attribute
+1.0	there	leap up	sudden definite presentment
+0.24671771762940098	there	leap up out of	mist
+0.5921612513225103	there	sudden definite presentment of	fiend
+1.0	there	leap up	sudden definite presentment of fiend
+0.24671771762940098	there	leap up out of	insubstantial mist
+1.0	there	leap up	presentment of fiend
+0.24671771762940098	there	leap up out of	shift insubstantial mist
+1.0	there	leap up	definite presentment
+1.0	it	be	clothe upon
+1.0	it	be clothe upon with	detestable attribute
+0.24671771762940098	there	leap up out of	shift mist
+1.0	there	leap up presentment out of	insubstantial mist
+1.0	it	be clothe with	detestable attribute
+1.0	it	begin	clothe
+1.0	it	be clothe upon with	attribute
+1.0	he	replace paper in	the safe
+1.0	he	replace	paper
+1.0	he	replace paper in	the
+1.0	he	replace	obnoxious paper
+1.0	he	set forth in	direction
+1.0	he	blow out	he candle put on great-coat
+1.0	he	friend	great Dr. Lanyon
+1.0	he	blow out	he candle
+1.0	he	set forth in	direction of Cavendish Square
+1.0	he	set in	direction of Cavendish Square
+1.0	he	blow out	he candle put
+1.0	he	set in	direction
+1.0	solemn butler	welcome	he
+1.0	butler	welcome	he
+1.0	this	be	dapper
+1.0	hearty healthy dapper red-faced gentleman	be with	shock of hair prematurely white
+1.0	this	be	hearty
+1.0	this	be	healthy
+1.0	this	be	red-faced
+1.0	he	spring up from	he chair
+1.0	he	spring up at	sight
+1.0	he	spring up at	sight of Mr. Utterson
+1.0	lawyer	lead up after	little talk
+1.0	lawyer	lead after	talk
+1.0	lawyer	lead after	little rambling talk
+1.0	lawyer	lead up after	rambling talk
+1.0	lawyer	lead up after	little rambling talk
+1.0	lawyer	lead after	rambling talk
+1.0	lawyer	lead up after	talk
+1.0	lawyer	lead after	little talk
+1.0	friend	be	younger
+1.0	I	see	little of he
+1.0	I	see	little
+1.0	I	see now	little of he
+1.0	I	see now	little
+1.0	old sake	for	sake
+1.0	I	have see	devilish little of man
+1.0	I	see though	though course i continue
+1.0	he	begin	go
+1.0	I	have see	little of man
+1.0	interest	be in	he
+1.0	I	see though	though course i
+1.0	I	see	they say
+1.0	I	have see	devilish little
+1.0	I	have see	little
+1.0	he	go	wrong
+1.0	doctor	estrange	Pythias
+1.0	doctor	estrange	Damon
+1.0	little spirit	be of	somewhat relief
+1.0	temper	spirit of be	relief
+1.0	spirit	be of	somewhat relief to Mr. Utterson
+1.0	spirit	be of	somewhat relief
+1.0	little spirit	be of	relief to Mr. Utterson
+1.0	little spirit	be of	somewhat relief to Mr. Utterson
+1.0	spirit	be of	relief to Mr. Utterson
+1.0	temper	little spirit of be	somewhat relief
+1.0	temper	spirit of be	somewhat relief to Mr. Utterson
+1.0	temper	little spirit of be	relief
+1.0	little spirit	be of	relief
+1.0	temper	spirit of be	somewhat relief
+1.0	spirit	be of	relief
+1.0	temper	little spirit of be	relief to Mr. Utterson
+1.0	temper	little spirit of be	somewhat relief to Mr. Utterson
+1.0	temper	spirit of be	relief to Mr. Utterson
+1.0	it	be	nothing worse than that
+1.0	scientific passion	be in	except matter of conveyancing
+1.0	it	be	nothing
+1.0	it	be	nothing worse
+1.0	he	give	he friend
+1.0	he	have come	put
+1.0	he	toss	until hour of morning begin
+1.0	he	begin until	small hour of morning
+1.0	he	toss	until small hour begin
+1.0	lawyer	carry back to	bed
+1.0	lawyer	carry back to	great bed
+1.0	he	toss	until hour begin
+1.0	he	toss	until small hour of morning begin
+1.0	he	begin until	hour of morning
+1.0	lawyer	carry back to	dark bed
+1.0	he	begin	grow
+1.0	lawyer	carry back to	great dark bed
+1.0	he	begin until	hour
+1.0	he	toss	begin
+1.0	he	begin until	small hour
+1.0	it	be	night
+1.0	night	toiling in	mere darkness
+1.0	it	be night of	little ease
+1.0	it	be night of	ease to he toiling mind
+1.0	it	be night of	little ease to he toiling mind
+1.0	little ease	of night be	toiling in mere darkness
+1.0	toiling	be in	mere darkness
+1.0	it	be night of	ease
+1.0	six	o'clock strike on	bell of church
+1.0	he	be digging at	problem
+1.0	he	be	still digging
+1.0	six	o'clock strike on	bell
+1.0	he	be	digging
+1.0	six	strike on	bell of church
+1.0	he	still be digging at	problem
+1.0	six	strike on	bell
+1.0	he	would	would aware
+1.0	he friend	lay asleep	dream
+1.0	he	would see	room
+1.0	door	would	would open
+1.0	he friend	lay	dream
+1.0	he friend	lay	dream at he dream
+1.0	he friend	dream at	he dream
+1.0	he	else would see	room
+1.0	he friend	lay asleep	dream at he dream
+1.0	room	be in	rich house
+1.0	he	must rise at	dead hour
+1.0	he	do	its bidding
+1.0	he	must rise at	even dead hour
+0.0025671451558210157	there	would stand by	he side
+1.0	he	must rise at	even hour
+1.0	he	must rise at	hour
+1.0	he	doze over at	time
+1.0	figure	be in	two phase
+1.0	lawyer	in	mind
+1.0	he	could once set	eye
+1.0	he	could once set eye on	he
+1.0	he	could set	eye
+1.0	he	could set eye on	he

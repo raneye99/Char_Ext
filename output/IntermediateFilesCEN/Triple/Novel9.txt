@@ -1,0 +1,1480 @@
+1.0	prettiest little out-of-the-way watering-place	be in	whole smile southern slope of county of Devon
+1.0	Great Western Railway	plan	its devastation along region of South Hams
+1.0	Great Western Railway	plan	its devastation along beautiful region of South Hams
+1.0	Great Western Railway	thank	heaven
+1.0	ancient stone pier	be in	early morning
+1.0	Great Western Railway	plan	its organised devastation along rural region
+1.0	Great Western Railway	leave	calcombe
+1.0	Great Western Railway	plan	its organised devastation along region
+1.0	Great Western Railway	plan	its devastation along beautiful rural region of South Hams
+0.8665520333319773	parade	uninvaded by	stucco terrace
+1.0	swimmer	may take	header direct
+1.0	Great Western Railway	plan	its devastation
+1.0	Great Western Railway	plan	its organised devastation along beautiful region
+1.0	Great Western Railway	plan	its organised devastation along region of South Hams
+1.0	Great Western Railway	plan	its organised devastation along rural region of South Hams
+1.0	Great Western Railway	plan	its devastation along rural region
+1.0	Great Western Railway	plan	its devastation along beautiful rural region
+1.0	Great Western Railway	plan	its devastation along region
+1.0	Great Western Railway	plan	its organised devastation along beautiful rural region of South Hams
+1.0	Great Western Railway	plan	its devastation along beautiful region
+1.0	Great Western Railway	plan	its organised devastation
+0.8512617884829506	beach	unspoiled by	goat-carriage
+1.0	Great Western Railway	plan	its organised devastation along beautiful region of South Hams
+1.0	Great Western Railway	plan	its devastation along rural region of South Hams
+1.0	Great Western Railway	plan	its organised devastation along beautiful rural region
+0.8665520333319773	tiny parade	uninvaded by	stucco terrace
+1.0	swimmer	may take	direct
+1.0	superannuated official	retain sinecure with	hypothetical salary payable from fee
+0.5337602927247027	board	sign to	he Majesty King William
+1.0	superannuated official	retain	sinecure of harbour-mastership
+1.0	superannuated official	retain sinecure with	hypothetical salary nominally payable from fee
+1.0	official	retain	sinecure
+1.0	official	retain sinecure with	hypothetical salary payable from fee
+1.0	official	retain sinecure with	hypothetical salary payable
+1.0	superannuated official	retain sinecure with	hypothetical salary payable from non-existent fee
+0.5337602927247027	board	sign by	Secretary State
+1.0	superannuated official	retain sinecure with	hypothetical salary nominally payable from non-existent fee
+1.0	official	retain	sinecure of harbour-mastership
+1.0	superannuated official	retain sinecure with	hypothetical salary
+1.0	official	retain sinecure with	hypothetical salary
+0.5337602927247027	board	sign by	Secretary
+1.0	official	retain	honourable sinecure of harbour-mastership
+1.0	official	retain sinecure with	hypothetical salary nominally payable from non-existent fee
+1.0	official	retain	honourable sinecure
+1.0	official	retain sinecure with	hypothetical salary nominally payable
+0.7975446991389029	official	sinecure of	harbour-mastership
+0.7975446991389029	superannuated official	honourable sinecure of	harbour-mastership
+0.7975446991389029	official	honourable sinecure of	harbour-mastership
+0.7975446991389029	superannuated official	sinecure of	harbour-mastership
+1.0	official	retain sinecure with	hypothetical salary payable from non-existent fee
+1.0	superannuated official	retain sinecure with	hypothetical salary nominally payable
+1.0	official	retain sinecure with	hypothetical salary nominally payable from fee
+1.0	superannuated official	retain	honourable sinecure
+1.0	superannuated official	retain sinecure with	hypothetical salary payable
+1.0	superannuated official	retain	honourable sinecure of harbour-mastership
+1.0	superannuated official	be in	wooden leg
+0.5337602927247027	board	sign to	he late Majesty King William
+1.0	superannuated official	retain	sinecure
+1.0	river Cale	cut	valley
+1.0	river Cale	cut	deep valley in sandstone hill
+1.0	river Cale	nestle at	bottom of whose combe
+0.8804106842536603	room	gap in	cliff form
+1.0	little river Cale	cut	itself
+1.0	river Cale	cut	itself
+1.0	wee town	nestle snugly at	bottom of whose combe
+1.0	little river Cale	cut	deep valley
+1.0	little river Cale	cut	valley
+1.0	river Cale	nestle snugly at	bottom
+1.0	gap	be in	cliff form by its mouth
+1.0	river Cale	cut	valley in sandstone hill
+1.0	deep valley	be in	soft sandstone hill
+1.0	wee town	nestle at	bottom
+1.0	little river Cale	cut	deep valley in soft sandstone hill
+1.0	little river Cale	cut	deep valley in sandstone hill
+1.0	river Cale	nestle at	bottom
+0.8804106842536603	room	gap in	cliff
+1.0	little river Cale	nestle snugly at	bottom
+1.0	little river Cale	cut	valley in soft sandstone hill
+1.0	little river Cale	cut	valley in sandstone hill
+1.0	river Cale	cut	deep valley
+1.0	wee town	nestle at	bottom of whose combe
+1.0	river Cale	nestle snugly at	bottom of whose combe
+1.0	river Cale	cut	deep valley in soft sandstone hill
+0.8804106842536603	room	gap in	cliff form by its mouth
+1.0	little river Cale	nestle snugly at	bottom of whose combe
+1.0	little river Cale	nestle at	bottom of whose combe
+1.0	little river Cale	nestle at	bottom
+1.0	wee town	nestle snugly at	bottom
+1.0	river Cale	cut	valley in soft sandstone hill
+1.0	sheeny rock	gleam like	satin
+1.0	sheeny rock	gleam like	water satin
+1.0	sheeny grey rock	gleam like	water satin
+1.0	rock	gleam like	water satin in slant ray
+1.0	water satin	be in	slant ray of afternoon sun
+1.0	sheeny grey rock	gleam like	water satin in slant ray
+1.0	grey rock	gleam like	satin in slant ray
+1.0	sheeny rock	gleam like	water satin in slant ray
+1.0	sheeny grey rock	gleam like	satin in slant ray
+1.0	rock	gleam like	satin in slant ray of afternoon sun
+1.0	grey rock	gleam like	satin in slant ray of afternoon sun
+1.0	sheeny rock	gleam like	satin in slant ray of afternoon sun
+1.0	grey rock	gleam like	water satin in slant ray of afternoon sun
+1.0	rock	gleam like	satin
+1.0	sheeny rock	gleam like	water satin in slant ray of afternoon sun
+1.0	sheeny grey rock	gleam like	water satin in slant ray of afternoon sun
+1.0	sheeny grey rock	gleam like	satin in slant ray of afternoon sun
+1.0	grey rock	gleam like	satin
+1.0	sheeny rock	gleam like	satin in slant ray
+1.0	grey rock	gleam like	water satin in slant ray
+1.0	rock	gleam like	water satin in slant ray of afternoon sun
+1.0	rock	gleam like	water satin
+1.0	grey rock	gleam like	water satin
+1.0	rock	gleam like	satin in slant ray
+1.0	sheeny grey rock	gleam like	satin
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for peace-loving people
+1.0	old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet peace-loving old-world people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by overrule chance summer retreat
+1.0	place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet peace-loving old-world people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet peace-loving old-world people
+1.0	old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve
+1.0	little old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat
+1.0	place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet peace-loving people
+1.0	old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for peace-loving old-world people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet peace-loving old-world people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for old-world people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet peace-loving old-world people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for peace-loving old-world people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat
+1.0	sleepy place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for peace-loving old-world people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet old-world people
+1.0	old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet old-world people
+1.0	place	be	Calcombe Pomeroy reserve by chance summer retreat for old-world people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by chance summer retreat for peace-loving old-world people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for peace-loving old-world people
+1.0	sleepy place	be	Calcombe Pomeroy reserve
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet old-world people
+1.0	place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for people
+1.0	place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet old-world people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for peace-loving old-world people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet peace-loving old-world people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for peace-loving old-world people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for peace-loving old-world people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by chance summer retreat for peace-loving people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet old-world people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for old-world people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet peace-loving old-world people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet peace-loving people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy
+1.0	old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for old-world people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet peace-loving old-world people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet peace-loving people
+1.0	old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet peace-loving people
+1.0	place	be	Calcombe Pomeroy reserve by chance summer retreat for peace-loving old-world people
+1.0	old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet old-world people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet peace-loving old-world people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet peace-loving old-world people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for old-world people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet old-world people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet peace-loving people
+1.0	place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for peace-loving people
+1.0	old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for peace-loving old-world people
+1.0	little old-world place	be	Calcombe Pomeroy
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat
+1.0	little old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet old-world people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet peace-loving people
+1.0	place	be	Calcombe Pomeroy reserve by chance summer retreat for people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by chance summer retreat
+1.0	place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for peace-loving people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for old-world people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by chance summer retreat
+1.0	little place	be	Calcombe Pomeroy reserve by chance summer retreat
+1.0	little old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet peace-loving old-world people
+1.0	old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for people
+1.0	place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for old-world people
+1.0	place	be	Calcombe Pomeroy reserve by chance of universe summer retreat
+1.0	little old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for old-world people
+1.0	little place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet old-world people
+1.0	old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat
+1.0	old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for peace-loving old-world people
+1.0	place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet peace-loving people
+1.0	place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet peace-loving old-world people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for old-world people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet peace-loving people
+1.0	place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat
+1.0	old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat
+1.0	little place	be	Calcombe Pomeroy reserve by chance summer retreat for people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for peace-loving people
+1.0	little place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for peace-loving people
+1.0	old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet people
+1.0	little place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet people
+1.0	old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for peace-loving old-world people
+1.0	place	be	Calcombe Pomeroy reserve by overrule chance summer retreat
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for old-world people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet old-world people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by chance summer retreat
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet peace-loving old-world people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet peace-loving people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by chance of universe summer retreat
+1.0	old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for old-world people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for peace-loving people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for peace-loving old-world people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet peace-loving people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by chance summer retreat for people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for old-world people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for old-world people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for peace-loving people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for peace-loving people
+1.0	place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for peace-loving old-world people
+1.0	little place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet peace-loving old-world people
+1.0	place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet peace-loving people
+1.0	little place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet peace-loving people
+1.0	old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for old-world people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for old-world people
+1.0	place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for peace-loving old-world people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for peace-loving people
+1.0	little place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for old-world people
+1.0	place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet old-world people
+1.0	old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for peace-loving people
+1.0	little place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet old-world people
+1.0	little place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet peace-loving old-world people
+1.0	old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet peace-loving people
+1.0	place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet old-world people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for peace-loving people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for peace-loving people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for peace-loving people
+1.0	old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for old-world people
+1.0	little place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet old-world people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet old-world people
+1.0	little place	be	Calcombe Pomeroy reserve by chance summer retreat for peace-loving old-world people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for people
+1.0	place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for old-world people
+1.0	little place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet peace-loving old-world people
+1.0	place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve
+1.0	little old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for peace-loving old-world people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve
+1.0	little old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet peace-loving old-world people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet peace-loving old-world people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet old-world people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for peace-loving people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet people
+1.0	little place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet peace-loving people
+1.0	little place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for old-world people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for peace-loving people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet old-world people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for peace-loving old-world people
+1.0	old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet old-world people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for old-world people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for people
+1.0	sleepy place	be	Calcombe Pomeroy
+1.0	sleepy place	be	Calcombe Pomeroy reserve by chance summer retreat for peace-loving old-world people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet old-world people
+1.0	place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for people
+1.0	place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for peace-loving old-world people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet peace-loving old-world people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet peace-loving people
+1.0	place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat
+1.0	old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet peace-loving people
+1.0	little place	be	Calcombe Pomeroy reserve by chance summer retreat for old-world people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for people
+1.0	old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for peace-loving people
+1.0	place	be	Calcombe Pomeroy
+1.0	place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet peace-loving old-world people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet old-world people
+1.0	little place	be	Calcombe Pomeroy reserve by chance summer retreat for peace-loving people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet old-world people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for old-world people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for people
+1.0	old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet peace-loving old-world people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet peace-loving people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for peace-loving old-world people
+1.0	little place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet old-world people
+1.0	old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet people
+1.0	place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet peace-loving people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet peace-loving people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet people
+1.0	little place	be	Calcombe Pomeroy reserve by overrule chance summer retreat
+1.0	sleepy place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for people
+1.0	little place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for peace-loving people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for peace-loving old-world people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet peace-loving people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet peace-loving old-world people
+1.0	little place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for people
+1.0	old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet old-world people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for peace-loving people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet peace-loving old-world people
+1.0	old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet peace-loving old-world people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat
+1.0	old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for peace-loving people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by chance summer retreat for old-world people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet peace-loving people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by chance summer retreat
+1.0	sleepy place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for peace-loving old-world people
+1.0	little place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for people
+1.0	little place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for old-world people
+1.0	little place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet peace-loving old-world people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet people
+1.0	old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet peace-loving old-world people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for peace-loving people
+1.0	place	be	Calcombe Pomeroy reserve
+1.0	little old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet people
+1.0	little place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for peace-loving people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for old-world people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet peace-loving old-world people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for old-world people
+1.0	little place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for peace-loving people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by chance summer retreat for old-world people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet peace-loving people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet peace-loving old-world people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by chance of universe summer retreat
+1.0	little old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet old-world people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet peace-loving people
+1.0	old-world place	be	Calcombe Pomeroy reserve by chance summer retreat
+1.0	sleepy little place	be	Calcombe Pomeroy
+1.0	sleepy old-world place	be	Calcombe Pomeroy
+1.0	little place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for peace-loving people
+1.0	place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for old-world people
+1.0	little place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for peace-loving old-world people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet peace-loving old-world people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for people
+1.0	old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for people
+1.0	little place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for peace-loving people
+1.0	little place	be	Calcombe Pomeroy reserve by chance of universe summer retreat
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet old-world people
+1.0	place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet peace-loving old-world people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for peace-loving people
+1.0	little place	be	Calcombe Pomeroy
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet old-world people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by chance summer retreat for peace-loving people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for peace-loving old-world people
+1.0	little place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet old-world people
+1.0	old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet peace-loving people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet peace-loving old-world people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by overrule chance summer retreat
+1.0	place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for old-world people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet peace-loving people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for peace-loving people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet old-world people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat
+1.0	sleepy place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for people
+1.0	old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet peace-loving old-world people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet old-world people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for people
+1.0	little place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for peace-loving old-world people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet peace-loving people
+1.0	old-world place	be	Calcombe Pomeroy
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet peace-loving people
+1.0	little place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet peace-loving people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet peace-loving people
+1.0	old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for peace-loving people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for people
+1.0	old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for peace-loving old-world people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for old-world people
+1.0	place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for old-world people
+1.0	sleepy place	be	Calcombe Pomeroy reserve by chance summer retreat for people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet old-world people
+1.0	old-world place	be	Calcombe Pomeroy reserve
+1.0	place	be	Calcombe Pomeroy reserve by chance summer retreat
+1.0	place	be	Calcombe Pomeroy reserve by chance summer retreat for peace-loving people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat
+1.0	little place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for peace-loving old-world people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by chance summer retreat
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for peace-loving old-world people
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for peace-loving old-world people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet peace-loving people
+1.0	little place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet peace-loving people
+1.0	little place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat
+1.0	sleepy little place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for old-world people
+1.0	little place	be	Calcombe Pomeroy reserve
+1.0	sleepy place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for quiet old-world people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for quiet people
+1.0	place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for peace-loving old-world people
+1.0	little old-world place	be	Calcombe Pomeroy reserve
+1.0	old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet peace-loving people
+1.0	sleepy little old-world place	be	Calcombe Pomeroy reserve by overrule chance of universe summer retreat for quiet people
+1.0	little old-world place	be	Calcombe Pomeroy reserve by chance summer retreat for people
+1.0	place	be	Calcombe Pomeroy reserve by chance of universe summer retreat for peace-loving people
+1.0	old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for people
+1.0	place	be	Calcombe Pomeroy reserve by chance summer retreat for quiet old-world people
+1.0	sleepy old-world place	be	Calcombe Pomeroy reserve by overrule chance summer retreat for peace-loving old-world people
+1.0	Calcombe Road Station	mile by	cross-country highway
+1.0	Calcombe Road Station	mile from	he final destination
+1.0	great teem human ant-hill	be with	its dark foggy lane hang
+0.5683165343869926	grey box	describe as	commodious omnibus
+1.0	box	jolt with	hot drag
+1.0	jolt	be with	red hot drag creak lugubriously
+1.0	it	seem	topple over sheer
+0.5683165343869926	little box	describe in	time-table
+1.0	box	jolt down	swiftly six mile
+1.0	it	topple into	sea at High Street of borough
+0.5683165343869926	little grey box	describe as	omnibus
+1.0	it	topple into	sea at clamber High Street
+0.5683165343869926	little box	describe as	omnibus
+1.0	box	jolt with	red drag creak lugubriously
+1.0	box	jolt down	six mile
+1.0	it	seem	topple into sea at clamber High Street of old borough
+1.0	it	topple over	sheer
+1.0	it	seem	topple
+0.5683165343869926	grey box	describe in	time-table
+1.0	it	seem	topple over sheer into sea at High Street of borough
+0.5683165343869926	box	describe in	time-table
+1.0	box	jolt with	hot drag creak
+1.0	box	jolt with	red drag creak
+1.0	it	seem	topple into sea at clamber High Street of borough
+1.0	it	seem	topple over sheer into sea at clamber High Street of borough
+0.5683165343869926	little grey box	describe as	commodious omnibus
+1.0	box	jolt with	drag creak
+1.0	box	jolt with	drag
+1.0	it	topple into	sea
+1.0	it	seem	topple into sea
+1.0	box	jolt with	drag creak lugubriously
+1.0	it	topple into	sea at clamber High Street of borough
+1.0	it	seem	topple over sheer into sea at clamber High Street
+1.0	box	jolt with	red drag
+1.0	it	seem	topple into sea at High Street
+1.0	it	seem	topple into sea at clamber High Street
+1.0	it	topple into	sea at High Street
+1.0	box	jolt with	red hot drag
+0.5683165343869926	little grey box	describe in	time-table
+0.5683165343869926	little box	describe as	commodious omnibus
+1.0	box	jolt with	hot drag creak lugubriously
+1.0	it	seem	topple over sheer into sea at High Street
+1.0	it	seem	topple into sea at High Street of old borough
+1.0	it	seem	topple over sheer into sea at High Street of old borough
+1.0	it	seem	topple into sea at High Street of borough
+0.5683165343869926	box	describe as	omnibus
+0.5683165343869926	grey box	describe as	omnibus
+1.0	it	seem	topple over sheer into sea
+1.0	box	jolt down	other six mile
+1.0	box	jolt with	red hot drag creak
+1.0	it	topple into	sea at High Street of old borough
+1.0	box	jolt with	red hot drag creak lugubriously
+1.0	box	jolt down	swiftly other six mile
+1.0	it	topple into	sea at clamber High Street of old borough
+1.0	box	jolt	it seem
+0.5683165343869926	box	describe as	commodious omnibus
+1.0	it	seem	topple over sheer into sea at clamber High Street of old borough
+1.0	you	leave	England
+1.0	you	descend	seaward slope
+1.0	you	leave	modern England
+1.0	you	turn on	southern front
+1.0	you	cut off from	outer world
+1.0	you	turn on	only southern front
+1.0	you	leave century on	north
+0.105033475385929	you	turn	descend at Cross Foxes
+1.0	you	go into	little isolated primaeval dale
+1.0	you	go into	isolated dale
+1.0	you	leave england on	north
+1.0	you	go into	little isolated dale
+1.0	you	descend seaward slope at	Cross Foxes
+1.0	you	turn towards	Channel
+1.0	you	turn towards	open Channel
+1.0	you	leave century behind	you
+1.0	you	leave	century
+1.0	you	leave	industrial England
+1.0	you	leave	nineteenth century
+1.0	you	leave england behind	well you
+1.0	you	go into	dale
+1.0	you	leave century behind	well you
+1.0	you	go into	little primaeval dale
+1.0	you	turn on	only front
+0.105033475385929	you	turn	descend
+1.0	you	leave	modern industrial England
+1.0	you	go into	isolated primaeval dale
+0.105033475385929	you	descend at	Cross Foxes
+1.0	you	go into	primaeval dale
+1.0	you	go into	little dale
+1.0	you	leave england behind	you
+1.0	you	turn on	front
+1.0	shop	bear	signboard
+1.0	small shop	bear	signboard with paint legend
+1.0	you	pass	big russet church
+1.0	you	just pass	big russet church
+1.0	shop	bear	signboard with legend
+1.0	you	just pass	russet church
+1.0	you	just pass	dull russet church
+0.8968684726583268	signboard	shop on	side
+1.0	you	pass	russet church
+0.8968684726583268	signboard	small shop on	side
+1.0	small shop	bear	signboard with legend
+0.8968684726583268	signboard	small shop on	left-hand side
+0.8968684726583268	signboard	shop on	left-hand side
+1.0	small shop	bear	signboard
+1.0	you	pass	big dull russet church
+1.0	shop	bear	signboard with paint legend
+1.0	you	pass	dull russet church
+1.0	signboard	be with	paint legend
+1.0	you	just pass	big dull russet church
+1.0	Lecturer	keep	he oak writing-desk
+0.010717726303177022	he	might	might see during long vacation after end
+1.0	Max Schurz	to	Sunday evening reception
+0.010717726303177022	he	might	at desk might see during long vacation after end of he three week ' stay at London west-end lodging-house
+0.010717726303177022	he	might	might see after end of he three week ' stay at London west-end lodging-house
+0.010717726303177022	he	might	might see during vacation
+1.0	he	have pay	he visit to Max Schurz 's Sunday evening reception
+0.010717726303177022	he	might	might see during vacation after end of he three week ' stay
+0.010717726303177022	he	might	at desk might see during long vacation after end of he three week ' stay
+1.0	he	have pay	he first visit to Max Schurz 's Sunday evening reception
+0.010717726303177022	he	might	at desk might see after end of he three week ' stay at London west-end lodging-house
+0.6472115558665881	he big oak writing-desk	lecturer of	Oxford
+0.010717726303177022	he	might	might see during long vacation after end of he three week ' stay
+0.010717726303177022	he	might	might see after end
+0.010717726303177022	he	might	at desk might see during vacation after end
+0.010717726303177022	he	might	might see after end of he three week ' stay
+0.9718851097233115	he	reading on	morning
+0.9718851097233115	he	reading on	most morning
+0.010717726303177022	he	might	might see during long vacation after end of he three week ' stay at London west-end lodging-house
+0.6472115558665881	he oak writing-desk	lecturer of	Oxford
+0.6472115558665881	he big oak writing-desk	lecturer of	Oriel College
+1.0	Harry Oswald	keep	he big oak writing-desk
+0.010717726303177022	he	might	at desk might see during vacation after end of he three week ' stay at London west-end lodging-house
+1.0	Harry Oswald	keep	he oak writing-desk
+0.010717726303177022	he	might	at desk might see during vacation
+1.0	Fellow	keep	he big oak writing-desk
+0.010717726303177022	he	might	at desk might see
+1.0	Fellow	keep	he oak writing-desk
+1.0	he	have pay	he visit
+0.010717726303177022	he	might	at desk might see during long vacation
+0.010717726303177022	he	might	at desk might see after end of he three week ' stay
+0.010717726303177022	he	might	might see during vacation after end of he three week ' stay at London west-end lodging-house
+1.0	he	have pay	he first visit
+0.010717726303177022	he	might	at desk might see during vacation after end of he three week ' stay
+0.6472115558665881	he oak writing-desk	lecturer of	Oriel College
+0.010717726303177022	he	might	might see
+0.010717726303177022	he	might	at desk might see during long vacation after end
+0.010717726303177022	he	might	might see during vacation after end
+1.0	Lecturer	keep	he big oak writing-desk
+0.010717726303177022	he	might	might see during long vacation
+0.010717726303177022	he	might	at desk might see after end
+1.0	palsied old lady	be with	quaver voice
+1.0	shaky Miss Luttrell	lady with	quaver voice
+1.0	Squire	have	sister
+1.0	shaky Miss Luttrell	sister 's	Squire
+1.0	I	see	man
+1.0	I	see	tall man
+1.0	I	see	young man
+1.0	I	see	tall young man
+1.0	you son	come	home from sea
+1.0	you son	come	home
+1.0	he	be in	line
+1.0	he	be in	fish-curing line
+1.0	Miss Luttrell	wag	she old head
+1.0	Miss Luttrell	chime on	vacantly
+1.0	Miss Luttrell	wag	she wrinkled head
+1.0	Miss Luttrell	wag	she wrinkled old head
+1.0	Miss Luttrell	wag	she head
+1.0	they	might	might have bold enough
+1.0	step	be in	advance
+1.0	they	might	might have bold
+0.631947881500829	Fellow	be	he
+0.631947881500829	Fellow	be	he really
+1.0	Oxford	how completely be go to	dog
+1.0	Oxford	be go to	dog
+1.0	Oxford	completely be go to	dog
+1.0	I	admit	kind of odd people
+1.0	my brother	be fellow for	time
+1.0	my brother	be	why Fellow of Magdalen for time in he younger day
+1.0	my second brother	be fellow for	time
+1.0	my brother	be fellow of	Magdalen
+1.0	my second brother	be	why Fellow of Magdalen for time in he day
+1.0	my brother	be	why Fellow for time in he younger day
+1.0	my second brother	be	Fellow of Magdalen for time in he younger day
+1.0	my second brother	be	why Fellow of Magdalen for time in he younger day
+1.0	my second brother	be	why Fellow for time in he day
+1.0	my brother	be	Fellow of Magdalen for time in he day
+1.0	my brother	be	why Fellow
+1.0	my second brother	be	why Fellow
+1.0	my second brother	be	why Fellow of Magdalen for time
+1.0	my second brother	be	why Fellow of Magdalen
+1.0	time	be in	he younger day
+1.0	my second brother	be	Fellow of Magdalen for time
+1.0	my second brother	be fellow of	Magdalen
+1.0	my brother	be	why Fellow for time
+1.0	my brother	be	Fellow
+1.0	my brother	be fellow for	time in he day
+1.0	my second brother	be fellow for	time in he younger day
+1.0	my brother	be	why Fellow of Magdalen for time
+1.0	my second brother	be	why Fellow for time
+1.0	my second brother	be	why Fellow for time in he younger day
+1.0	my second brother	be	Fellow
+1.0	my brother	be	Fellow of Magdalen for time
+1.0	my second brother	be	Fellow of Magdalen for time in he day
+1.0	my second brother	be fellow for	time in he day
+1.0	my brother	be	Fellow of Magdalen for time in he younger day
+1.0	my brother	be	why Fellow of Magdalen
+1.0	my brother	be fellow for	time in he younger day
+1.0	my brother	be	why Fellow of Magdalen for time in he day
+1.0	my brother	be	why Fellow for time in he day
+1.0	you	surprise	I
+1.0	you	surprise quite	I
+1.0	he	be	National
+1.0	he	be	scholar first
+1.0	he	be scholar first of	Trinity
+1.0	he	be get	Fellowship
+1.0	he	be	scholar
+1.0	he	now be get	Fellowship
+1.0	he	be get	Fellowship at Oriel
+1.0	he	be scholar of	Trinity
+0.6896701003757448	he	fellowship at	Oriel
+1.0	he	now be get	Fellowship at Oriel
+1.0	you	hear	all about it
+1.0	you	only get	so forgetful
+1.0	you	only get	forgetful
+1.0	you	hear	all
+1.0	you	get	so forgetful
+1.0	you	only get with	year
+1.0	you	get with	year
+1.0	you	get	forgetful
+1.0	she	take	she revenge
+1.0	scholar	be	he
+1.0	ah	will do	deal
+1.0	ah	will do deal in	day
+1.0	ah	will do	great deal
+1.0	ah	will do deal for	certain
+1.0	Rector	take	interest
+1.0	Rector	take	wonderful interest
+1.0	Rector	take	interest in you boy
+1.0	Rector	take	wonderful interest in you boy
+1.0	Rector	take	Mrs. Oswald
+1.0	wonderful interest	be in	you boy
+1.0	I	there dare	hard-working lad
+1.0	he	encourage	man of character
+1.0	I	there dare	decent hard-working lad
+1.0	he	encourage	man of respectable character
+1.0	I	get send with	sizarship
+1.0	I	dare	decent hard-working lad
+1.0	I	get	send to Oxford with sizarship
+1.0	I	there dare	lad
+1.0	he	encourage	man
+1.0	he	encourage	poor young man
+1.0	he	encourage	poor man of respectable character
+1.0	I	dare	decent lad
+1.0	I	there dare	decent lad
+1.0	he	encourage	poor young man of respectable character
+1.0	I	dare	lad
+1.0	I	dare	hard-working lad
+1.0	he	encourage	poor man of character
+1.0	he	attract	attention
+1.0	I	get send to	Oxford
+1.0	he	encourage	young man of respectable character
+1.0	I	get	send
+1.0	he	encourage	young man
+1.0	he	encourage	young man of character
+1.0	he	encourage	poor man
+1.0	he	encourage	poor young man of character
+1.0	they	often get	salary
+1.0	they	consider	everything
+1.0	they	often get	very good salary
+1.0	they	become in	end
+1.0	they	get	good salary
+1.0	they	get	very good salary
+1.0	they	get	salary
+1.0	they	become	missionary
+1.0	they	often get	good salary
+1.0	I	be	tell
+0.7950492542998631	he	exhibition from	school
+1.0	Lord Modbury	through	influence
+1.0	he	get	exhibition
+1.0	he	get	exhibition from school
+1.0	I	think at	college
+1.0	I	work	he way
+1.0	son	have	very worthy young man
+1.0	baker	have	wife
+1.0	bank clerk	be in	London
+1.0	you	marry	you girl
+1.0	they	keep up	pretty household
+1.0	you daughter	throw upon	you hand
+1.0	they	keep up	pretty household for they wife
+1.0	they child	throw	again penniless
+1.0	they	rob	they employer
+1.0	they child	throw back upon	you hand
+1.0	they child	throw back	penniless
+1.0	they child	throw upon	you hand
+1.0	you daughter	throw	again penniless
+1.0	they	be	fine lady
+1.0	they	be	lady
+1.0	they child	throw back	again penniless
+1.0	you daughter	throw	penniless
+1.0	they	keep up	household
+1.0	they child	throw	penniless
+1.0	you daughter	throw back upon	you hand
+1.0	you daughter	throw back	penniless
+1.0	you daughter	throw back	again penniless
+1.0	they	keep up	household for they wife
+0.633593924617174	I	say to	she
+1.0	name	have	Jemima
+1.0	it	be	Edith
+1.0	Edith	be	it
+1.0	it	be good enough for	I
+1.0	name	have	plain Catherine
+1.0	it	be good for	I
+1.0	it	be	good
+1.0	it	be	good enough
+1.0	they	be princess of	blood
+1.0	they	be	princess of blood like they grandmother before they
+1.0	lady	all kind	princess
+1.0	they	be	good Christian Susans
+1.0	they	be	princess of blood like they grandmother
+1.0	lady	all heathenish kind	princess before they
+1.0	they	be	princess like they grandmother before they
+1.0	young lady	all heathenish kind	princess like they grandmother
+1.0	they	be princess like	they grandmother
+1.0	young lady	all kind	princess like they grandmother
+1.0	young lady	all kind	princess
+1.0	lady	all kind	princess like they grandmother before they
+1.0	lady	all kind	princess like they grandmother
+1.0	young lady	all kind	princess before they
+1.0	lady	all heathenish kind	princess like they grandmother
+1.0	lady	all kind	princess before they
+1.0	they	be	Christian Susans
+1.0	they	be	princess
+1.0	lady	all heathenish kind	princess like they grandmother before they
+1.0	young lady	all kind	princess like they grandmother before they
+1.0	young lady	all heathenish kind	princess
+1.0	lady	all heathenish kind	princess
+1.0	they	be princess before	they
+1.0	they	be	princess of blood before they
+1.0	she	would much better stop at	home
+1.0	she	would better stop at	home
+1.0	she	learn	she catechism
+1.0	she	would stop at	home
+1.0	heaven	bless	girl
+1.0	she own rank	be in	society
+1.0	Providence	call	she
+1.0	it	have please	Providence
+1.0	she	do	she duty
+1.0	Miss Luttrell	be	duly assist by page-boy into she shambling donkey-chair
+1.0	Miss Luttrell	be duly assist into	she donkey-chair
+1.0	Miss Luttrell	be assist into	she shambling donkey-chair
+1.0	Miss Luttrell	be assist into	she little palsied donkey-chair
+1.0	Miss Luttrell	be duly assist into	she shambling little palsied donkey-chair
+1.0	Edith	about	project visit
+1.0	Miss Luttrell	be	duly assist by page-boy into she shambling palsied donkey-chair
+1.0	Miss Luttrell	be duly assist into	she little palsied donkey-chair
+1.0	Miss Luttrell	be duly assist into	she shambling little donkey-chair
+1.0	Miss Luttrell	be assist into	she shambling little palsied donkey-chair
+1.0	confirmation	be sole object of	she colloquy
+1.0	Miss Luttrell	wag successfully	she way
+1.0	Miss Luttrell	have discover	truth
+1.0	Miss Luttrell	be assist into	she shambling little donkey-chair
+1.0	Miss Luttrell	be	assist by page-boy into she shambling little palsied donkey-chair
+1.0	Miss Luttrell	be	assist by page-boy into she palsied donkey-chair
+1.0	Miss Luttrell	be assist into	she shambling palsied donkey-chair
+1.0	Miss Luttrell	be duly assist into	she little donkey-chair
+1.0	Miss Luttrell	be	duly assist by page-boy into she little donkey-chair
+1.0	Miss Luttrell	be	duly assist by page-boy into she shambling little donkey-chair
+1.0	Miss Luttrell	be	duly assist by page-boy into she little palsied donkey-chair
+1.0	confirmation	be	object
+1.0	Miss Luttrell	be	assist by page-boy into she shambling little donkey-chair
+1.0	Miss Luttrell	be assist by	page-boy
+1.0	Miss Luttrell	be assist into	she donkey-chair
+1.0	Miss Luttrell	wag again successfully	she way
+1.0	Miss Luttrell	be duly assist by	page-boy
+1.0	Miss Luttrell	wag	she way
+1.0	Miss Luttrell	be	duly assist by page-boy into she palsied donkey-chair
+1.0	confirmation	be	sole object
+1.0	Miss Luttrell	be assist into	she palsied donkey-chair
+1.0	Miss Luttrell	be	assist
+1.0	Miss Luttrell	be	assist by page-boy into she little palsied donkey-chair
+1.0	Miss Luttrell	be	assist by page-boy into she shambling donkey-chair
+1.0	Miss Luttrell	be	duly assist by page-boy into she shambling little palsied donkey-chair
+1.0	confirmation	be object of	she colloquy
+1.0	Miss Luttrell	be	assist by page-boy into she little donkey-chair
+1.0	Miss Luttrell	be	assist by page-boy into she donkey-chair
+1.0	Miss Luttrell	be	duly assist
+1.0	Miss Luttrell	be	assist by page-boy into she shambling palsied donkey-chair
+1.0	Miss Luttrell	be duly assist into	she shambling palsied donkey-chair
+1.0	Miss Luttrell	be duly assist into	she palsied donkey-chair
+1.0	Miss Luttrell	be	duly assist by page-boy into she donkey-chair
+1.0	Miss Luttrell	be assist into	she little donkey-chair
+1.0	Miss Luttrell	be duly assist into	she shambling donkey-chair
+1.0	Rector	from	wife
+1.0	it	be	true
+1.0	Edie	for	long-promised visit to University
+1.0	little study	be with	bow-window over shop
+1.0	you	know	Edie
+0.9187747673178711	everything	nice in	way of dress
+1.0	you	get	everything nice in way of dress
+1.0	you	get	everything nice in way
+1.0	you	get	everything
+1.0	you	get	everything nice
+0.9187747673178711	everything	nice in	way
+1.0	you	have	everything proper
+1.0	you	will want	dinner dress
+1.0	you	have	everything
+1.0	I	want	you
+1.0	you	have	everything exceedingly proper
+1.0	you	will want	decent dinner dress
+0.03191106735239502	you	will want of	course
+1.0	you	will want dinner dress of	course
+1.0	I	have get	peacock-blue with satin box-pleat
+1.0	I	have get	sage-greeny aesthetic one
+1.0	I	have get	peacock-blue
+1.0	I	have get	peacock-blue with box-pleat
+1.0	I	have get	three afternoon dress
+1.0	I	have get	grey
+1.0	you	give	I
+1.0	it	be	dress
+1.0	it	look	it might have step
+1.0	it	look	it might have step straight
+1.0	it	be	charming
+1.0	it	be	charming dress
+1.0	it	come home from	Miss Wells 's morning
+1.0	it	come from	Miss Wells 's morning
+1.0	Miss Wells	from	morning
+1.0	I	put on	it
+1.0	you	see	I
+1.0	that	be	good
+1.0	I	be	so anxious
+1.0	I	be	anxious
+1.0	you	be only problem in	space of four dimension
+1.0	you	be	problem
+1.0	I	be critic	only problem in space of four dimension now
+1.0	I	be	very poor critic
+1.0	I	be poor critic	problem in space of four dimension
+1.0	I	be poor critic	only problem in space of four dimension now
+1.0	I	be	afraid
+1.0	I	be very poor critic in	matter
+1.0	I	be very poor critic	problem now
+1.0	I	be very poor critic	only problem
+1.0	I	be critic	only problem in space
+1.0	you	be problem in	space
+1.0	I	be very poor critic	only problem in space
+1.0	I	be critic	only problem
+1.0	I	be critic	only problem now
+1.0	I	be very poor critic	problem in space of four dimension now
+1.0	I	be critic	only problem in space now
+1.0	I	be very poor critic	only problem in space of four dimension
+1.0	you	be problem now in	space
+1.0	I	be poor critic	only problem
+1.0	I	be poor critic	problem
+1.0	I	be poor critic	only problem now
+1.0	I	be very poor critic	problem
+1.0	I	be poor critic	problem now
+1.0	I	be critic	problem in space
+1.0	I	be poor critic in	matter
+1.0	I	be critic	only problem in space of four dimension
+1.0	I	be poor critic	only problem in space of four dimension
+1.0	you	be	problem now
+1.0	you	be only problem in	space
+1.0	I	be critic	problem in space of four dimension now
+1.0	I	be	critic
+1.0	I	be	poor
+1.0	problem	be in	space of four dimension
+1.0	I	be very poor critic	problem in space
+1.0	you	be only problem now in	space of four dimension
+1.0	you	be problem in	space of four dimension
+1.0	I	be very poor critic	only problem in space of four dimension now
+1.0	I	be very poor critic	problem in space now
+1.0	I	be	poor critic
+1.0	you	be only problem now in	space
+1.0	I	be very poor critic	only problem now
+1.0	poor critic	be in	matter
+1.0	you	be	only problem now
+1.0	I	be very poor critic	problem in space of four dimension
+1.0	I	be poor critic	problem in space of four dimension now
+1.0	I	be critic	problem in space now
+1.0	I	be critic	problem
+1.0	I	be critic	problem now
+1.0	I	be poor critic	problem in space
+1.0	I	be very poor critic	only problem in space now
+1.0	I	be critic in	matter
+1.0	I	be poor critic	only problem in space now
+1.0	you	be problem now in	space of four dimension
+1.0	I	be poor critic	only problem in space
+1.0	you	be	only problem
+1.0	I	be poor critic	problem in space now
+1.0	I	be critic	problem in space of four dimension
+1.0	you	can set	yourself
+1.0	anything	be in	x square square
+1.0	you	can possibly set	yourself
+1.0	Edie	soon reappear resplendent in	new dress
+1.0	Edie	reappear resplendent in	new peacock-blue dress
+1.0	Edie	soon reappear	clad resplendent
+0.174965399977825	Edie	reappear in	new peacock-blue dress
+1.0	Edie	reappear	clad resplendent
+0.174965399977825	Edie	reappear in	dress
+0.174965399977825	Edie	soon reappear in	new peacock-blue dress
+1.0	Edie	soon reappear resplendent in	dress
+1.0	Edie	soon reappear	resplendent
+0.174965399977825	Edie	reappear in	new dress
+0.174965399977825	Edie	reappear in	peacock-blue dress
+1.0	Edie	soon reappear resplendent in	new peacock-blue dress
+0.174965399977825	Edie	soon reappear in	new dress
+1.0	Edie	reappear resplendent in	dress
+1.0	Edie	reappear resplendent in	new dress
+0.174965399977825	Edie	soon reappear in	dress
+1.0	Edie	soon reappear resplendent in	peacock-blue dress
+1.0	Edie	reappear	resplendent
+0.174965399977825	Edie	soon reappear in	peacock-blue dress
+1.0	Edie	reappear resplendent in	peacock-blue dress
+1.0	Harry	look with	unfeigned admiration
+1.0	Harry	look with	admiration
+1.0	Harry	look at	she
+1.0	she	be	dimpled
+1.0	they	irresistibly suggest to	critical eye
+1.0	they	certainly suggest to	critical eye
+1.0	they	certainly irresistibly suggest to	critical eye
+1.0	they	certainly irresistibly suggest to	eye
+1.0	they	certainly suggest to	eye
+1.0	they	suggest to	critical eye
+1.0	they	suggest to	eye
+1.0	they	irresistibly suggest to	eye
+0.625020403124704	she	look	give to human flesh
+1.0	it	be	give
+1.0	she	look	about much
+1.0	she arm	hold at	she side
+1.0	she	look	about much like fairy picture
+1.0	it	be give	look
+1.0	she	look	about as much like fairy picture
+1.0	it	be give to	human flesh
+1.0	it	be give to	mere human flesh
+1.0	she arm	hold carelessly at	she side
+1.0	it	be give to	mere flesh
+0.625020403124704	she	look	give to mere human flesh
+1.0	it	be give to	flesh
+0.625020403124704	she	look	give to mere flesh
+0.625020403124704	she	look	give to flesh
+1.0	she	look	as much like fairy picture
+1.0	she	look	as much
+0.625020403124704	she	look	give
+1.0	she	look	much like fairy picture
+1.0	she	look	much
+1.0	she	look	about as much
+1.0	you	do get	idea
+1.0	you	do get	idea of it
+0.9498327207936351	it	be	present style
+0.9498327207936351	it	be	partly present style
+0.9498327207936351	it	be	partly style
+0.9498327207936351	it	be	style
+1.0	Harry	contemplate	she
+1.0	Gautier	be	horrid
+1.0	I	quote	he
+0.6201399227958341	th ophile Gautier	be	horrid
+0.6201399227958341	th ophile Gautier	be	quite as horrid
+0.04433860233602179	th Gautier	be as horrid	you consider
+0.6201399227958341	th ophile Gautier	be	as horrid
+0.04433860233602179	th ophile Gautier	be quite horrid	you consider
+0.07149773898788192	you	consider	be
+0.04433860233602179	th Gautier	be horrid	you consider
+0.04433860233602179	th ophile Gautier	be quite as horrid	you consider
+0.6201399227958341	th Gautier	be	as horrid
+1.0	you	consider	he
+0.04433860233602179	th Gautier	be quite as horrid	you consider
+0.6201399227958341	th Gautier	be	quite horrid
+0.04433860233602179	th ophile Gautier	be horrid	you consider
+0.04433860233602179	th Gautier	be quite horrid	you consider
+0.04433860233602179	th ophile Gautier	be as horrid	you consider
+0.6201399227958341	th ophile Gautier	be	quite horrid
+0.6201399227958341	th Gautier	be	horrid
+0.6201399227958341	th Gautier	be	quite as horrid
+1.0	Venus	ought	pulverise to atom
+1.0	Edie	ought immediately	pulverise to atom for rank artistic impostor
+1.0	Venus	ought immediately	pulverise to atom
+1.0	Edie	be	pulverise to atom for rank impostor
+1.0	Edie	ought	pulverise for rank impostor
+1.0	Venus	ought	pulverise to atom for rank impostor
+1.0	Edie	ought immediately	pulverise to ultimate atom for rank impostor
+1.0	Edie	be	pulverise to ultimate atom for rank artistic impostor
+1.0	Venus	ought	pulverise to atom for rank artistic impostor
+1.0	Edie	ought immediately	pulverise to atom
+1.0	Edie	ought	pulverise to ultimate atom
+1.0	Edie	be pulverise to	atom
+1.0	Edie	ought immediately	pulverise to atom for rank impostor
+1.0	Edie	ought immediately	pulverise for rank impostor
+1.0	Edie	be pulverise for	rank impostor
+1.0	Edie	ought immediately	pulverise for rank artistic impostor
+1.0	Venus	ought	pulverise for rank artistic impostor
+1.0	Venus	ought immediately	pulverise to atom for rank artistic impostor
+1.0	Edie	ought immediately	pulverise to ultimate atom
+1.0	Venus	ought	pulverise to ultimate atom for rank artistic impostor
+1.0	Edie	ought	pulverise for rank artistic impostor
+1.0	Venus	ought	pulverise for rank impostor
+1.0	Venus	ought immediately	pulverise to ultimate atom for rank artistic impostor
+1.0	Edie	be	pulverise to atom for rank artistic impostor
+1.0	Venus	ought immediately	pulverise to ultimate atom
+1.0	Edie	be pulverise to	ultimate atom
+1.0	Venus	ought immediately	pulverise to ultimate atom for rank impostor
+1.0	Edie	ought	pulverise to ultimate atom for rank impostor
+1.0	Venus	ought immediately	pulverise for rank impostor
+1.0	Edie	ought	pulverise to atom for rank artistic impostor
+1.0	Venus	ought	pulverise to ultimate atom
+1.0	Edie	ought immediately	pulverise to ultimate atom for rank artistic impostor
+1.0	Venus	ought immediately	pulverise
+1.0	Venus	ought	pulverise to ultimate atom for rank impostor
+1.0	Edie	ought	pulverise to ultimate atom for rank artistic impostor
+1.0	Edie	ought	pulverise to atom for rank impostor
+1.0	Edie	ought	pulverise
+1.0	Edie	be pulverise for	rank artistic impostor
+1.0	Edie	be	pulverise
+1.0	Edie	ought immediately	pulverise
+1.0	Venus	ought immediately	pulverise to atom for rank impostor
+1.0	Edie	ought	pulverise to atom
+1.0	Venus	ought	pulverise
+1.0	Venus	ought immediately	pulverise for rank artistic impostor
+1.0	Edie	be	pulverise to ultimate atom for rank impostor
+1.0	you	be	so polite
+1.0	you	be so polite to	you own
+1.0	you	say to	somebody 's sister
+1.0	you	say to	somebody else 's sister
+1.0	you	be	when so polite
+1.0	you	be polite to	you own
+1.0	you	be	when polite to you own
+1.0	you	be	when polite
+1.0	you	be	polite
+1.0	somebody else	to	sister
+1.0	you	be	when so polite to you own
+1.0	it	come to	somebody 's sister
+1.0	it	come to	somebody else 's sister
+1.0	I	say	anything
+1.0	somebody else	to	sister
+1.0	I	say	anything of kind
+1.0	you	must do	Gautier
+1.0	that	be	important
+1.0	that	be	aesthetic
+1.0	sunshiny dress	say	Edie
+1.0	it	be	sunshiny
+1.0	sunshiny dress	say	Edie smile
+1.0	dress	say	Edie
+1.0	dress	say	Edie smile
+1.0	it	be wear out of	door
+1.0	light	be fall	slantwise
+1.0	you	know through	it do window
+1.0	it	be mean on	afternoon
+1.0	you	know through	just it do window
+1.0	you	know through	it do now low window
+1.0	it	be	mean
+1.0	you	know through	it do low window
+1.0	you	know through	just it do now low window
+1.0	it	be mean on	fine afternoon
+1.0	you	know through	just it do low window
+1.0	you	know through	just it do now window
+1.0	you	know through	it do now window
+1.0	it	be mean	wear
+1.0	it	be	wear
+1.0	god	against sort be	kind of arrogance
+1.0	sort	kind of	arrogance
+1.0	it	jolly beat by	Athenians at Salamis
+1.0	it	well beat by	Athenians
+1.0	it	be	they Nemesis murder by Clytemnestra
+1.0	it	well beat by	Athenians at Salamis
+1.0	they	sort of	thing
+0.988997321350095	it	get murder by	Clytemnestra
+1.0	it	be	they Nemesis murder
+1.0	hubris	be in	Agamemnon
+1.0	it	jolly well beat by	Athenians at Salamis
+1.0	it	jolly beat by	Athenians
+1.0	it	beat by	Athenians at Salamis
+0.988997321350095	it	get	murder
+1.0	it	jolly well beat by	Athenians
+1.0	it	be	hubris
+1.0	it	be hubris in	Agamemnon
+1.0	it	beat by	Athenians
+1.0	he	think	thing socially wrong
+1.0	he	think	socially wrong
+1.0	Le Breton	use	word
+1.0	I	can tell	anything
+1.0	he	think	wrong
+1.0	he	think	good many thing socially wrong
+1.0	I	can tell	you
+1.0	he	think	good thing socially wrong
+1.0	he	think	many thing socially wrong
+1.0	somebody	do	work
+1.0	it	have	spoon
+1.0	he	keep	valet for you personal attendant
+1.0	he	keep	valet for you own personal attendant
+1.0	he	keep	valet for you own attendant
+1.0	he	keep	valet for you attendant
+1.0	it	have	silver spoon
+1.0	he	keep	valet
+1.0	he	take	world
+1.0	he	find	it
+1.0	Ernest 's up	still look about	about one
+1.0	Ernest 's up	look about	about one
+1.0	my dress	piece of	what-you-may-call-it
+1.0	it	be	Ernest
+1.0	it	be ernest	would think
+1.0	woman	upon	natural right wear
+1.0	he	be	good fellow
+1.0	he	be	good
+1.0	he	be	very good fellow
+1.0	he	be	fellow
+1.0	he	stick to	it
+1.0	I	be	certain
+1.0	I	stand there in	dress
+1.0	I	stand there so pretty in	dress
+1.0	I	look	stand there in pretty dress
+1.0	I	look	stand there pretty
+1.0	I	stand in	dress
+1.0	I	stand pretty in	pretty dress
+1.0	I	look	stand there in dress
+1.0	I	look	stand so pretty
+1.0	I	look	stand in dress
+1.0	I	look	stand so pretty in dress
+1.0	I	stand there so pretty in	pretty dress
+1.0	I	look	stand there pretty in dress
+1.0	I	stand there pretty in	pretty dress
+1.0	I	look	stand pretty in pretty dress
+1.0	I	look	stand there so pretty in pretty dress
+1.0	I	stand pretty in	dress
+1.0	I	look	stand so pretty in pretty dress
+1.0	I	look	stand there so pretty in dress
+1.0	I	look	stand there so pretty
+1.0	I	look	stand in pretty dress
+1.0	I	stand there in	pretty dress
+1.0	I	look at	you
+1.0	I	look	stand there pretty in pretty dress
+1.0	I	look	stand pretty
+1.0	I	feel	inclined
+1.0	I	stand so pretty in	dress
+1.0	I	look	stand there
+1.0	I	stand there pretty in	dress
+1.0	I	look	stand pretty in dress
+1.0	I	stand in	pretty dress
+1.0	I	look	stand
+1.0	I	stand so pretty in	pretty dress
+1.0	you beauty	be	gift
+1.0	you beauty	be gift from	god
+1.0	I	_	do
+1.0	I	be	sure
+1.0	you	be in	you politest humour afternoon
+1.0	you	be in	you politest humour
+1.0	you	be in	you humour
+1.0	you	be in	you humour afternoon
+0.349303990679272	I	know	Le Breton be would soon argue over to side
+0.349303990679272	I	know	Le Breton be would soon argue over to other side
+0.349303990679272	I	know	Le Breton be would argue over to other side
+0.349303990679272	I	know	Le Breton be here would argue
+0.349303990679272	I	know	Le Breton be he would argue over to side
+0.349303990679272	I	know	Le Breton be here he would argue
+0.349303990679272	I	know	Le Breton be here he would argue over to other side
+0.349303990679272	I	know	Le Breton be he would argue over to other side
+0.349303990679272	I	know	be he would argue over to other side
+0.349303990679272	I	know	be here he would argue over to other side
+0.349303990679272	I	know	Le Breton be he would argue
+0.349303990679272	I	know	Le Breton be would argue
+0.349303990679272	I	know	Le Breton be would argue over to side
+0.349303990679272	I	know	be he would argue over to side
+0.349303990679272	I	know	be here he would argue
+0.349303990679272	I	know	Le Breton be would soon argue
+0.349303990679272	I	know	be here he would argue over to side
+1.0	I	know on	other hand
+0.349303990679272	I	know	Le Breton be here would argue over to other side
+0.349303990679272	I	know	Le Breton be here would argue over to side
+0.349303990679272	I	know	be he would argue
+1.0	I	know on	hand
+0.349303990679272	I	know	Le Breton be here he would argue over to side
+1.0	I	go up	fright in my indian tussore
+1.0	I	go up	perfect fright in my shabby old indian tussore
+1.0	I	go up	fright in my old indian tussore
+1.0	I	go	perfect fright in my old indian tussore
+1.0	I	go	fright in my indian tussore
+1.0	I	go	fright in my old tussore
+1.0	I	go up	fright in my shabby old indian tussore
+1.0	I	go	perfect fright in my shabby old indian tussore
+1.0	I	go	fright in my old indian tussore
+1.0	I	go up	fright
+1.0	I	put away peacock-blue for	fear of hubris
+1.0	I	put away peacock-blue for	fear
+1.0	I	go up	perfect fright in my shabby old tussore
+1.0	I	go up	perfect fright in my shabby tussore
+1.0	I	go	fright in my shabby old indian tussore
+1.0	I	go	fright in my shabby indian tussore
+1.0	I	go	perfect fright in my shabby old tussore
+1.0	I	go up	perfect fright in my old tussore
+1.0	I	go	perfect fright in my shabby indian tussore
+1.0	I	go	perfect fright
+1.0	I	go up	fright in my shabby tussore
+1.0	I	go up	perfect fright in my shabby indian tussore
+1.0	I	go	perfect fright in my tussore
+1.0	I	go	fright in my shabby old tussore
+1.0	I	go up	fright in my tussore
+1.0	I	go	perfect fright in my shabby tussore
+1.0	I	go	fright in my shabby tussore
+1.0	I	go	fright in my tussore
+1.0	I	go up	fright in my shabby old tussore
+1.0	I	go up	perfect fright
+1.0	I	go up	fright in my shabby indian tussore
+1.0	I	go up	perfect fright in my tussore
+1.0	perfect fright	be in	my shabby old indian tussore
+1.0	I	go up	fright in my old tussore
+1.0	I	go	perfect fright in my old tussore
+1.0	I	go	fright
+1.0	I	put away	peacock-blue
+1.0	I	go up	perfect fright in my old indian tussore
+1.0	I	go up	perfect fright in my indian tussore
+1.0	I	go	perfect fright in my indian tussore
+0.7642046380274203	fright	anything like	Popsy
+1.0	you	look	perfect fright
+0.7642046380274203	fright	anything like	Popsy dear
+1.0	you	look	anything
+0.7621781364155424	you	anything like	Popsy
+0.7642046380274203	perfect fright	anything like	Popsy dear
+1.0	you	look	fright
+0.7642046380274203	perfect fright	anything like	Popsy
+0.7621781364155424	you	anything like	Popsy dear
+1.0	I	force	they
+1.0	I	force unwillingly	they
+1.0	Le Breton	be	communistic
+1.0	it	be	one thing
+1.0	Le Breton	be so communistic as	all
+1.0	Le Breton	be	so communistic
+1.0	Le Breton	be communistic as	all
+1.0	you	must remember	Edie
+1.0	mother	have	Lady Le Breton
+1.0	Le Breton	have	father
+1.0	Le Breton 's father	be	general
+1.0	he	be	such
+1.0	he	be	strange
+1.0	he	be	advanced
+1.0	he	be	young
+1.0	one	to	own opinion
+1.0	I	should stick to	mine
+1.0	I	be	sure
+1.0	it	be	sweet thing really
+1.0	it	be	thing really
+1.0	it	be	sweet
+1.0	it	be	thing
+1.0	it	be	sweet thing
+0.11982177299755592	she	turn round	crane
+1.0	herself	crane	look
+0.11982177299755592	she	turn	crane over she shoulder
+1.0	she	turn	herself
+0.11982177299755592	she	turn	crane
+0.11982177299755592	she	turn round	crane over she shoulder
+1.0	herself	crane over	she shoulder
+1.0	she	turn round	herself
+1.0	herself	crane	look at effect
+1.0	she	say after	short pause
+1.0	she	say after	pause
+1.0	you	be	undergraduate
+1.0	I	have	longed
+1.0	I	be die	have get
+1.0	I	be die	have get there
+1.0	I	have	so longed
+1.0	it	make	acquaintance of you clever friend
+1.0	it	will	will nice
+1.0	it	make	acquaintance of clever friend
+1.0	I	glory in	place
+1.0	I	be	certain
+1.0	I shall glory	be in	place
+1.0	it	will	will so nice
+1.0	you	give	tone
+1.0	you	give	you
+1.0	you	supply	you
+1.0	Cook	like	excursionist
+1.0	heaven	be in	England
+1.0	it	be	my belief
+1.0	conversation	be in	Continental Bradshaw
+1.0	I	meet at	table d'hote
+1.0	it	be like	lady
+1.0	it	be like	watery lady
+1.0	it	be like	feeble lady
+1.0	it	be like	feeble watery lady
+1.0	I	meet at	Geneva
+1.0	it	be	hot
+1.0	it	be	very hot
+1.0	I	tell	she
+1.0	she	say	something casually
+1.0	she	say	something
+1.0	she	presently say	something
+1.0	she	presently say	something casually
+1.0	I	tell	she
+1.0	she	talk again about	barbado
+1.0	she	by-and-by begin	talk again
+1.0	she	begin	talk again
+1.0	she	talk about	barbado
+1.0	she	by-and-by begin	talk
+1.0	she	begin	talk
+1.0	she	by-and-by begin	talk again about barbado
+1.0	she	begin	talk about barbado
+1.0	she	by-and-by begin	talk about barbado
+1.0	she	begin	talk again about barbado
+1.0	they	be	terribly hot
+1.0	they	be	terribly hot really
+1.0	they	be	hot really
+1.0	they	be	hot
+1.0	I	tell	she
+1.0	I	ever get for	she travels
+1.0	I	get for	she travels
+1.0	I	get for	travels
+1.0	I	ever get for	travels
+1.0	Harry	say	glance at she
+1.0	Harry	glance at	she
+1.0	Harry	say	glance
+1.0	there can doubt	be in	world
+1.0	Pi	have	evaluation of you
+1.0	you	may	may certain
+1.0	I	really would see	they
+1.0	I	would see	not
+1.0	I	really would see	not
+1.0	I	would see	they
+1.0	she desperate encounter	be with	redoubtable Miss Luttrell
+1.0	leastway	say	she mother
+1.0	dozen time	be in	over she outburst of sympathy
+1.0	girl	put	she arm
+1.0	girl	draw down	she
+1.0	girl	draw	she
+1.0	mother	around	waist caressingly
+1.0	body	have	feeling
+1.0	she hair	kiss	she forehead
+1.0	you	heart	Harry
+1.0	must plain sailing	be with	she
+1.0	she sharpness	go off	off ill-nature
+1.0	she sharpness	go off	all off ill-nature
+1.0	it	can get in	end
+1.0	it	can get in	end of chance
+1.0	it	can once get in	thin end of chance
+1.0	it	only can get in	end of chance
+1.0	it	only can get in	end
+1.0	it	only can once get in	thin end of chance
+1.0	it	only can once get in	end of chance
+1.0	it	only can get in	thin end of chance
+1.0	it	only can once get in	end
+1.0	it	only can get in	thin end
+1.0	it	can once get in	thin end
+1.0	it	only can once get in	thin end
+1.0	it	can get in	thin end of chance
+1.0	it	can once get in	end of chance
+1.0	it	can once get in	end
+1.0	it	can get in	thin end
+1.0	shaky Miss Catherine	multiply	she
+1.0	bitter Miss Catherine	multiply	she
+1.0	shaky bitter old Miss Catherine	multiply	she
+1.0	Miss Catherine	multiply	she
+1.0	bitter old Miss Catherine	multiply	she
+1.0	you	see	power
+1.0	we	have	fight
+1.0	you	see	irreducible power
+1.0	we	have	fight against
+1.0	old Miss Catherine	multiply	she
+1.0	shaky bitter Miss Catherine	multiply	she
+1.0	shaky old Miss Catherine	multiply	she
+1.0	she	be	bit soured by disappointment
+1.0	she	be soured	bit
+1.0	she	be soured by	disappointment
+1.0	she	be	soured
+1.0	it	occur to	I
+1.0	Dr. Watts	have make observation with regard to	growling
+1.0	viper	only sting	they nature
+1.0	it	be	they nature
+1.0	Dr. Watts	have make	observation
+1.0	Dr. Watts	have make observation with regard to	growling of bear
+1.0	viper	sting	they nature
+1.0	Dr. Watts	have make	similar observation
+1.0	I	come	think
+1.0	I	come	think of it
+1.0	I	think of	it
+1.0	I	now come	think
+1.0	he	beat	he wife
+1.0	I	now come	think of it
+1.0	Mr. William Sikes	indulge in	innate idiosyncrasy
+1.0	Mr. William Sikes	clap promptly	he
+1.0	Mr. William Sikes	indulge by	way
+1.0	he	be hang	dead
+1.0	we	have	nature
+1.0	we	have nature on	hand
+1.0	Mr. William Sikes	indulge in	idiosyncrasy
+1.0	he	be	dead
+1.0	he	be hang by	neck
+1.0	we	have nature on	other hand
+1.0	Mr. William Sikes	clap	he
+1.0	Mr. William Sikes	indulge by	way of recreation
+1.0	he	be	hang
+1.0	we	disposition	mother dear
+1.0	this	be	regrettable
+1.0	I	feel	much way about Miss Luttrell
+1.0	I	feel	much same way about old Miss Luttrell
+1.0	I	feel	pretty much way about old Miss Luttrell
+1.0	I	feel	pretty much same way about old Miss Luttrell
+1.0	I	feel	way
+1.0	I	feel	pretty much way about Miss Luttrell
+1.0	I	feel	much way
+1.0	I	feel	pretty much way
+1.0	I	feel	same way about old Miss Luttrell
+1.0	I	feel	same way
+1.0	I	feel	much same way
+1.0	I	feel	way about Miss Luttrell
+1.0	I	feel	way about old Miss Luttrell
+1.0	I	feel	much same way about Miss Luttrell
+1.0	I	feel	pretty much same way
+1.0	I	feel	much way about old Miss Luttrell
+1.0	I	feel	pretty much same way about Miss Luttrell
+1.0	I	feel	same way about Miss Luttrell
+1.0	Edie	pretty do look	Harry
+1.0	Edie	how pretty do look in	she new dress
+1.0	Edie	pretty do look in	she dress
+1.0	Edie	do look	Harry
+1.0	Edie	do look	sure
+1.0	Edie	pretty do look	sure
+1.0	Edie	how pretty do look	sure
+1.0	Edie	how pretty do look in	she dress
+1.0	Edie	do look in	she new dress
+1.0	Edie	pretty do look in	she new dress
+1.0	Edie	how pretty do look	Harry
+1.0	Edie	do look in	she dress
+1.0	Harry	beach to	very farthest edge of horizon
+1.0	Harry	beach to	edge of blue horizon
+1.0	Harry	beach to	farthest edge of distant clear-cut blue horizon
+1.0	Harry	beach to	very farthest edge of distant horizon
+1.0	they	go together in	little parlour behind shop
+1.0	they	go in	parlour
+1.0	Harry	beach to	farthest edge of clear-cut horizon
+1.0	they	go down in	parlour
+1.0	Harry	beach to	edge of distant blue horizon
+1.0	they	go together in	parlour behind shop
+1.0	Harry	beach to	farthest edge of horizon
+1.0	Harry	beach to	edge of clear-cut horizon
+1.0	Harry	beach to	farthest edge of distant clear-cut horizon
+1.0	they	go down together in	little parlour behind shop
+1.0	they	go down in	parlour behind shop
+1.0	Harry	put	he arm
+1.0	Harry	beach to	farthest edge of clear-cut blue horizon
+1.0	Harry	beach to	edge
+1.0	they	go down together in	little parlour
+1.0	they	go down together in	parlour behind shop
+1.0	Harry	beach to	very farthest edge
+1.0	Harry	beach to	very farthest edge of distant blue horizon
+1.0	Harry	beach to	farthest edge of distant blue horizon
+1.0	Harry	beach to	edge of distant clear-cut horizon
+1.0	Harry	beach to	very farthest edge of blue horizon
+1.0	Harry	beach to	farthest edge of blue horizon
+1.0	they	go in	parlour behind shop
+1.0	they	go down together in	parlour
+1.0	they	look out over	garden
+1.0	Harry	beach to	very farthest edge of distant clear-cut blue horizon
+1.0	they	go in	little parlour behind shop
+1.0	Harry	beach to	very farthest edge of distant clear-cut horizon
+1.0	Harry	beach to	very farthest edge of clear-cut blue horizon
+1.0	Harry	beach to	edge of distant horizon
+1.0	Harry	beach to	edge of distant clear-cut blue horizon
+1.0	they	go together in	little parlour
+1.0	they	go down in	little parlour behind shop
+1.0	they	go together in	parlour
+1.0	he arm	round	they waist
+1.0	Harry	beach to	edge of horizon
+1.0	they	go in	little parlour
+1.0	Harry	beach to	farthest edge
+1.0	they	go down in	little parlour
+1.0	Harry	beach to	edge of clear-cut blue horizon
+1.0	Harry	beach to	very farthest edge of clear-cut horizon
+1.0	Harry	beach to	farthest edge of distant horizon

@@ -1,0 +1,375 @@
+1.0	he	walk away	he impatience
+1.0	he	set at_time	morning
+1.0	he	set forth at_time	next morning
+1.0	he	set forth at_time	morning
+1.0	Lord Foxham	of	baggage
+1.0	he	set at_time	next morning
+1.0	he	walk	he impatience
+1.0	best advantage	be with	aid of Lord Foxham 's baggage
+1.0	Dick	be before	sun
+1.0	Dick	be before	afoot sun
+0.986510468977368	he	make	round
+0.986510468977368	he	make round among	soldiery
+1.0	he thought	be	quiet
+1.0	he brief favour	be with	Duke
+1.0	little scathing wind	blow up	snow
+1.0	light	grow	more clear
+1.0	solemn light	grow	he stroll
+1.0	east	be	colour
+1.0	little wind	blow up	snow
+1.0	wind	blow up	frozen snow
+1.0	little wind	blow up	frozen snow
+1.0	wind	blow up	snow
+1.0	little scathing wind	blow up	frozen snow
+1.0	solemn light	grow	more clear
+1.0	light	grow	he stroll
+1.0	solemn light	grow	he thus stroll
+1.0	east	be	already colour
+1.0	scathing wind	blow up	frozen snow
+1.0	light	grow	clear
+1.0	solemn light	grow	clear
+1.0	scathing wind	blow up	snow
+1.0	light	grow	he thus stroll
+1.0	figure	wave	its hand
+1.0	hood	lower over	face
+1.0	he	draw	he sword
+1.0	he	stride up to	he
+1.0	ye	do make war upon	fall
+1.0	ye	do make	war
+1.0	I	be	you true friend
+1.0	I	be	you friend
+1.0	ye	seek for	mine
+1.0	presence	be in	mine own wood
+1.0	I	go to	Holywood
+1.0	I	go for	sanctuary
+1.0	sun	will make	day
+1.0	sun	will make	brightest day
+1.0	father	for	death
+1.0	ye	be	devil
+1.0	ye	might go for	where ye will I
+1.0	ye	might go for	ye will I
+1.0	ye	be devil	ye might go
+1.0	God	have	forgiveness
+1.0	I	carry arm for	York
+1.0	I	carry	arm
+1.0	ye	set	one foot
+1.0	I	call	post
+1.0	I	will uplift	my voice
+1.0	I	call	nearest post
+1.0	Holywood	be shut against	you
+1.0	Holywood	be	shut
+1.0	I	will warn	post about army
+1.0	it	make	essay
+0.9165604982223796	I	post about	army
+1.0	ye	be	once go
+1.0	ye	be	go
+1.0	I	shall avenge	my father
+1.0	I	so shall avenge	my father
+1.0	I	make	myself bold
+1.0	myself	feed	you bone
+1.0	I	make under	pleasure
+1.0	I	make under	pleasure of Almighty
+1.0	I	try	Dickon
+1.0	ere	be	late
+1.0	ere	be	too late
+1.0	I	will call post in	five minute
+1.0	I	will call	post
+1.0	I	be	too long-suffering
+1.0	I	be	long-suffering
+1.0	I	should	should have bind
+1.0	ye	be	harsh
+1.0	ye	be	so harsh
+1.0	knight	turn with	word
+1.0	he	ever turn	eye
+1.0	he	ever turn eye upon	lad
+1.0	he	ever and again turn	wicked eye
+1.0	he	turn	wicked eye
+1.0	Dick	watch	he
+1.0	he	turn	eye
+1.0	he	ever and again turn eye upon	lad
+1.0	he	ever and again turn	eye
+1.0	he	ever turn	wicked eye
+1.0	he	turn eye upon	lad
+1.0	bow	sound like	note of music
+1.0	bow	herein sound like	note
+1.0	bow	herein sound like	note of music
+1.0	bow	sound like	note
+0.7751103350373211	he hand	knight of	Tunstall
+1.0	Knight	fall forward in	snow
+1.0	Knight	throw up	he hand
+1.0	Knight	fall in	snow
+1.0	Dick	bound to	he side
+1.0	Dick	raise	he
+1.0	he body	contort	spasm
+1.0	he body	be	shake
+1.0	he whole body	contort	spasm
+1.0	he whole body	be	shake
+1.0	arrow	be	black
+1.0	it	be	black
+1.0	Dick	in	support arm
+1.0	seizure	shake man	he body leap in Dick 's arm
+1.0	seizure	shake man	he body leap
+1.0	he body	leap in	Dick 's support arm
+1.0	desperate seizure	shake man	he body leap
+1.0	he body	leap in	Dick 's arm
+1.0	seizure	shake	man
+1.0	desperate seizure	shake man	he body leap in Dick 's support arm
+1.0	desperate seizure	shake man	he body leap in Dick 's arm
+1.0	seizure	shake man	he body leap in Dick 's support arm
+1.0	he	could add	one word
+1.0	he spirit	flee in	silence
+1.0	desperate seizure	shake	man
+1.0	young man	lay back	he
+1.0	young man	lay gently	he
+1.0	man	lay	he
+1.0	robin	begin	chirp in ivy
+1.0	sun	come up at	bind
+1.0	young man	lay	he
+1.0	man	pray for	unprepared spirit
+1.0	robin	begin	chirp
+1.0	man	lay back	he
+1.0	young man	pray for	spirit
+1.0	man	pray for	spirit
+1.0	young man	lay back gently	he
+1.0	man	lay back gently	he
+1.0	robin	chirp in	ivy
+1.0	man	lay gently	he
+1.0	young man	pray for	unprepared spirit
+1.0	he	rise to	he foot
+1.0	man	pray in	disorder of mind
+1.0	he face	cover with	he hand
+1.0	man	pray in	great disorder
+1.0	man	pray like	one
+1.0	man	be with	he head
+1.0	man	pray in	great disorder of mind
+1.0	man	pray in	disorder
+1.0	he	show	countenance
+0.6336671258385977	show	countenance of	Ellis Duckworth
+1.0	he	also rise at	length
+1.0	he	show	countenance of Ellis Duckworth
+1.0	he	rise at	length
+1.0	I	hear	you
+1.0	Richard	hear	you
+1.0	ye	take	part
+1.0	I	take	worse
+1.0	ye	take	better part
+1.0	he	wring	he
+1.0	ye	have	long pursued revenge
+1.0	ye	have	revenge
+1.0	ye	have	so long revenge
+1.0	ye	have	pursued revenge
+1.0	ye	have	so long pursued revenge
+1.0	ye	have	long revenge
+1.0	it	be to	pardon other
+1.0	I Sir Daniel	lie	he body
+1.0	I Sir Daniel	here lie	he body
+1.0	I	would have	I might anywise
+1.0	I	might anywise	prevail
+1.0	I	would have for	priest
+1.0	flash	come into	eye of Ellis Duckworth
+1.0	flash	come into	eye
+1.0	devil	be	still strong within I
+1.0	devil	be strong within	I
+1.0	Nay	be	strong
+1.0	devil	be	strong within I
+1.0	devil	be	still strong
+1.0	Nay	be still strong within	I
+1.0	devil	be	strong
+1.0	Nay	be	still strong
+1.0	Nay	be strong within	I
+1.0	devil	be still strong within	I
+0.7805570105045632	fellowship	be	break
+1.0	they	shall come in	Heaven 's time
+1.0	they	shall come for	I
+1.0	they	shall come in	Heaven 's good time
+1.0	Heaven	in	good time
+1.0	you better fortune	call	you
+1.0	you fortune	call	you
+1.0	Lord Foxham	once more dress as	she sex
+1.0	Lord Foxham	once dress as	she sex
+1.0	Lord Foxham	be lead	he ward
+1.0	Lord Foxham	follow by	Alicia Risingham
+1.0	Lord Foxham	once dress as	befitted she sex
+1.0	Lord Foxham	dress as	she sex
+1.0	Lord Foxham	once more dress as	befitted she sex
+1.0	Lord Foxham	more dress as	befitted she sex
+1.0	Lord Foxham	dress as	befitted she sex
+1.0	Lord Foxham	more dress as	she sex
+1.0	Lord Foxham	have reply in	affirmative
+1.0	I	see	its favour
+1.0	he	look for	little
+1.0	he	look upon	she sourly
+1.0	they	tell	I
+1.0	he	say at	last
+1.0	I	offer	you
+1.0	I	offer	brave marriage
+1.0	I	offer	marriage
+1.0	it	please	you grace
+1.0	I	have rather wed with	Sir Richard
+1.0	I	have wed with	Sir Richard
+1.0	he	die	Sir Richard
+1.0	I	tell plainly	you
+1.0	I	tell	you
+1.0	Sir Richard	have	wife
+1.0	my lord	return	Joanna
+1.0	my lord	look	ye
+0.385398051476899	my lord	look at	that
+1.0	I	give	he choice
+1.0	I	give	he choice of my favour
+1.0	I	give	he
+1.0	my lord	be with	most assure impertinence
+1.0	you favour	say	I
+1.0	dieth you favour	say	I
+1.0	it	shall by	shall rood
+1.0	it	shall by	shall so rood
+1.0	my kinsman	it like	you grace
+1.0	I	think of	it like you grace
+1.0	my	kinsman	Hamley
+1.0	my	kinsman	it like grace
+1.0	I	think of	my kinsman
+1.0	I	think of	Hamley
+1.0	I	think of	it
+0.8898958032712144	he	serve	cause
+0.8898958032712144	he	well serve	cause
+1.0	they	be	wed
+1.0	they	be	wed speedily
+1.0	voice	die	so straight
+1.0	voice	die in	consternation
+1.0	voice	die on	she tongue
+1.0	my lord duke	die in	perfect consternation
+1.0	man	be	so straight there
+1.0	voice	die in	perfect consternation
+1.0	man	be	so straight
+1.0	voice	die	straight there
+1.0	my lord duke	die	straight
+1.0	my lord duke	die on	she tongue
+1.0	my lord duke	die	straight there
+1.0	man	be	straight
+1.0	my lord duke	die	so straight there
+1.0	man	be	straight there
+1.0	voice	die	so straight there
+1.0	voice	die	straight
+1.0	my lord duke	die	so straight
+1.0	my lord duke	die in	consternation
+1.0	we	be	else
+1.0	he	add with	change to grave courtesy
+1.0	he	add with	change
+1.0	he	add with	change to courtesy
+1.0	he	add with	sudden change to grave courtesy
+1.0	he	add with	sudden change to courtesy
+1.0	he	add with	sudden change
+1.0	captain	have in	time
+1.0	captain	have in	time of war
+1.0	I	be	shent
+1.0	ye	know	he
+1.0	ye	know not	he
+1.0	flower	be	then say
+1.0	very flower	be	then say
+1.0	very flower	be	say
+1.0	flower	be	say
+1.0	they	find in	chancel
+1.0	Dick	attend by	few young man
+1.0	Dick	attend by	man
+1.0	Dick	attend by	few man
+1.0	Dick	attend by	young man
+1.0	Duke	begin	move
+1.0	Duke	begin	move from before abbey in clump of spear
+1.0	bold hunchback	move behind	girt by steel-clad knight
+1.0	Duke	begin	move in clump of spear
+1.0	bold hunchback	move behind	girt
+1.0	file	be wind into	frosty air
+1.0	file	be wind into	air
+1.0	bold hunchback	move on	on he brief kingdom
+1.0	long file	be wind into	air
+1.0	bold hunchback	move on	on he kingdom
+1.0	hunchback	move behind	girt by steel-clad knight
+1.0	Duke	begin	move from before abbey in clump
+1.0	hunchback	move behind	girt by knight
+1.0	hunchback	move on	on he brief kingdom
+1.0	bold hunchback	move behind	girt by knight
+1.0	Gloucester	of	banner
+1.0	Duke	begin	move in clump
+1.0	hunchback	move behind	it
+1.0	hunchback	move on	on he kingdom
+1.0	Duke	begin	move from before abbey
+1.0	long file	be wind into	frosty air
+1.0	hunchback	move behind	girt
+1.0	bold hunchback	move behind	it
+1.0	Duke	be	unfold
+1.0	father cellarer	sit at	table
+1.0	father cellarer	attend on	they want
+1.0	father cellarer	sit with	they
+0.48595738915318	Dick	there sit amid	sound of tucket continually move
+1.0	Joan	look with	grow affection
+0.48595738915318	Joan	sit amid	sound continually move
+0.48595738915318	Dick	sit amid	sound
+0.48595738915318	Dick	there sit amid	sound move
+0.48595738915318	Joan	there sit amid	sound
+0.48595738915318	Dick	there sit amid	sound continually move forth
+0.48595738915318	Joan	there sit amid	sound continually move
+0.48595738915318	Dick	there sit amid	sound of tucket move forth
+0.48595738915318	Joan	there sit amid	sound continually move forth
+0.48595738915318	Dick	there sit amid	sound of tucket move
+1.0	other	in	eye
+0.48595738915318	Joan	there sit amid	sound move forth
+0.48595738915318	Joan	sit amid	sound move
+0.48595738915318	Joan	sit amid	sound of tucket move
+0.48595738915318	Joan	there sit amid	sound of tucket continually move
+0.48595738915318	Dick	there sit amid	sound continually move
+0.48595738915318	Joan	sit amid	sound of tucket continually move
+0.48595738915318	Dick	sit amid	sound continually move
+0.48595738915318	Dick	there sit amid	sound
+0.48595738915318	Dick	sit amid	sound of tucket
+0.48595738915318	Dick	sit amid	sound of tucket move
+0.48595738915318	Joan	sit amid	sound of tucket move forth
+0.48595738915318	Dick	sit amid	sound move forth
+0.48595738915318	Dick	sit amid	sound move
+0.48595738915318	Dick	sit amid	sound of tucket move forth
+0.48595738915318	Joan	sit amid	sound of tucket
+0.48595738915318	Joan	there sit amid	sound of tucket move forth
+0.48595738915318	Joan	sit amid	sound continually move forth
+1.0	Joan	look with	ever grow affection
+0.48595738915318	Dick	sit amid	sound of tucket continually move forth
+0.48595738915318	Joan	sit amid	sound move forth
+0.48595738915318	Joan	there sit amid	sound move
+0.48595738915318	Joan	sit amid	sound
+0.48595738915318	Joan	there sit amid	sound of tucket
+0.48595738915318	Joan	there sit amid	sound of tucket continually move forth
+0.48595738915318	Dick	sit amid	sound continually move forth
+1.0	Joan	look with	affection
+0.48595738915318	Dick	there sit amid	sound of tucket
+0.48595738915318	Dick	there sit amid	sound move forth
+0.48595738915318	Dick	there sit amid	sound of tucket continually move forth
+0.48595738915318	Joan	there sit amid	sound of tucket move
+0.48595738915318	Joan	sit amid	sound of tucket continually move forth
+0.48595738915318	Dick	sit amid	sound of tucket continually move
+1.0	blood	pass	they
+0.6298538903523558	blood	dust of	epoch
+0.8126410093254229	they	dust of	epoch
+0.6298538903523558	blood	dust of	unruly epoch
+1.0	dust	pass	they
+0.8126410093254229	they	dust of	unruly epoch
+1.0	dust	pass by	they
+1.0	blood	pass by	they
+1.0	alarm	be in	green forest
+1.0	they	dwell apart from	alarm
+1.0	they	dwell from	alarm in forest
+1.0	they	dwell from	alarm
+1.0	they	dwell apart from	alarm in green forest
+1.0	they	dwell from	alarm in green forest
+1.0	they	dwell apart from	alarm in forest
+1.0	two old man	be in	great prosperity
+1.0	two old man	be in	meanwhile enjoy pension
+1.0	superfluity	be in	Tunstall hamlet
+1.0	other	make death under	name of Brother Honestus
+1.0	other	make death in	neighbouring abbey
+1.0	other	turn in	end towards piety
+1.0	other	make death under	name
+1.0	other	turn in	end
+1.0	other	make	death
+1.0	other	make	most religious death
+1.0	other	make death in	abbey
+1.0	other	make	religious death
+1.0	Lawless	so have	he will
+1.0	Lawless	have	he will
+1.0	Lawless	die	friar

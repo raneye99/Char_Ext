@@ -1,0 +1,722 @@
+1.0	she	set	she thinking
+0.625020403124704	porter	look over	curiously
+1.0	porter	look	she
+1.0	she	be	do for
+1.0	she	be	do
+1.0	she	catch sight in	looking-glass
+0.6632272092178321	she	sight of	herself
+1.0	she	catch	sight of herself
+1.0	she	catch	sight
+1.0	passer-by	look after	she
+1.0	she	pass on into	strand
+1.0	she misfortune	cause	passer-by
+1.0	she	go into	public-house
+0.011613716840358945	she	hear	jeer
+1.0	she	go	ask for pin
+1.0	she	go	ask
+1.0	she	ask for	pin
+0.39504605064862597	barmaid	oblige with	one
+1.0	barmaid	arrange	she skirt
+1.0	glass	make away with	herself
+1.0	glass	save	she
+1.0	Kate	have	heart
+1.0	river	be in	she life
+1.0	glass	often save	she
+1.0	woman	have	look
+1.0	thirty-nine shilling	strictly find	fortieth in she pocket
+1.0	shilling	strictly find	fortieth
+1.0	shilling	very strictly find	fortieth
+1.0	thirty-nine shilling	strictly find	fortieth
+1.0	shilling	find	fortieth in she pocket
+1.0	shilling	find	fortieth
+1.0	thirty-nine shilling	find	fortieth
+1.0	she week 's money	be	due
+1.0	shilling	strictly find fortieth	due
+1.0	thirty-nine shilling	very strictly find fortieth	due
+1.0	she next week 's money	be	due
+1.0	shilling	strictly find	fortieth in she pocket
+1.0	thirty-nine shilling	very strictly find	fortieth
+1.0	thirty-nine shilling	find	fortieth in she pocket
+1.0	next week	have	money
+1.0	shilling	very strictly find	fortieth in she pocket
+1.0	shilling	very strictly find fortieth	due
+1.0	shilling	find fortieth	due
+0.824430748815422	shilling	fortieth in	she pocket
+0.824430748815422	thirty-nine shilling	fortieth in	she pocket
+1.0	thirty-nine shilling	very strictly find	fortieth in she pocket
+1.0	thirty-nine shilling	find fortieth	due
+1.0	thirty-nine shilling	strictly find fortieth	due
+1.0	fortieth	be in	she pocket
+1.0	woman	be with	yellow hair
+1.0	man	be with	lordly air
+1.0	she	have	she glass
+1.0	theatrical agent	have	place of business
+1.0	Temple	journalist on	they way to Fleet Street
+0.7229573752041922	strange life full	have begin in	twilight
+0.5475403339111762	life	full of	complexity
+1.0	child	be with	orange colour hair
+1.0	child	sell	match
+0.7229573752041922	life full	have begin in	twilight
+0.5475403339111762	strange life	full of	complexity
+1.0	child	be follow down	suspicious alley
+0.5475403339111762	strange hurry life	full of	complexity
+0.7229573752041922	strange life	have begin in	twilight
+0.7229573752041922	hurry life	have begin in	twilight
+0.7229573752041922	strange hurry life full	have begin in	twilight
+0.7229573752041922	hurry life full	have begin in	twilight
+0.5475403339111762	hurry life	full of	complexity
+0.7229573752041922	strange hurry life	have begin in	twilight
+0.7229573752041922	life	have begin in	twilight
+0.373684611208852	boy	scramble	other quarrel
+0.373684611208852	girl	scramble	other quarrel
+1.0	other	quarrel	newspaper
+1.0	spectacle	help	time away
+1.0	spectacle	help	time
+1.0	spectacle	help	time away between four o'clock
+0.646120511300567	nothing	do	wander in Strand
+1.0	she	dine for	shilling
+0.646120511300567	nothing	do	wander
+1.0	she	turn at	seven
+1.0	she	turn into	eating-house
+1.0	she	relate	she success as Clairette in _ Madame Angot _ in _ Les Cloches de Corneville _
+1.0	look	come ditty into	face
+1.0	Clairette	be in	_ Les Cloches de Corneville _
+0.6399519129670479	incredulous look	come into	face of she guest
+0.6399519129670479	incredulous look	come into	face
+1.0	look	come ditty into	face of she guest
+1.0	she	sing to	they
+1.0	she	relate	she success
+0.6399519129670479	look	come into	face
+0.6399519129670479	look	come into	face of she guest
+1.0	look	prove by	she knowledge
+1.0	look	come	little ditty
+1.0	she	relate	she success as Clairette in _ Madame Angot _
+1.0	look	come	ditty
+1.0	incredulous look	come ditty into	face
+1.0	incredulous look	prove by	she knowledge of they
+1.0	incredulous look	prove	that
+1.0	look	prove by	she knowledge of they
+1.0	Clairette	be in	_ Madame Angot _
+1.0	incredulous look	come ditty into	face of she guest
+1.0	incredulous look	come	little ditty
+1.0	look	prove	that
+1.0	she	relate	she success as Clairette in _ Les Cloches de Corneville _
+1.0	incredulous look	prove by	she knowledge
+1.0	incredulous look	come	ditty
+1.0	she	relate	she success as Clairette
+1.0	she	have spend	she money
+1.0	woman	lend	half-crown
+1.0	woman	sometimes lend	she shilling
+1.0	woman	lend	she shilling
+1.0	they	pass out in	group
+1.0	she	listen to	they story
+1.0	she	have spend	money
+1.0	woman	take kate to	they eating-house
+1.0	woman	lend half-crown at	when end of week
+1.0	woman	sometimes lend	half-crown
+1.0	woman	sometimes lend half-crown at	when end of week
+1.0	woman	sometimes lend half-crown at	end
+1.0	woman	lend half-crown at	end
+1.0	woman	sometimes lend half-crown at	when end
+1.0	woman	sometimes lend half-crown at	end of week
+1.0	woman	take	Kate
+1.0	woman	lend half-crown at	when end
+1.0	woman	lend half-crown at	end of week
+1.0	you	would dress little more becomingly	yourself
+1.0	you	would dress more becomingly and come along	yourself
+1.0	you	would only dress little more becomingly	yourself
+1.0	you	would dress	yourself
+1.0	you	would dress more becomingly	yourself
+1.0	you	would only dress more becomingly and come along	yourself
+1.0	you	would only dress becomingly and come along	yourself
+1.0	you	would only dress more becomingly	yourself
+1.0	you	would dress becomingly and come along	yourself
+1.0	you	would dress little more becomingly and come along	yourself
+1.0	you	would only dress becomingly	yourself
+1.0	you	would only dress little more becomingly and come along	yourself
+1.0	you	would only dress	yourself
+1.0	you	would dress becomingly	yourself
+1.0	you	be	better off
+1.0	you	be	better off than any of we
+1.0	you	be	better
+1.0	you	be	better off than any
+0.5139668989460705	belief	possession of	she
+1.0	she	be	unfaithful
+1.0	drunkenness	become	inveterate
+1.0	drunkenness	become	more inveterate
+1.0	she	be unfaithful to	Dick
+1.0	she	hear	laughter
+1.0	she	reply	totter
+1.0	she	totter out of	public-house
+1.0	something	befall	she
+1.0	she	remember at_time	one night
+1.0	she	awaken in	dusk
+1.0	she	awaken in	dusk between daylight
+1.0	she	dream	it
+1.0	she	go down	street
+1.0	she	rarely go down	street
+1.0	she	yet be haunt by	memory
+1.0	she	yet be haunt by	memory
+1.0	till	fall upon	she
+1.0	she	be haunt by	memory
+1.0	she	be haunt by	memory
+1.0	she	be	haunt
+1.0	she	be	yet haunt
+1.0	she	cause	she
+1.0	she	walk	strand
+1.0	she	walk up	strand
+1.0	she	walk up and down	strand
+1.0	she	leave	they
+1.0	you	eye	Kate
+1.0	all	be	true enough
+1.0	all	be	true
+1.0	it	be	bad enough
+1.0	she	rise from	she knee
+1.0	sort	be in	she heart
+1.0	she eye	full of	tear
+1.0	it	be	bad
+1.0	she	fall on	she knee
+1.0	she	rise	she eye full
+1.0	it	return	home
+1.0	she	rise	she eye full of tear
+1.0	she	fall	day go
+1.0	day	go by	she mind
+1.0	it	rouse	herself
+1.0	she	fall	day go by she mind
+1.0	she	fall into	obtusity
+1.0	she	bring drink	too unsteady
+1.0	she violent temper	leave	she
+1.0	she	bring drink back	too unsteady
+1.0	she	bring	drink
+1.0	she	bring drink in	she bed
+1.0	she	bring drink with	she
+1.0	she hand	be	too unsteady
+1.0	she hand	be	unsteady
+1.0	she	bring back	drink
+1.0	she	bring drink back	unsteady
+1.0	she	bring drink back in	she bed
+1.0	she temper	leave	she
+1.0	she	bring drink back with	she
+1.0	she	bring drink	unsteady
+1.0	she	drink	spirit
+1.0	she	drink	even methylate spirit
+1.0	she	drink	brandy
+1.0	she	drink	whisky
+1.0	she	drink	methylate spirit
+1.0	she	drink	gin
+0.11982177299755592	landlady	turn out	she go to bed
+1.0	landlady	turn out	it
+0.11982177299755592	landlady	turn out	she go
+1.0	she	go to	bed
+1.0	landlady	light	gas
+1.0	landlady	light gas at	nightfall
+1.0	she	say to	herself
+1.0	none	be in	case
+1.0	it	be	hard
+1.0	Mrs. Lennox	get	two pound
+1.0	Mrs. Lennox	get	two pound week
+1.0	she	be	would entitle in event
+1.0	she	be	would entitle to from Mr. Lennox in event
+1.0	he	speak of	recompense
+1.0	Mrs. Lennox	of	death
+1.0	Mr. Locker	agree with	she
+1.0	she	be	would entitle
+1.0	Mrs. Rawson	have	evening friend
+1.0	Mr. Locker	agree	should recompense
+1.0	she	be	would entitle to from Mr. Lennox in event of Mrs. Lennox 's death
+1.0	she	be	would entitle to from Mr. Lennox
+1.0	she	be	would entitle in event of Mrs. Lennox 's death
+1.0	I	take up	cup
+1.0	I	take up	cup of tea
+0.823590182693968	I	cup of	tea
+1.0	I	take up	she
+1.0	we	be have	rabbit for supper
+1.0	she	would like	piece
+1.0	I	will ask	she
+0.7439947217318658	we	rabbit for	supper
+1.0	we	be have	rabbit
+1.0	she	later return	say
+1.0	it	might	might send to hospital
+1.0	it	might	might send
+1.0	she	return	say
+1.0	Locker	answer	that
+1.0	I	will put on	my hat
+1.0	I	will just put on	my hat
+1.0	stage entrance	be in	Wytch Street
+1.0	she	ask at	bookstall
+1.0	she	ask at	corner of Holliwell Street
+1.0	she	be	tell
+1.0	she	ask at	corner
+0.9242411689960293	stage-door	be	cry
+0.9242411689960293	stage-door	be cry after	she
+1.0	she	address	herself
+1.0	Mrs. Rawson	be conduct up	several staircase
+1.0	he	take	message
+1.0	last somebody	at	dresser
+1.0	Mrs. Rawson	be conduct up	several little staircase
+1.0	Mrs. Rawson	be	conduct
+1.0	Mrs. Rawson	be conduct up	little staircase
+1.0	Mrs. Rawson	be conduct up	staircase
+1.0	she	be from	deference
+1.0	Mrs. Rawson	judge	she
+1.0	thread-paper-man	listen to	she
+1.0	little thread-paper-man	listen to	she
+0.08810032590817896	Mrs. Rawson	judge	deference
+1.0	all	be	very sad
+1.0	you	tell	I
+1.0	all	be	sad
+1.0	I	do	nothing
+1.0	I	be	afraid
+0.9969095430474074	nothing	be	do
+1.0	she	look to	I
+1.0	I	go up with	beef-tea
+1.0	I	be	may mistaken of course
+1.0	I	be	may mistaken
+1.0	I	call	round
+1.0	I	call round in	morning
+1.0	Mrs. Forest	hold out	she jacket
+1.0	you	wife	Dick
+1.0	we regret	would	so would now unanimous
+1.0	we regret	would	would unanimous
+1.0	we regret	would	would now unanimous
+1.0	we regret	would	so would unanimous
+1.0	Mrs. Forest	turn to	Mrs. Rawson
+1.0	Mrs. Forest	say	turn
+1.0	Mrs. Forest	say	turn to Mrs. Rawson
+1.0	you	will perhaps come	Dick
+1.0	you	will perhaps come	to-morrow
+1.0	I	will go now with	you
+1.0	you	see	she
+1.0	I	will go with	you
+1.0	you	will come	to-morrow
+1.0	you	will come	Dick
+1.0	I	could help	my wife
+1.0	Laura	have	eye
+1.0	Laura 's eye	light up for	moment
+1.0	he	ask	himself
+1.0	Mrs. Forest	have	eye
+1.0	Mrs. Forest 's eye	soften at	word
+1.0	Laura	in	resolve go
+1.0	she demeanour	be	lofty as speech almost rise into blank verse
+1.0	she demeanour	be	lofty as speech almost rise
+1.0	she demeanour	be	lofty as speech almost rise into verse
+1.0	she demeanour	be	lofty as speech rise into verse
+1.0	she demeanour	be	lofty as speech rise into verse at time
+1.0	he	begin	think
+1.0	she demeanour	be	as lofty as speech rise
+1.0	she demeanour	be as lofty as	speech
+1.0	she demeanour	be	lofty as speech rise into blank verse at time
+1.0	she demeanour	be	as lofty as speech almost rise at time
+1.0	she demeanour	be	lofty as speech rise
+1.0	she demeanour	be	as lofty as speech rise at time
+1.0	she demeanour	be	as lofty as speech almost rise into verse
+1.0	she demeanour	be	as lofty as speech rise into blank verse at time
+1.0	she demeanour	be	as lofty as speech almost rise into verse at time
+1.0	she demeanour	be	lofty as speech rise into blank verse
+1.0	she demeanour	be lofty as	speech
+1.0	she demeanour	be	lofty as speech rise at time
+1.0	she demeanour	be	as lofty as speech rise into verse at time
+1.0	she demeanour	be	as lofty as speech rise into verse
+1.0	she demeanour	be	as lofty as speech almost rise into blank verse at time
+1.0	she demeanour	be	as lofty as speech almost rise
+1.0	she demeanour	be	lofty as speech almost rise at time
+1.0	she demeanour	be	lofty as speech almost rise into blank verse at time
+1.0	she demeanour	be	as lofty as speech almost rise into blank verse
+1.0	she demeanour	be	lofty as speech almost rise into verse at time
+1.0	she demeanour	be	as lofty as speech rise into blank verse
+1.0	she	be destine for	stage
+1.0	she	be	destine
+1.0	she	be	destine by nature for stage
+1.0	she	be destine by	nature
+1.0	he	give	ear
+1.0	she	find	she way
+1.0	he	recognize	rudiment of grand style
+1.0	he	give ear to	she outpouring
+1.0	he	recognize	rudiment
+1.0	he	recognize rudiment in	they
+1.0	he	recognize	rudiment of style
+0.9011604001332272	he	rudiment of	grand style
+0.9011604001332272	he	rudiment of	style
+1.0	he	admire	she transition
+1.0	she	find back	she way
+1.0	she	make in	act
+1.0	she	answer at_time	night
+1.0	he	have ask	she
+1.0	she	make in	second act
+1.0	Mrs. Rawson	bid	Dick
+1.0	she	take	she work
+1.0	myself	open to	claim for demurrage
+1.0	I	understand	Mrs. Rawson 's account
+1.0	case	be with	you poor wife
+1.0	I	understand	Mrs. Rawson 's account of she illness
+1.0	Mrs. Rawson	would like	let
+1.0	you	wife	Dick
+1.0	she	room	case with you wife
+1.0	she	room	as case
+1.0	she	room	case with you poor wife
+1.0	she	room	as case with you poor wife
+1.0	Mrs. Rawson	have	account of illness
+1.0	she	room	case
+1.0	she	room	as case with you wife
+1.0	fair	be fair at_time	world over
+1.0	I	let	apartment
+1.0	room	be in	my house
+1.0	they	go out of	house
+1.0	they	go together out of	house
+1.0	apothecary	be	so pertinent
+1.0	question	be	pertinent
+1.0	she	put to	man
+1.0	apothecary	be	pertinent
+1.0	Mrs. Rawson	think	that
+1.0	we	call	stop
+1.0	question	be	so pertinent
+1.0	she	put behind	counter
+1.0	we	call to	cabby
+0.5937307392657369	Mrs. Rawson	begin	think
+1.0	they	jump into	cab
+1.0	drive	return with	doctor
+1.0	Laura	relate in	cab
+1.0	they	jump again into	cab
+1.0	Laura	relate	drive return with doctor
+1.0	Laura	relate	short drive return with doctor
+1.0	Laura	relate to	he
+1.0	Laura	relate	short drive return
+1.0	they	know about	he patient
+1.0	short drive	return with	doctor
+1.0	Laura	relate	drive return
+1.0	he	turn to	Mrs. Rawson
+1.0	you	tell	I
+1.0	he	ask	she
+1.0	she	describe	patient
+1.0	he	turn from	Laura
+1.0	it	seem	bad case
+1.0	it	seem	case
+1.0	I	find	she
+1.0	she	drink for	year
+1.0	she	have	attend
+1.0	she	attend upon	wife of man
+1.0	she	have	attend upon wife of man
+1.0	she	attend upon	wife
+1.0	she	have	attend upon wife
+1.0	I	have bring	some
+1.0	she husband	produce	my play
+1.0	she husband	produce	my play at op ra Comique
+1.0	I	have bring	some my work
+1.0	I	have bring	some of my work
+1.0	he	lay down	manuscript
+1.0	he	lay down manuscript on	table
+1.0	extravagant speech	go with	nursing
+1.0	speech	go with	practical nursing
+1.0	extravagant speech	go with	practical nursing
+1.0	speech	go with	nursing
+1.0	you	should deny pre-existence	you believe
+1.0	you	should deny	pre-existence
+1.0	watch	be with	love
+1.0	Laura	aver	wait
+1.0	watch	be with	joy
+1.0	Laura	wait	doctor answer
+1.0	we	may save	she
+1.0	we	be	able
+1.0	we	conquer death in	instance
+1.0	we	conquer	death
+1.0	radical change	be in	hereditary environment
+1.0	Laura	go	enchant
+1.0	Laura	settle	fold
+1.0	Laura	settle	fold of she brown silk
+1.0	Laura	settle widely	fold of she silk
+1.0	Laura	go	enchant with impression
+1.0	Laura	settle widely	fold of she brown silk
+1.0	Laura	settle	fold of she silk
+1.0	Laura	go back	enchant
+1.0	Thy hand	strike down	they
+1.0	she	begin	write
+1.0	Laura	enchant with	impression
+1.0	Laura	settle widely	fold
+1.0	Laura	go back	enchant with impression
+1.0	mother	have	frown
+1.0	they woof	beware	thy mother 's frown
+1.0	its end	seek for	transitional phrase
+1.0	its end	seek for	phrase
+1.0	inspiration	desert	she
+1.0	she	raise	she pen
+1.0	she	allude to	light-god
+1.0	inspiration	seem at	point
+1.0	she	bite thoughtfully	its end
+1.0	she	bite	its end
+1.0	she	be	able
+1.0	they	be in	six-shilling-a-week bedroom in neighbourhood
+1.0	they	be in	bedroom
+1.0	they	be in	six-shilling-a-week bedroom in neighbourhood of Strand
+1.0	they	be	six-shilling-a-week
+1.0	six-shilling-a-week bedroom	be in	neighbourhood of Strand
+1.0	they	be in	bedroom in neighbourhood of Strand
+1.0	they	be in	six-shilling-a-week bedroom
+1.0	they	be in	bedroom in neighbourhood
+1.0	Kate	lay	delirious
+1.0	she stomach	enormously distended by	dropsy
+1.0	she stomach	distended by	dropsy
+1.0	window iron bedstead	face	light
+1.0	window small iron bedstead	face	light
+1.0	she	wave	she arm
+1.0	she	speak in	broken phrase of she past life
+1.0	she	have	have insensible for three day of Mrs. Ede
+1.0	she	speak in	phrase
+1.0	she	have	have insensible
+1.0	she	have	have insensible for three whole day of Mrs. Ede
+1.0	she	have	have insensible for three whole day
+1.0	she	have	have insensible of Mrs. Ede
+1.0	she	speak in	broken phrase
+1.0	she	have	have insensible for three day
+1.0	she	speak in	phrase of she past life
+1.0	Dick	have	have good to she
+1.0	Dick	have	have good
+1.0	Dick	have	have very good
+1.0	Dick	have	have very good to she
+1.0	they	should	should friend
+1.0	she idea	be	still more confused
+1.0	she idea	be still more confused at_time	day
+1.0	she idea	be still confused at_time	next day
+1.0	she idea	be confused at_time	day
+1.0	she idea	be	confused
+1.0	she idea	be still more confused at_time	next day
+1.0	she idea	be still confused at_time	day
+1.0	she idea	be more confused at_time	next day
+1.0	she idea	be more confused at_time	day
+1.0	she idea	be	still confused
+1.0	she idea	be	more confused
+1.0	she	fall into	stupor
+1.0	she idea	be confused at_time	next day
+1.0	she	fall back into	stupor
+1.0	she	express	she regret
+1.0	it	be for	part of Baillie
+1.0	it	be for	part
+1.0	nothing	be in	piece
+1.0	nothing	be in	piece for she
+0.12827401377133596	she	pray ralph	believe
+0.009472119121545781	she	pray	believe
+1.0	she	pray	Ralph
+1.0	she	believe	that
+1.0	Laura	in	arm Laura lay
+1.0	I	be die of	thirst
+1.0	Kate	say after	long silence
+1.0	Kate	say after	silence
+1.0	Kate	over	mind
+1.0	she	seek for	word
+1.0	you	could fetch	he
+0.9945065552580734	I	know	my sister
+1.0	I	be	too ill
+1.0	I	be	ill
+1.0	I	talk with	you
+1.0	I	love	he
+1.0	he	perhaps may forgive	I
+1.0	he	may forgive	I
+1.0	I	see	they
+1.0	Mrs. Forest	bring dick to	she
+1.0	Mrs. Forest	bring	Dick
+1.0	she	ramble in	speech
+1.0	she	ramble in	she speech
+1.0	diverse scene	be	heap together
+1.0	diverse scene	be heap in	complex confusion
+1.0	diverse scene	be heap together in	confusion
+1.0	diverse scene	be heap in	confusion of Kate 's nightmare
+1.0	diverse scene	be heap together in	confusion of Kate 's nightmare
+1.0	opposed idea	be	intermingle
+1.0	Kate	of	nightmare
+1.0	diverse scene	be heap in	complex confusion of Kate 's nightmare
+1.0	diverse scene	be heap together in	complex confusion of Kate 's nightmare
+1.0	diverse scene	be heap in	confusion
+1.0	diverse scene	be heap together in	complex confusion
+1.0	diverse scene	be	heap
+1.0	she	stop rehearsal of	work life
+1.0	she	stop rehearsal	preach to mummer
+1.0	she	tell	little girl
+1.0	she	stop rehearsal in	phrase
+1.0	she	stop rehearsal at	another
+1.0	she	stop rehearsal of	religious life
+1.0	she	stop rehearsal	preach
+1.0	she	preach to	mummer
+1.0	she	stop	rehearsal
+1.0	she	tell girl at	one moment
+1.0	conversation	be in	dressing-room of theatre
+0.9640252594539813	she	rehearsal of	_ op ra bouffe _
+1.0	she	stop rehearsal of	advantage
+1.0	she	tell	girl
+1.0	she	stop rehearsal of	advantage of earnest
+1.0	she	stop rehearsal of	work religious life
+1.0	she	stop rehearsal of	life
+1.0	she	tell	Annie
+1.0	she	stop	rehearsal of _ op ra bouffe _
+1.0	extemporaneous prayer	be in	Wesleyan Church
+1.0	vice	hide	he nakedness
+1.0	chastity	have let	fall
+1.0	chastity	grin from	from mask
+1.0	it	be like	costume ball
+0.49003501937169247	dice	throw by	demon player
+1.0	she	sing	she song
+1.0	point	look here at	I
+1.0	point	look at	I
+1.0	two	become	one
+1.0	she	sing	she famous song
+1.0	she	fit	word
+1.0	she	even fit word on	on tune
+1.0	she	sometimes even fit word on	on tune
+1.0	she	even fit word in	she delirium
+1.0	she	even fit	word of one
+1.0	she	even fit word on	on tune of other
+1.0	she	sometimes fit	word of one
+1.0	she	fit word on	on tune
+1.0	she	sometimes even fit word on	on tune of other
+1.0	she	sometimes fit	word
+1.0	she	sometimes fit word on	on tune of other
+1.0	she	sometimes fit word on	on tune
+1.0	she	even fit	word
+1.0	she	fit	word of one
+1.0	she	fit word on	on tune of other
+1.0	she	sometimes even fit	word of one
+1.0	she	sometimes even fit word in	she delirium
+1.0	she	sometimes even fit	word
+1.0	she	fit word in	she delirium
+1.0	she	sometimes fit word in	she delirium
+1.0	Dick	have	marriage
+1.0	it	occur to	she
+1.0	he	come to	conclusion
+1.0	marriage	be	psychological
+1.0	she	put on	she bonnet
+1.0	she pen	scratch scratch	it occur
+1.0	she	leave	house
+1.0	she pen	scratch scratch	it occur to she
+1.0	he	come suddenly to	conclusion
+1.0	she pen	scratch	scratch
+1.0	die woman	of	eye
+1.0	landlady	bring in	lamp
+1.0	dreadful paleness	have change yellow to	tint
+1.0	paleness	have change yellow to	ashen tint
+1.0	paleness	have change	even yellow
+1.0	dreadful paleness	have change yellow to	ashen tint
+1.0	dreadful paleness	have change	yellow
+1.0	she	raise up	herself
+1.0	dreadful paleness	have change	even yellow of she face
+1.0	dreadful paleness	have change	yellow of she face
+1.0	dreadful paleness	have change	even yellow
+1.0	paleness	have change	yellow
+1.0	paleness	have change yellow to	tint
+1.0	paleness	have change	yellow of she face
+1.0	paleness	have change	even yellow of she face
+1.0	she eye	be	dilate
+1.0	large see	be	in red gloom shed from ill-smelling paraffin lamp toss to by convulsion
+1.0	see	be toss from	paraffin lamp
+1.0	see	be	in gloom shed from paraffin lamp toss to
+1.0	large see	be	in red gloom shed from paraffin lamp toss to by convulsion
+1.0	large see	be	in red gloom shed from paraffin lamp toss to
+1.0	she arm	be	wave
+1.0	large see	be	toss to by convulsion
+1.0	large see	be	in gloom shed toss to
+1.0	see	be	in gloom shed from ill-smelling paraffin lamp toss
+1.0	see	be	in red gloom shed toss by convulsion
+1.0	see	be	from ill-smelling paraffin lamp toss to by convulsion
+1.0	see	be	toss to by convulsion
+1.0	see	be toss in	red gloom shed
+1.0	large see	be	in gloom shed from paraffin lamp toss to by convulsion
+1.0	see	be	in gloom shed from paraffin lamp toss to by convulsion
+1.0	large see	be toss in	red gloom shed
+1.0	large see	be	in gloom shed from paraffin lamp toss to
+1.0	see	be	toss to
+1.0	see	be	in gloom shed toss to
+1.0	see	be	in red gloom shed from paraffin lamp toss to by convulsion
+1.0	large see	be	in gloom shed toss to by convulsion
+1.0	large see	be	in gloom shed from ill-smelling paraffin lamp toss to by convulsion
+1.0	large see	be	from ill-smelling paraffin lamp toss to
+1.0	see	be	in red gloom shed from ill-smelling paraffin lamp toss
+1.0	large see	be	in gloom shed from paraffin lamp toss
+1.0	see	be	toss
+1.0	see	be	in gloom shed from ill-smelling paraffin lamp toss by convulsion
+1.0	large see	be	in red gloom shed toss by convulsion
+1.0	see	be	in red gloom shed from ill-smelling paraffin lamp toss to by convulsion
+1.0	large see	be	toss to
+1.0	large see	be toss from	paraffin lamp
+1.0	large see	be	in red gloom shed toss to
+1.0	see	be	in red gloom shed from paraffin lamp toss by convulsion
+1.0	large see	be	in gloom shed from ill-smelling paraffin lamp toss
+1.0	large see	be	in gloom shed from ill-smelling paraffin lamp toss by convulsion
+1.0	see	be	in gloom shed toss by convulsion
+1.0	see	be	in red gloom shed from paraffin lamp toss
+1.0	see	be	in gloom shed from paraffin lamp toss by convulsion
+1.0	see	be	in gloom shed from ill-smelling paraffin lamp toss to
+1.0	large see	be	in red gloom shed from ill-smelling paraffin lamp toss to
+1.0	large see	be	in gloom shed from paraffin lamp toss by convulsion
+1.0	see	be	in gloom shed from paraffin lamp toss
+1.0	see	be	in gloom shed from ill-smelling paraffin lamp toss to by convulsion
+1.0	large see	be	from paraffin lamp toss to by convulsion
+1.0	large see	be	from ill-smelling paraffin lamp toss to by convulsion
+1.0	see	be toss from	ill-smelling paraffin lamp
+1.0	large see	be toss in	gloom shed
+1.0	see	be	in red gloom shed toss to
+1.0	see	be toss in	gloom shed
+1.0	large see	be	in gloom shed toss by convulsion
+1.0	large see	be	from paraffin lamp toss by convulsion
+1.0	see	be	from paraffin lamp toss to
+1.0	large see	be	from paraffin lamp toss to
+1.0	large see	be	toss
+1.0	large see	be	in red gloom shed from paraffin lamp toss
+1.0	see	be	in red gloom shed toss to by convulsion
+1.0	large see	be	in red gloom shed from paraffin lamp toss by convulsion
+1.0	large see	be toss from	ill-smelling paraffin lamp
+1.0	see	be	in red gloom shed from ill-smelling paraffin lamp toss to
+1.0	large see	be toss by	convulsion
+1.0	large see	be	in gloom shed from ill-smelling paraffin lamp toss to
+1.0	see	be	in gloom shed toss to by convulsion
+1.0	large see	be	in red gloom shed toss to by convulsion
+1.0	see	be	in red gloom shed from ill-smelling paraffin lamp toss by convulsion
+1.0	large see	be	from ill-smelling paraffin lamp toss by convulsion
+1.0	large see	be	in red gloom shed from ill-smelling paraffin lamp toss
+1.0	see	be	from ill-smelling paraffin lamp toss to
+1.0	see	be	from paraffin lamp toss to by convulsion
+1.0	see	be	from paraffin lamp toss by convulsion
+1.0	see	be	from ill-smelling paraffin lamp toss by convulsion
+1.0	see	be	in red gloom shed from paraffin lamp toss to
+1.0	see	be toss by	convulsion
+1.0	large see	be	in red gloom shed from ill-smelling paraffin lamp toss by convulsion
+1.0	she	creep to	edge
+1.0	she	creep to	edge of death
+1.0	heavy step	soon be hear	corpse have grow
+1.0	Dick	enter	one with quantity of fluttering
+1.0	Laura	enter	one with quantity of fluttering
+1.0	step	be hear	corpse have grow
+1.0	Laura	enter	one with quantity
+1.0	heavy step	be hear	corpse have grow
+1.0	step	be	hear
+1.0	Dick	enter	one with quantity
+1.0	heavy step	soon be hear on	staircase
+1.0	step	be	soon hear
+1.0	Laura	enter	one with quantity of cockatoo-like fluttering
+1.0	corpse	have grow	cold
+1.0	heavy step	be hear on	staircase
+1.0	step	soon be hear	corpse have grow
+1.0	Dick	enter	one with quantity of cockatoo-like fluttering
+1.0	heavy step	be	hear
+1.0	step	be hear on	staircase
+1.0	heavy step	be	soon hear
+1.0	step	soon be hear on	staircase
+1.0	they	see at	glance
+1.0	woman	listen with	calm serenity
+1.0	man	speak hesitatingly in	awkward phrase of release
+1.0	man	speak hesitatingly in	phrase
+1.0	man	speak in	phrase of happy release
+1.0	man	speak in	awkward phrase of happy release
+1.0	man	speak hesitatingly in	awkward phrase of happy release
+1.0	man	speak in	awkward phrase
+1.0	man	speak hesitatingly in	phrase of release
+1.0	man	speak in	phrase
+1.0	man	speak in	phrase of release
+1.0	man	speak hesitatingly in	awkward phrase
+1.0	woman	listen with	serenity
+1.0	man	speak in	awkward phrase of release
+1.0	man	speak hesitatingly in	phrase of happy release
+0.8080255693239382	you	have finish	act
+0.9331623840907314	she	appearance beneath	bed-clothes
+1.0	appearance	restrain	she
+0.8080255693239382	you	have finish	second act
+0.8080255693239382	you	have finish	second act dear
+0.9331623840907314	she	appearance of	huge body
+0.8080255693239382	you	have finish	act dear
+0.9331623840907314	she	appearance of	body

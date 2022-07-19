@@ -1,0 +1,1230 @@
+1.0	valley	be burst into	green life
+1.0	valley	be burst glad into	green life
+1.0	valley	be burst peacefully glad into	green life
+1.0	valley	be burst glad into	life
+1.0	valley	be burst peacefully glad into	life
+1.0	it	be	springtime
+1.0	valley	be burst into	life
+0.8734461225710652	that	fume of	furnace
+1.0	fume	desecrate	that
+1.0	fume	ever desecrate	that
+1.0	Hubert Eldon	have	have as good as he word
+1.0	Hubert Eldon	have	have good as he word
+1.0	Hubert Eldon	have	have as good
+1.0	Hubert Eldon	have	have good
+1.0	we	once more can climb to	top of Stanbury Hill
+1.0	we	enjoy	sense
+1.0	we	once more can climb to	top
+1.0	we	see	that
+1.0	we	enjoy	sense of remoteness
+1.0	we	can climb to	top of Stanbury Hill
+1.0	horizon	on patch be	cloud
+1.0	we	more can climb to	top
+1.0	we	more can climb to	top of Stanbury Hill
+1.0	we	can climb to	top
+1.0	Hubert	stand together after	a year
+1.0	vicar	stand after	a year
+1.0	Hubert	stand in	late April
+1.0	Hubert	stand together in	late April
+1.0	vicar	stand in	April
+1.0	Hubert	stand after	a year
+1.0	vicar	stand together in	April
+1.0	vicar	stand in	late April
+1.0	Hubert	stand together in	April
+1.0	Hubert	stand in	April
+1.0	vicar	stand together in	late April
+1.0	vicar	stand together after	a year
+1.0	people	be in	Wanley
+1.0	it	be	formerly unknown
+1.0	I	find	discontent
+1.0	it	be	unknown
+1.0	it	be	where unknown
+1.0	it	be	where formerly unknown
+1.0	they	want	he
+1.0	they	want sadly	he
+1.0	he	be oracle of	Belwick pot-house
+1.0	he	appear on	average
+1.0	he	be revolutionary oracle of	Belwick pot-house
+1.0	he	be	oracle
+1.0	he	be	revolutionary oracle
+1.0	people	enjoy	result
+1.0	other people	all enjoy	result
+1.0	I	enjoy	result
+1.0	I	all enjoy	result
+1.0	people	all enjoy	result
+1.0	other people	enjoy	result
+1.0	van	come to	Manor
+1.0	they	be	happy people
+1.0	they	be	people
+1.0	you	give	lease
+1.0	you	give	long lease
+1.0	you	give	they
+1.0	you	give	so long lease
+1.0	it	would	would impossible
+1.0	it	would	in twenty year would impossible
+1.0	I	should fall into	monomania
+1.0	they	walk	Hubert again speak
+1.0	they	walk	Hubert speak
+1.0	they	walk on	few pace
+1.0	they	walk on	pace
+1.0	placard	be in	Agworth station
+1.0	a. letter	be in	Belwick Chronicle
+1.0	yesterday morning something	cause	I
+1.0	I	buy	copy
+1.0	Tory paper	have	leader on socialism
+1.0	Tory paper	have	leader ago
+1.0	Tory paper	have	leader ago on socialism
+1.0	Tory paper	take	occasion
+1.0	Tory paper	have	leader
+1.0	she	write	letter
+1.0	she	write	letter to editor
+1.0	she	write to	Chronicle
+1.0	they	devote	leader
+1.0	they	devote leader to	subject
+1.0	they	print	she
+1.0	he	cease	he companion could reply
+1.0	it	see	she name
+1.0	it	see	she name in place
+1.0	he	cease on	tone
+1.0	he	cease on	bitter tone
+1.0	it	be	hideous
+1.0	she name	be in	such place
+1.0	it	see	she name in such place
+1.0	you	seem	unjust
+1.0	you	seem to	I
+1.0	you	seem	very unjust
+1.0	you	less acute	judge
+1.0	you feeling	make	you less acute
+1.0	you feeling	make	you acute
+1.0	you	acute	judge
+1.0	you personal feeling	make	you acute
+1.0	you personal feeling	make	you less acute
+1.0	she behaviour	be	surely admirable
+1.0	she behaviour	be	surely very admirable
+1.0	she behaviour	be	very admirable
+1.0	she behaviour	be	admirable
+1.0	I	believe technically in	he innocence
+1.0	I	believe in	he innocence
+0.39470293901381176	nothing	do with	matter
+1.0	we	have	this
+1.0	we	have	look
+1.0	she	be	convinced of he innocence
+1.0	herself	be	convinced
+1.0	she	be convinced of	he innocence
+1.0	herself	be convinced of	he innocence
+1.0	she	be	convinced
+1.0	herself	therefore make	it
+1.0	herself	make	it
+1.0	it	appear to	I
+1.0	it	would	would possible
+1.0	it	attach	evil significance
+1.0	man	to	name
+1.0	it	attach	more evil significance
+1.0	it	attach	significance
+1.0	it	attach significance than	that
+1.0	Mutimer	continue	bear
+1.0	it	attach significance to	man 's name
+1.0	it	be	miserable destiny
+1.0	it	be	destiny
+1.0	it	be	miserable
+1.0	he widow	keep	silence
+1.0	it	be	as one woman my lot know
+1.0	it	be	as one noble woman my lot know
+1.0	I	regard	she
+1.0	it	be	my lot know
+1.0	it	be	as one entirely noble woman my lot know
+1.0	Hubert	keep	silence
+1.0	Hubert	keep silence for	moment
+1.0	it	be	true
+1.0	it	be	all true
+1.0	I	be	jealous
+1.0	I	be	savagely jealous
+1.0	it	only mean of	course
+1.0	it	mean of	course
+1.0	Mr. Wyvern	regard	landscape
+1.0	I	say	anything to you about letter
+1.0	we	will talk of	thing
+1.0	we	now will talk of	other thing
+1.0	we	will talk of	other thing
+1.0	we	now will talk of	thing
+1.0	I	perhaps shall find there	peace
+1.0	I	shall find	peace
+1.0	I	perhaps shall find	peace
+1.0	I	have	summer
+1.0	I	have	summer among german gallery
+1.0	I	shall find there	peace
+1.0	I	have	summer among gallery
+1.0	they	continue	they walk
+1.0	they	continue	they walk along top
+1.0	they	continue	they walk along top of hill
+1.0	Mr. Wyvern	face	he companion
+0.34150016002479705	you	be serious	you say now
+0.5389890066119811	you	be	serious
+0.34150016002479705	you	be serious	you say just now
+0.34150016002479705	you	be serious	you say
+1.0	I	mean about	she love
+1.0	I	mean about	she love for Mutimer
+1.0	I	be of	course
+1.0	man	say in	jealous pique
+1.0	young man	say in	jealous pique
+1.0	it	distinguish between	thing
+1.0	man	say in	pique
+1.0	young man	say in	pique
+1.0	she	love	she husband
+1.0	you	have convince	yourself
+0.6956610376342334	conviction	be force upon	I
+0.6956610376342334	conviction	be	force
+1.0	she	do marry	he
+1.0	she	give	herself
+1.0	she	give	soul
+1.0	she	give	heart
+1.0	she	should make	it entreaty to I
+1.0	husband	have	work
+1.0	it	special entreaty to	I
+1.0	it	entreaty to	I
+1.0	she	pursue	she husband 's work
+1.0	she	should make	it entreaty
+1.0	she	should make	it special entreaty to I
+1.0	she	should make	it special entreaty
+1.0	it	issue naturally from	she former state
+1.0	zeal	be	nothing
+1.0	it	issue from	she former state
+1.0	zeal	be	nothing unanticipated
+1.0	it	issue from	she former state of mind
+1.0	it	issue naturally from	she former state of mind
+1.0	true woman	of	devotion
+1.0	brother	have	influence
+1.0	brother	influence 's	mother
+1.0	influence	mother	she
+0.9070985982148272	I	walk with	you
+1.0	I	be	unfortunately away
+1.0	I	be	away
+0.9070985982148272	I	walk in	fact
+1.0	they	be in	when trouble
+1.0	they	be in	trouble
+1.0	she	be drive by	common impulse
+1.0	she	be drive by	impulse
+1.0	they	be in	grievous trouble
+1.0	they	be in	when grievous trouble
+1.0	she	be	drive
+1.0	I	be	awkward
+1.0	it	would	would have useless
+1.0	she	hear of	engagement
+1.0	I	do go	see
+1.0	she	only see	mother
+1.0	she	only see	she mother
+1.0	it	behove	she
+1.0	it	behove	she
+0.1803733400157399	it	behove	loyal
+1.0	it	become	he wife
+1.0	she	put	she position
+1.0	it	may beyond	may all
+1.0	you meeting	be in	wood
+1.0	you meeting	be with	she
+1.0	you	make	so much
+1.0	you	make	much
+1.0	woman	have	life _
+1.0	woman 's life _	be	order
+1.0	neither	speak for	while
+0.5709867200370299	you	will call	you pass through London
+0.5709867200370299	you	will call on	Mrs. Westlake
+1.0	you	pass through	London
+0.5709867200370299	you	will call	you pass
+0.105033475385929	they	begin	descend
+1.0	they	descend	hill
+1.0	Walthams	live in	Wanley
+0.8863938703220852	auctioneer	residence on	outskirts of Belwick
+1.0	auctioneer	call	commodious residence on outskirts of Belwick
+1.0	auctioneer	call	commodious residence
+0.8863938703220852	auctioneer	residence on	outskirts
+1.0	auctioneer	call	commodious residence on outskirts
+1.0	Alfred Waltham	of	affair
+0.8863938703220852	auctioneer	commodious residence on	outskirts
+1.0	auctioneer	call	residence on outskirts of Belwick
+0.8863938703220852	auctioneer	commodious residence on	outskirts of Belwick
+1.0	auctioneer	call	residence on outskirts
+1.0	auctioneer	call	residence
+0.7784372049485168	he	eye to	dignity
+0.7784372049485168	he	eye to	civic dignity
+0.370290104537828	he	have	eye to civic dignity
+0.370290104537828	he	have	eye
+0.370290104537828	he	have	eye to dignity
+1.0	he	take in	daily of orthodox tendency
+1.0	he	take in	daily
+1.0	he	take in	daily of tendency
+1.0	he	subscribe to	Socialist papers
+1.0	he	cease	subscribe
+1.0	he	take in	daily of orthodox liberal tendency
+1.0	he	cease	subscribe to Socialist papers
+1.0	he	take in	daily of liberal tendency
+1.0	husband	have	death
+1.0	she	have pass with	Stella
+1.0	Adela	at	foot
+1.0	all	be	very glad
+1.0	all	be	glad
+1.0	matron	be with	two bounce boy
+1.0	all	have	she
+1.0	all	have	she at Belwick
+1.0	Letty	be in	particular
+1.0	she	be always engage in	study
+1.0	she	ever join in	conversation
+1.0	she	join in	general conversation
+1.0	she	scarcely join in	conversation
+1.0	she	scarcely ever join in	general conversation
+1.0	she	scarcely join in	general conversation
+1.0	she	join in	conversation
+1.0	she	scarcely ever join in	conversation
+1.0	she	ever join in	general conversation
+1.0	she pride	be	boundless
+1.0	she pride	be in	Adela
+0.9992368164241038	latter first attired	walk in	garden
+0.9992368164241038	latter attired	walk in	garden
+1.0	first attired	herself in	modify mourning
+0.9992368164241038	latter first attired	walk with	she
+0.9992368164241038	first attired	walk with	she
+1.0	latter attired	herself in	Letty
+0.9992368164241038	attired	walk in	garden
+1.0	latter attired herself	walk with	she
+1.0	attired herself	walk in	garden
+1.0	latter first attired	herself in	Letty
+1.0	attired	herself in	Letty
+1.0	latter attired	herself in	modify mourning
+1.0	latter first attired	herself in	modify mourning
+1.0	latter first attired herself	walk in	garden
+0.9992368164241038	attired	walk with	she
+1.0	latter attired herself	walk in	garden
+1.0	first attired herself	walk in	garden
+1.0	first attired	herself in	Letty
+1.0	latter attired	herself in	mourning
+0.9992368164241038	latter attired	walk with	she
+1.0	latter first attired	herself in	mourning
+1.0	attired	herself in	modify mourning
+1.0	first attired	herself in	mourning
+1.0	first attired herself	walk with	she
+1.0	latter first attired herself	walk with	she
+1.0	attired	herself in	mourning
+1.0	attired herself	walk with	she
+0.9992368164241038	first attired	walk in	garden
+0.793606273870637	you	be beautiful at_time	day
+0.793606273870637	you	be more beautiful dear at_time	day
+1.0	she sister	might think	too frivolous
+1.0	she sister	might think	frivolous
+0.793606273870637	you	be beautiful dear at_time	day
+0.793606273870637	you	be more beautiful at_time	day
+1.0	she	add in spite of	tremor
+1.0	beautiful face	wear	its pallor
+1.0	face	wear	its pallor
+1.0	beautiful face	wear always	its pallor
+1.0	face	be	destine
+1.0	face	wear always	its pallor
+1.0	beautiful face	be	destine
+0.7117111194186422	Hubert Eldon	leave of	Wanley
+1.0	Hubert Eldon	be take	leave of Wanley
+1.0	Hubert Eldon	be take	leave
+1.0	they	speak also of	visitor of they own perhaps
+1.0	they	speak of	visitor of they own
+1.0	they	speak of	visitor of they own perhaps
+1.0	they	speak also of	visitor of they own
+1.0	they	speak also of	visitor
+1.0	they	speak of	visitor
+1.0	she mother	be in	Wilton Square
+1.0	Alice	have live with	she mother in Wilton Square
+1.0	Alice	have live since with	she mother in Wilton Square
+1.0	Alice	have live with	she mother
+1.0	Alice	have live since with	she mother
+1.0	it	be	Adela
+1.0	month	exhaust	she power
+1.0	month	exhaust	she power of suffering
+1.0	she	give evidence in	court
+1.0	it	soon become	evident
+1.0	she	be	even when summon
+1.0	he	be	quite go
+1.0	she	be	summon
+1.0	it	become	evident
+1.0	she	do	it
+1.0	she	give	evidence
+1.0	she	give	evidence against he
+1.0	he	be go from	she heart
+1.0	child	be in	concern of life
+1.0	she	be	even summon
+1.0	she	be	when summon
+1.0	he	be	go
+1.0	he	be quite go from	she heart
+1.0	latter	by	goodness
+0.8923827539985412	she nature	grow in	feeling
+1.0	she	forgive	Adela
+0.8923827539985412	nature	grow in	liberal feeling
+1.0	she	forgive	Adela overcome by latter 's goodness
+0.8923827539985412	she nature	grow in	liberal feeling
+0.8015335418959469	Adela	overcome by	latter 's goodness
+1.0	she	forgive	Adela overcome
+0.8923827539985412	nature	grow in	feeling
+1.0	Mrs. Waltham	avoid	much as possible
+1.0	she	avoid	as much as possible
+1.0	she	avoid	much as possible
+1.0	Mrs. Waltham	avoid	as much as possible
+1.0	Letty	conciliate	she
+1.0	Letty	reply	she know
+1.0	she	well know to	how very gently
+1.0	she	know to	how very gently
+1.0	she	know to	gently
+1.0	she	well know to	how gently
+1.0	she	know with	comfort
+1.0	she	know to	very gently
+1.0	she	know to	how gently
+1.0	Letty	reply	she well know
+1.0	she	well know to	gently
+1.0	she	well know with	comfort
+1.0	she	well know to	very gently
+1.0	Mrs. Waltham	say at_time	morning
+1.0	she	object	walk with any
+1.0	she	object	walk with any of we
+1.0	she	object	walk
+1.0	she	seem	object
+1.0	it	be like	Adela
+1.0	it	be	how can expect
+1.0	it	be	can expect
+1.0	she	belong to	class
+1.0	she	belong so distinctly to	class
+1.0	it	be in	she blood of course
+1.0	it	be in	she blood
+1.0	she	belong distinctly to	class
+1.0	she	belong to	inferior class
+1.0	she	belong distinctly to	inferior class
+1.0	she	belong so distinctly to	inferior class
+1.0	I	be sorry for	she
+1.0	I	be so sorry for	she
+1.0	I	be so very sorry for	she
+1.0	I	be very sorry for	she
+1.0	I	be	so sorry
+1.0	I	be	so very sorry
+1.0	I	be	sorry
+1.0	I	be	very sorry
+1.0	we	must remember	that
+1.0	I	be	glad
+1.0	Adela	enter	room
+1.0	Life	save	intellectual
+1.0	she	position in	house one of recognise superiority
+1.0	she mother	seldom venture	chat without reserve in she presence
+1.0	she position	be in	house one of recognise superiority
+1.0	she	position in	house one
+1.0	she mother	chat without	reserve
+1.0	she	position in	house one recognise superiority
+1.0	she	position in	house one superiority
+1.0	she mother	seldom venture	chat
+1.0	she mother	venture	chat without reserve
+1.0	she mother	seldom venture	chat in she presence
+1.0	she mother	seldom venture	chat without reserve
+1.0	she mother	chat in	she presence
+1.0	she mother	venture	chat
+1.0	she	position in	house one of superiority
+1.0	she mother	venture	chat without reserve in she presence
+1.0	she mother	venture	chat in she presence
+1.0	Alfred	draw up in	midst of tirade
+1.0	Alfred	draw up in	midst
+1.0	it	be happiness	live with she
+1.0	she	there breathe	air of purity
+1.0	she	breathe	air of purity
+1.0	she	there breathe	air
+1.0	it	be happiness	live
+1.0	she	breathe	air
+1.0	she	ask	Alice have return
+1.0	she	ask	Alice have return from she walk
+1.0	Alice	have return from	she walk
+1.0	she	receive	reply in negative
+1.0	she	go into	garden
+1.0	reply	be in	negative
+1.0	she	go out into	garden
+0.5950643590979563	receive	reply in	negative
+1.0	she	receive	reply
+1.0	article	be in	paper
+0.6383101186013546	she much	article in	paper
+1.0	Mrs. Waltham	be with	dignified disapproval
+1.0	it	seem	very unlady-like
+1.0	it	write	letter to newspaper
+1.0	it	write	letter
+1.0	it	seem	unlady-like
+1.0	it	be brave of	she
+1.0	it	be	brave
+1.0	she	pay back money to	wretch in London
+1.0	wretch	be in	London
+1.0	she	pay back	money
+1.0	she	pay back money to	wretch
+1.0	she	want more	it
+1.0	she	want	it
+1.0	I	be	sure
+1.0	she	want far more	it
+0.48436500627343254	it	be	still very honourable
+0.48436500627343254	it	still be honourable of	she
+0.48436500627343254	it	be very honourable of	mother
+0.48436500627343254	it	be very honourable of	she
+0.48436500627343254	it	still be honourable of	mother
+0.48436500627343254	it	still be very honourable of	she
+0.48436500627343254	it	still be very honourable of	mother
+0.48436500627343254	it	be honourable of	mother
+0.48436500627343254	it	be	honourable
+0.48436500627343254	it	be honourable of	she
+0.48436500627343254	it	be	still honourable
+0.48436500627343254	it	be	very honourable
+1.0	she	understand	thing
+0.6320131408536263	thing	better	we can
+1.0	she	understand	thing better
+1.0	Adela	have in	have garden
+1.0	Adela	have in	have garden for few minute
+1.0	Alice	come towards	she
+1.0	Adela	have in	have garden for minute
+1.0	poor Princess	have look	joyful news have come to she
+1.0	poor Princess	have look	news have just come
+1.0	Princess	have look	joyful news have come
+1.0	Princess	have look	joyful news have just come
+1.0	Princess	have	look
+1.0	poor Princess	have	bright look
+1.0	news	have come to	she
+1.0	Princess	have look	joyful news have come to she
+1.0	Princess	have look	news have just come
+1.0	Princess	have	bright look
+1.0	poor Princess	have look	joyful news have just come
+1.0	poor Princess	have look	joyful news have just come to she
+1.0	poor Princess	have	look
+1.0	joyful news	have just come to	she
+1.0	poor Princess	have look	news have come
+1.0	poor Princess	have look	joyful news have come
+1.0	Princess	have look	news have come
+1.0	Princess	have look	joyful news have just come to she
+1.0	poor Princess	have look	news have just come to she
+1.0	poor Princess	have look	news have come to she
+1.0	joyful news	have come to	she
+1.0	Princess	have look	news have come to she
+1.0	news	have just come to	she
+1.0	Princess	have look	news have just come to she
+1.0	Adela	meet	she
+0.8200067484656522	Alice	speak with	embarrassment
+1.0	you	remember	Mr. Keene
+1.0	I	meet	he
+0.36632681049637295	he	would like	you will let
+1.0	he	speak to	you
+1.0	he	would like	speak
+1.0	you	will let	he
+1.0	he	would like	speak to you
+1.0	Adela	reply with	look of curiosity
+1.0	Adela	reply with	look
+1.0	they	walk to	garden gate
+1.0	Mr. Keene	be	outside
+1.0	Mr. Keene	be	just outside
+1.0	Alice	beckon	enter
+1.0	Alice	beckon to	he
+1.0	you	see	editor
+1.0	he appearance	be great improvement on	day
+1.0	appearance	be	great
+1.0	he	have grow	beard
+1.0	he appearance	be improvement on	old day
+1.0	he appearance	be improvement on	day
+1.0	you	see editor in	he eye
+1.0	he appearance	be	great improvement
+1.0	he appearance	be	improvement
+1.0	you	see	responsible editor
+1.0	he appearance	be great improvement on	old day
+1.0	he	altogether seem	have gain in solidity
+1.0	he	altogether seem	have gain in moral solidity
+1.0	he	gain in	moral solidity
+1.0	he	altogether seem	have gain
+1.0	he	seem	have gain
+1.0	he	seem	have gain in moral solidity
+1.0	he	gain in	solidity
+1.0	he	seem	have gain in solidity
+1.0	hat	be in	hand
+0.6802275347568401	Adela	hat in	hand
+1.0	Adela	hat in	hand
+1.0	it	be	great
+1.0	I	to pleasure be	Mrs. Mutimer
+1.0	he	say	bow
+1.0	he	say	bow low
+1.0	I	have have	my desire
+1.0	I	now have have	my desire
+1.0	my duty	call	I
+0.24153067343689905	he	smile to	Alice
+1.0	he	smile farewell to	Alice
+1.0	he	smile	farewell
+1.0	two	walk in	garden
+1.0	two	walk together in	garden
+1.0	Adela	turn to	she companion
+1.0	he	ask	I
+1.0	I	marry	he
+1.0	he	once ask	I
+1.0	Adela	reply with	look
+1.0	Adela	reply with	only look
+1.0	Alice	break off leaf from	bush
+1.0	he	be ask	I
+1.0	Alice	break off	leaf
+1.0	Alice	break off leaf from	elder bush
+1.0	he	be ask again	I
+1.0	he	have	have faithful to you so long
+1.0	he	have	have faithful long
+1.0	he	have	have faithful
+1.0	he	have	have faithful so long
+1.0	he	have	have faithful to you
+1.0	he	have	have faithful to you long
+1.0	Alice	conceal	she joy
+1.0	it	be	almost exultation
+1.0	it	be	exultation
+1.0	she	would have	name
+1.0	she	once more would have	name
+1.0	she	more feel	able
+1.0	she	feel	able
+1.0	she	more would have	name
+1.0	she	once more feel	able
+1.0	she	begin	talk
+1.0	she	begin	talk eagerly
+1.0	I	tell	mother
+1.0	he	have already decide upon	house
+1.0	we	see	it
+1.0	he	have decide upon	house
+1.0	I	tell	you
+1.0	she	would far rather live	go anywhere else
+1.0	she	would far live	go else
+1.0	she	would rather live alone	go
+1.0	she	would far rather live	go else
+1.0	she	would live alone	go anywhere else
+1.0	she	would live alone	go else
+1.0	she	would far rather live alone	go
+1.0	she	would rather live alone	go else
+1.0	she	would far rather live alone	go else
+1.0	she	would far live	go
+1.0	she	would far live alone	go
+1.0	she	would live alone	go
+1.0	she	would live	go
+1.0	she	would far rather live	go
+1.0	she	would rather live	go else
+1.0	she	would live	go anywhere else
+1.0	she	would rather live	go
+1.0	she	would far live alone	go anywhere else
+1.0	she	would live	go else
+1.0	she	would far live alone	go else
+1.0	she	would far rather live alone	go anywhere else
+1.0	she	would rather live alone	go anywhere else
+1.0	she	would rather live	go anywhere else
+1.0	she	would far live	go anywhere else
+1.0	I	shall	now shall able
+1.0	I	send	she money
+1.0	I	shall	shall able
+1.0	Alice	shake	she head
+1.0	we	hear	better
+1.0	it	be	true
+1.0	Alice	travel to	town
+1.0	next morning Adela	travel to	town
+1.0	morning Adela	travel together to	town
+1.0	next morning Adela	travel together to	town
+1.0	morning Adela	travel to	town
+1.0	Alice	travel together to	town
+1.0	Richard	of	death
+0.08250788677896104	Adela	feel	object of prejudice
+1.0	herself	be object of	prejudice
+1.0	herself	be	object
+0.08250788677896104	Adela	feel	object
+0.08250788677896104	Adela	feel	object of insuperable prejudice
+1.0	Adela	feel	herself
+1.0	herself	be object of	insuperable prejudice
+1.0	she	be hard in	speaking
+1.0	she	be hard in	speaking of she son
+1.0	she	be	hard
+1.0	she	refuse at_time	will
+1.0	she	supplement	income
+1.0	she	supplement income for	board
+1.0	Alice	pay	she mother
+1.0	she	supplement	income derive
+1.0	Adela	be	once more under roof of she friend preoccupy
+1.0	Adela	be less preoccupy with	past
+1.0	Adela	be	once more less preoccupy
+1.0	Adela	be preoccupy with	past
+1.0	Adela	be preoccupy with	sad past
+1.0	Adela	be	less preoccupy
+1.0	Adela	be	more under roof of she dearest friend preoccupy
+1.0	Adela	be	more preoccupy
+1.0	Adela	be	once more under roof of she dearest friend less preoccupy with sad past
+1.0	Adela	be	once more under roof less preoccupy with past
+1.0	Adela	be	more under roof of she friend preoccupy with sad past
+1.0	Adela	be	once more under roof of she dearest friend less preoccupy with past
+1.0	Adela	be	more under roof preoccupy with sad past
+1.0	Adela	be	once more under roof less preoccupy
+1.0	Adela	be	more under roof of she dearest friend preoccupy with sad past
+1.0	Adela	be	once more under roof preoccupy with sad past
+1.0	Adela	be	more under roof of she dearest friend less preoccupy
+1.0	Adela	be	more under roof preoccupy with past
+1.0	Adela	be	preoccupy
+1.0	Adela	more be preoccupy with	sad past
+1.0	Adela	be	once more under roof less preoccupy with sad past
+1.0	Adela	be	more under roof of she dearest friend less preoccupy with sad past
+1.0	Adela	be	once more under roof of she friend less preoccupy with past
+1.0	Adela	be	once more under roof of she dearest friend preoccupy with past
+1.0	Adela	be less preoccupy with	sad past
+1.0	Adela	be	once more under roof of she friend less preoccupy
+1.0	Adela	be	more under roof of she friend less preoccupy with past
+1.0	Adela	be	once more under roof preoccupy with past
+1.0	Adela	once more be preoccupy with	sad past
+1.0	Adela	be	more under roof less preoccupy with past
+1.0	Adela	be	more under roof of she friend less preoccupy
+1.0	Adela	once more be less preoccupy with	past
+1.0	Adela	be	more under roof less preoccupy with sad past
+1.0	Adela	more be preoccupy with	past
+1.0	Adela	be	once more under roof of she friend less preoccupy with sad past
+1.0	Adela	once more be preoccupy with	past
+1.0	Adela	be	once more under roof of she friend preoccupy with sad past
+1.0	Adela	be	more under roof of she friend less preoccupy with sad past
+1.0	Adela	more be less preoccupy with	sad past
+1.0	Adela	once more be less preoccupy with	sad past
+1.0	Adela	be	once more under roof preoccupy
+1.0	Adela	be	once more under roof of she friend preoccupy with past
+1.0	Adela	be	once more under roof of she dearest friend preoccupy with sad past
+1.0	Adela	be	once more under roof of she dearest friend less preoccupy
+1.0	Adela	be	more under roof less preoccupy
+1.0	Adela	be	once more under roof of she dearest friend preoccupy
+1.0	Adela	be	more under roof preoccupy
+1.0	Adela	more be less preoccupy with	past
+1.0	Adela	be	more under roof of she dearest friend less preoccupy with past
+1.0	Adela	be	more under roof of she friend preoccupy with past
+1.0	Adela	be	more less preoccupy
+1.0	Adela	be	more under roof of she friend preoccupy
+1.0	Adela	be	more under roof of she dearest friend preoccupy with past
+1.0	Adela	be	once more preoccupy
+1.0	she	could breathe	atmosphere
+1.0	she	could breathe atmosphere after	hour
+1.0	she	could breathe atmosphere after	hour pass with Stella
+1.0	she	could breathe freely	atmosphere of beauty
+1.0	she	could breathe freely atmosphere after	hour
+1.0	she	could breathe freely atmosphere after	hour pass
+1.0	she	could breathe atmosphere after	hour pass
+1.0	she	could breathe freely	atmosphere
+1.0	she	could breathe freely atmosphere after	hour pass with Stella
+1.0	she	could breathe	atmosphere of beauty
+1.0	she	be	surround
+1.0	comfort	be	burdensome
+1.0	comfort	be	often burdensome
+1.0	comfort	be often burdensome to	she conscience
+1.0	comfort	be burdensome to	she conscience
+1.0	she	could lay hold on	truth
+1.0	world	apart from	tumult
+0.02038138290973901	she	could lay on	truth
+1.0	work	be in	cause of humanity other than that
+1.0	Stella	in	presence
+1.0	she	could lay	firm hold
+1.0	she	could lay	hold
+1.0	Stella	to	voice
+1.0	sweat	be	sacred
+1.0	she natural mood	be	profound humility
+1.0	mood	be	profound
+1.0	she mood	be	profound humility
+1.0	she natural mood	be	humility
+1.0	she mood	be	humility
+1.0	she	deem	herself
+1.0	whose part	inspire	hope
+1.0	she	be of	those elect
+1.0	it	be	whose part
+1.0	she	be of	those
+1.0	whose part	inspire	faith
+0.3545193583030827	use	lip for	utterance
+1.0	she arrival	be in	London Adela
+1.0	it	seem to	she
+1.0	she	see with	pleasure
+1.0	woman	reply to	she knock
+1.0	Miss Vine	be at	home
+1.0	she	ask at	home
+1.0	I	shall tell	she
+1.0	I	thank	you
+1.0	you	will find	she
+1.0	she	hear	hum
+1.0	she	hear hum at	door
+0.6686281599418457	she	hum of	sewing-machine
+1.0	she	hear	hum of sewing-machine
+1.0	it	make	she heart sink
+1.0	work	one of	she sister 's child sit by she
+1.0	sister	of	child sit by she
+1.0	Emma	be at	work
+0.7633670029801135	she feature	expression of	pain
+1.0	she	have expect	appearance of landlady
+1.0	expression	pass over	she feature
+1.0	she	have expect	appearance
+1.0	Adela	kiss	she forehead
+1.0	room	be like	other
+1.0	it	have	brighter outlook
+1.0	sister	have live	save
+1.0	it	have	outlook
+1.0	room	be like	much other
+1.0	table	cover with	work
+1.0	you	do find	it better
+1.0	you	do find	it better here
+1.0	Adela	begin	ask
+1.0	we	get	good deal
+1.0	we	get	deal
+1.0	we	get	deal of work
+1.0	we	get	good deal of work
+1.0	it	have	that
+1.0	it	depend upon	she effort
+1.0	it	depend entirely upon	she own effort
+1.0	it	depend entirely upon	she effort
+1.0	it	depend upon	she own effort
+1.0	she	meet	she
+1.0	Mutimer	lay	dead
+1.0	Adela	have read	Emma 's character
+1.0	Adela	have read	clearly Emma 's character
+1.0	she	first meet	she
+1.0	Stella	be with	she husband
+1.0	Stella	stella with	she husband
+1.0	she	have take	counsel
+1.0	she	have take counsel with	Stella
+1.0	she	have take counsel with	Stella
+1.0	she	have take counsel with	Stella with she husband
+1.0	they	discover opportunity in	part of East End
+1.0	they	discover	opportunity of work
+0.5057709100657517	they	opportunity of	work
+1.0	they	discover opportunity in	part
+1.0	they	discover	opportunity
+1.0	it	be	better
+1.0	it	take gratefully	advice
+1.0	it	take	advice
+1.0	it	be better than	over-swarmed neighbourhood
+1.0	it	know to	Emma
+1.0	Mr. Westlake	make	it know
+1.0	Mr. Westlake	make	it know to Emma
+1.0	it	be better than	neighbourhood
+1.0	Kate	be get away from	she evil companion
+1.0	Kate	be get away from	she companion
+1.0	Kate	be	get
+1.0	she	have	hope
+1.0	she	have too	hope
+1.0	she	give attention to	she child
+1.0	she	give	more attention
+1.0	she	give	attention
+1.0	she	be	go
+1.0	Emma	reply to	question
+1.0	Emma	reply to	question of Adela 's
+1.0	she	be just go with	eldest
+1.0	she	be go with	eldest to hospital
+1.0	she	be	just go
+1.0	she	be go with	eldest
+1.0	she	be just go with	eldest to hospital
+0.3029946039844119	he	be get	something
+0.3029946039844119	he	be get	something with he eye
+1.0	something	be with	he eye
+1.0	we	be	afraid
+1.0	he	ought	school
+1.0	he	be have	such dreadful cough
+1.0	he	be have	such cough
+1.0	we	send out just yet	he
+1.0	he	only be have	such dreadful cough
+1.0	he	be have	dreadful cough
+1.0	he	be have	cough
+1.0	he	only be have	such cough
+1.0	he	be at	school
+1.0	he	only be have	dreadful cough
+1.0	we	send out yet	he
+1.0	we	send out	he
+1.0	he	only be have	cough
+1.0	I	be	afraid
+1.0	friend	be in	London
+1.0	Adela	say after	pause
+1.0	you	be in	still house
+1.0	you	be in	still same house
+1.0	you	be in	same house
+1.0	you	be in	house
+1.0	we	move for	long time
+1.0	she	raise	she eye
+1.0	constraint	be	inevitable
+1.0	you	ever should have	move
+1.0	you	should have	move
+1.0	mother	of	house
+1.0	I	have write	address
+1.0	I	have write	address of my mother 's house
+1.0	I	have write address on	paper
+1.0	I	live with	she
+1.0	you	will show	much friendship
+1.0	you	will show	I
+1.0	you	will show	so much friendship
+1.0	you	will show	friendship
+1.0	Emma	glance at	she
+1.0	she	have see in	eye
+1.0	she	have see before in	eye
+1.0	Emma	see	look
+1.0	it	even touch upon	source
+1.0	it	touch upon	source of tear
+1.0	it	even touch upon	source of tear
+1.0	it	touch upon	source
+1.0	Stella	receive during	visitor ' hour
+1.0	it	be on	day
+1.0	Stella	sit	receive during visitor ' hour
+1.0	Stella	sit	receive
+1.0	it	be on	only day
+1.0	it	be on	certain day
+1.0	it	be on	only certain day
+1.0	Adela	be in	room at mention
+1.0	Adela	be in	room at mention of name
+1.0	Adela	be in	room
+1.0	I	win	go
+1.0	it	do	engage
+1.0	you	be	engage
+1.0	I	get	it do
+1.0	Stella	have	look
+1.0	she	leave	room
+1.0	she	meeting	Stella 's look
+1.0	Adela	go to	exquisitely furnished boudoir
+1.0	Adela	go to	little boudoir
+1.0	Adela	sit down	write
+1.0	she	have in	mind
+1.0	Adela	sit down	write on subject
+1.0	Adela	go to	boudoir
+1.0	Adela	sit down	write to she mother
+1.0	Adela	go to	furnished little boudoir
+1.0	Adela	sit down	write to she mother on subject
+1.0	Adela	sit down with	resolve
+1.0	Adela	go to	exquisitely furnished little boudoir
+1.0	Adela	go to	furnished boudoir
+1.0	two	rest	she face
+1.0	she	lay down	she pen
+1.0	she	have	have untrouble
+1.0	she	have	ago have untrouble by thought
+1.0	she	have	have untrouble by thought
+1.0	she	have	minute ago have untrouble by thought
+1.0	she	have	ago have untrouble
+1.0	she	have	minute ago have untrouble
+1.0	she	love with	love
+1.0	she	love with	love of year
+1.0	man	be with	first love of maidenhood
+1.0	he	read	tenderness
+1.0	he	read	tenderness on she face
+0.5347429530892265	he	tenderness on	she face
+1.0	Hubert 's wealth	be	doubly hateful
+1.0	Hubert 's wealth	be	hateful
+1.0	Hubert	have	wealth
+1.0	she	start from	she chair
+1.0	she	start with	difficulty
+1.0	someone	have knock at	she door
+1.0	it	be	Stella
+1.0	Mr. Eldon	wish	speak
+1.0	Mr. Eldon	wish	speak to you dear
+1.0	Mr. Eldon	speak dear to	you
+1.0	Mr. Eldon	wish	speak to you
+1.0	Mr. Eldon	speak to	you
+1.0	Mr. Eldon	wish	speak dear
+1.0	friend	have	hand
+1.0	she	crush	it
+1.0	she	catch	she friend 's hand
+1.0	she	almost crush	it
+1.0	Stella	be with	pained voice
+1.0	Adela	sink	she head
+1.0	Stella	put	arm
+1.0	Stella	put arm about	she
+1.0	Adela	free	herself
+1.0	she	be in	somehow he presence
+1.0	she	be in	he presence
+1.0	Hubert	say with	self-control
+1.0	Hubert	say with	equal self-control
+1.0	you	will allow	I
+0.14059619431790493	it	be better	you will allow
+1.0	it	do	my business
+0.14059619431790493	it	be better perhaps	you will allow
+1.0	it	be	better perhaps
+1.0	it	be	better
+1.0	he	be	seat
+0.0738428528355789	she	pray	seat
+1.0	herself	take place on	ottoman
+1.0	herself	take	place
+1.0	she	pray	he
+1.0	she	regard	he face
+1.0	she	be	able
+1.0	she	be	able calmly
+1.0	she	be	able very calmly
+1.0	he	lean forward with	he hand
+1.0	he	lean with	he hand
+1.0	he	lean forward together with	he hand
+1.0	he	speak on	she
+1.0	he	lean together with	he hand
+1.0	he	speak with	he eye
+1.0	it	be with regard to	legacy
+1.0	Mr. Mutimer	under	will
+1.0	I	be reason	do
+1.0	I	be reason	do so
+1.0	I	have	it
+1.0	I	be about for	perhaps year
+1.0	I	have let manor to	friend of mine
+0.36632681049637295	I	have let on	twenty year ' lease
+1.0	I	be about for	few year
+1.0	I	have let manor to	friend
+1.0	I	have let manor on	twenty year ' lease
+1.0	I	leave	England
+1.0	I	be about for	perhaps few year
+0.36632681049637295	I	have let to	friend of mine
+1.0	I	be about for	year
+0.36632681049637295	I	have let to	friend
+1.0	I	have let	Manor
+1.0	it	be	simpler
+1.0	it	be	simpler better
+1.0	I	do	that
+1.0	he word	chill	she
+1.0	it	have	ring of hard cash
+1.0	it	have	ring
+1.0	it	have	ring of cash
+0.8791528279523422	it	ring of	metal
+0.8791528279523422	it	ring of	cash
+1.0	he voice	seem	harder
+0.8791528279523422	it	ring of	hard cash
+1.0	he voice	seem	he proceed
+1.0	it	have	ring of metal of cash
+1.0	it	have	ring of metal
+1.0	it	have	ring of metal of hard cash
+1.0	he	do with	she
+1.0	he	wish	have do
+1.0	he	wish	have do with she
+1.0	she	hear of	foreign woman
+1.0	she	feel	she have do
+1.0	she	hear of	other foreign woman
+1.0	she	feel	she have do ago
+1.0	she	hear of	other woman
+1.0	she	hear of	woman
+1.0	she	feel	she have do long ago
+1.0	you	be	willing
+1.0	it	will	will best
+1.0	you	make	change
+1.0	he	see pleasure in	she face
+1.0	he	see	pleasure
+1.0	she	might have	project for use
+1.0	she	might have	project
+1.0	she	might have	project for use of money
+1.0	you	shall	shall inform
+1.0	it	be	ready
+1.0	it	be	when ready
+1.0	it	be ready for	signature
+1.0	it	be	when ready for signature
+1.0	they	shake	hand
+1.0	he	reply	smile
+1.0	he	reply in	my dilettante way
+1.0	Adela	remain till	hour of dinner
+1.0	Adela	return to	she room
+1.0	Adela	remain till	hour
+1.0	she	be	she ordinary self
+1.0	she	be	she self
+1.0	she	be	at meal she ordinary self
+1.0	she	be	at meal she self
+1.0	she	comment upon	it
+1.0	Mr. Westlake	afterwards ask	she
+1.0	she	comment with	mind
+1.0	she	comment with	clear mind
+1.0	she	read	article appear in Beacon
+1.0	Mr. Westlake	ask	she
+1.0	she	read	article appear
+1.0	she	tell in	course of evening
+1.0	she	tell in	course
+1.0	she	later have	call at solicitor 's office
+1.0	she	have	call
+1.0	she	have	call at solicitor 's office
+1.0	she	call at	solicitor 's office
+1.0	she	later have	call
+1.0	solicitor	at	office
+1.0	Hubert	leave	England evening
+1.0	Hubert	leave	England same evening
+1.0	day	would	would have spend
+1.0	day	would	would have spend in solitude
+1.0	she	have at	have home
+1.0	she	suffer in	Stella 's company
+1.0	Stella	in	company
+1.0	sickness	waste	she
+1.0	she	sometimes could play	she part
+1.0	she	sometimes could hardly play	she part
+0.8623949610070036	she	sickness of	soul
+1.0	she	could play	she part
+1.0	she	could hardly play	she part
+1.0	he	perhaps talk with	someone
+1.0	he	be on	now continent
+1.0	he	perhaps already talk with	someone
+1.0	it	be	morning
+1.0	he	be on	continent
+1.0	he	talk with	someone
+1.0	he	already talk with	someone
+1.0	she	be ashamed	she believe
+1.0	he	might see by	sympathy
+1.0	she	be	ashamed
+1.0	she	have fear	he
+1.0	he	might see into	she heart
+1.0	she	crush heart with	perverse cruelty
+1.0	cold sweat	stand on	she forehead
+1.0	money	annual payment of be	have link
+1.0	money	payment of be	have link
+1.0	money	payment of be	have link between he
+1.0	annual payment	have	have link
+1.0	she	sign	deed
+1.0	payment	have	have link between he
+1.0	money	annual payment of be	have link between he
+1.0	annual payment	have	have link between he
+1.0	payment	have	have link
+1.0	sweat	stand on	she forehead
+1.0	she life	so abandon	itself
+1.0	she life	abandon	itself
+1.0	he	have prove	himself generous
+1.0	he	have prove	himself generous of virtue
+1.0	himself	generous of	virtue
+1.0	such reasoning	lead to	self-mockery
+1.0	reasoning	lead to	self-mockery
+1.0	she	be	girl
+1.0	it	be of	she life
+1.0	she soul	be	bare
+1.0	she	could say to	herself
+1.0	you	love	he
+1.0	you	be	free
+1.0	she hunger	be appease by	act
+1.0	she hunger	be	appease
+1.0	she	could look on	food
+1.0	she hunger	be appease by	act of sight
+1.0	she	might surrender	herself
+1.0	she	must leave	house
+0.7963924865928107	weariness	woe as	hers
+0.7963924865928107	weariness	such woe as	hers
+1.0	Mr. Eldon	see	she
+1.0	servant	come to	she door
+1.0	she	be	incredulous
+1.0	she	require	servant
+1.0	servant	repeat	name
+1.0	Mr. Eldon	be in	drawing-room
+1.0	oversight	be in	legal business
+1.0	there must have error	oversight in	legal business
+1.0	it	torture	she
+1.0	it	be	inhuman
+1.0	she	hasten to	drawing-room
+1.0	he	speak	briefly
+1.0	he	release	she
+1.0	he	be	pale
+1.0	I	find	it impossible
+1.0	you	say to	I
+1.0	she	speak without	thought for dignity
+1.0	she	speak without	thought
+1.0	she	speak recklessly without	thought
+1.0	she	speak recklessly without	thought for dignity
+1.0	she question	sound	have extort by pain
+1.0	she question	sound	have extort from she by pain
+1.0	she question	sound	have extort from she
+1.0	she question	sound	have extort
+1.0	it	have	have extort from she by pain
+1.0	it	have	have extort from she
+1.0	it	have	have extort by pain
+1.0	it	have	have extort
+1.0	I	go now and finally from	you
+1.0	I	go away from	you
+1.0	I	go	I go from you
+1.0	I	go away now and finally from	you
+1.0	I	go away now from	you
+1.0	I	go	I go away now
+1.0	I	go	I go now
+1.0	I	go	I go from you now
+1.0	I	go	I go away from you now
+1.0	I	go	I go
+1.0	I	go	I go away from you
+1.0	I	go now from	you
+1.0	I	go	I go away
+1.0	I	go from	you
+1.0	you	be	everything
+1.0	you	be everything to	I
+1.0	you	be	offend
+1.0	you	shrink from	I
+1.0	I	fling away chance in	moment
+1.0	I	fling chance in	moment of madness
+1.0	I	ago fling chance in	moment
+1.0	I	love	you
+1.0	I	fling chance in	moment of boyish madness
+1.0	I	ago fling chance in	moment of madness
+1.0	I	ago fling away chance in	moment of madness
+1.0	I	fling away chance in	moment of madness
+1.0	I	fling	chance
+1.0	I	fling away	chance
+1.0	I	ago fling chance in	moment of boyish madness
+1.0	I	ago fling away	chance
+1.0	I	fling away chance in	moment of boyish madness
+1.0	I	ago fling away chance in	moment of boyish madness
+1.0	I	ago fling away chance in	moment
+1.0	I	ago fling	chance
+1.0	I	fling chance in	moment
+1.0	myself	contemptible in	you eye
+1.0	I	make	myself contemptible
+1.0	I	make	myself contemptible in you eye
+1.0	you	loathe	I
+1.0	it	be	late
+1.0	it	be	too late
+1.0	it	be	when too late
+1.0	it	be	when late
+1.0	man	love	one woman
+1.0	I	always love	you
+1.0	I	love	you
+1.0	I	love	you
+1.0	I	love	you
+1.0	I	be in	my life before
+1.0	I	remember	have my life
+1.0	I	ever remember	have my life before
+1.0	I	speak	word
+1.0	I	remember	have my life before
+1.0	I	be	happier
+1.0	I	ever remember	have my life
+1.0	I	be in	my life
+1.0	Adela	have	bosom
+1.0	I	begin	speak of money in thought
+1.0	it	lead on	I
+1.0	I	begin	speak of money
+1.0	I	begin	speak
+1.0	I	speak in	thought
+1.0	I	speak of	money
+1.0	I	begin	speak in thought
+1.0	it	have	effect
+1.0	it	have	opposite effect
+1.0	you	show	I
+1.0	it	be	natural
+1.0	it	be	natural enough
+1.0	you	talk	could much same as mine
+1.0	you sympathy	be	perhaps entirely remote
+1.0	you	ago talk	could much same
+1.0	you interest	could	could much same
+1.0	you	ago talk	could much same as mine
+1.0	you interest	could	could same
+1.0	you	ago talk	could same as mine
+1.0	you interest	could	could same as mine
+1.0	you	ago talk	could same
+1.0	you sympathy	be	entirely remote
+1.0	you sympathy	be	too entirely remote
+1.0	you	talk	could much same
+1.0	you	talk with	I
+1.0	you sympathy	be	remote
+1.0	you interest	could	could much same as mine
+1.0	you sympathy	be	perhaps too entirely remote
+1.0	you	talk	could same
+1.0	you sympathy	be	perhaps remote
+1.0	you	talk	could same as mine
+1.0	you	ago talk with	I
+0.587921289809257	you	side of	you nature
+1.0	you	suppress	side of you nature
+1.0	you	suppress	side
+1.0	I	feed love for	you
+1.0	you	have	conviction
+1.0	they	be	oppose
+1.0	they	be oppose to	mine
+1.0	you	have	purpose
+1.0	I	only live in	my passion
+1.0	I	live in	my passion
+1.0	we	be	different
+1.0	I	speak	word
+1.0	I	say to	you
+1.0	I	say aloud to	you
+1.0	it	be	despair
+1.0	it	be	mere despair
+1.0	she	draw	one step
+1.0	she	draw	one step nearer to he
+1.0	she	draw	one step nearer
+1.0	you	love	I
+1.0	you	still love	I
+1.0	you	disregard	difference
+1.0	_	be	_ distance between we
+1.0	my end	be	other
+1.0	my end	be other than	yours
+1.0	_	be	_ distance
+1.0	you	would have	I
+0.8333182319124577	present	make	myself
+1.0	I	love	you
+1.0	untruth	fall from	she
+1.0	he heart	be in	passionate triumph
+1.0	she	have achieve	she womanhood
+1.0	he	draw	she
+1.0	untruth	fall like	veil
+1.0	he	search	she face

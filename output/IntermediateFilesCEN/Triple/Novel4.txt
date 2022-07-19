@@ -1,0 +1,889 @@
+1.0	I	lay	unable
+1.0	I	lay with	emotion
+1.0	I	lay with	emotion of morning
+1.0	hour	wear out with	exertion
+1.0	I	lay in	my room
+1.0	hour	wear out with	exertion of past day
+1.0	I	drop	my book
+1.0	I	go to	bed
+1.0	nature	assert	herself
+1.0	exhausted nature	sleep at	last
+1.0	nature	chill to	bone
+1.0	exhausted nature	chill to	bone
+1.0	nature	sleep at	last
+1.0	exhausted nature	assert	herself
+1.0	world	come into	my soul
+1.0	pain	be in	store
+1.0	discrepancy	of triumph be	fancied victory over outrageous discord
+1.0	triumph	victory of	sleep-dulled intellect
+1.0	wake reason	over triumph be	fancied victory of sleep-dulled intellect
+1.0	triumph	victory over	outrageous discord of wakeful imagination
+1.0	I	pass at_time	most miserable night
+1.0	I	pass at_time	night
+1.0	I	pass at_time	miserable night
+1.0	it	seem rest	close
+1.0	it	seem	rest
+1.0	my eye	be	close
+1.0	it	seem rest to	wake
+1.0	it	seem rest	awake
+1.0	it	seem	rest
+0.10229525773632098	it	be moment	I have expect since yesterday
+0.10229525773632098	I	have expect since	yesterday
+1.0	it	be moment to	I
+0.10229525773632098	it	be terrible moment	I have expect
+1.0	it	be	terrible
+0.10229525773632098	it	be terrible moment	I have expect since yesterday
+1.0	it	be	terrible moment
+1.0	I	have expect	it
+1.0	it	be	moment
+1.0	it	be terrible moment to	I
+0.10229525773632098	it	be moment	I have expect
+1.0	condemn criminal	be in	France
+1.0	he	come forth	die
+1.0	he	come	die
+0.6334333275363917	he cell	executioner at	daybreak
+1.0	executioner	enter	he cell
+1.0	executioner	enter	bid
+1.0	I	take	he hand
+1.0	I	lead	he
+1.0	most people	feel	I do
+1.0	people	feel	I do
+1.0	I	be	sure
+1.0	it	smooth	daily bed of tormented wretch
+1.0	it	be	painful
+1.0	it	smooth	daily bed of wretch
+1.0	it	smooth	daily bed
+1.0	it	be	far less painful
+1.0	it	be	surely easier
+1.0	it	suffer wound	stand by
+1.0	it	smooth	bed of poor wretch
+1.0	it	smooth	daily bed of poor wretch
+1.0	it	smooth	daily bed of poor tormented wretch
+1.0	it	suffer	wound
+1.0	clean knife	go through	skin
+1.0	it	suffer wound	stand
+1.0	it	smooth	bed of wretch
+1.0	it	be	easier
+1.0	knife	go through	skin
+1.0	cold knife	go through	skin
+1.0	it	smooth	pillow
+1.0	it	smooth	bed of poor tormented wretch
+1.0	it	smooth	bed
+1.0	it	be	less painful
+1.0	one	in	own body
+1.0	it	suffer	disease
+1.0	cold clean knife	go through	skin
+1.0	it	smooth	bed of tormented wretch
+1.0	we	turn away	whether
+1.0	show pity	alleviate	distress
+1.0	I	feel	much
+1.0	I	feel	much of this
+1.0	I	do	my best
+1.0	I	have know	I have hope
+1.0	I	send away	he
+1.0	he	enter	we
+1.0	you	be suffer past	power of reason alleviate
+1.0	you	be suffer greatly past	power
+1.0	you	be suffer past	power
+1.0	you	be suffer greatly past	power of reason alleviate
+1.0	I	will show to	you
+0.47318217566553156	I	find	man place
+0.47318217566553156	I	find	young man most exceptionally place in regard to world
+0.47318217566553156	I	find	very young man place in regard to world
+0.47318217566553156	I	find	very young man most place in regard
+0.6153475019672121	young man	place in	regard world
+0.6153475019672121	man	most exceptionally place in	regard world
+0.47318217566553156	I	find	young man most place
+0.47318217566553156	I	find	young man exceptionally place
+0.47318217566553156	I	find	young man most place in regard
+0.47318217566553156	I	find	man
+0.47318217566553156	I	find	young man most exceptionally place
+0.47318217566553156	I	find	very young man most exceptionally place
+0.47318217566553156	I	find	man most exceptionally place in regard
+0.47318217566553156	I	find	very young man place
+0.47318217566553156	I	find	man most exceptionally place in regard to world
+0.6153475019672121	man	most place in	regard world
+0.6153475019672121	young man	most place in	regard
+0.47318217566553156	I	find	young man exceptionally place in regard
+0.6153475019672121	man	most place in	regard
+0.6153475019672121	young man	most exceptionally place in	regard world
+0.47318217566553156	I	find	man most place in regard to world
+0.47318217566553156	I	find	man exceptionally place in regard to world
+0.6153475019672121	young man	most place in	regard world
+0.47318217566553156	I	find	you
+0.47318217566553156	I	find	very young man most place in regard to world
+0.47318217566553156	I	find	young man most place in regard to world
+0.47318217566553156	I	find	man exceptionally place
+0.47318217566553156	I	find	very young man exceptionally place in regard
+0.47318217566553156	I	find	very young man place in regard
+0.6153475019672121	man	place in	regard
+0.47318217566553156	I	find	man most place in regard
+0.47318217566553156	I	find	man place in regard to world
+0.47318217566553156	I	find	young man
+0.47318217566553156	I	find	young man place
+0.47318217566553156	I	find	young man exceptionally place in regard to world
+0.6153475019672121	young man	exceptionally place in	regard
+0.47318217566553156	I	find	man exceptionally place in regard
+0.47318217566553156	I	find	man most exceptionally place
+0.6153475019672121	young man	most exceptionally place in	regard
+0.6153475019672121	man	place in	regard world
+0.47318217566553156	I	find	very young man most place
+0.6153475019672121	man	exceptionally place in	regard world
+0.47318217566553156	I	find	you year ago
+0.6153475019672121	young man	place in	regard
+0.47318217566553156	I	find	very young man
+0.47318217566553156	I	find	very young man exceptionally place
+0.6153475019672121	young man	exceptionally place in	regard world
+0.47318217566553156	I	find	man place in regard
+0.6153475019672121	man	most exceptionally place in	regard
+0.47318217566553156	I	find	man most place
+0.47318217566553156	I	find	very young man most exceptionally place in regard
+0.47318217566553156	I	find	very young man most exceptionally place in regard to world
+0.6153475019672121	man	exceptionally place in	regard
+0.47318217566553156	I	find	young man place in regard to world
+0.47318217566553156	I	find	young man place in regard
+0.47318217566553156	I	find	very young man exceptionally place in regard to world
+0.47318217566553156	I	find	young man most exceptionally place in regard
+1.0	you	be	rich
+1.0	you	be	even rich
+1.0	you	be	then rich
+1.0	you	be	even then rich
+1.0	you	be	happy
+1.0	you	be	materially think man
+1.0	you	be	think man
+1.0	you	be	think
+1.0	you	be	man
+1.0	you thought	be of	flesh
+1.0	you precious stone	be in	storehouse
+1.0	they	abide with	you
+1.0	they	abide as	light
+1.0	you	lay	you hand
+1.0	they	abide as	light of sun
+1.0	lord	be in	summer
+1.0	you	have	golden black hair
+1.0	skin	be	as fine silk
+1.0	you	have	hair
+1.0	you	have	black hair
+1.0	you	have	they breath
+1.0	skin	be	as silk
+1.0	you	have	golden hair
+1.0	skin	be	fine silk
+1.0	skin	be	silk
+1.0	you	have	they breath as freshness of dawn
+1.0	you	have	they breath as freshness
+1.0	you	dwell in	peace
+1.0	you	wax	glad
+1.0	you	drink of	cup
+1.0	you	have	have happy long
+1.0	it	have	have law of nature
+1.0	you	have	have happy
+1.0	you	have	have happy so long
+1.0	it	have	have law
+0.8991959267846272	you	faultless life of	body
+1.0	you	have something as	even other man
+1.0	you	have something as	man
+1.0	you	have	faultless life
+1.0	you	have something as	other man
+1.0	you	enjoy	thing of earth
+1.0	you	have	something
+1.0	you	have	life of body
+1.0	you	have something within	you
+0.8991959267846272	you	life of	body
+1.0	you	have	something more
+1.0	you	have	faultless life of body
+1.0	you	have something as	even man
+1.0	you	have	life
+1.0	heart beating	be in	you breast
+1.0	it	feel	thrill
+1.0	it	be saturate with	its ease
+1.0	it	be saturate with	its own ease
+1.0	it	be	good
+1.0	it	be	saturate
+1.0	heart	be	border-land
+1.0	heart	be border-land between	body
+1.0	heart	be wellspring of	lore
+1.0	heart	be	wellspring
+1.0	I	shall tell	you
+1.0	I	be	gray
+1.0	small leaf	still fold in	bud
+1.0	small leaf	grow	closely fold
+1.0	leaf	still fold in	bud
+1.0	leaf	grow	larger
+1.0	small leaf	closely fold in	bud
+1.0	leaf	closely fold in	bud
+1.0	small leaf	grow	fold
+1.0	leaf	grow	closely fold
+1.0	leaf	grow	still fold
+1.0	small leaf	grow	still fold
+1.0	small leaf	still closely fold in	bud
+1.0	they	burst into	bloom
+1.0	leaf	grow	fold
+1.0	leaf	still closely fold in	bud
+1.0	small leaf	fold in	bud
+1.0	small leaf	grow	larger
+1.0	leaf	fold in	bud
+1.0	lark	grow beneath	mother 's wing unconscious of cloud-cleaving gift until all at once in fair dawn
+1.0	lark	grow beneath	mother 's wing unconscious until all at once in fair dawn
+1.0	lark	grow beneath	mother 's wing unconscious of gift in fair dawn
+1.0	lark	grow beneath	mother 's wing unconscious of cloud-cleaving gift in dawn
+1.0	lark	grow beneath	mother 's wing unconscious of gift of flight
+1.0	lark	grow beneath	mother 's wing unconscious of cloud-cleaving gift until all in fair dawn
+1.0	lark	grow beneath	mother 's wing unconscious of gift in dawn
+1.0	lark	grow beneath	mother 's wing until all in fair dawn
+1.0	lark	grow beneath	mother 's wing unconscious of gift of flight until all at once
+1.0	lark	grow beneath	mother 's wing unconscious of cloud-cleaving gift of flight until all in dawn
+1.0	lark	grow beneath	mother 's wing unconscious of gift of flight in fair dawn
+1.0	lark	grow beneath	mother 's wing unconscious of gift of flight until all
+1.0	lark	grow beneath	mother 's wing unconscious of gift of flight until all at once in dawn
+1.0	lark	grow beneath	mother 's wing unconscious of cloud-cleaving gift of flight in fair dawn
+1.0	mother 's wing unconscious	be in	fair dawn
+1.0	lark	grow beneath	mother 's wing unconscious of gift of flight in dawn
+1.0	lark	grow beneath	mother 's wing unconscious of cloud-cleaving gift
+1.0	lark	grow beneath	mother 's wing unconscious of gift until all in dawn
+1.0	lark	grow beneath	mother 's wing unconscious of cloud-cleaving gift of flight until all
+1.0	lark	grow beneath	mother 's wing
+1.0	lark	grow beneath	mother 's wing unconscious of gift until all in fair dawn
+1.0	lark	grow beneath	mother 's wing unconscious until all in fair dawn
+1.0	lark	grow beneath	mother 's wing unconscious until all in dawn
+1.0	lark	grow beneath	mother 's wing unconscious of gift of flight until all in fair dawn
+1.0	lark	grow beneath	mother 's wing unconscious of cloud-cleaving gift of flight
+1.0	lark	grow beneath	mother 's wing unconscious of cloud-cleaving gift of flight until all at once
+1.0	lark	grow beneath	mother 's wing unconscious of cloud-cleaving gift until all in dawn
+1.0	lark	grow beneath	mother 's wing unconscious
+1.0	lark	grow beneath	mother 's wing until all
+1.0	lark	grow beneath	mother 's wing unconscious of gift until all at once in fair dawn
+1.0	lark	grow beneath	mother 's wing in fair dawn
+1.0	lark	grow beneath	mother 's wing unconscious until all
+1.0	lark	grow beneath	mother 's wing in dawn
+1.0	lark	grow beneath	mother 's wing unconscious of cloud-cleaving gift until all at once
+1.0	lark	grow beneath	mother 's wing unconscious of gift of flight until all in dawn
+1.0	lark	grow beneath	mother 's wing until all at once
+1.0	lark	grow beneath	mother 's wing unconscious of cloud-cleaving gift of flight in dawn
+1.0	lark	grow beneath	mother 's wing unconscious of cloud-cleaving gift in fair dawn
+1.0	lark	grow beneath	mother 's wing unconscious of gift
+1.0	lark	grow beneath	mother 's wing until all at once in dawn
+1.0	there well	be in	he tiny breast
+1.0	lark	grow beneath	mother 's wing unconscious until all at once
+1.0	lark	grow beneath	mother 's wing unconscious of cloud-cleaving gift until all
+1.0	lark	grow beneath	mother 's wing unconscious of gift of flight until all at once in fair dawn
+1.0	lark	grow beneath	mother 's wing unconscious of cloud-cleaving gift of flight until all at once in dawn
+1.0	lark	grow beneath	mother 's wing unconscious in dawn
+1.0	lark	grow beneath	mother 's wing unconscious of cloud-cleaving gift of flight until all in fair dawn
+1.0	mother	beneath	wing now unconscious of cloud-cleaving gift of flight until all at once in fair dawn
+1.0	lark	grow beneath	mother 's wing unconscious of cloud-cleaving gift of flight until all at once in fair dawn
+1.0	little lark	be in	nest among grass
+1.0	lark	grow beneath	mother 's wing until all at once in fair dawn
+1.0	lark	grow beneath	mother 's wing unconscious of gift until all at once in dawn
+1.0	lark	grow beneath	mother 's wing unconscious of cloud-cleaving gift until all at once in dawn
+1.0	lark	grow beneath	mother 's wing unconscious until all at once in dawn
+1.0	lark	grow beneath	mother 's wing until all in dawn
+1.0	lark	grow beneath	mother 's wing unconscious of gift until all
+1.0	lark	grow beneath	mother 's wing unconscious of gift until all at once
+1.0	lark	grow beneath	mother 's wing unconscious in fair dawn
+1.0	sleep	be	it last
+1.0	quiet sleep	be	it last
+1.0	first wing-stroke	forget to	glorious life-long hymn of praise
+1.0	first wing-stroke	forget as	first glad trill of voice roll
+1.0	first wing-stroke	forget as	glad trill of voice roll
+1.0	wing-stroke	forget to	hymn of praise
+1.0	first wing-stroke	forget as	trill of new-found voice roll out prelude
+1.0	wing-stroke	forget as	trill of new-found voice roll
+1.0	wing-stroke	forget as	trill of voice roll out prelude
+1.0	wing-stroke	forget to	hymn
+1.0	wing-stroke	forget as	first trill of new-found voice roll out prelude
+1.0	first wing-stroke	forget to	hymn
+1.0	wing-stroke	forget as	first glad trill of new-found voice roll
+1.0	first wing-stroke	forget as	first glad trill of new-found voice roll
+1.0	first wing-stroke	forget as	glad trill of voice roll out prelude
+1.0	first wing-stroke	forget as	glad trill of new-found voice roll
+1.0	wing-stroke	forget as	first trill
+1.0	wing-stroke	forget as	glad trill of voice roll out prelude
+1.0	first wing-stroke	forget to	life-long hymn of praise
+1.0	first wing-stroke	forget as	first trill of voice roll out prelude
+1.0	wing-stroke	forget as	glad trill
+1.0	wing-stroke	forget as	first glad trill
+1.0	first wing-stroke	forget as	trill
+1.0	wing-stroke	forget as	first glad trill of new-found voice roll out prelude
+1.0	wing-stroke	forget to	glorious hymn of praise
+1.0	first wing-stroke	forget as	glad trill of new-found voice roll out prelude
+1.0	wing-stroke	forget to	glorious life-long hymn of praise
+1.0	wing-stroke	forget as	first trill of voice roll out prelude
+1.0	first wing-stroke	forget to	glorious hymn of praise
+1.0	first wing-stroke	forget to	hymn of praise
+1.0	first wing-stroke	forget as	first glad trill of voice roll out prelude
+1.0	first wing-stroke	forget to	life-long hymn
+1.0	wing-stroke	forget as	first trill of new-found voice roll
+1.0	wing-stroke	forget as	trill of new-found voice roll out prelude
+1.0	wing-stroke	forget as	trill of voice roll
+1.0	first wing-stroke	forget as	first trill of new-found voice roll out prelude
+1.0	wing-stroke	forget to	glorious hymn
+1.0	wing-stroke	forget to	life-long hymn
+1.0	wing-stroke	forget to	life-long hymn of praise
+1.0	first wing-stroke	forget as	glad trill
+1.0	first wing-stroke	forget to	glorious life-long hymn
+1.0	wing-stroke	forget as	first trill of voice roll
+1.0	first wing-stroke	forget as	trill of new-found voice roll
+1.0	first wing-stroke	forget as	first glad trill of new-found voice roll out prelude
+1.0	wing-stroke	forget to	glorious life-long hymn
+1.0	wing-stroke	forget as	glad trill of new-found voice roll out prelude
+1.0	first wing-stroke	forget as	trill of voice roll
+1.0	first wing-stroke	forget to	glorious hymn
+1.0	first wing-stroke	forget as	trill of voice roll out prelude
+1.0	first wing-stroke	forget as	first trill of new-found voice roll
+1.0	wing-stroke	forget as	first glad trill of voice roll out prelude
+1.0	wing-stroke	waft body upward to	sky
+1.0	first wing-stroke	forget as	first trill of voice roll
+1.0	wing-stroke	forget as	first glad trill of voice roll
+1.0	wing-stroke	waft	body upward
+1.0	wing-stroke	forget as	trill
+1.0	wing-stroke	forget as	glad trill of voice roll
+1.0	first wing-stroke	forget as	first glad trill
+1.0	first wing-stroke	forget as	first trill
+1.0	wing-stroke	forget as	glad trill of new-found voice roll
+1.0	it	first feel	magic of life
+0.7320272892856369	it	magic of	other life
+1.0	heart	give	leap
+1.0	it	first feel	magic of other life
+1.0	heart	give leap from	earth
+1.0	it	first feel	magic
+0.7320272892856369	it	magic of	life
+1.0	it	feel	magic of other life
+1.0	heart	give leap to	sky
+1.0	it	feel	magic of life
+1.0	heart	give	great leap
+1.0	you	heart	dear friend
+1.0	it	feel	magic
+1.0	grosser scale	fall on	day
+1.0	grosser scale	fall from	you inner sight
+1.0	grosser scale	fall from	you sight
+1.0	future half-tinged you joy	be with	shadow of sadness
+1.0	world	open out in	vista of untold bliss
+1.0	world	open out in	endless vista of untold bliss
+1.0	world	open out in	endless vista
+1.0	new world	open out in	endless vista of untold bliss
+1.0	new world	open out in	endless vista of bliss
+1.0	new world	open out before	you
+1.0	new world	open out in	vista
+1.0	new world	open out in	vista of bliss
+1.0	new world	open out in	endless vista
+1.0	world	open out in	vista of bliss
+1.0	world	open out in	vista
+1.0	new world	open out in	vista of untold bliss
+1.0	world	open out before	you
+1.0	world	open out in	endless vista of bliss
+1.0	you	be	how contented through so many year
+1.0	you	be contented through	so many year
+1.0	you	look	so careless
+1.0	you	be	how even contented through many year
+1.0	you	be even contented through	year
+1.0	you	look	careless
+1.0	you	look at	you former self
+1.0	you	be even contented through	so many year
+1.0	you	be	how even contented through so many year
+1.0	you	be even contented through	many year
+1.0	you	be	how contented through many year
+1.0	you	be contented through	many year
+1.0	you	be	how contented through year
+1.0	you	be contented through	year
+1.0	you	be	how even contented through year
+1.0	good deed	lose	colour
+1.0	deed	lose	perspective
+1.0	good deed	lose	perspective
+1.0	ineffable vision	stand forth in	glory
+1.0	deed	fall into	background
+1.0	ineffable vision	stand in	glory
+1.0	vision	stand in	transcendent glory
+1.0	vision	stand in	glory
+1.0	deed	lose	colour
+1.0	vision	stand forth in	transcendent glory
+1.0	vision	stand forth in	glory
+1.0	ineffable vision	stand in	transcendent glory
+1.0	ineffable vision	stand forth in	transcendent glory
+1.0	good deed	fall into	background
+1.0	element	beckon on	you
+1.0	womanly element	beckon on	you
+1.0	it	do	Doctor Faustus of old
+1.0	eternal element	beckon on	you
+1.0	eternal womanly element	beckon on	you
+1.0	it	do	Doctor Faustus
+1.0	you	ignore	womanhood
+1.0	you	have accept	woman
+1.0	you	have hitherto accept	woman
+1.0	you	do	great deed
+1.0	you	fill with	life
+1.0	you	fill with	new life
+1.0	you	do deed for	she
+1.0	you	go on	you way
+1.0	you	do	deed
+1.0	you	sacrifice	anything
+1.0	you	be	ready
+1.0	you	sacrifice	everything
+1.0	you	sacrifice anything for	she praise
+1.0	you	be	willing
+1.0	you	blush of	pleasure
+1.0	you	sacrifice everything for	she praise
+1.0	you	run	risk for smile
+1.0	you lip	first touch hers down	there
+1.0	you lip	touch hers down	there among mango-tree
+1.0	you lip	first touch hers down	there among mango-tree in Terai
+1.0	you lip	first touch	you arm
+1.0	you lip	first touch	hers
+1.0	you lip	touch	hers
+1.0	you	side	joy
+1.0	you lip	first touch hers down	there among mango-tree
+1.0	you lip	touch hers down	there
+1.0	you lip	touch	you arm
+1.0	you lip	touch hers down	there among mango-tree in Terai
+1.0	mango-tree	be in	Terai
+1.0	Isaacs	clutch with	he white finger
+1.0	ashy	be	he face
+1.0	Isaacs	clutch with	he finger
+1.0	dead	be	he face
+1.0	Isaacs	clutch among	he bright black hair
+1.0	Isaacs	hide	he face
+1.0	Isaacs	clutch among	he bright hair
+1.0	Isaacs	clutch among	he black hair
+1.0	Isaacs	clutch among	he hair
+1.0	he	remain	old man continue
+1.0	he	remain thus	old man continue
+1.0	he	remain	man continue
+1.0	he	remain thus	man continue
+1.0	you	know in	short day of perfect love
+1.0	you	know in	day of perfect love
+1.0	you	know in	short day of perfect love on earth
+1.0	all	be	good
+1.0	you	know in	day of love on earth
+1.0	you	know in	short day of love on earth
+1.0	you	know in	day of love
+1.0	you	know in	day of perfect love on earth
+1.0	you	know in	day
+1.0	you	know in	short day of love
+1.0	you	know in	short day
+1.0	one	be	go before
+1.0	one	be	go
+1.0	love	must close in	bitter grief
+1.0	true love	always must close in	grief
+1.0	love	must close	go before
+1.0	true love	must close on	earth
+1.0	true love	always must close in	bitter grief
+1.0	love	always must close in	bitter grief
+1.0	love	must close	go
+1.0	true love	always must close on	earth
+1.0	love	always must close	go before
+1.0	love	always must close in	grief
+1.0	love	always must close on	earth
+1.0	true love	must close	go before
+1.0	true love	must close in	grief
+1.0	love	must close on	earth
+1.0	true love	must close in	bitter grief
+1.0	true love	always must close	go before
+1.0	true love	must close	go
+1.0	true love	always must close	go
+1.0	love	must close in	grief
+1.0	love	always must close	go
+1.0	body	have have	they full cup
+1.0	heart	have have	they full cup of happiness
+1.0	body	have have	they cup
+1.0	heart	have have	they full cup
+1.0	body	have have	they cup of happiness
+1.0	heart	have have	they cup of happiness
+1.0	heart	have have	they cup
+1.0	body	have have	they full cup of happiness
+1.0	you	have enjoy wealth to	full
+1.0	you	have enjoy	wealth
+1.0	you	have enjoy wealth to	full
+1.0	I	have tell	you
+1.0	it	be	ethereal portion
+1.0	it	be	portion
+1.0	it	be ethereal portion of	heart
+1.0	it	be portion of	heart
+1.0	you	be older	year
+1.0	you	be older	many year
+1.0	you	now have pass	critical border-land
+1.0	you	now have pass	border-land
+1.0	you	have pass	border-land
+1.0	you	have pass	critical border-land
+0.9592443656319215	yours	range of	firmament
+1.0	yours henceforward	shall	shall perfect union of soul
+1.0	Yours	be	faith
+0.9592443656319215	yours	ethereal range of	firmament
+1.0	yours henceforward	shall	shall union of soul
+0.9592443656319215	yours	range of	outer firmament
+1.0	yours henceforward	shall	shall perfect union
+0.9592443656319215	yours	ethereal range of	outer firmament
+1.0	yours henceforward	shall	shall union
+1.0	spirit	once more elect to	yours
+1.0	my hand	seek	path to height to pinnacle
+1.0	my	hand	brother
+1.0	spirit	more elect to	yours
+1.0	spirit	elect to	yours
+1.0	my hand	seek	path to height
+1.0	my hand	seek	path to height to pinnacle of paradise
+1.0	my hand	seek	path to pinnacle of paradise
+1.0	my hand	seek	path to pinnacle
+1.0	my hand	seek path with	I
+1.0	my hand	seek	path
+1.0	Ram Lal	lay	he hand
+1.0	Ram Lal	stand beside	Isaacs
+1.0	face	be	still hide
+1.0	face	be	hide
+1.0	he	touch	thick black hair
+1.0	he	touch	thick hair
+1.0	he	touch	hair
+1.0	morning sun	be shed more	beauty
+1.0	he	touch	black hair
+1.0	morning sun	be shed once more	beauty
+1.0	morning sun	be shed	warmth
+1.0	he eye	look out through	door
+1.0	he eye	look out at	landscape
+1.0	morning sun	be shed more	warmth
+1.0	man	raise	he eye
+1.0	he eye	look out at	brighten landscape
+1.0	morning sun	be shed once more	warmth
+1.0	old man	raise	he eye
+1.0	morning sun	be shed	beauty
+1.0	Brother	come with	I
+1.0	Brother	come forth with	I
+1.0	you	have suffer	too much
+1.0	you	mix with	world
+1.0	you	mix again with	world
+1.0	you	even wish	it
+1.0	you	wish	it
+1.0	you	have suffer	much
+1.0	you soul	shall live for	ever
+1.0	sink heart	be	shall lift
+1.0	you grief	shall	shall turn
+1.0	heart	be	shall lift
+1.0	sink heart	be	shall lift to height
+1.0	heart	be	shall lift to height
+1.0	sink heart	be	shall lift to height untried
+1.0	you grief	shall	shall turn to joy
+1.0	heart	be	shall lift to height untried
+1.0	million-fold	fulfil	she half
+1.0	all-muffling heaviness	be	forget
+1.0	sun	steadily rise in	he unerring course
+1.0	million-fold	fulfil	she half speak
+1.0	sun	steadily rise as	now
+1.0	sun	rise in	he course
+1.0	sun	rise in	he unerring course
+1.0	sun	rise as	now
+1.0	sun	steadily rise in	he course
+1.0	heaviness	be forget as	now
+1.0	all-muffling heaviness	be forget as	now
+1.0	heaviness	be	forget
+1.0	I	come	bid
+0.8667675222160951	few flower	cull from	abundant thorn
+0.8667675222160951	few flower	cull from	life abundant thorn
+1.0	treasure	be in	secret storehouse of soul
+1.0	you	shall reap harvest in	few year
+1.0	labour	be	shall sweet
+1.0	you	shall reap harvest in	few quick year
+0.7875635089411617	you	harvest of	bloom
+1.0	you	shall reap harvest in	quick year
+1.0	you	shall reap	harvest of unearthly bloom
+1.0	you	shall reap	harvest of bloom
+1.0	you	shall reap	harvest
+0.7875635089411617	you	harvest of	unearthly bloom
+1.0	you	shall reap harvest in	year
+1.0	you	can care again for	gold
+1.0	you	can ever care for	gold
+1.0	you	can ever care again for	gold
+1.0	you	can care for	gold
+1.0	money-bag	weight of be	weariness
+1.0	weight	be weariness to	foot
+1.0	weight	be	weariness
+1.0	money-bag	weight of be	weariness to foot
+1.0	flesh	be weariness to	spirit
+1.0	it	wing	its flight untrammelled
+1.0	flesh	leave	it
+1.0	flesh	soon leave	it
+1.0	flesh	be	weariness
+1.0	it	wing	untiring
+1.0	I	will give	you
+1.0	it	be	true
+0.4836203535076646	it	be for	for she
+0.4836203535076646	it	be	life eternal
+1.0	it	be	true tenfold now
+1.0	you life	be with	she
+1.0	you	say	it
+1.0	it	be	true now
+0.633593924617174	you	say	she live
+0.4836203535076646	it	be	eternal
+1.0	it	be	true tenfold
+1.0	Isaacs	gaze long on	man
+1.0	Isaacs	slowly raise	he head
+1.0	Isaacs	gaze long on	old man
+1.0	Isaacs	gaze on	man
+1.0	Isaacs	raise	he head
+1.0	Isaacs	gaze on	old man
+1.0	he face	be	transparent
+1.0	he	come again as	flash in sky
+1.0	he	come as	flash in northern sky
+1.0	he	come as	flash
+1.0	he pale face	be	transparent
+1.0	he	come again as	flash in northern sky
+1.0	he	come again as	flash
+1.0	it	be	transparent
+1.0	flash	be in	northern sky
+1.0	he	come as	flash in sky
+1.0	he	rise to	he foot
+1.0	Buddhist	speak at	last
+1.0	he	lay	he hand
+1.0	he	slowly rise to	he foot
+1.0	I	be	gladly thy guide
+1.0	I	be	right gladly thy guide
+1.0	Ram Lal	give	answer
+1.0	I	be	thy guide
+1.0	thy	guide	Abdul
+1.0	I	willingly will go	thee whither thou wouldest
+1.0	I	will go	thee thou wouldest
+1.0	I	willingly will go	thee thou wouldest
+1.0	I	right willingly will go	thee whither thou wouldest
+1.0	thee	wouldest	thou
+1.0	I	willingly will go	thee wouldest
+1.0	I	right willingly will go	thee thou wouldest
+1.0	I	will go	thee wouldest
+1.0	thee	wouldest	whither thou
+1.0	I	will go	thee whither thou wouldest
+1.0	I	right willingly will go	thee wouldest
+1.0	teacher	be seek by	more worthy pupil
+0.8811252915326818	man	life of	brethren
+0.8811252915326818	man	pure life of	brethren
+1.0	teacher	never be seek by	worthy pupil
+1.0	teacher	be seek by	worthy pupil
+1.0	teacher	never be seek by	more worthy pupil
+1.0	that	lead upward	thee
+1.0	way	shall	shall short
+0.5840513804661704	thee	deep sweet spring of	water
+1.0	deep spring	shall refresh	food of angel
+0.5840513804661704	thee	sweet spring of	water
+1.0	deep spring	shall refresh	thee
+0.5840513804661704	thee	deep spring of	eternal water
+1.0	sweet spring	shall refresh	food
+1.0	spring	shall refresh	thee
+0.9543879759592643	spring	food of	angel
+1.0	sweet spring	shall refresh	food of angel
+0.5840513804661704	thee	spring of	eternal water
+0.5840513804661704	thee	deep spring of	water
+0.5840513804661704	thee	deep sweet spring of	eternal water
+1.0	spring	shall refresh	food of angel
+1.0	spring	shall refresh	food
+0.9937676786182101	thee	food of	angel
+1.0	deep spring	shall refresh	food
+1.0	deep sweet spring	shall refresh	food of angel
+1.0	force	shall lend	thee strength
+1.0	hidden force	shall lend	thee strength
+0.9543879759592643	sweet spring	food of	angel
+0.9543879759592643	deep spring	food of	angel
+1.0	deep sweet spring	shall refresh	thee
+1.0	sweet spring	shall refresh	thee
+0.5840513804661704	thee	spring of	water
+0.5840513804661704	thee	sweet spring of	eternal water
+0.9543879759592643	deep sweet spring	food of	angel
+1.0	deep sweet spring	shall refresh	food
+1.0	thou	crave	rest
+1.0	thou shalt tire	be in	way
+1.0	thou	crave rest by	wayside
+1.0	friend	tell	I
+1.0	she	hear	sound
+1.0	she	look on	sight
+1.0	you	shall perceive with	you body
+1.0	you	shall perceive with	you perishable body
+1.0	you	shall reach	state
+1.0	you	shall reach state	I do
+1.0	you	believe	I
+1.0	my soul	be bind by	bond fine
+1.0	my poor soul	be shake off for	ever
+1.0	my soul	be bind by	bond of pleasure fine as thread of gossamer
+1.0	my soul	be bind by	bond fine indeed as thread
+1.0	my soul	be bind by	bond fine as thread of gossamer
+1.0	my soul	be bind by	bond fine as thread
+1.0	my poor soul	be bind to	earth
+1.0	my soul	be bind by	bond of pleasure fine indeed as thread
+1.0	my soul	be	bind
+1.0	my poor soul	be	bind
+1.0	my soul	be bind by	bond of pleasure fine
+1.0	my soul	be bind by	bond of pleasure
+1.0	my soul	be bind to	earth
+1.0	my soul	soon be shake off for	ever
+1.0	my soul	be bind by	bond fine indeed
+1.0	my soul	be still bind to	earth
+1.0	my soul	be bind by	bond of pleasure fine indeed
+1.0	my soul	be	still bind
+1.0	my poor soul	be	still bind
+1.0	my soul	be shake off for	ever
+1.0	my poor soul	soon be shake off for	ever
+1.0	my soul	be bind by	bond of pleasure fine as thread
+1.0	my soul	be bind by	bond
+1.0	my soul	be bind by	bond of pleasure fine indeed as thread of gossamer
+1.0	my poor soul	be still bind to	earth
+1.0	my soul	be bind by	bond fine indeed as thread of gossamer
+1.0	I	be	yet bind
+1.0	I	be	bind
+1.0	my brother	have	have wrench from life
+1.0	my brother	have	have wrench suddenly to life
+1.0	my brother	have	have wrench from life to life of soul
+1.0	my brother	have	have wrench suddenly from life
+1.0	my brother	have	have wrench from life of body
+1.0	my brother	have	have wrench suddenly
+1.0	my brother	have	have wrench suddenly to life of soul
+1.0	my brother	have	have wrench suddenly from life of body
+1.0	my brother	have	have wrench
+1.0	my brother	have	have wrench from life to life
+1.0	my brother	have	have wrench from life of body to life
+1.0	my brother	have	have wrench to life of soul
+1.0	my brother	have	have wrench to life
+1.0	my brother	have	have wrench suddenly from life to life
+1.0	my brother	have	have wrench suddenly from life to life of soul
+1.0	my brother	have	have wrench suddenly from life of body to life
+1.0	my brother	have	have wrench from life of body to life of soul
+1.0	my brother	have	have wrench suddenly from life of body to life of soul
+1.0	living	for	sake
+1.0	you soul	be	well nigh loose
+1.0	you soul	fear of	death
+1.0	you soul	be	well nigh loose from love
+1.0	you soul	be	nigh loose from love
+1.0	you soul	be	well nigh
+1.0	nigh	loose from	love life
+1.0	nigh	loose from	love
+1.0	you soul	be	nigh
+1.0	you soul	be	well nigh loose from love of life
+1.0	you soul	be	nigh loose
+1.0	you soul	be	nigh loose from love of life
+1.0	you	could lie at	moment
+1.0	you	would meet	you end
+1.0	you	could lie down at	moment
+1.0	you	would meet joyfully	you end
+1.0	she	watch at_time	day
+1.0	she	watch at_time	many day
+1.0	you	be near	bless end
+1.0	you	do faithfully	she bidding
+1.0	you	do	she bidding
+1.0	you	be near	end
+0.8219485328890096	all	be	reach
+1.0	he	look at	he future teacher
+1.0	he	look	full
+1.0	light	be on	brow
+1.0	light	feature	he look
+1.0	light	be on	beautiful brow
+1.0	light	feature	he look at he future teacher
+1.0	they	turn sorrow into	gladness
+1.0	they	turn	sorrow
+1.0	they	move toward	door
+1.0	Ram Lal	speak	he turn
+1.0	Ram Lal	speak	he turn away
+1.0	I	be	so leave
+1.0	I	be	leave alone
+1.0	I	be	leave
+1.0	I	be	so leave alone
+1.0	have mediator	be in	age
+1.0	awaken spirit	be in	its heavenward flight
+0.5754100563056197	they	stand hand in	hand
+0.5754100563056197	they	hand in	hand
+1.0	they	be with	I
+1.0	I	sit at_time	night
+1.0	I	sit in	my room
+1.0	stand hand	be in	hand
+1.0	I	bid	you
+1.0	I	bid	farewell
+1.0	gold	be in	time of uncertainty
+1.0	I	be	here more
+1.0	strength	be in	hour of need
+1.0	I	be	once more
+1.0	I	be	here once more
+1.0	I	be	more
+1.0	you	speed quickly to	end
+1.0	you	speed quickly to	desired end
+1.0	you	attain	that
+1.0	you	speed to	desired end
+1.0	you	speed to	end
+1.0	I	pray	God
+1.0	I	once more offer	my fullest service
+1.0	I	more offer	my fullest service
+1.0	I	offer	my service
+1.0	I	once more offer	my service
+1.0	I	more offer	my service
+1.0	I	offer	you
+1.0	I	once more offer	you
+1.0	I	offer	my fullest service
+1.0	I	more offer	you
+1.0	you	do	it
+1.0	I	know	be
+1.0	you	do gladly and entirely	it
+1.0	you	do gladly	it
+1.0	he	answer	I know
+0.7928400356697111	I	debt of	gratitude
+1.0	I	have bestow	my worldly possession
+1.0	I	have bestow	worldly possession
+1.0	I	have know	you
+1.0	I	have know less well	you
+1.0	you sharer	be in	my forsake wealth
+1.0	you	sharer in	my wealth
+1.0	I	have know well	you
+1.0	you	sharer in	my forsake wealth
+1.0	I	beg of	you
+1.0	gem	keep	it always my sake
+1.0	gem	keep	it my sake
+1.0	have great deal	be in	month
+1.0	one	be	great
+1.0	it	be	all could say
+1.0	I	be	all could say
+1.0	I	be	could say
+1.0	it	be	could say
+1.0	he	bright light shone through	he face in dusk
+1.0	he	light shone through	he face
+1.0	he	light shone through	he face in dusk
+1.0	he	bright shone through	he face
+1.0	he	bright shone through	he face in dusk
+1.0	he	shone through	he face in dusk
+1.0	he	bright light shone through	he face
+1.0	he	shone through	he face
+1.0	he face	be in	dusk
+1.0	Ram Lal	look into	my eye
+1.0	Ram Lal	lay	he hand
+1.0	Ram Lal	look long into	my eye
+1.0	you	have	friend
+1.0	you	have friend in	I
+1.0	day	may come in	when too will dire distress
+1.0	day	may come in	when will distress
+1.0	day	may come in	when will dire distress
+1.0	you	will in	too will distress
+1.0	day	may come beyond	skill of mere solitude soothe
+1.0	you	will in	will dire distress
+1.0	you	will in	when will distress
+1.0	day	may come in	will dire distress
+1.0	you	will in	will distress
+1.0	day	may come in	will distress
+1.0	day	may come in	too will dire distress
+1.0	you	will in	when too will distress
+1.0	day	may come in	when too will distress
+1.0	you	will in	too will dire distress
+1.0	you	will in	when too will dire distress
+1.0	day	may come in	too will distress
+1.0	day	may come beyond	skill soothe
+1.0	you	will in	when will dire distress
+1.0	day	may come beyond	skill of solitude soothe
+1.0	good thing	may be with	you
+0.7251473945763146	I	wondrous lustre of	he eye
+1.0	I	more meet	lustre of he eye
+1.0	I	meet	wondrous lustre
+1.0	I	more meet	lustre
+1.0	I	more meet	wondrous lustre of he eye
+1.0	I	meet	lustre
+1.0	I	once more meet	wondrous lustre
+1.0	I	meet	lustre of he eye
+1.0	I	meet	wondrous lustre of he eye
+1.0	I	once more meet	lustre of he eye
+1.0	I	more meet	wondrous lustre
+1.0	I	once more meet	wondrous lustre of he eye
+0.7251473945763146	I	lustre of	he eye
+1.0	Isaacs	lay	he two hand
+1.0	I	once more meet	lustre
+1.0	you	genius of	my love
+1.0	you	have	have instructor
+1.0	you	can teach well	other
+1.0	you	can teach	other
+1.0	you	can teach so well	other
+1.0	you	make	I
+1.0	hand	be in	hand
+0.8038984334729582	two	hand in	hand
