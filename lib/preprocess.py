@@ -13,6 +13,7 @@ nlp = spacy.load('en_core_web_sm')
 import nltk
 from nltk.tokenize import word_tokenize
 from nltk.probability import FreqDist
+from nltk.corpus import stopwords
 
 #demo use for allenlp
 from allennlp.predictors.predictor import Predictor
@@ -268,10 +269,12 @@ def term_freq(storypath):
 
     #remove newlines
     new = doc.replace('\n', ' ')
+    stop_words = set(stopwords.words('english'))
 
     tokens = word_tokenize(new)
+    tokens_new = [w for w in tokens if w.lower() not in stop_words]
 
-    fdist = FreqDist(word for word in tokens)
+    fdist = FreqDist(word for word in tokens_new)
 
     total = fdist.N()
 
@@ -279,3 +282,4 @@ def term_freq(storypath):
         fdist[word]/=float(total)
 
     return fdist
+
