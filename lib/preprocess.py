@@ -10,6 +10,10 @@ import torch
 import spacy
 nlp = spacy.load('en_core_web_sm')
 
+import nltk
+from nltk.tokenize import word_tokenize
+from nltk.probability import FreqDist
+
 #demo use for allenlp
 from allennlp.predictors.predictor import Predictor
 import allennlp_models.tagging
@@ -251,3 +255,27 @@ def triple(storypath):
                 storytp.append(subj)
     
     return storytp
+
+def term_freq(storypath):
+    '''
+    input: path to story
+    output: dictionary of terms and term freq.
+    '''
+
+    f = open(storypath, 'r', encoding='ISO-8859-1')
+    doc = f.read()
+    f.close()
+
+    #remove newlines
+    new = doc.replace('\n', ' ')
+
+    tokens = word_tokenize(new)
+
+    fdist = FreqDist(word for word in tokens)
+
+    total = fdist.N()
+
+    for word in fdist:
+        fdist[word]/=float(total)
+
+    return fdist
