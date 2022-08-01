@@ -17,3 +17,4 @@ sklearn
 allennlp-models
 bsuite
 cached-path = 1.1.2 #note the 1.1.3 version will cause issues with allennlp
+yake
