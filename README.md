@@ -1,2 +1,2 @@
 # Char_Ext
-Python implementation of A Straightforward Approach to Character Extraction (Jahan et. al) with additional Features
+Code for UCL Character Extraction Dissertation done in Conjuction with DeepZen
