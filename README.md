@@ -1,5 +1,6 @@
 # Char_Ext
 Code for UCL Character Extraction Dissertation done in Conjuction with DeepZen
+All outputs can be found in the character_extraction jupyter notebook.
 
 
 ## Citation
